@@ -1,0 +1,42 @@
+
+
+Whistleblowing: U.S. Supplement (SOX § 806)
+Lokale Ergänzung zur Richtlinie
+Document no.
+DMS-00000597
+Version
+1.0
+Valid from
+2025-02-11
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Internal
+Purpose and scope
+This policy sets binding rules on “Compliance” for Marenthal Chemicals Inc.. It applies to all employees,
+managers and, where contractually agreed, to business partners. Violations may have consequences
+under employment and criminal law.
+Obligations and responsibilities
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Richtlinienergänzung
+land: US
+titel: Whistleblowing: U.S. Supplement (SOX § 806)
+inhalt_kurz: Ergänzt die Konzernrichtlinie „Richtlinie Hinweisgebersystem“ (Fassung 2.0) um die
+Anforderungen für die USA: SOX § 806; regelt lokale Zuständigkeiten und Meldewege.
+basiert_auf_version: 2.0
+gueltig_ab: 2025-02-11
+status: gültig
+freigabe_datum: 2025-02-11
+Richtlinie
+nummer: KR-007
+titel: Richtlinie Hinweisgebersystem
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-04-08
+master_sprache: de
+vertraulichkeit: öffentlich

@@ -1,0 +1,29 @@
+
+
+Zugelassener Ausführer – DEAE-2019-0381
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000161
+Version
+1.0
+Gültig ab
+2022-06-10
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Zugelassener Ausführer
+nummer: DEAE-2019-0381
+behoerde: Hauptzollamt Frankfurt am Main
+erteilt_am: 2022-06-10
+gueltig_bis: 2027-06-10
+status: gültig
+auflagen: Meldung von Veränderungen an die Behörde; Nachweis der Sicherheitsstandards.

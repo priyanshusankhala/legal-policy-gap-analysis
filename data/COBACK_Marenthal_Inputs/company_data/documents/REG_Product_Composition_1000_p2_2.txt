@@ -1,0 +1,128 @@
+# Register of product composition (substances per product) - Marenthal Chemie AG (part 2 of 3)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For every product or raw material: its substances with CAS number, typical share, function, hazard statements, SVHC flag and REACH status, plus UN number, hazard class and customs code of the product.
+
+| Product | Material no. | UN no. | Hazard class | HS code | Substance | CAS | Typical share | Function | H statements | SVHC | REACH status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenclear 406 dechlorinating agent | 12000009 | - | - | 38249996 | Water (demineralised) | 7732-18-5 | 77.7 % | Trägermedium | - | 0 | ausgenommen |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.07 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Calcium carbonate | 471-34-1 | 22.4 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Hydroxyethyl cellulose | 9004-62-0 | 0.22 % | Verdicker | - | 0 | ausgenommen |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.39 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Propylene glycol | 57-55-6 | 1.3 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 28.2 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Talc | 14807-96-6 | 4.4 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 13.8 % | Pigment | - | 0 | registriert |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 28.25 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat AF 309 acrylic facade paint | 12000020 | - | - | 32091000 | Zinc oxide | 1314-13-2 | 0.97 % | Pigment | H410 | 0 | Lieferant |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.06 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Calcium carbonate | 471-34-1 | 18.3 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Hydroxyethyl cellulose | 9004-62-0 | 0.43 % | Verdicker | - | 0 | ausgenommen |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.44 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Propylene glycol | 57-55-6 | 0.99 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 22.8 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Talc | 14807-96-6 | 5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 17.6 % | Pigment | - | 0 | registriert |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 33.38 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat AF 333 acrylic facade paint | 12000021 | - | - | 32091000 | Zinc oxide | 1314-13-2 | 1 % | Pigment | H410 | 0 | Lieferant |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.04 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Calcium carbonate | 471-34-1 | 18.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Hydroxyethyl cellulose | 9004-62-0 | 0.31 % | Verdicker | - | 0 | ausgenommen |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.36 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Propylene glycol | 57-55-6 | 1.1 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 24.7 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Talc | 14807-96-6 | 2.1 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 19.7 % | Pigment | - | 0 | registriert |
+| Marencoat AI 436 interior emulsion paint | 12000022 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 33.19 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat AL 603 alkyd enamel | 11000024 | UN1263 | 3 | 32089019 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 44.6 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marencoat AL 603 alkyd enamel | 11000024 | UN1263 | 3 | 32089019 | Linseed oil | 8001-26-1 | 27.4 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat AL 603 alkyd enamel | 11000024 | UN1263 | 3 | 32089019 | Rosin (colophony) | 8050-09-7 | 6 % | Harz | H317 | 0 | Lieferant |
+| Marencoat AL 603 alkyd enamel | 11000024 | UN1263 | 3 | 32089019 | Talc | 14807-96-6 | 4.7 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AL 603 alkyd enamel | 11000024 | UN1263 | 3 | 32089019 | Titanium dioxide | 13463-67-7 | 17.3 % | Pigment | - | 0 | registriert |
+| Marencoat AL 634 alkyd enamel | 12000024 | UN1263 | 3 | 32089019 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 42.3 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marencoat AL 634 alkyd enamel | 12000024 | UN1263 | 3 | 32089019 | Linseed oil | 8001-26-1 | 27 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat AL 634 alkyd enamel | 12000024 | UN1263 | 3 | 32089019 | Rosin (colophony) | 8050-09-7 | 4.3 % | Harz | H317 | 0 | Lieferant |
+| Marencoat AL 634 alkyd enamel | 12000024 | UN1263 | 3 | 32089019 | Talc | 14807-96-6 | 5.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AL 634 alkyd enamel | 12000024 | UN1263 | 3 | 32089019 | Titanium dioxide | 13463-67-7 | 20.9 % | Pigment | - | 0 | registriert |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.08 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Aluminium hydroxide | 21645-51-2 | 12.4 % | Flammschutzfüllstoff | - | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Barium sulfate | 7727-43-7 | 6.1 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.36 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Propylene glycol | 57-55-6 | 1.3 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 35.5 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 13.4 % | Pigment | - | 0 | registriert |
+| Marencoat DB 1303 roof coating | 11000030 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 30.86 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Aluminium hydroxide | 21645-51-2 | 10.8 % | Flammschutzfüllstoff | - | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Barium sulfate | 7727-43-7 | 7.4 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.36 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Propylene glycol | 57-55-6 | 0.89 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 35 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 12.4 % | Pigment | - | 0 | registriert |
+| Marencoat DB 1333 roof coating | 12000027 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 33.12 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | UN1263 | 3 | 32089091 | Bisphenol-A epoxy resin | 25068-38-6 | 66 % | Bindemittel | H315 H317 H319 H411 | 0 | Lieferant |
+| Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | UN1263 | 3 | 32089091 | Butyl acetate | 123-86-4 | 13.9 % | Lösemittel | H226 H336 | 0 | Lieferant |
+| Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | UN1263 | 3 | 32089091 | Methoxypropyl acetate | 108-65-6 | 5.5 % | Lösemittel | H226 | 0 | Lieferant |
+| Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | UN1263 | 3 | 32089091 | Polydimethylsiloxane | 63148-62-9 | 0.22 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | UN1263 | 3 | 32089091 | Xylene (isomer mixture) | 1330-20-7 | 14.38 % | Lösemittel | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | Barium sulfate | 7727-43-7 | 9.3 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | Bisphenol-A epoxy resin | 25068-38-6 | 47.6 % | Bindemittel | H315 H317 H319 H411 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | Talc | 14807-96-6 | 10.8 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | Titanium dioxide | 13463-67-7 | 7 % | Pigment | - | 0 | registriert |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | Xylene (isomer mixture) | 1330-20-7 | 11.4 % | Lösemittel | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | Zinc phosphate | 7779-90-0 | 6.6 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | UN1263 | 3 | 32089091 | n-Butanol | 71-36-3 | 7.3 % | Lösemittel | H226 H302 H315 H318 H335 H336 | 0 | Lieferant |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | Barium sulfate | 7727-43-7 | 12.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | Bisphenol-A epoxy resin | 25068-38-6 | 48.2 % | Bindemittel | H315 H317 H319 H411 | 0 | Lieferant |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | Talc | 14807-96-6 | 16.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | Titanium dioxide | 13463-67-7 | 4.3 % | Pigment | - | 0 | registriert |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | Xylene (isomer mixture) | 1330-20-7 | 7.1 % | Lösemittel | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | Zinc phosphate | 7779-90-0 | 7.1 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat EP 839 2K epoxy primer (component A) | 11000026 | UN3082 | 9 | 32089091 | n-Butanol | 71-36-3 | 4.3 % | Lösemittel | H226 H302 H315 H318 H335 H336 | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.07 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | 2-Butoxyethanol | 111-76-2 | 3.3 % | Filmbildehilfsmittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | Paraffin wax | 8002-74-2 | 0.95 % | Wachs | - | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.29 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 42.7 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 9.1 % | Pigment | - | 0 | registriert |
+| Marencoat HL 509 water-based wood coating | 12000023 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 43.59 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | 2-Butoxyethanol | 111-76-2 | 3.1 % | Filmbildehilfsmittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | Paraffin wax | 8002-74-2 | 1.5 % | Wachs | - | 0 | Lieferant |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | Polydimethylsiloxane | 63148-62-9 | 0.29 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 38.3 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | Titanium dioxide | 13463-67-7 | 5.1 % | Pigment | - | 0 | registriert |
+| Marencoat HL 533 water-based wood coating | 11000023 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 51.68 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat PH 1102 epoxy hardener (component B) | 11000028 | UN2735 | 8 | 38249996 | Benzyl alcohol | 100-51-6 | 16 % | Lösemittel | H302 H319 H332 | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | 11000028 | UN2735 | 8 | 38249996 | Diethylenetriamine | 111-40-0 | 29 % | Härter | H302 H311 H314 H317 H412 | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | 11000028 | UN2735 | 8 | 38249996 | Kaolin | 1332-58-7 | 40.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | 11000028 | UN2735 | 8 | 38249996 | Talc | 14807-96-6 | 7.8 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | 11000028 | UN2735 | 8 | 38249996 | Triethanolamine | 102-71-6 | 6.7 % | Beschleuniger | - | 0 | registriert |
+| Marencoat RS 703 anticorrosive primer | 11000025 | UN1263 | 3 | 32089091 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 46 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marencoat RS 703 anticorrosive primer | 11000025 | UN1263 | 3 | 32089091 | Iron(III) oxide | 1309-37-1 | 18.1 % | Pigment | - | 0 | Lieferant |
+| Marencoat RS 703 anticorrosive primer | 11000025 | UN1263 | 3 | 32089091 | Linseed oil | 8001-26-1 | 15.8 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat RS 703 anticorrosive primer | 11000025 | UN1263 | 3 | 32089091 | Rosin (colophony) | 8050-09-7 | 3.5 % | Harz | H317 | 0 | Lieferant |
+| Marencoat RS 703 anticorrosive primer | 11000025 | UN1263 | 3 | 32089091 | Talc | 14807-96-6 | 7.1 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat RS 703 anticorrosive primer | 11000025 | UN1263 | 3 | 32089091 | Zinc phosphate | 7779-90-0 | 9.5 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | 12000025 | UN1263 | 3 | 32089091 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 45 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marencoat RS 730 anticorrosive primer | 12000025 | UN1263 | 3 | 32089091 | Iron(III) oxide | 1309-37-1 | 15.9 % | Pigment | - | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | 12000025 | UN1263 | 3 | 32089091 | Linseed oil | 8001-26-1 | 17.9 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat RS 730 anticorrosive primer | 12000025 | UN1263 | 3 | 32089091 | Rosin (colophony) | 8050-09-7 | 3.7 % | Harz | H317 | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | 12000025 | UN1263 | 3 | 32089091 | Talc | 14807-96-6 | 6.8 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | 12000025 | UN1263 | 3 | 32089091 | Zinc phosphate | 7779-90-0 | 10.7 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Aluminium oxide | 1344-28-1 | 5 % | Füllstoff | - | 0 | registriert |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Butyl acetate | 123-86-4 | 15.4 % | Lösemittel | H226 H336 | 0 | Lieferant |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Calcium carbonate | 471-34-1 | 27.4 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Rosin (colophony) | 8050-09-7 | 8.9 % | Harz | H317 | 0 | Lieferant |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Titanium dioxide | 13463-67-7 | 24.9 % | Pigment | - | 0 | registriert |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Toluene | 108-88-3 | 8.9 % | Lösemittel | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Marencoat SM 1208 road marking paint | 11000029 | UN1263 | 3 | 32100090 | Xylene (isomer mixture) | 1330-20-7 | 9.5 % | Lösemittel | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | 12000028 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.05 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | 12000028 | - | - | 32091000 | 2-Phenoxyethanol | 122-99-6 | 0.29 % | Filmbildehilfsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | 12000028 | - | - | 32091000 | Propylene glycol | 57-55-6 | 0.86 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | 12000028 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 13.5 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat TG 1400 penetrating primer | 12000028 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 85.3 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat TG 1438 penetrating primer | 11000031 | - | - | 32091000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat TG 1438 penetrating primer | 11000031 | - | - | 32091000 | 2-Phenoxyethanol | 122-99-6 | 0.32 % | Filmbildehilfsmittel | H302 H318 H335 | 0 | Lieferant |

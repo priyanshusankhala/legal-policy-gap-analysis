@@ -1,0 +1,72 @@
+
+
+Fiche de données de sécurité Marenclean S 331
+détartrant
+Sicherheitsdatenblatt
+N° du document
+DMS-00001228
+Version
+1.1
+Valable depuis
+2025-10-24
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+1. Identification de la substance/du mélange et de la société
+Fiche de données de sécurité Marenclean S 331 détartrant
+Marenclean S 331 détartrant
+SDS: SDB-10478-FR
+2. Identification des dangers
+H: H302 H315 H318 H319 H412
+3. Composition / informations sur les composants
+Water
+(demineralised)
+7732-18-5 231-791-2 74.8–91.4 %
+Sulfamic acid 5329-14-6 226-218-8 9.5–11.6 % H315 H319 H412
+Citric acid 77-92-9 201-069-1 3.7–4.7 % H319
+Fatty alcohol
+ethoxylate
+(C12-14, 6 EO)
+68439-50-9 1.7–2.7 % H302 H318 H412
+4. Premiers secours
+Après contact avec la peau, laver à l’eau et au savon. Après contact avec les yeux, rincer plusieurs
+minutes à l’eau. Consulter un médecin en cas de symptômes.
+5. Mesures de lutte contre l’incendie
+Moyens d’extinction : mousse, poudre, dioxyde de carbone, eau pulvérisée. Porter un appareil
+respiratoire autonome.
+6. Mesures à prendre en cas de dispersion accidentelle
+Porter un équipement de protection, éliminer les sources d’ignition, absorber avec un matériau inerte.
+Ne pas rejeter à l’égout.
+7. Manipulation et stockage
+Conserver le récipient bien fermé dans un endroit ventilé, à l’écart des sources d’ignition et des
+produits incompatibles.
+8. Contrôle de l’exposition / protection individuelle
+Utiliser des gants, des lunettes de protection et, si nécessaire, une protection respiratoire. Assurer une
+ventilation suffisante.
+9. Propriétés physiques et chimiques
+Density: 1.078
+
+Base unit: KG
+Shelf life (months): 24
+10. Stabilité et réactivité
+Stable dans les conditions normales d’utilisation et de stockage. Éviter les oxydants forts, les acides et
+les bases.
+11. Informations toxicologiques
+Informations basées sur les composants de la section 3 et la classification du mélange.
+12. Informations écologiques
+Ne pas laisser pénétrer dans les eaux ou le sol.
+13. Considérations relatives à l’élimination
+Éliminer conformément à la réglementation locale (ICPE) par une entreprise agréée.
+14. Informations relatives au transport
+HS: 34029090
+15. Informations réglementaires
+Classification et étiquetage selon le règlement (CE) n° 1272/2008 (CLP) et REACH (CE) n° 1907/2006.
+Citric acid: REACH – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – nicht erforderlich
+Sulfamic acid: REACH – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+16. Autres informations
+1.1 · 2025-10-24

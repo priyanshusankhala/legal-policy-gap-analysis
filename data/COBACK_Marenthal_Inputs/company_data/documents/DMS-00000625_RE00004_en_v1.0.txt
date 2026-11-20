@@ -1,0 +1,42 @@
+
+
+Antikorruption: U.S. Supplement (FCPA)
+Lokale Ergänzung zur Richtlinie
+Document no.
+DMS-00000625
+Version
+1.0
+Valid from
+2025-02-19
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Internal
+Purpose and scope
+This policy sets binding rules on “Compliance” for Marenthal Chemicals Inc.. It applies to all employees,
+managers and, where contractually agreed, to business partners. Violations may have consequences
+under employment and criminal law.
+Obligations and responsibilities
+Geschenke- und Einladungsregister führen – Zuwendungen über der Wertgrenze vorab genehmigen
+lassen und im Register erfassen.
+Richtlinienergänzung
+land: US
+titel: Antikorruption: U.S. Supplement (FCPA)
+inhalt_kurz: Ergänzt die Konzernrichtlinie „Richtlinie Antikorruption und Zuwendungen“ (Fassung 2.0)
+um die Anforderungen für die USA: FCPA; regelt lokale Zuständigkeiten und Meldewege.
+basiert_auf_version: 2.0
+gueltig_ab: 2025-02-19
+status: gültig
+freigabe_datum: 2025-02-19
+Richtlinie
+nummer: KR-002
+titel: Richtlinie Antikorruption und Zuwendungen
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-24
+master_sprache: de
+vertraulichkeit: intern

@@ -1,0 +1,29 @@
+
+
+Jahresbericht Compliance Geschäftsjahr 2024
+Bericht an Geschäftsleitung
+Dokumentnummer
+DMS-00000634
+Version
+1.0
+Gültig ab
+2025-02-28
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Bericht
+art: Jahresbericht Compliance
+zeitraum_von: 2024-01-01
+zeitraum_bis: 2024-12-31
+adressat: Aufsichtsrat
+berichtsdatum: 2025-02-28
+status: Zur Kenntnis genommen
+kennzahlen: {"verpflichtungen_gesamt":294,"verpflichtungen_offen":44,"verpflichtungen_ueberfaellig":
+18,"vorfaelle":43,"hinweisfaelle":24,"audits":22,"massnahmen_offen":39,"massnahmen_ueberfaellig":1
+6,"schulungsquote_prozent":93.6}

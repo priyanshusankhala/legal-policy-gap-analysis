@@ -1,0 +1,56 @@
+
+
+Vertriebsvertrag DA-2019-0013 – Müller Chemiehandel
+GmbH
+Vertriebsvertrag
+Dokumentnummer
+DMS-00000030
+Version
+1.0
+Gültig ab
+2019-06-07
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: DA-2019-0013
+type: Distribution Agreement
+status: Active
+start_date: 2019-06-07
+end_date: 2026-06-06
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-05-27
+governing_law: German law
+payment_terms: Z045
+incoterm: DDP
+Account
+name: Müller Chemiehandel GmbH
+type: Distributor
+billing_street: Bergstraße 71
+billing_city: Frankfurt am Main
+billing_postcode: 60429
+billing_country: DE
+industry: Chemical trading
+segment: Distribution
+size_class: Key Account
+status: Active
+website: www.mueller-chemiehandel.de
+created_date: 1999-09-18
+last_modified_date: 2025-01-24
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-11-25
+cms_partner_ref: GP000049
+
+description: Chemiehandel in Deutschland; vertreibt Marenthal-Produkte (Marenclean Z 904
+Zitrusreiniger, Toluol, techn.) an Industrie und Gewerbe.

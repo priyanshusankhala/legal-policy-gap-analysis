@@ -1,0 +1,35 @@
+制裁与出口管制制度
+Konzernrichtlinie
+
+文件编号: DMS-00000298
+版本: 1.1
+生效日期: 2023-09-12
+公司: Marenthal Chemie AG
+状态: Superseded
+保密级别: Internal
+
+目的和适用范围
+本制度规定了Marenthal Chemie AG在“Außenwirtschaft”方面的约束性规则，适用于全体员工、管理人员，并在合同约定的范围内适用于商业伙伴。
+
+义务和责任
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Richtlinie
+nummer: KR-005
+titel: Richtlinie Sanktionen und Exportkontrolle
+thema: Außenwirtschaft
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-10-21
+master_sprache: de
+vertraulichkeit: intern
+
+Richtlinienversion
+version: 1.1
+sprache: zh
+status: Ersetzt
+gueltig_ab: 2023-09-12
+gueltig_bis: 2025-06-03
+freigabe_datum: 2023-09-12
+aenderungsgrund: Aufnahme neuer Absatzmärkte und Vertriebspartner

@@ -1,0 +1,25 @@
+审计报告: 生态环境局例行检查 – 常州工厂
+Auditbericht
+
+文件编号: DMS-00000876
+版本: 1.0
+生效日期: 2025-06-05
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Audit
+titel: 生态环境局例行检查 – 常州工厂 (Umweltinspektion)
+art: Behörde
+scope: Abwasser, Abluft, Gefahrstofflagerung
+geplant_von: 2025-05-20
+geplant_bis: 2025-05-20
+durchgefuehrt_von: 2025-05-20
+durchgefuehrt_bis: 2025-05-20
+leitender_auditor: 常州市生态环境局
+status: abgeschlossen
+gesamtbewertung: ohne Beanstandung

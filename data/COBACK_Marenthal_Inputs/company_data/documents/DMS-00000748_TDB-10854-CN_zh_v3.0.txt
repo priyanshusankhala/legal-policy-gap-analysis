@@ -1,0 +1,32 @@
+技术数据表 Marencoat AL 634 醇酸磁漆
+Technisches Datenblatt
+
+文件编号: DMS-00000748
+版本: 3.0
+生效日期: 2025-04-18
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+详细信息
+Product: Marencoat AL 634 alkyd enamel
+Family: Coatings
+Applications: Industrial coatings, Wood coatings
+Description: Deckanstrich für Stahl und Holz im Innen- und Außenbereich
+Hazardous: 1
+SDS available: 1
+Density: 1.061
+UN: UN1263
+Class: 3
+HS: 3208901900
+Origin: CN
+
+成分
+Hydrocarbon solvent (hydrotreated heavy naphtha): 38.1–46.5 %
+Linseed oil: 24.3–29.7 %
+Titanium dioxide: 18.8–23 %
+Talc: 5–6.1 %
+Rosin (colophony): 3.8–4.8 %

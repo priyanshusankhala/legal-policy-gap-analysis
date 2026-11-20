@@ -1,0 +1,36 @@
+
+
+Fallakte HF00004 (vertraulich)
+Fallakte Meldestelle
+Dokumentnummer
+DMS-00000833
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Restricted
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Hinweisfall
+eingang_datum: 2025-05-08
+kanal: Hotline
+kategorie: Interessenkonflikt
+sprache: de
+schweregrad: mittel
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 0
+kurzbeschreibung: Der Hinweis betrifft einen möglichen Interessenkonflikt mit mittlerem Schweregrad
+in einer deutschen Konzerngesellschaft. Laut Meldung ist eine Führungskraft an einem Dienstleister
+beteiligt, der Aufträge vom Standort erhält. Es besteht der Verdacht, dass die Beteiligung nicht
+offengelegt wurde und Vergabeentscheidungen beeinflusst sein könnten. Die Angaben sind bislang
+nicht verifiziert. Eine Prüfung der Beteiligungsverhältnisse, der Auftragsvergaben und der
+Offenlegungspflichten ist erforderlich.
+bestaetigung_am: 2025-05-14
+rueckmeldung_am: 2025-06-10
+abschluss_datum: 2025-08-22
+ergebnis: bestätigt

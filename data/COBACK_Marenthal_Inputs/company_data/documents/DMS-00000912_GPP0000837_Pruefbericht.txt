@@ -1,0 +1,45 @@
+
+
+Prüfbericht Wiederholungsprüfung (GPP0000837)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000912
+Version
+1.0
+Gültig ab
+2025-06-23
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Wiederholungsprüfung
+pruefdatum: 2025-06-16
+anlass: Turnusmäßige Wiederholung
+risikoklasse: hoch
+sanktionslisten_abgleich: Treffer - Fehlalarm
+pep_pruefung: Treffer - bewertet
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Engmaschige Überwachung für 12 Monate; Lieferungen an Dritte nur nach Freigabe durch
+Compliance
+gueltig_bis: 2026-06-11
+begruendung: Namenstreffer bei der Sanktionsprüfung nach Klärung der Identität entkräftet. PEP-Bezug
+in der Geschäftsführung bewertet; erhöhte Sorgfaltspflichten angewendet. Risikoklasse hoch. Freigabe
+unter Auflagen.
+Geschäftspartner
+name: Ševčíková Automotive Components s.r.o.
+partner_typ: Kunde
+land: SK
+strasse: Železničná 107
+plz: 019 84
+ort: Žilina
+aktiv: 1
+risikoklasse_aktuell: hoch
+letzte_pruefung: 2025-06-16
+freigabestatus: mit Auflagen

@@ -1,0 +1,92 @@
+
+
+Rahmenvertrag RV-2024-0089 – Wirth & Fischer
+Fahrzeugteile GmbH & Co. KG
+Rahmenvertrag
+Dokumentnummer
+DMS-00000354
+Version
+1.0
+Gültig ab
+2024-03-11
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2024-0089
+type: Framework Agreement
+status: Active
+start_date: 2024-03-11
+end_date: 2029-03-10
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 370.95
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-02-25
+compliance_review_ref: GPP0001155
+governing_law: German law
+payment_terms: Z030
+incoterm: FCA
+Bedingungen
+Marencoat HL 509 water-based wood coating: 405.99 EUR/100 kg
+Marencoat HL 509 water-based wood coating: 401.93 EUR/100 kg
+Marencoat HL 533 water-based wood coating: 419.49 EUR/100 kg
+Marencoat HL 533 water-based wood coating: 406.91 EUR/100 kg
+Ethanol, technical grade: 1011.44 EUR/1000 kg
+Ethanol, technical grade: 981.1 EUR/1000 kg
+Titanium dioxide, technical grade: 3396.19 EUR/1000 kg
+Titanium dioxide, technical grade: 3362.23 EUR/1000 kg
+Account
+name: Wirth & Fischer Fahrzeugteile GmbH & Co. KG
+type: Customer
+billing_street: Ringstraße 71
+billing_city: Düsseldorf
+billing_postcode: 40604
+billing_country: DE
+
+industry: Automotive supplier
+segment: Direct
+size_class: Large
+status: Active
+website: www.wirth-fahrzeugteile.de
+created_date: 2017-12-08
+last_modified_date: 2025-02-07
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-07-26
+cms_partner_ref: GP000421
+description: Automobilzulieferer. Rahmenlieferungen von Marencoat HL 533 Holzlack (wasserbasiert),
+Ethanol, techn., Abrufe nach Produktionsplan.
+Rahmenvertragsnummer
+contract_number: RV-2024-0089
+type: Framework Agreement
+status: Active
+start_date: 2024-03-11
+end_date: 2029-03-10
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 370.95
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-02-25
+compliance_review_ref: GPP0001155
+governing_law: German law
+payment_terms: Z030
+incoterm: FCA
+Bedingungen
+Marencoat HL 509 water-based wood coating: 405.99 EUR/100 kg
+Marencoat HL 509 water-based wood coating: 401.93 EUR/100 kg
+Marencoat HL 533 water-based wood coating: 419.49 EUR/100 kg
+Marencoat HL 533 water-based wood coating: 406.91 EUR/100 kg
+Ethanol, technical grade: 1011.44 EUR/1000 kg
+Ethanol, technical grade: 981.1 EUR/1000 kg
+Titanium dioxide, technical grade: 3396.19 EUR/1000 kg
+Titanium dioxide, technical grade: 3362.23 EUR/1000 kg

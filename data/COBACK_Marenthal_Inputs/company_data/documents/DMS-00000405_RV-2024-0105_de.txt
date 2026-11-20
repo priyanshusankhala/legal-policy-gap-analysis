@@ -1,0 +1,85 @@
+
+
+Rahmenvertrag RV-2024-0105 – Friedrich Galvanik KG
+Rahmenvertrag
+Dokumentnummer
+DMS-00000405
+Version
+1.0
+Gültig ab
+2024-06-11
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2024-0105
+type: Framework Agreement
+status: Active
+start_date: 2024-06-11
+end_date: 2029-06-10
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 123.47
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-06-03
+compliance_review_ref: GPP0001058
+governing_law: German law
+payment_terms: Z060
+incoterm: FCA
+Bedingungen
+Marenwet 206 wetting agent: 303.56 EUR/100 kg
+Marensolv 108 thinner (solvent blend): 228.11 EUR/100 kg
+Marenclean U 134 all-purpose cleaner: 126.8 EUR/100 kg
+Marencoat EP 806 2K epoxy primer (component A): 736.49 EUR/100 kg
+Propylene glycol, technical grade: 1773.15 EUR/1000 kg
+Account
+name: Friedrich Galvanik KG
+type: Customer
+billing_street: Am Hafen 88
+billing_city: Bremen
+billing_postcode: 28225
+billing_country: DE
+industry: Metal and surface technology
+segment: Direct
+size_class: Medium
+status: Active
+
+website: www.friedrich-galvanik.de
+created_date: 2016-05-12
+last_modified_date: 2025-03-08
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-11-24
+cms_partner_ref: GP000385
+description: Metall- und Oberflächentechnik. Rahmenlieferungen von Marenwet 206 Netzmittel,
+Marencoat EP 806 Epoxidgrundierung 2K (Komponente A), Abrufe nach Produktionsplan.
+Rahmenvertragsnummer
+contract_number: RV-2024-0105
+type: Framework Agreement
+status: Active
+start_date: 2024-06-11
+end_date: 2029-06-10
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 123.47
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-06-03
+compliance_review_ref: GPP0001058
+governing_law: German law
+payment_terms: Z060
+incoterm: FCA
+Bedingungen
+Marenwet 206 wetting agent: 303.56 EUR/100 kg
+Marensolv 108 thinner (solvent blend): 228.11 EUR/100 kg
+Marenclean U 134 all-purpose cleaner: 126.8 EUR/100 kg
+Marencoat EP 806 2K epoxy primer (component A): 736.49 EUR/100 kg
+Propylene glycol, technical grade: 1773.15 EUR/1000 kg

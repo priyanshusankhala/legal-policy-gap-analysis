@@ -1,0 +1,22 @@
+环境管理体系证书 ISO 14001:2015 – UM-CZX-32915
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00001340
+版本: 1.0
+生效日期: 2025-11-04
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: Zertifikat Umweltmanagement ISO 14001:2015
+nummer: UM-CZX-32915
+behoerde: SGS
+erteilt_am: 2025-11-04
+gueltig_bis: 2028-11-20
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

@@ -1,0 +1,61 @@
+
+
+Fiche de données de sécurité Pentaérythritol, qualité
+technique
+Sicherheitsdatenblatt
+N° du document
+DMS-00000571
+Version
+9.0
+Valable depuis
+2025-02-11
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+1. Identification de la substance/du mélange et de la société
+Fiche de données de sécurité Pentaérythritol, qualité technique
+Pentaérythritol, qualité technique
+SDS: SDB-11198-FR
+2. Identification des dangers
+—
+3. Composition / informations sur les composants
+Pentaerythritol 115-77-5 204-104-9 99–100 %
+4. Premiers secours
+Après contact avec la peau, laver à l’eau et au savon. Après contact avec les yeux, rincer plusieurs
+minutes à l’eau. Consulter un médecin en cas de symptômes.
+5. Mesures de lutte contre l’incendie
+Moyens d’extinction : mousse, poudre, dioxyde de carbone, eau pulvérisée. Porter un appareil
+respiratoire autonome.
+6. Mesures à prendre en cas de dispersion accidentelle
+Porter un équipement de protection, éliminer les sources d’ignition, absorber avec un matériau inerte.
+Ne pas rejeter à l’égout.
+7. Manipulation et stockage
+Conserver le récipient bien fermé dans un endroit ventilé, à l’écart des sources d’ignition et des
+produits incompatibles.
+8. Contrôle de l’exposition / protection individuelle
+Utiliser des gants, des lunettes de protection et, si nécessaire, une protection respiratoire. Assurer une
+ventilation suffisante.
+9. Propriétés physiques et chimiques
+Density: 1.4
+Base unit: KG
+Shelf life (months): 12
+10. Stabilité et réactivité
+Stable dans les conditions normales d’utilisation et de stockage. Éviter les oxydants forts, les acides et
+les bases.
+
+11. Informations toxicologiques
+Informations basées sur les composants de la section 3 et la classification du mélange.
+12. Informations écologiques
+Ne pas laisser pénétrer dans les eaux ou le sol.
+13. Considérations relatives à l’élimination
+Éliminer conformément à la réglementation locale (ICPE) par une entreprise agréée.
+14. Informations relatives au transport
+HS: 29054200
+15. Informations réglementaires
+Classification et étiquetage selon le règlement (CE) n° 1272/2008 (CLP) et REACH (CE) n° 1907/2006.
+Pentaerythritol: REACH – nicht erforderlich
+16. Autres informations
+9.0 · 2025-02-11

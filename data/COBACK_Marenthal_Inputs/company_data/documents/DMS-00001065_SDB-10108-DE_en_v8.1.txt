@@ -1,0 +1,81 @@
+
+
+Safety Data Sheet Marenfoam 133 defoamer
+Sicherheitsdatenblatt
+Document no.
+DMS-00001065
+Version
+8.1
+Valid from
+2025-09-05
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenfoam 133 defoamer
+Product: Marenfoam 133 Entschäumer
+SDS: SDB-10108-DE
+2. Hazards identification
+H: H302 H315 H317 H318 H400 H412
+3. Composition / information on ingredients
+Water (demineralised) 7732-18-5 231-791-2 76.6–93.6 %
+Polydimethylsiloxane 63148-62-9 8.4–10.2 %
+Fatty alcohol ethoxylate
+(C12-14, 6 EO)
+68439-50-9 3.1–4.1 % H302 H318
+H412
+Silicon dioxide
+(amorphous)
+7631-86-9 231-545-4 1.5–2.5 %
+1,2-Benzisothiazolin-3-on
+e
+2634-33-5 220-120-9 0.02–0.06 % H302 H315
+H317 H318
+H400
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+
+Density: 1.008
+Base unit: KG
+Shelf life (months): 24
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 39100000
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+1,2-Benzisothiazolin-3-one: IECSC – nicht erforderlich
+1,2-Benzisothiazolin-3-one: REACH – nicht erforderlich
+1,2-Benzisothiazolin-3-one: TSCA – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+Fatty alcohol ethoxylate (C12-14, 6 EO): TSCA – nicht erforderlich
+Polydimethylsiloxane: IECSC – nicht erforderlich
+Polydimethylsiloxane: REACH – ausgenommen
+16. Other information
+8.1 · 2025-09-05

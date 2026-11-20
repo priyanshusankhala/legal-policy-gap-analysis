@@ -1,0 +1,36 @@
+
+
+Draft Framework Agreement 2026 – van den Berg
+Industriële reiniging B.V.
+Vertragsentwurf
+Document no.
+DMS-00000949
+Version
+0.2
+Company
+Marenthal Chemie AG
+Status
+Draft
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Account
+name: van den Berg Industriële reiniging B.V.
+type: Customer
+billing_street: Bedrijvenpark 3
+billing_city: Amsterdam
+billing_postcode: 1020 CS
+billing_country: NL
+industry: Facility cleaning and hygiene
+segment: Direct
+size_class: Large
+status: Active
+website: www.vandenbergindustriele.com
+created_date: 2025-06-16
+last_modified_date: 2025-11-11
+language: nl
+selling_entity: Marenthal Chemie AG
+description: Facility cleaning and hygiene; customer since 2025. Main products: Marencoat AF 333
+acrylic facade paint, Marenclean D 703 disinfectant cleaner.

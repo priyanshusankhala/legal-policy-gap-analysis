@@ -1,0 +1,85 @@
+# Register of material batches by country of origin - Marenthal Chemie AG (part 2 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Company | Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Methyl ethyl ketone, technical grade | 12000042 | Netherlands (NL) | 10 |
+| Marenthal Chemie AG | Methyl methacrylate | 13000057 | France (FR) | 1 |
+| Marenthal Chemie AG | Methyl methacrylate | 13000057 | Germany (DE) | 9 |
+| Marenthal Chemie AG | Methyl methacrylate | 13000057 | United States (US) | 1 |
+| Marenthal Chemie AG | Methyl methacrylate, technical grade | 11000035 | Germany (DE) | 12 |
+| Marenthal Chemie AG | Monoethanolamine | 13000029 | Belgium (BE) | 12 |
+| Marenthal Chemie AG | Monoethanolamine | 13000029 | China (CN) | 1 |
+| Marenthal Chemie AG | Monoethanolamine | 13000029 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Neopentyl glycol | 13000059 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Neopentyl glycol, technical grade | 11000038 | Germany (DE) | 37 |
+| Marenthal Chemie AG | Paraffin wax | 13000035 | China (CN) | 1 |
+| Marenthal Chemie AG | Paraffin wax | 13000035 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Pentaerythritol | 13000060 | Belgium (BE) | 1 |
+| Marenthal Chemie AG | Pentaerythritol | 13000060 | Germany (DE) | 11 |
+| Marenthal Chemie AG | Pentaerythritol, technical grade | 11000039 | Germany (DE) | 39 |
+| Marenthal Chemie AG | Phosphoric acid (75 %), technical grade | 12000051 | United States (US) | 8 |
+| Marenthal Chemie AG | Polydimethylsiloxane | 13000008 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Polydimethylsiloxane | 13000008 | Italy (IT) | 27 |
+| Marenthal Chemie AG | Propylene glycol | 13000006 | Belgium (BE) | 1 |
+| Marenthal Chemie AG | Propylene glycol | 13000006 | Germany (DE) | 2 |
+| Marenthal Chemie AG | Propylene glycol | 13000006 | Spain (ES) | 24 |
+| Marenthal Chemie AG | Propylene glycol, technical grade | 12000048 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Rosin (colophony) | 13000039 | France (FR) | 1 |
+| Marenthal Chemie AG | Rosin (colophony) | 13000039 | United States (US) | 12 |
+| Marenthal Chemie AG | Silicon dioxide (amorphous) | 13000009 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Silicon dioxide (amorphous) | 13000009 | Poland (PL) | 13 |
+| Marenthal Chemie AG | Sodium chloride | 13000032 | China (CN) | 13 |
+| Marenthal Chemie AG | Sodium cumenesulfonate | 13000018 | Germany (DE) | 2 |
+| Marenthal Chemie AG | Sodium cumenesulfonate | 13000018 | Netherlands (NL) | 25 |
+| Marenthal Chemie AG | Sodium dodecylbenzenesulfonate | 13000016 | Italy (IT) | 13 |
+| Marenthal Chemie AG | Sodium hydroxide (50 %) | 13000015 | China (CN) | 1 |
+| Marenthal Chemie AG | Sodium hydroxide (50 %) | 13000015 | Germany (DE) | 12 |
+| Marenthal Chemie AG | Sodium hydroxide (50 %), technical grade | 12000050 | United States (US) | 15 |
+| Marenthal Chemie AG | Sodium hypochlorite solution | 13000034 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Sodium laureth sulfate | 13000030 | Belgium (BE) | 1 |
+| Marenthal Chemie AG | Sodium laureth sulfate | 13000030 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Sodium laureth sulfate | 13000030 | Netherlands (NL) | 12 |
+| Marenthal Chemie AG | Sodium metasilicate | 13000012 | Austria (AT) | 1 |
+| Marenthal Chemie AG | Sodium metasilicate | 13000012 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Sodium metasilicate | 13000012 | Netherlands (NL) | 2 |
+| Marenthal Chemie AG | Styrene, technical grade | 12000031 | France (FR) | 9 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | China (CN) | 2 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | Germany (DE) | 21 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | Netherlands (NL) | 2 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | United States (US) | 1 |
+| Marenthal Chemie AG | Sulfamic acid | 13000025 | Belgium (BE) | 2 |
+| Marenthal Chemie AG | Sulfamic acid | 13000025 | Germany (DE) | 12 |
+| Marenthal Chemie AG | Sulfuric acid (96 %), technical grade | 12000046 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Talc | 13000024 | Belgium (BE) | 1 |
+| Marenthal Chemie AG | Talc | 13000024 | Germany (DE) | 12 |
+| Marenthal Chemie AG | Tetrasodium EDTA | 13000014 | Belgium (BE) | 3 |
+| Marenthal Chemie AG | Tetrasodium EDTA | 13000014 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Tetrasodium EDTA | 13000014 | Netherlands (NL) | 1 |
+| Marenthal Chemie AG | Titanium dioxide | 13000036 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Titanium dioxide, technical grade | 12000053 | China (CN) | 5 |
+| Marenthal Chemie AG | Toluene, technical grade | 12000043 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | Belgium (BE) | 1 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | China (CN) | 2 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | Germany (DE) | 3 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | Netherlands (NL) | 21 |
+| Marenthal Chemie AG | Triethylamine, technical grade | 12000035 | France (FR) | 5 |
+| Marenthal Chemie AG | Vinyl acetate, technical grade | 12000030 | France (FR) | 7 |
+| Marenthal Chemie AG | Water (demineralised) | 13000001 | Belgium (BE) | 2 |
+| Marenthal Chemie AG | Water (demineralised) | 13000001 | France (FR) | 2 |
+| Marenthal Chemie AG | Water (demineralised) | 13000001 | Netherlands (NL) | 23 |
+| Marenthal Chemie AG | Xanthan gum | 13000010 | China (CN) | 1 |
+| Marenthal Chemie AG | Xanthan gum | 13000010 | Germany (DE) | 11 |
+| Marenthal Chemie AG | Xanthan gum | 13000010 | Netherlands (NL) | 2 |
+| Marenthal Chemie AG | Xylene (isomer mixture) | 13000044 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Xylene (isomer mixture), technical grade | 12000044 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Zinc phosphate | 13000041 | Germany (DE) | 13 |
+| Marenthal Chemie AG | d-Limonene | 13000033 | France (FR) | 1 |
+| Marenthal Chemie AG | d-Limonene | 13000033 | Germany (DE) | 11 |
+| Marenthal Chemie AG | d-Limonene | 13000033 | Netherlands (NL) | 1 |
+| Marenthal Chemie AG | n-Butyl acrylate | 13000058 | France (FR) | 1 |
+| Marenthal Chemie AG | n-Butyl acrylate | 13000058 | Germany (DE) | 12 |
+| Marenthal Chemie AG | n-Butyl acrylate, technical grade | 11000036 | Germany (DE) | 21 |

@@ -1,0 +1,28 @@
+
+
+Risikobericht 1. Halbjahr 2025
+Bericht an Geschäftsleitung
+Dokumentnummer
+DMS-00001042
+Version
+1.0
+Gültig ab
+2025-08-15
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Bericht
+art: Risikobericht
+zeitraum_von: 2025-01-01
+zeitraum_bis: 2025-06-30
+adressat: Prüfungsausschuss
+berichtsdatum: 2025-08-15
+status: Zur Kenntnis genommen
+kennzahlen: {"risiken_gesamt":115,"risiken_hoch":5,"massnahmen_offen":20,"massnahmen_ueberfaell
+ig":7,"vorfaelle":19}

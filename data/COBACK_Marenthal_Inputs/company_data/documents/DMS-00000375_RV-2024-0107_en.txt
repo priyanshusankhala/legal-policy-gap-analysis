@@ -1,0 +1,82 @@
+
+
+Framework Agreement RV-2024-0107 – Correia
+Plásticos Lda.
+Rahmenvertrag
+Document no.
+DMS-00000375
+Version
+1.0
+Valid from
+2024-06-17
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2024-0107
+type: Framework Agreement
+status: Active
+start_date: 2024-06-17
+end_date: 2027-06-16
+auto_renew: 0
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 104.59
+selling_entity: Marenthal France S.A.S.
+signed_date: 2024-05-08
+compliance_review_ref: GPP0001344
+governing_law: French law
+payment_terms: Z060
+incoterm: FCA
+Terms
+Neopentyl glycol, technical grade: 1819.48 EUR/1000 kg
+Pentaerythritol, technical grade: 1652.23 EUR/1000 kg
+Ethyl acetate, technical grade: 1113.5 EUR/1000 kg
+Account
+name: Correia Plásticos Lda.
+type: Customer
+billing_street: Avenida da República 65
+billing_city: Lisboa
+billing_postcode: 1360-225
+billing_country: PT
+industry: Plastics processing
+segment: Direct
+size_class: Medium
+status: Active
+website: www.correiaplasticos.pt
+
+created_date: 2020-10-18
+last_modified_date: 2025-10-17
+language: pt
+selling_entity: Marenthal France S.A.S.
+compliance_status: Approved
+compliance_checked_on: 2024-04-19
+cms_partner_ref: GP000493
+description: Plastics processing. Sources Ethyl acetate, technical grade, Neopentyl glycol, technical
+grade for ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2024-0107
+type: Framework Agreement
+status: Active
+start_date: 2024-06-17
+end_date: 2027-06-16
+auto_renew: 0
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 104.59
+selling_entity: Marenthal France S.A.S.
+signed_date: 2024-05-08
+compliance_review_ref: GPP0001344
+governing_law: French law
+payment_terms: Z060
+incoterm: FCA
+Terms
+Neopentyl glycol, technical grade: 1819.48 EUR/1000 kg
+Pentaerythritol, technical grade: 1652.23 EUR/1000 kg
+Ethyl acetate, technical grade: 1113.5 EUR/1000 kg

@@ -1,0 +1,128 @@
+# Register of material batches by country of origin - Marenthal France S.A.S. (part 1 of 2)
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Company | Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- | --- |
+| Marenthal France S.A.S. | 1,2-Benzisothiazolin-3-one | MP-000005 | Germany (DE) | 9 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | China (CN) | 1 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | Netherlands (NL) | 11 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | Sweden (SE) | 1 |
+| Marenthal France S.A.S. | 2-Ethylhexyl acrylate | MP-000022 | France (FR) | 11 |
+| Marenthal France S.A.S. | 2-Ethylhexyl acrylate | MP-000022 | Germany (DE) | 1 |
+| Marenthal France S.A.S. | 2-Ethylhexyl acrylate, technical grade | PF-000008 | France (FR) | 36 |
+| Marenthal France S.A.S. | Acetic acid, technical grade | MC-000061 | Netherlands (NL) | 10 |
+| Marenthal France S.A.S. | Acrylic acid | MP-000025 | Germany (DE) | 12 |
+| Marenthal France S.A.S. | Acrylic acid | MP-000025 | Spain (ES) | 1 |
+| Marenthal France S.A.S. | Acrylic acid, technical grade | PF-000011 | France (FR) | 77 |
+| Marenthal France S.A.S. | Butyl acetate, technical grade | MC-000055 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Calcium carbonate, technical grade | MC-000068 | China (CN) | 7 |
+| Marenthal France S.A.S. | Diethylenetriamine | MP-000029 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | Diethylenetriamine | MP-000029 | Germany (DE) | 10 |
+| Marenthal France S.A.S. | Diethylenetriamine, technical grade | PF-000015 | France (FR) | 44 |
+| Marenthal France S.A.S. | Ethanol, technical grade | MC-000053 | Belgium (BE) | 10 |
+| Marenthal France S.A.S. | Ethyl acetate | MP-000007 | Belgium (BE) | 12 |
+| Marenthal France S.A.S. | Ethyl acetate | MP-000007 | China (CN) | 1 |
+| Marenthal France S.A.S. | Ethyl acetate, technical grade | MC-000054 | Netherlands (NL) | 10 |
+| Marenthal France S.A.S. | Fatty alcohol ethoxylate (C12-14, 6 EO) | MP-000003 | Italy (IT) | 13 |
+| Marenthal France S.A.S. | Fatty alcohol ethoxylate (C12-14, 6 EO) | MP-000003 | Spain (ES) | 1 |
+| Marenthal France S.A.S. | Glycerol, technical grade | MC-000066 | China (CN) | 4 |
+| Marenthal France S.A.S. | Hydrochloric acid (33 %), technical grade | MC-000059 | Germany (DE) | 19 |
+| Marenthal France S.A.S. | Iron(III) oxide | MP-000010 | France (FR) | 10 |
+| Marenthal France S.A.S. | Iron(III) oxide | MP-000010 | Germany (DE) | 1 |
+| Marenthal France S.A.S. | Iron(III) oxide | MP-000010 | Italy (IT) | 1 |
+| Marenthal France S.A.S. | Isophorone diisocyanate | MP-000027 | China (CN) | 1 |
+| Marenthal France S.A.S. | Isophorone diisocyanate | MP-000027 | Germany (DE) | 10 |
+| Marenthal France S.A.S. | Isophorone diisocyanate, technical grade | PF-000013 | France (FR) | 13 |
+| Marenthal France S.A.S. | Isopropanol, technical grade | MC-000052 | Belgium (BE) | 8 |
+| Marenthal France S.A.S. | Maleic anhydride | MP-000026 | France (FR) | 13 |
+| Marenthal France S.A.S. | Maleic anhydride | MP-000026 | Spain (ES) | 1 |
+| Marenthal France S.A.S. | Maleic anhydride, technical grade | PF-000012 | France (FR) | 52 |
+| Marenthal France S.A.S. | Marenbase 1003 neutralising agent | MC-000012 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenclean A 207 alkaline industrial cleaner | MC-000017 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenclean A 238 alkaline industrial cleaner | MC-000018 | Germany (DE) | 9 |
+| Marenthal France S.A.S. | Marenclean B 1006 chlorine-based cleaner | MC-000028 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenclean C 1305 CIP cleaner | MC-000030 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marenclean D 703 disinfectant cleaner | MC-000025 | China (CN) | 3 |
+| Marenthal France S.A.S. | Marenclean E 504 degreaser | MC-000021 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marenclean E 537 degreaser | MC-000022 | Germany (DE) | 9 |
+| Marenthal France S.A.S. | Marenclean G 800 glass cleaner | MC-000026 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marenclean H 637 hand cleaner | MC-000024 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenclean M 1200 machine cleaner (powder) | PF-000007 | France (FR) | 937 |
+| Marenthal France S.A.S. | Marenclean O 1100 active oxygen cleaner (powder) | MC-000029 | United States (US) | 5 |
+| Marenthal France S.A.S. | Marenclean P 404 phosphoric acid cleaner | PF-000006 | France (FR) | 234 |
+| Marenthal France S.A.S. | Marenclean R 1402 rust remover | MC-000031 | United States (US) | 7 |
+| Marenthal France S.A.S. | Marenclean S 301 descaler | MC-000019 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenclean U 101 all-purpose cleaner | MC-000015 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marenclean U 134 all-purpose cleaner | MC-000016 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marenclean Z 904 citrus cleaner | MC-000027 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenclear 406 dechlorinating agent | PF-000005 | France (FR) | 82 |
+| Marenthal France S.A.S. | Marencoat AF 309 acrylic facade paint | MC-000032 | United States (US) | 7 |
+| Marenthal France S.A.S. | Marencoat AF 333 acrylic facade paint | MC-000033 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marencoat AI 436 interior emulsion paint | MC-000034 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marencoat AL 603 alkyd enamel | MC-000037 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marencoat AL 634 alkyd enamel | MC-000038 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marencoat DB 1303 roof coating | MC-000044 | Germany (DE) | 9 |
+| Marenthal France S.A.S. | Marencoat DB 1333 roof coating | MC-000045 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marencoat EK 1001 2K clear epoxy coating (component A) | MC-000042 | Germany (DE) | 3 |
+| Marenthal France S.A.S. | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marencoat HL 509 water-based wood coating | MC-000035 | United States (US) | 6 |
+| Marenthal France S.A.S. | Marencoat HL 533 water-based wood coating | MC-000036 | Germany (DE) | 7 |
+| Marenthal France S.A.S. | Marencoat PH 1102 epoxy hardener (component B) | MC-000043 | Germany (DE) | 6 |
+| Marenthal France S.A.S. | Marencoat RS 703 anticorrosive primer | MC-000039 | Germany (DE) | 7 |
+| Marenthal France S.A.S. | Marencoat RS 730 anticorrosive primer | MC-000040 | United States (US) | 4 |
+| Marenthal France S.A.S. | Marencoat TG 1400 penetrating primer | MC-000046 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marencoat TG 1438 penetrating primer | MC-000047 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marendisp 305 dispersing agent | MC-000003 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marendisp 332 dispersing agent | MC-000004 | Germany (DE) | 9 |
+| Marenthal France S.A.S. | Marenemul 731 emulsifier | MC-000008 | Germany (DE) | 5 |
+| Marenthal France S.A.S. | Marenflex 906 plasticizer | MC-000010 | Germany (DE) | 7 |
+| Marenthal France S.A.S. | Marenfoam 133 defoamer | MC-000005 | Germany (DE) | 7 |
+| Marenthal France S.A.S. | Marenglide 953 lubricant additive | MC-000011 | United States (US) | 8 |
+| Marenthal France S.A.S. | Marenpaste 202 pigment preparation | PF-000003 | France (FR) | 144 |
+| Marenthal France S.A.S. | Marenpaste 237 pigment preparation | MC-000014 | United States (US) | 7 |
+| Marenthal France S.A.S. | Marenphos 125 phosphating solution | PF-000004 | France (FR) | 99 |
+| Marenthal France S.A.S. | Marenprotect 806 preservative | MC-000009 | Germany (DE) | 7 |
+| Marenthal France S.A.S. | Marensolv 108 thinner (solvent blend) | PF-000002 | France (FR) | 113 |
+| Marenthal France S.A.S. | Marensolv 302 degreasing spirit (solvent blend) | MC-000013 | China (CN) | 5 |
+| Marenthal France S.A.S. | Marenthix 409 thickener | MC-000006 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenwet 206 wetting agent | MC-000001 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Marenwet 237 wetting agent | MC-000002 | China (CN) | 5 |
+| Marenthal France S.A.S. | Methanol, technical grade | MC-000063 | United States (US) | 8 |
+| Marenthal France S.A.S. | Methoxypropyl acetate | MP-000009 | Belgium (BE) | 11 |
+| Marenthal France S.A.S. | Methoxypropyl acetate | MP-000009 | China (CN) | 1 |
+| Marenthal France S.A.S. | Methoxypropyl acetate | MP-000009 | Sweden (SE) | 1 |
+| Marenthal France S.A.S. | Methyl ethyl ketone, technical grade | MC-000056 | Netherlands (NL) | 10 |
+| Marenthal France S.A.S. | Methyl methacrylate, technical grade | MC-000048 | Germany (DE) | 4 |
+| Marenthal France S.A.S. | Neopentyl glycol, technical grade | MC-000050 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Pentaerythritol, technical grade | MC-000051 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Phosphoric acid (75 %) | MP-000013 | China (CN) | 1 |
+| Marenthal France S.A.S. | Phosphoric acid (75 %) | MP-000013 | France (FR) | 12 |
+| Marenthal France S.A.S. | Phosphoric acid (75 %), technical grade | MC-000065 | United States (US) | 8 |
+| Marenthal France S.A.S. | Propylene glycol | MP-000012 | Belgium (BE) | 10 |
+| Marenthal France S.A.S. | Propylene glycol | MP-000012 | Spain (ES) | 1 |
+| Marenthal France S.A.S. | Propylene glycol, technical grade | MC-000062 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Sodium carbonate | MP-000016 | Belgium (BE) | 2 |
+| Marenthal France S.A.S. | Sodium carbonate | MP-000016 | France (FR) | 9 |
+| Marenthal France S.A.S. | Sodium dodecyl sulfate | MP-000021 | France (FR) | 1 |
+| Marenthal France S.A.S. | Sodium dodecyl sulfate | MP-000021 | Germany (DE) | 1 |
+| Marenthal France S.A.S. | Sodium dodecyl sulfate | MP-000021 | Italy (IT) | 9 |
+| Marenthal France S.A.S. | Sodium hydroxide (50 %), technical grade | MC-000064 | United States (US) | 15 |
+| Marenthal France S.A.S. | Sodium metasilicate | MP-000019 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | Sodium metasilicate | MP-000019 | France (FR) | 10 |
+| Marenthal France S.A.S. | Sodium metasilicate | MP-000019 | Spain (ES) | 1 |
+| Marenthal France S.A.S. | Sodium sulfate | MP-000018 | France (FR) | 10 |
+| Marenthal France S.A.S. | Sodium sulfate | MP-000018 | Spain (ES) | 1 |
+| Marenthal France S.A.S. | Sodium thiosulfate | MP-000015 | Belgium (BE) | 2 |
+| Marenthal France S.A.S. | Sodium thiosulfate | MP-000015 | France (FR) | 12 |
+| Marenthal France S.A.S. | Sodium tripolyphosphate | MP-000020 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | Sodium tripolyphosphate | MP-000020 | France (FR) | 10 |
+| Marenthal France S.A.S. | Solvent naphtha (aromatic) | MP-000008 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | Solvent naphtha (aromatic) | MP-000008 | France (FR) | 1 |
+| Marenthal France S.A.S. | Solvent naphtha (aromatic) | MP-000008 | Netherlands (NL) | 12 |
+| Marenthal France S.A.S. | Styrene | MP-000024 | France (FR) | 1 |
+| Marenthal France S.A.S. | Styrene | MP-000024 | Germany (DE) | 13 |
+| Marenthal France S.A.S. | Styrene, technical grade | PF-000010 | France (FR) | 168 |

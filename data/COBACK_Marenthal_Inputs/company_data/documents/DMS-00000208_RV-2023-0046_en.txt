@@ -1,0 +1,86 @@
+
+
+Framework Agreement RV-2023-0046 – Mazowiecka
+Tworzywa sztuczne Sp. z o.o.
+Rahmenvertrag
+Document no.
+DMS-00000208
+Version
+1.0
+Valid from
+2023-03-06
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2023-0046
+type: Framework Agreement
+status: Active
+start_date: 2023-03-06
+end_date: 2028-03-05
+auto_renew: 1
+notice_period_days: 180
+currency: PLN
+committed_volume_t: 107.51
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-02-08
+compliance_review_ref: GPP0000783
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marencoat AF 309 acrylic facade paint: 1520.19 PLN/100 kg
+Marencoat DB 1333 roof coating: 1429.68 PLN/100 kg
+Isophorone diisocyanate, technical grade: 20185.14 PLN/1000 kg
+Diethylenetriamine, technical grade: 9932.19 PLN/1000 kg
+Propylene glycol, technical grade: 7385.18 PLN/1000 kg
+Account
+name: Mazowiecka Tworzywa sztuczne Sp. z o.o.
+type: Customer
+billing_street: ul. Kolejowa 64
+billing_city: Warszawa
+billing_postcode: 00-109
+billing_country: PL
+industry: Plastics processing
+segment: Direct
+size_class: Large
+
+status: Active
+website: www.mazowiecka-tworzywa.pl
+created_date: 2011-10-31
+last_modified_date: 2025-07-07
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved with conditions
+compliance_checked_on: 2024-11-13
+cms_partner_ref: GP000285
+description: Plastics processing; customer since 2011. Main products: Diethylenetriamine, technical
+grade, Propylene glycol, technical grade.
+Rahmenvertragsnummer
+contract_number: RV-2023-0046
+type: Framework Agreement
+status: Active
+start_date: 2023-03-06
+end_date: 2028-03-05
+auto_renew: 1
+notice_period_days: 180
+currency: PLN
+committed_volume_t: 107.51
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-02-08
+compliance_review_ref: GPP0000783
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marencoat AF 309 acrylic facade paint: 1520.19 PLN/100 kg
+Marencoat DB 1333 roof coating: 1429.68 PLN/100 kg
+Isophorone diisocyanate, technical grade: 20185.14 PLN/1000 kg
+Diethylenetriamine, technical grade: 9932.19 PLN/1000 kg
+Propylene glycol, technical grade: 7385.18 PLN/1000 kg

@@ -1,0 +1,35 @@
+
+
+Technisches Datenblatt Marenthix 409
+Verdickungsmittel
+Technisches Datenblatt
+Dokumentnummer
+DMS-00001125
+Version
+6.3
+Gültig ab
+2025-09-12
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenthix 409 thickener
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Adjuvants
+Description: Einstellung der Viskosität wässriger Systeme
+Hazardous: 0
+SDS available: 1
+Density: 1.018
+HS: 39123900
+Origin: DE
+Zusammensetzung
+Water (demineralised): 79.9–97.6 %
+Propylene glycol: 5.9–7.2 %
+Xanthan gum: 4–5 %
+1,2-Benzisothiazolin-3-one: 0.125–0.375 %

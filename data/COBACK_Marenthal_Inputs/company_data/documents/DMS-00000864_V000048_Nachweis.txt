@@ -1,0 +1,28 @@
+
+
+Nachweis: Zolltarifnummern und Ursprungsangaben
+pflegen
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000864
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Zolltarifnummern und Ursprungsangaben pflegen
+beschreibung: Zolltarifnummern der Materialstammdaten gegen den aktuellen Tarif abgleichen.
+quelle: 
+quelltyp: Gesetz
+land: CN
+anwendbarkeit: anwendbar
+frist_art: laufend
+status: erfüllt
+letzte_pruefung: 2025-05-27

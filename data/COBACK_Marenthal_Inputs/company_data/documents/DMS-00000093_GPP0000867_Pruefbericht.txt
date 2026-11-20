@@ -1,0 +1,43 @@
+
+
+Prüfbericht Erstprüfung (GPP0000867)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000093
+Version
+1.0
+Gültig ab
+2021-11-19
+Gesellschaft
+Marenthal France S.A.S.
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Erstprüfung
+pruefdatum: 2021-11-15
+anlass: Erstprüfung des Bestands bei Einführung des Systems
+risikoklasse: niedrig
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: kein Treffer
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Schriftliche Bescheinigung der Sanktionslistenprüfung des Endabnehmers einholen
+gueltig_bis: 2024-10-30
+begruendung: Sanktions- und Embargolisten ohne Treffer abgeglichen. Risikoklasse niedrig. Freigabe
+unter Auflagen.
+Geschäftspartner
+name: Lorenzo Textil S.L.
+partner_typ: Kunde
+land: ES
+strasse: Avenida de la Industria 130
+plz: 48008
+ort: Bilbao
+aktiv: 1
+risikoklasse_aktuell: niedrig
+letzte_pruefung: 2024-10-30
+freigabestatus: freigegeben

@@ -1,0 +1,82 @@
+
+
+Sicherheitsdatenblatt Marensolv 108 Verdünnung
+(Lösemittelgemisch)
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00000842
+Version
+2.1
+Gültig ab
+2025-06-02
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marensolv 108 Verdünnung (Lösemittelgemisch)
+Marensolv 108 Verdünnung (Lösemittelgemisch)
+SDS: SDB-10293-DE
+2. Mögliche Gefahren
+H: H225 H226 H304 H315 H319 H335 H336 H361d H373 H411
+3. Zusammensetzung / Angaben zu Bestandteilen
+Toluol 108-88-3 203-625-9 34.9–42.7 % H225 H304 H315
+H336 H361d
+H373
+Ethylacetat 141-78-6 205-500-4 30.3–37.1 % H225 H319 H336
+Solventnaphtha
+(aromatisch)
+64742-95-6 265-199-0 19.4–23.7 % H226 H304 H335
+H336 H411
+Methoxypropylacetat 108-65-6 203-603-9 5.4–6.6 % H226
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 0.885
+
+Base unit: KG
+Shelf life (months): 24
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN1993
+ADR/IMDG class: 3
+Packing group: II
+HS: 38140090
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Ethyl acetate: IECSC – nicht erforderlich
+Ethyl acetate: REACH – nicht erforderlich
+Ethyl acetate: TSCA – nicht erforderlich
+Methoxypropyl acetate: IECSC – nicht erforderlich
+Methoxypropyl acetate: REACH – nicht erforderlich
+Methoxypropyl acetate: TSCA – nicht erforderlich
+Solvent naphtha (aromatic): IECSC – nicht erforderlich
+Solvent naphtha (aromatic): REACH – nicht erforderlich
+16. Sonstige Angaben
+2.1 · 2025-06-02

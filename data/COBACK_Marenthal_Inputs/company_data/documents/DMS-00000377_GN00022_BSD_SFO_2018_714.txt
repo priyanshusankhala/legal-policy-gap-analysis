@@ -1,0 +1,29 @@
+
+
+Numéro SIRET déchets (BSD) – BSD-SFO-2018/714
+Genehmigung oder Zertifikat
+N° du document
+DMS-00000377
+Version
+1.0
+Valable depuis
+2024-04-01
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Internal
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Genehmigung
+art: Numéro SIRET déchets (BSD)
+nummer: BSD-SFO-2018/714
+behoerde: DREAL Auvergne-Rhône-Alpes
+erteilt_am: 2024-04-01
+gueltig_bis: 2027-04-26
+status: gültig
+auflagen: Jahresmeldung der Abfallmengen; Nachweise für Entsorger.

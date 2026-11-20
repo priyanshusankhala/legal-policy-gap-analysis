@@ -1,0 +1,31 @@
+
+
+Nachweis: Informationssicherheitsrisikoanalyse
+jährlich durchführen
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000955
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Informationssicherheitsrisikoanalyse jährlich durchführen
+beschreibung: Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan
+fortschreiben.
+quelle: ; 
+quelltyp: Gesetz
+land: CN
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2025-12-16
+intervall_monate: 12
+status: überfällig
+letzte_pruefung: 2025-07-04

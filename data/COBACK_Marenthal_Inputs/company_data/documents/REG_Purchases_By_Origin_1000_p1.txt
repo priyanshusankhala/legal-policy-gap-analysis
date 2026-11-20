@@ -1,0 +1,128 @@
+# Register of raw material and goods purchases by country of origin - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | 1,2-Benzisothiazolin-3-one | 13000004 | BE | 2 | 1,675 KG | 38249996 | 2025-03-21 | 2025-09-23 |
+| Marenthal Chemie AG | 1,2-Benzisothiazolin-3-one | 13000004 | DE | 21 | 18,225 KG | 38249996 | 2025-02-26 | 2026-01-02 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | DE | 3 | 57,600 KG | 38249996 | 2025-05-13 | 2026-01-14 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | NL | 9 | 172,800 KG | 38249996 | 2025-02-10 | 2025-11-17 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | PL | 1 | 19,200 KG | 38249996 | 2025-12-19 | 2025-12-19 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | SE | 1 | 19,200 KG | 38249996 | 2025-07-10 | 2025-07-10 |
+| Marenthal Chemie AG | 2-Dimethylaminoethanol | 13000021 | IT | 1 | 31,000 KG | 38249996 | 2025-07-08 | 2025-07-08 |
+| Marenthal Chemie AG | 2-Dimethylaminoethanol | 13000021 | NL | 11 | 341,000 KG | 38249996 | 2025-02-07 | 2025-12-30 |
+| Marenthal Chemie AG | 2-Ethylhexyl acrylate, technical grade | 12000029 | FR | 7 | 259,000 KG | 29161200 | 2025-02-21 | 2025-12-10 |
+| Marenthal Chemie AG | 2-Phenoxyethanol | 13000013 | IT | 26 | 73,125 KG | 38249996 | 2025-01-23 | 2026-01-15 |
+| Marenthal Chemie AG | Absorbent granules | 15000005 | DE | 11 | 814 ST | - | 2025-02-14 | 2025-12-19 |
+| Marenthal Chemie AG | Acetic acid, technical grade | 12000047 | NL | 9 | 4,095,000 KG | 29152100 | 2025-02-12 | 2025-11-07 |
+| Marenthal Chemie AG | Acetone, technical grade | 12000037 | NL | 4 | 16,200 KG | 29141100 | 2025-12-19 | 2026-01-30 |
+| Marenthal Chemie AG | Acrylic acid, technical grade | 12000032 | FR | 8 | 832,000 KG | 29161100 | 2025-02-17 | 2025-12-24 |
+| Marenthal Chemie AG | Activated carbon filter A2 | 15000003 | DE | 11 | 288 ST | - | 2025-02-13 | 2025-12-24 |
+| Marenthal Chemie AG | Aluminium hydroxide | 13000053 | DE | 14 | 198,800 KG | 38249996 | 2025-02-07 | 2026-01-19 |
+| Marenthal Chemie AG | Arbeitsschutzausrüstung | - | - | 302 | 33,817 ST | - | 2025-01-14 | 2026-01-12 |
+| Marenthal Chemie AG | Armaturen und Ventile | - | - | 295 | 1,956 ST | - | 2025-01-14 | 2026-01-15 |
+| Marenthal Chemie AG | Barium sulfate | 13000043 | DE | 2 | 14,000 KG | 38249996 | 2025-02-18 | 2025-06-27 |
+| Marenthal Chemie AG | Barium sulfate | 13000043 | PL | 11 | 77,000 KG | 38249996 | 2025-03-07 | 2026-01-12 |
+| Marenthal Chemie AG | Benzyl alcohol | 13000023 | DE | 13 | 67,600 KG | 38249996 | 2025-02-17 | 2025-12-30 |
+| Marenthal Chemie AG | Beratung Qualitätsmanagement | - | - | 61 | 130 ST | - | 2025-01-20 | 2026-01-12 |
+| Marenthal Chemie AG | Big bag 1000 kg | 14000008 | DE | 6 | 3,000 ST | 39231090 | 2025-02-21 | 2025-12-15 |
+| Marenthal Chemie AG | Big bag 1000 kg | 14000008 | PL | 1 | 500 ST | 39231090 | 2025-05-13 | 2025-05-13 |
+| Marenthal Chemie AG | Bisphenol-A epoxy resin | 13000042 | DE | 1 | 4,800 KG | 38249996 | 2025-11-21 | 2025-11-21 |
+| Marenthal Chemie AG | Butyl acetate | 13000046 | ES | 1 | 1,000 KG | 38249996 | 2025-11-18 | 2025-11-18 |
+| Marenthal Chemie AG | Butyl acetate, technical grade | 12000041 | DE | 10 | 3,090,000 KG | 29153300 | 2025-02-07 | 2026-01-06 |
+| Marenthal Chemie AG | Calcium carbonate, technical grade | 12000054 | CN | 21 | 10,500,000 KG | 28365000 | 2025-06-18 | 2026-01-27 |
+| Marenthal Chemie AG | Citric acid | 13000026 | BE | 1 | 17,200 KG | 38249996 | 2025-08-20 | 2025-08-20 |
+| Marenthal Chemie AG | Citric acid | 13000026 | DE | 13 | 223,600 KG | 38249996 | 2025-02-07 | 2026-01-15 |
+| Marenthal Chemie AG | Cloud-Hosting Infrastruktur | - | - | 53 | 108 ST | - | 2025-01-09 | 2026-01-09 |
+| Marenthal Chemie AG | Cocamidopropyl betaine | 13000017 | IT | 27 | 268,200 KG | 38249996 | 2025-01-24 | 2026-01-05 |
+| Marenthal Chemie AG | Dichtungssätze Rührwerk | - | - | 318 | 3,544 ST | - | 2025-01-13 | 2026-01-13 |
+| Marenthal Chemie AG | Dienstwagen 3 | - | - | 1 | 1 ST | - | 2025-01-16 | 2025-01-16 |
+| Marenthal Chemie AG | Diethylenetriamine | 13000049 | DE | 12 | 112,800 KG | 38249996 | 2025-03-10 | 2025-12-19 |
+| Marenthal Chemie AG | Diethylenetriamine, technical grade | 12000036 | FR | 7 | 1,568,000 KG | 29212900 | 2025-02-28 | 2025-12-23 |
+| Marenthal Chemie AG | Dioctyl terephthalate | 13000019 | IT | 2 | 110,000 KG | 38249996 | 2025-03-27 | 2025-10-16 |
+| Marenthal Chemie AG | Dioctyl terephthalate | 13000019 | NL | 11 | 605,000 KG | 38249996 | 2025-02-10 | 2025-12-17 |
+| Marenthal Chemie AG | Dipropylene glycol | 13000003 | DE | 1 | 11,400 KG | 38249996 | 2025-08-12 | 2025-08-12 |
+| Marenthal Chemie AG | Dipropylene glycol | 13000003 | ES | 11 | 125,400 KG | 38249996 | 2025-02-21 | 2025-10-31 |
+| Marenthal Chemie AG | EUR pallet | 14000009 | CN | 1 | 7,400 ST | 39231090 | 2026-01-05 | 2026-01-05 |
+| Marenthal Chemie AG | EUR pallet | 14000009 | DE | 14 | 75,600 ST | 39231090 | 2025-02-07 | 2025-12-15 |
+| Marenthal Chemie AG | EUR pallet | 14000009 | PL | 1 | 7,400 ST | 39231090 | 2025-09-30 | 2025-09-30 |
+| Marenthal Chemie AG | Entsorgung Sonderabfall | - | - | 93 | 474 ST | - | 2025-01-21 | 2025-12-31 |
+| Marenthal Chemie AG | Epoxidised soybean oil | 13000020 | NL | 12 | 103,200 KG | 38249996 | 2025-02-27 | 2025-12-18 |
+| Marenthal Chemie AG | Erdgasbezug | - | - | 119 | 224 ST | - | 2025-01-20 | 2026-01-12 |
+| Marenthal Chemie AG | Ersatzteile Kreiselpumpen | - | - | 285 | 1,311 ST | - | 2025-01-09 | 2026-01-14 |
+| Marenthal Chemie AG | Ethanol, technical grade | 12000039 | BE | 9 | 3,204,000 KG | 22072000 | 2025-01-24 | 2025-11-12 |
+| Marenthal Chemie AG | Ethyl acetate, technical grade | 12000040 | NL | 9 | 1,611,000 KG | 29153100 | 2025-02-26 | 2025-12-18 |
+| Marenthal Chemie AG | Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | IT | 2 | 114,000 KG | 38249996 | 2025-03-21 | 2025-08-27 |
+| Marenthal Chemie AG | Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | NL | 23 | 1,324,000 KG | 38249996 | 2025-01-24 | 2025-12-03 |
+| Marenthal Chemie AG | Filter cartridge 5 µm | 15000002 | DE | 10 | 670 ST | - | 2025-03-11 | 2025-11-17 |
+| Marenthal Chemie AG | Filterelemente Prozessfilter | - | - | 303 | 9,566 ST | - | 2025-01-14 | 2026-01-13 |
+| Marenthal Chemie AG | Frachtleistung Straßentransport | - | - | 53 | 329 ST | - | 2025-01-13 | 2025-12-10 |
+| Marenthal Chemie AG | Fremdlabor Analytik | - | - | 102 | 2,310 ST | - | 2025-01-27 | 2025-12-31 |
+| Marenthal Chemie AG | GHS hazard pictogram label roll | 15000006 | DE | 11 | 338 ST | - | 2025-02-18 | 2025-12-09 |
+| Marenthal Chemie AG | GHS label set | 14000010 | DE | 14 | 638,050 ST | 39231090 | 2025-01-27 | 2025-12-17 |
+| Marenthal Chemie AG | GHS label set | 14000010 | PL | 2 | 91,150 ST | 39231090 | 2025-02-28 | 2025-11-19 |
+| Marenthal Chemie AG | Gabelstapler 6 (elektrisch, Ex-Schutz) | - | - | 2 | 2 ST | - | 2025-07-11 | 2025-09-02 |
+| Marenthal Chemie AG | Gefahrgut-Spedition Tankwagen | - | - | 54 | 278 ST | - | 2025-01-27 | 2026-01-09 |
+| Marenthal Chemie AG | Glycerol | 13000031 | DE | 12 | 86,400 KG | 38249996 | 2025-02-05 | 2025-12-03 |
+| Marenthal Chemie AG | Glycerol | 13000031 | SE | 1 | 7,200 KG | 38249996 | 2025-10-21 | 2025-10-21 |
+| Marenthal Chemie AG | Glycerol, technical grade | 12000052 | CN | 8 | 4,000,000 KG | 29054500 | 2025-04-01 | 2026-01-07 |
+| Marenthal Chemie AG | Hydrocarbon solvent (hydrotreated heavy naphtha) | 13000037 | ES | 13 | 780,000 KG | 38249996 | 2025-02-21 | 2026-01-14 |
+| Marenthal Chemie AG | Hydrochloric acid (33 %), technical grade | 12000045 | DE | 10 | 48,550,000 KG | 28061000 | 2025-01-24 | 2026-01-08 |
+| Marenthal Chemie AG | IBC container 1000 L | 14000003 | DE | 15 | 20,050 ST | 39231090 | 2025-02-14 | 2026-01-06 |
+| Marenthal Chemie AG | IBC container 1000 L | 14000003 | PL | 1 | 1,550 ST | 39231090 | 2025-05-13 | 2025-05-13 |
+| Marenthal Chemie AG | IT-Support Dienstleistung | - | - | 67 | 175 ST | - | 2025-01-14 | 2025-12-22 |
+| Marenthal Chemie AG | Iron(III) oxide | 13000040 | ES | 1 | 8,400 KG | 38249996 | 2025-02-14 | 2025-02-14 |
+| Marenthal Chemie AG | Iron(III) oxide | 13000040 | PL | 11 | 92,400 KG | 38249996 | 2025-03-10 | 2025-11-21 |
+| Marenthal Chemie AG | Isophorone diisocyanate, technical grade | 12000034 | FR | 8 | 768,000 KG | 29291000 | 2025-02-10 | 2026-01-02 |
+| Marenthal Chemie AG | Isopropanol | 13000028 | BE | 12 | 153,600 KG | 38249996 | 2025-02-14 | 2025-12-19 |
+| Marenthal Chemie AG | Isopropanol | 13000028 | DE | 1 | 12,800 KG | 38249996 | 2025-10-30 | 2025-10-30 |
+| Marenthal Chemie AG | Isopropanol, technical grade | 12000038 | BE | 9 | 738,000 KG | 29051200 | 2025-02-14 | 2025-11-25 |
+| Marenthal Chemie AG | Kalibrierung Messgeräte | - | - | 102 | 957 ST | - | 2025-01-16 | 2026-01-08 |
+| Marenthal Chemie AG | Kaolin | 13000048 | DE | 11 | 143,000 KG | 38249996 | 2025-02-14 | 2025-12-05 |
+| Marenthal Chemie AG | Kaolin | 13000048 | ES | 1 | 13,000 KG | 38249996 | 2025-08-21 | 2025-08-21 |
+| Marenthal Chemie AG | Lagerdienstleistung Fremdlager | - | - | 56 | 117 ST | - | 2025-01-21 | 2025-12-22 |
+| Marenthal Chemie AG | Linseed oil | 13000038 | DE | 1 | 31,000 KG | 38249996 | 2025-04-11 | 2025-04-11 |
+| Marenthal Chemie AG | Linseed oil | 13000038 | NL | 12 | 372,000 KG | 38249996 | 2025-02-21 | 2026-01-19 |
+| Marenthal Chemie AG | Maleic anhydride, technical grade | 12000033 | FR | 7 | 1,806,000 KG | 29171400 | 2025-02-18 | 2025-12-04 |
+| Marenthal Chemie AG | Marenclean C 1305 CIP cleaner | 12000018 | US | 7 | 1,365,000 KG | 34029090 | 2025-03-03 | 2025-12-05 |
+| Marenthal Chemie AG | Marenclean D 703 disinfectant cleaner | 12000014 | CN | 6 | 690,000 KG | 38089490 | 2025-04-17 | 2026-01-16 |
+| Marenthal Chemie AG | Marenclean E 504 degreaser | 12000013 | CN | 4 | 752,000 KG | 34029090 | 2025-05-09 | 2025-12-05 |
+| Marenthal Chemie AG | Marenclean G 800 glass cleaner | 12000015 | CN | 5 | 2,500,000 KG | 34022090 | 2025-04-15 | 2026-01-14 |
+| Marenthal Chemie AG | Marenclean M 1200 machine cleaner (powder) | 12000017 | FR | 7 | 1,435,000 KG | 34029090 | 2025-02-14 | 2025-12-08 |
+| Marenthal Chemie AG | Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | US | 8 | 1,072,000 KG | 28369990 | 2025-02-18 | 2025-12-24 |
+| Marenthal Chemie AG | Marenclean P 404 phosphoric acid cleaner | 12000012 | FR | 8 | 2,208,000 KG | 34029090 | 2025-02-21 | 2025-12-22 |
+| Marenthal Chemie AG | Marenclean R 1402 rust remover | 12000019 | US | 8 | 1,504,000 KG | 34029090 | 2025-03-07 | 2026-01-14 |
+| Marenthal Chemie AG | Marenclean U 101 all-purpose cleaner | 12000010 | US | 8 | 816,000 KG | 34022090 | 2025-02-21 | 2026-01-16 |
+| Marenthal Chemie AG | Marenclean U 134 all-purpose cleaner | 12000011 | US | 8 | 1,880,000 KG | 34022090 | 2025-02-07 | 2026-01-02 |
+| Marenthal Chemie AG | Marenclear 406 dechlorinating agent | 12000009 | FR | 7 | 154,000 KG | 38249996 | 2025-02-28 | 2025-11-21 |
+| Marenthal Chemie AG | Marencoat AF 309 acrylic facade paint | 12000020 | US | 8 | 1,888,000 KG | 32091000 | 2025-02-12 | 2025-12-18 |
+| Marenthal Chemie AG | Marencoat AF 333 acrylic facade paint | 12000021 | CN | 5 | 550,000 KG | 32091000 | 2025-05-16 | 2026-01-12 |
+| Marenthal Chemie AG | Marencoat AI 436 interior emulsion paint | 12000022 | CN | 5 | 220,000 KG | 32091000 | 2025-04-17 | 2025-12-09 |
+| Marenthal Chemie AG | Marencoat AL 634 alkyd enamel | 12000024 | CN | 4 | 1,028,000 KG | 32089019 | 2025-05-19 | 2026-01-16 |
+| Marenthal Chemie AG | Marencoat DB 1333 roof coating | 12000027 | US | 7 | 602,000 KG | 32091000 | 2025-02-17 | 2025-12-04 |
+| Marenthal Chemie AG | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | CN | 4 | 348,000 KG | 32089091 | 2025-05-06 | 2025-12-18 |
+| Marenthal Chemie AG | Marencoat HL 509 water-based wood coating | 12000023 | US | 6 | 336,000 KG | 32091000 | 2025-03-07 | 2025-11-19 |
+| Marenthal Chemie AG | Marencoat RS 730 anticorrosive primer | 12000025 | US | 8 | 232,000 KG | 32089091 | 2025-02-19 | 2026-01-15 |
+| Marenthal Chemie AG | Marencoat TG 1400 penetrating primer | 12000028 | US | 8 | 1,144,000 KG | 32091000 | 2025-03-10 | 2026-02-02 |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | US | 8 | 2,000,000 KG | 39069090 | 2025-03-03 | 2026-01-21 |
+| Marenthal Chemie AG | Marenglide 953 lubricant additive | 12000003 | US | 8 | 512,000 KG | 34039900 | 2025-02-06 | 2026-01-23 |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | FR | 7 | 546,000 KG | 32129000 | 2025-02-19 | 2025-11-03 |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | US | 8 | 208,000 KG | 32129000 | 2025-02-14 | 2026-01-14 |
+| Marenthal Chemie AG | Marenphos 125 phosphating solution | 12000008 | FR | 7 | 504,000 KG | 38249996 | 2025-02-27 | 2025-12-12 |
+| Marenthal Chemie AG | Marensolv 108 thinner (solvent blend) | 12000004 | FR | 7 | 1,211,000 KG | 38140090 | 2025-02-28 | 2025-12-19 |
+| Marenthal Chemie AG | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | CN | 4 | 1,624,000 KG | 38140090 | 2025-04-29 | 2025-12-05 |
+| Marenthal Chemie AG | Marenwet 237 wetting agent | 12000001 | CN | 5 | 455,000 KG | 34021390 | 2025-04-25 | 2026-01-28 |
+| Marenthal Chemie AG | Methanol, technical grade | 12000049 | US | 13 | 6,500,000 KG | 29051100 | 2025-02-12 | 2026-01-21 |
+| Marenthal Chemie AG | Methoxypropyl acetate | 13000047 | BE | 1 | 400 KG | 38249996 | 2025-11-18 | 2025-11-18 |
+| Marenthal Chemie AG | Methyl ethyl ketone, technical grade | 12000042 | NL | 10 | 1,060,000 KG | 29141200 | 2025-02-19 | 2026-01-16 |
+| Marenthal Chemie AG | Methyl methacrylate | 13000057 | DE | 9 | 595,000 KG | 38249996 | 2025-02-11 | 2025-12-10 |
+| Marenthal Chemie AG | Methyl methacrylate | 13000057 | US | 1 | 68,000 KG | 38249996 | 2025-05-21 | 2025-05-21 |
+| Marenthal Chemie AG | Monoethanolamine | 13000029 | BE | 12 | 67,200 KG | 38249996 | 2025-02-12 | 2025-12-30 |
+| Marenthal Chemie AG | Monoethanolamine | 13000029 | DE | 1 | 5,600 KG | 38249996 | 2025-09-10 | 2025-09-10 |
+| Marenthal Chemie AG | Neopentyl glycol | 13000059 | DE | 13 | 1,677,000 KG | 38249996 | 2025-02-19 | 2025-12-30 |
+| Marenthal Chemie AG | Nitrile protective gloves (pair) | 15000001 | DE | 10 | 590 ST | - | 2025-03-10 | 2025-12-19 |
+| Marenthal Chemie AG | Pail 20 L with lid | 14000006 | DE | 7 | 180,250 ST | 39231090 | 2025-03-04 | 2025-12-10 |
+| Marenthal Chemie AG | Pail 20 L with lid | 14000006 | PL | 1 | 25,750 ST | 39231090 | 2025-09-15 | 2025-09-15 |

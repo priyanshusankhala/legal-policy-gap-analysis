@@ -1,0 +1,128 @@
+# Register of customers by country and sector - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Company | Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Austria (AT) | Automobilzulieferer | Industrie | 2 |
+| Marenthal Chemie AG | Austria (AT) | Bauchemie und Baustoffe | Industrie | 2 |
+| Marenthal Chemie AG | Austria (AT) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Austria (AT) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Austria (AT) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Austria (AT) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Austria (AT) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Marenthal Chemie AG | Austria (AT) | Metall- und Oberflächentechnik | Industrie | 3 |
+| Marenthal Chemie AG | Brazil (BR) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Brazil (BR) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Brazil (BR) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Bulgaria (BG) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Bulgaria (BG) | Bauchemie und Baustoffe | Industrie | 2 |
+| Marenthal Chemie AG | Bulgaria (BG) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | China (CN) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | China (CN) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemie AG | China (CN) | Farben und Lacke | Industrie | 2 |
+| Marenthal Chemie AG | China (CN) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | China (CN) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Marenthal Chemie AG | Croatia (HR) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Croatia (HR) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Croatia (HR) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Cyprus (CY) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Cyprus (CY) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Cyprus (CY) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Czechia (CZ) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Czechia (CZ) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Czechia (CZ) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Czechia (CZ) | Kunststoffverarbeitung | Industrie | 2 |
+| Marenthal Chemie AG | Czechia (CZ) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Marenthal Chemie AG | Czechia (CZ) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Czechia (CZ) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | Denmark (DK) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Denmark (DK) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Denmark (DK) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Denmark (DK) | Kunststoffverarbeitung | Industrie | 2 |
+| Marenthal Chemie AG | Denmark (DK) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Denmark (DK) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Denmark (DK) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Estonia (EE) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Estonia (EE) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Estonia (EE) | Kunststoffverarbeitung | Industrie | 1 |
+| Marenthal Chemie AG | Finland (FI) | Chemiehandel | Distributor | 2 |
+| Marenthal Chemie AG | Finland (FI) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Finland (FI) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Finland (FI) | Kunststoffverarbeitung | Industrie | 1 |
+| Marenthal Chemie AG | Finland (FI) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Finland (FI) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Finland (FI) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | France (FR) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | France (FR) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemie AG | France (FR) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | France (FR) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Germany (DE) | Automobilzulieferer | Industrie | 5 |
+| Marenthal Chemie AG | Germany (DE) | Bauchemie und Baustoffe | Industrie | 7 |
+| Marenthal Chemie AG | Germany (DE) | Chemiehandel | Distributor | 7 |
+| Marenthal Chemie AG | Germany (DE) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal Chemie AG | Germany (DE) | Farben und Lacke | Industrie | 15 |
+| Marenthal Chemie AG | Germany (DE) | Gebäudereinigung und Hygiene | Endkunde | 7 |
+| Marenthal Chemie AG | Germany (DE) | Kunststoffverarbeitung | Industrie | 7 |
+| Marenthal Chemie AG | Germany (DE) | Lebensmittel- und Getränkeindustrie | Industrie | 4 |
+| Marenthal Chemie AG | Germany (DE) | Maschinen- und Anlagenbau | Industrie | 8 |
+| Marenthal Chemie AG | Germany (DE) | Metall- und Oberflächentechnik | Industrie | 16 |
+| Marenthal Chemie AG | Germany (DE) | Textil- und Papierindustrie | Industrie | 5 |
+| Marenthal Chemie AG | Germany (DE) | Wasseraufbereitung und Umwelttechnik | Industrie | 5 |
+| Marenthal Chemie AG | Greece (GR) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Greece (GR) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Greece (GR) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Marenthal Chemie AG | Greece (GR) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Greece (GR) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | Hungary (HU) | Automobilzulieferer | Industrie | 2 |
+| Marenthal Chemie AG | Hungary (HU) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Hungary (HU) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Hungary (HU) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Hungary (HU) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Ireland (IE) | Automobilzulieferer | Industrie | 2 |
+| Marenthal Chemie AG | Ireland (IE) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Ireland (IE) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Ireland (IE) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Ireland (IE) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | Italy (IT) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Italy (IT) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Italy (IT) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Italy (IT) | Kunststoffverarbeitung | Industrie | 4 |
+| Marenthal Chemie AG | Italy (IT) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | Kenya (KE) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Kenya (KE) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Kenya (KE) | Kunststoffverarbeitung | Industrie | 1 |
+| Marenthal Chemie AG | Kenya (KE) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Kenya (KE) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Marenthal Chemie AG | Latvia (LV) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Latvia (LV) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Latvia (LV) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Lithuania (LT) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Lithuania (LT) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Lithuania (LT) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Malta (MT) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Malta (MT) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | Malta (MT) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Netherlands (NL) | Automobilzulieferer | Industrie | 2 |
+| Marenthal Chemie AG | Netherlands (NL) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Netherlands (NL) | Chemiehandel | Distributor | 3 |
+| Marenthal Chemie AG | Netherlands (NL) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal Chemie AG | Netherlands (NL) | Farben und Lacke | Industrie | 2 |
+| Marenthal Chemie AG | Netherlands (NL) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Marenthal Chemie AG | Netherlands (NL) | Kunststoffverarbeitung | Industrie | 2 |
+| Marenthal Chemie AG | Netherlands (NL) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Marenthal Chemie AG | Netherlands (NL) | Metall- und Oberflächentechnik | Industrie | 3 |
+| Marenthal Chemie AG | Netherlands (NL) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Netherlands (NL) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal Chemie AG | Poland (PL) | Automobilzulieferer | Industrie | 2 |
+| Marenthal Chemie AG | Poland (PL) | Bauchemie und Baustoffe | Industrie | 4 |
+| Marenthal Chemie AG | Poland (PL) | Chemiehandel | Distributor | 4 |
+| Marenthal Chemie AG | Poland (PL) | Farben und Lacke | Industrie | 4 |
+| Marenthal Chemie AG | Poland (PL) | Gebäudereinigung und Hygiene | Endkunde | 2 |
+| Marenthal Chemie AG | Poland (PL) | Kunststoffverarbeitung | Industrie | 3 |
+| Marenthal Chemie AG | Poland (PL) | Maschinen- und Anlagenbau | Industrie | 3 |
+| Marenthal Chemie AG | Poland (PL) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Portugal (PT) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Romania (RO) | Bauchemie und Baustoffe | Industrie | 1 |

@@ -1,0 +1,36 @@
+
+
+Fallakte HF00010 (vertraulich)
+Fallakte Meldestelle
+Dokumentnummer
+DMS-00000908
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Restricted
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Hinweisfall
+eingang_datum: 2025-06-11
+kanal: Hotline
+kategorie: Exportkontrolle und Sanktionen
+sprache: de
+schweregrad: hoch
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 1
+kurzbeschreibung: Ein Hinweisgeber hat über die Meldestelle den Verdacht geäußert, dass ein
+Distributor des Konzerns Waren möglicherweise an einen sanktionierten Endkunden weiterliefert. Die
+Meldung beruht auf Zweifeln an der Endverwendung und dem tatsächlichen Endkunden der
+Lieferungen. Der Sachverhalt betrifft die Kategorie Exportkontrolle und Sanktionen und wird mit hohem
+Schweregrad eingestuft. Gesellschaft: DE. Eine umgehende Prüfung der Lieferketten,
+Endkundendokumentation und Sanktionslistenabgleiche ist erforderlich.
+bestaetigung_am: 2025-06-17
+rueckmeldung_am: 2025-09-05
+abschluss_datum: 2025-10-16
+ergebnis: nicht bestätigt

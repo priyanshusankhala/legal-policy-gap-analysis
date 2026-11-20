@@ -1,0 +1,37 @@
+
+
+Technisches Datenblatt Marenclean B 1006
+Chlorreiniger
+Technisches Datenblatt
+Dokumentnummer
+DMS-00000413
+Version
+7.0
+Gültig ab
+2024-06-24
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenclean B 1006 chlorine-based cleaner
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Facility hygiene, Disinfectants
+Description: Reinigung und Bleiche mit aktivem Chlor
+Hazardous: 1
+SDS available: 1
+Density: 1.037
+UN: UN1791
+Class: 8
+HS: 2828909000
+Origin: DE
+Zusammensetzung
+Water (demineralised): 71.7–87.7 %
+Sodium hypochlorite solution: 14.9–18.3 %
+Sodium laureth sulfate: 1.5–2.5 %
+Sodium hydroxide (50 %): 1.2–2.2 %

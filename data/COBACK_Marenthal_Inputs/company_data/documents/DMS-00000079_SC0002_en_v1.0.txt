@@ -1,0 +1,40 @@
+
+
+Advanced Anti-Corruption for Sales, Purchasing and
+Management – Training Material
+Schulungsunterlage
+Document no.
+DMS-00000079
+Version
+1.0
+Valid from
+2021-10-06
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Antikorruption vertieft für Vertrieb, Einkauf und Geschäftsleitung
+thema: Compliance
+pflicht: 1
+zielgruppe: Vertrieb, Einkauf, Geschäftsleitung, Kundenservice
+sprachen: de,en,fr,zh
+dauer_min: 90
+intervall_monate: 12
+format: Webinar
+status: aktiv
+Richtlinie
+nummer: KR-002
+titel: Richtlinie Antikorruption und Zuwendungen
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-24
+master_sprache: de
+vertraulichkeit: intern

@@ -1,0 +1,28 @@
+
+
+Risikobericht 2. Halbjahr 2024
+Bericht an Geschäftsleitung
+Dokumentnummer
+DMS-00000609
+Version
+1.0
+Gültig ab
+2025-02-14
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Bericht
+art: Risikobericht
+zeitraum_von: 2024-07-01
+zeitraum_bis: 2024-12-31
+adressat: Prüfungsausschuss
+berichtsdatum: 2025-02-14
+status: Zur Kenntnis genommen
+kennzahlen: {"risiken_gesamt":115,"risiken_hoch":5,"massnahmen_offen":39,"massnahmen_ueberfaell
+ig":16,"vorfaelle":20}

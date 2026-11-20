@@ -1,0 +1,45 @@
+# Register of suppliers and purchases - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+Each supplier with country, group, status, number of purchase order lines, purchase value, the main materials bought and the country of origin of the goods. Contact persons are not named.
+
+| Supplier | Supplier country | Group | Status | Type | Order lines | Purchase value | Main materials | Origin of goods (lines) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals Inc. | United States (US) | Konzern | blocked | intra-group | 65 | 11,476,637 USD | Phosphoric acid (75 %), technical grade, Marenclean R 1402 rust remover, Marencoat DB 1333 roof coating, Marencoat TG 1400 penetrating primer | US 65 |
+| Marenthal Chemie AG | Germany (DE) | Konzern | blocked | intra-group | 101 | 6,667,126 EUR | Hydrochloric acid (33 %), technical grade, Marenclean A 238 alkaline industrial cleaner, Marencoat PH 1102 epoxy hardener (component B), Marenclean E 537 degreaser | DE 101 |
+| Marenthal France S.A.S. | France (FR) | Konzern | blocked | intra-group | 56 | 9,086,589 EUR | Marensolv 108 thinner (solvent blend), Acrylic acid, technical grade, Styrene, technical grade, Diethylenetriamine, technical grade | FR 56 |
+| 上海博远咨询有限公司 | China (CN) | Dienstleistung | blocked | external | 30 | 1,718,826 CNY | - |  30 |
+| 上海宁远精细化工有限公司 | China (CN) | Rohstoff | blocked | external | 32 | 20,275,343 CNY | Zinc oxide, Titanium dioxide, n-Heptane, Propylene glycol | CN 32 |
+| 上海扬帆化工有限公司 | China (CN) | Rohstoff | blocked | external | 4 | 546,131 CNY | 1,2-Benzisothiazolin-3-one, Benzalkonium chloride, Talc, Bisphenol-A epoxy resin | CN 4 |
+| 上海百川精细化工有限公司 | China (CN) | Rohstoff | blocked | external | 3 | 85,913 CNY | Propylene glycol, Hydroxyethyl cellulose, Dipropylene glycol | CN 3 |
+| 上海远东检测技术有限公司 | China (CN) | Dienstleistung | blocked | external | 0 | - | - | - |
+| 上海金海化工贸易有限公司 | China (CN) | Handelsware | blocked | external | 15 | 22,887,942 CNY | Calcium carbonate, technical grade, Acetic acid, technical grade, Ethanol, technical grade, Isopropanol, technical grade | CN 10, NL 3, BE 2 |
+| 北京嘉禾能源有限公司 | China (CN) | MRO | blocked | external | 41 | 15,814,642 CNY | - |  41 |
+| 北京安泰包装制品有限公司 | China (CN) | Verpackung | blocked | external | 0 | - | - | - |
+| 北京瑞丰工业服务有限公司 | China (CN) | MRO | blocked | external | 150 | 5,020,333 CNY | , GHS hazard pictogram label roll |  149, CN 1 |
+| 北京鑫源包装制品有限公司 | China (CN) | Verpackung | blocked | external | 60 | 29,660,416 CNY | Pail 20 L with lid, Shrink hood, GHS label set, Plastic canister 10 L | CN 60 |
+| 北京长荣精细化工有限公司 | China (CN) | Rohstoff | blocked | external | 3 | 478,389 CNY | Dipropylene glycol, Bisphenol-A epoxy resin, Hydroxyethyl cellulose | CN 3 |
+| 宁波丰源化工贸易有限公司 | China (CN) | Handelsware | blocked | external | 1 | 403,158 CNY | Methyl ethyl ketone, technical grade | NL 1 |
+| 宁波兴盛保险经纪有限公司 | China (CN) | Dienstleistung | blocked | external | 35 | 1,755,041 CNY | - |  35 |
+| 宁波博远物业服务有限公司 | China (CN) | Dienstleistung | blocked | external | 29 | 1,630,766 CNY | - |  29 |
+| 宁波德润工业服务有限公司 | China (CN) | MRO | blocked | external | 20 | 619,720 CNY | - |  20 |
+| 宁波汇通设备工程有限公司 | China (CN) | MRO | blocked | external | 148 | 4,454,246 CNY | , Activated carbon filter A2, Filter cartridge 5 µm, GHS hazard pictogram label roll |  118, CN 30 |
+| 宁波盛华工业服务有限公司 | China (CN) | MRO | blocked | external | 179 | 5,835,838 CNY | - |  179 |
+| 宁波金海包装制品有限公司 | China (CN) | Verpackung | blocked | external | 5 | 1,733,640 CNY | Tamper-evident closure, Plastic drum 200 L, EUR pallet, IBC container 1000 L | CN 5 |
+| 宁波鑫源管理咨询有限公司 | China (CN) | Dienstleistung | blocked | external | 26 | 1,565,739 CNY | - |  26 |
+| 宁波长荣化工有限公司 | China (CN) | Rohstoff | blocked | external | 182 | 41,846,399 CNY | Fatty alcohol ethoxylate (C12-14, 6 EO), Propylene glycol, Ammonia solution (25 %), Rosin (colophony) | CN 182 |
+| 常州宁远化工贸易有限公司 | China (CN) | Handelsware | blocked | external | 11 | 65,066,629 CNY | Glycerol, technical grade, Acetic acid, technical grade, Isopropanol, technical grade | CN 9, NL 1, BE 1 |
+| 常州宁远运输有限公司 | China (CN) | Logistik | blocked | external | 19 | 929,522 CNY | - |  19 |
+| 常州宏达运输有限公司 | China (CN) | Logistik | blocked | external | 26 | 1,319,723 CNY | - |  26 |
+| 常州恒润工业气体有限公司 | China (CN) | MRO | blocked | external | 63 | 24,974,692 CNY | - |  63 |
+| 常州汇通检测技术有限公司 | China (CN) | Dienstleistung | blocked | external | 45 | 4,200,394 CNY | - |  45 |
+| 常州金海精细化工有限公司 | China (CN) | Rohstoff | blocked | external | 49 | 10,317,534 CNY | Polydimethylsiloxane, Sodium dodecylbenzenesulfonate, Monoethanolamine, Hydrocarbon solvent (hydrotreated heavy naphtha) | CN 49 |
+| 广州安泰化工有限公司 | China (CN) | Rohstoff | blocked | external | 9 | 1,994,690 CNY | Styrene-acrylate copolymer dispersion, n-Heptane, Ammonia solution (25 %), Dipropylene glycol | CN 9 |
+| 广州恒泰化工贸易有限公司 | China (CN) | Handelsware | blocked | external | 48 | 97,042,517 CNY | Methyl ethyl ketone, technical grade, Ethyl acetate, technical grade, Titanium dioxide, technical grade, Isopropanol, technical grade | NL 25, BE 14, DE 9 |
+| 广州恒泰精细化工有限公司 | China (CN) | Rohstoff | blocked | external | 83 | 17,018,672 CNY | d-Limonene, Isopropanol, Water (demineralised), 2-Butoxyethanol | CN 83 |
+| 广州盛华物流有限公司 | China (CN) | Logistik | blocked | external | 10 | 428,651 CNY | - |  10 |
+| 深圳恒润运输有限公司 | China (CN) | Logistik | blocked | external | 16 | 776,478 CNY | - |  16 |
+| 深圳泰和设备工程有限公司 | China (CN) | MRO | blocked | external | 138 | 4,205,315 CNY | - |  138 |
+| 深圳瑞丰信息技术有限公司 | China (CN) | Dienstleistung | blocked | external | 57 | 4,373,158 CNY | - |  57 |
+| 深圳远东信息技术有限公司 | China (CN) | Dienstleistung | blocked | external | 0 | - | - | - |

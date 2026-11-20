@@ -1,0 +1,125 @@
+# Register of sales by destination country and product - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| China (CN) | Marenclean C 1305 CIP cleaner | FG-000007 | 4 | 268,000 KG | 285,527 USD |
+| China (CN) | Marenclean O 1100 active oxygen cleaner (powder) | FG-000006 | 4 | 26,400 KG | 35,928 USD |
+| China (CN) | Marenclean R 1402 rust remover | FG-000008 | 6 | 174,000 KG | 203,684 USD |
+| China (CN) | Marenclean U 101 all-purpose cleaner | FG-000004 | 4 | 144,000 KG | 151,024 USD |
+| China (CN) | Marencoat AF 309 acrylic facade paint | FG-000009 | 4 | 109,000 KG | 305,244 USD |
+| China (CN) | Marencoat DB 1333 roof coating | FG-000013 | 5 | 90,000 KG | 263,790 USD |
+| China (CN) | Marencoat HL 509 water-based wood coating | FG-000010 | 4 | 60,000 KG | 181,038 USD |
+| China (CN) | Marencoat RS 730 anticorrosive primer | FG-000011 | 4 | 28,000 KG | 99,994 USD |
+| China (CN) | Marencoat TG 1400 penetrating primer | FG-000014 | 5 | 755,000 KG | 1,092,757 USD |
+| China (CN) | Marendisp 305 dispersing agent | FG-000001 | 2 | 7,200 KG | 16,839 USD |
+| China (CN) | Marenglide 953 lubricant additive | FG-000002 | 5 | 1,175,000 KG | 3,446,980 USD |
+| China (CN) | Marenpaste 237 pigment preparation | FG-000003 | 3 | 69,000 KG | 210,381 USD |
+| China (CN) | Methanol, technical grade | TG-000056 | 5 | 1,840,000 KG | 891,480 USD |
+| China (CN) | Phosphoric acid (75 %), technical grade | TG-000058 | 7 | 3,500,000 KG | 3,795,050 USD |
+| China (CN) | Sodium hydroxide (50 %), technical grade | TG-000057 | 3 | 936,000 KG | 496,922 USD |
+| France (FR) | Marenclean C 1305 CIP cleaner | FG-000007 | 7 | 756,000 KG | 796,543 USD |
+| France (FR) | Marenclean O 1100 active oxygen cleaner (powder) | FG-000006 | 5 | 56,000 KG | 74,822 USD |
+| France (FR) | Marenclean R 1402 rust remover | FG-000008 | 6 | 276,000 KG | 317,234 USD |
+| France (FR) | Marenclean U 101 all-purpose cleaner | FG-000004 | 7 | 637,000 KG | 629,038 USD |
+| France (FR) | Marenclean U 134 all-purpose cleaner | FG-000005 | 9 | 558,000 KG | 528,761 USD |
+| France (FR) | Marencoat AF 309 acrylic facade paint | FG-000009 | 6 | 184,000 KG | 505,908 USD |
+| France (FR) | Marencoat DB 1333 roof coating | FG-000013 | 8 | 448,000 KG | 1,289,210 USD |
+| France (FR) | Marencoat HL 509 water-based wood coating | FG-000010 | 5 | 55,000 KG | 162,932 USD |
+| France (FR) | Marencoat RS 730 anticorrosive primer | FG-000011 | 4 | 33,800 KG | 117,512 USD |
+| France (FR) | Marencoat TG 1400 penetrating primer | FG-000014 | 8 | 824,000 KG | 1,150,222 USD |
+| France (FR) | Marendisp 305 dispersing agent | FG-000001 | 7 | 133,000 KG | 306,181 USD |
+| France (FR) | Marenglide 953 lubricant additive | FG-000002 | 8 | 272,000 KG | 783,414 USD |
+| France (FR) | Marenpaste 237 pigment preparation | FG-000003 | 7 | 84,000 KG | 251,462 USD |
+| France (FR) | Methanol, technical grade | TG-000056 | 8 | 2,560,000 KG | 1,240,320 USD |
+| France (FR) | Phosphoric acid (75 %), technical grade | TG-000058 | 8 | 624,000 KG | 689,286 USD |
+| France (FR) | Sodium hydroxide (50 %), technical grade | TG-000057 | 15 | 7,500,000 KG | 3,981,750 USD |
+| Germany (DE) | Marenclean C 1305 CIP cleaner | FG-000007 | 7 | 1,365,000 KG | 1,414,550 USD |
+| Germany (DE) | Marenclean O 1100 active oxygen cleaner (powder) | FG-000006 | 8 | 1,072,000 KG | 1,419,114 USD |
+| Germany (DE) | Marenclean R 1402 rust remover | FG-000008 | 8 | 1,504,000 KG | 1,712,605 USD |
+| Germany (DE) | Marenclean U 101 all-purpose cleaner | FG-000004 | 8 | 816,000 KG | 822,242 USD |
+| Germany (DE) | Marenclean U 134 all-purpose cleaner | FG-000005 | 8 | 1,880,000 KG | 1,765,132 USD |
+| Germany (DE) | Marencoat AF 309 acrylic facade paint | FG-000009 | 8 | 1,888,000 KG | 5,142,912 USD |
+| Germany (DE) | Marencoat DB 1333 roof coating | FG-000013 | 7 | 602,000 KG | 1,716,362 USD |
+| Germany (DE) | Marencoat HL 509 water-based wood coating | FG-000010 | 6 | 336,000 KG | 986,160 USD |
+| Germany (DE) | Marencoat RS 730 anticorrosive primer | FG-000011 | 8 | 232,000 KG | 799,124 USD |
+| Germany (DE) | Marencoat TG 1400 penetrating primer | FG-000014 | 8 | 1,144,000 KG | 1,582,152 USD |
+| Germany (DE) | Marendisp 305 dispersing agent | FG-000001 | 8 | 2,000,000 KG | 4,550,000 USD |
+| Germany (DE) | Marenglide 953 lubricant additive | FG-000002 | 8 | 512,000 KG | 1,486,592 USD |
+| Germany (DE) | Marenpaste 237 pigment preparation | FG-000003 | 8 | 208,000 KG | 616,886 USD |
+| Germany (DE) | Methanol, technical grade | TG-000056 | 13 | 6,500,000 KG | 3,235,050 USD |
+| Germany (DE) | Phosphoric acid (75 %), technical grade | TG-000058 | 8 | 2,504,000 KG | 2,715,087 USD |
+| Germany (DE) | Sodium hydroxide (50 %), technical grade | TG-000057 | 16 | 8,000,000 KG | 4,277,800 USD |
+| United States (US) | 2-Ethylhexyl acrylate, technical grade | TG-000038 | 42 | 359,825 KG | 931,821 USD |
+| United States (US) | Acetic acid, technical grade | TG-000054 | 60 | 1,015,200 KG | 820,231 USD |
+| United States (US) | Acrylic acid, technical grade | TG-000041 | 38 | 784,625 KG | 1,892,945 USD |
+| United States (US) | Butyl acetate, technical grade | TG-000048 | 30 | 371,000 KG | 681,509 USD |
+| United States (US) | Calcium carbonate, technical grade | TG-000062 | 40 | 3,260,300 KG | 427,979 USD |
+| United States (US) | Diethylenetriamine, technical grade | TG-000044 | 32 | 178,025 KG | 548,607 USD |
+| United States (US) | Ethanol, technical grade | TG-000046 | 114 | 1,378,400 KG | 1,809,233 USD |
+| United States (US) | Ethyl acetate, technical grade | TG-000047 | 147 | 2,310,675 KG | 3,108,448 USD |
+| United States (US) | Glycerol, technical grade | TG-000060 | 72 | 811,800 KG | 1,058,530 USD |
+| United States (US) | Hydrochloric acid (33 %), technical grade | TG-000052 | 70 | 5,450,100 KG | 882,282 USD |
+| United States (US) | Isophorone diisocyanate, technical grade | TG-000043 | 21 | 100,650 KG | 624,567 USD |
+| United States (US) | Isopropanol, technical grade | TG-000045 | 72 | 1,240,700 KG | 1,802,466 USD |
+| United States (US) | Maleic anhydride, technical grade | TG-000042 | 33 | 806,200 KG | 1,895,592 USD |
+| United States (US) | Marenbase 1003 neutralising agent | TG-000008 | 30 | 44,775 KG | 327,265 USD |
+| United States (US) | Marenclean A 207 alkaline industrial cleaner | TG-000014 | 19 | 187,300 KG | 299,069 USD |
+| United States (US) | Marenclean A 238 alkaline industrial cleaner | TG-000015 | 99 | 2,609,825 KG | 4,210,005 USD |
+| United States (US) | Marenclean B 1006 chlorine-based cleaner | TG-000023 | 7 | 111,600 KG | 152,224 USD |
+| United States (US) | Marenclean C 1305 CIP cleaner | FG-000007 | 99 | 2,402,600 KG | 3,651,353 USD |
+| United States (US) | Marenclean E 504 degreaser | TG-000018 | 28 | 105,300 KG | 202,955 USD |
+| United States (US) | Marenclean E 537 degreaser | TG-000019 | 74 | 635,850 KG | 1,209,650 USD |
+| United States (US) | Marenclean G 800 glass cleaner | TG-000021 | 65 | 597,850 KG | 856,338 USD |
+| United States (US) | Marenclean H 637 hand cleaner | TG-000020 | 15 | 66,975 KG | 127,082 USD |
+| United States (US) | Marenclean P 404 phosphoric acid cleaner | TG-000017 | 44 | 412,300 KG | 761,394 USD |
+| United States (US) | Marenclean R 1402 rust remover | FG-000008 | 52 | 837,575 KG | 1,366,699 USD |
+| United States (US) | Marenclean S 301 descaler | TG-000016 | 44 | 2,064,800 KG | 3,302,511 USD |
+| United States (US) | Marenclean Z 904 citrus cleaner | TG-000022 | 122 | 831,525 KG | 2,469,494 USD |
+| United States (US) | Marenclear 406 dechlorinating agent | TG-000013 | 14 | 95,925 KG | 233,721 USD |
+| United States (US) | Marencoat AF 309 acrylic facade paint | FG-000009 | 38 | 174,425 KG | 752,501 USD |
+| United States (US) | Marencoat AF 333 acrylic facade paint | TG-000025 | 58 | 305,600 KG | 1,548,974 USD |
+| United States (US) | Marencoat AL 603 alkyd enamel | TG-000027 | 53 | 403,150 KG | 2,469,064 USD |
+| United States (US) | Marencoat AL 634 alkyd enamel | TG-000028 | 53 | 148,800 KG | 1,096,557 USD |
+| United States (US) | Marencoat DB 1303 roof coating | TG-000032 | 44 | 178,225 KG | 804,814 USD |
+| United States (US) | Marencoat DB 1333 roof coating | FG-000013 | 14 | 45,375 KG | 191,299 USD |
+| United States (US) | Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | 19 | 33,300 KG | 289,568 USD |
+| United States (US) | Marencoat HL 509 water-based wood coating | FG-000010 | 51 | 337,600 KG | 1,677,943 USD |
+| United States (US) | Marencoat HL 533 water-based wood coating | TG-000026 | 49 | 128,025 KG | 699,041 USD |
+| United States (US) | Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | 35 | 73,375 KG | 487,595 USD |
+| United States (US) | Marencoat RS 703 anticorrosive primer | TG-000029 | 2 | 4,600 KG | 25,252 USD |
+| United States (US) | Marencoat RS 730 anticorrosive primer | FG-000011 | 22 | 32,025 KG | 216,845 USD |
+| United States (US) | Marencoat TG 1400 penetrating primer | FG-000014 | 53 | 421,425 KG | 989,259 USD |
+| United States (US) | Marencoat TG 1438 penetrating primer | TG-000033 | 36 | 216,900 KG | 446,606 USD |
+| United States (US) | Marendisp 305 dispersing agent | FG-000001 | 69 | 245,375 KG | 1,151,923 USD |
+| United States (US) | Marendisp 332 dispersing agent | TG-000003 | 22 | 68,200 KG | 326,694 USD |
+| United States (US) | Marenemul 731 emulsifier | TG-000006 | 41 | 143,325 KG | 515,489 USD |
+| United States (US) | Marenflex 906 plasticizer | TG-000007 | 54 | 146,625 KG | 813,584 USD |
+| United States (US) | Marenfoam 133 defoamer | TG-000004 | 60 | 218,675 KG | 1,134,435 USD |
+| United States (US) | Marenglide 953 lubricant additive | FG-000002 | 25 | 85,675 KG | 448,321 USD |
+| United States (US) | Marenpaste 202 pigment preparation | TG-000011 | 34 | 94,975 KG | 487,662 USD |
+| United States (US) | Marenpaste 237 pigment preparation | FG-000003 | 14 | 24,375 KG | 123,720 USD |
+| United States (US) | Marenphos 125 phosphating solution | TG-000012 | 6 | 18,950 KG | 90,117 USD |
+| United States (US) | Marensolv 108 thinner (solvent blend) | TG-000009 | 66 | 579,625 KG | 1,572,920 USD |
+| United States (US) | Marensolv 302 degreasing spirit (solvent blend) | TG-000010 | 95 | 572,150 KG | 1,564,404 USD |
+| United States (US) | Marenthix 409 thickener | TG-000005 | 49 | 369,150 KG | 1,161,306 USD |
+| United States (US) | Marenwet 206 wetting agent | TG-000001 | 35 | 204,000 KG | 735,572 USD |
+| United States (US) | Marenwet 237 wetting agent | TG-000002 | 31 | 118,125 KG | 463,217 USD |
+| United States (US) | Methanol, technical grade | TG-000056 | 67 | 2,756,300 KG | 1,406,640 USD |
+| United States (US) | Methyl ethyl ketone, technical grade | TG-000049 | 64 | 781,250 KG | 1,615,579 USD |
+| United States (US) | Methyl methacrylate, technical grade | TG-000034 | 10 | 32,900 KG | 87,697 USD |
+| United States (US) | Neopentyl glycol, technical grade | TG-000036 | 16 | 184,300 KG | 400,667 USD |
+| United States (US) | Pentaerythritol, technical grade | TG-000037 | 39 | 290,500 KG | 589,204 USD |
+| United States (US) | Phosphoric acid (75 %), technical grade | TG-000058 | 107 | 2,883,200 KG | 3,384,845 USD |
+| United States (US) | Propylene glycol, technical grade | TG-000055 | 38 | 581,125 KG | 1,310,721 USD |
+| United States (US) | Sodium hydroxide (50 %), technical grade | TG-000057 | 113 | 4,112,600 KG | 2,379,156 USD |
+| United States (US) | Styrene, technical grade | TG-000040 | 5 | 22,700 KG | 36,288 USD |
+| United States (US) | Sulfuric acid (96 %), technical grade | TG-000053 | 24 | 1,398,500 KG | 191,427 USD |
+| United States (US) | Titanium dioxide, technical grade | TG-000061 | 73 | 344,175 KG | 1,482,095 USD |
+| United States (US) | Toluene, technical grade | TG-000050 | 80 | 1,603,900 KG | 1,795,785 USD |
+| United States (US) | Vinyl acetate, technical grade | TG-000039 | 20 | 171,500 KG | 376,659 USD |
+| United States (US) | Xylene (isomer mixture), technical grade | TG-000051 | 47 | 830,400 KG | 1,069,686 USD |
+| United States (US) | n-Butyl acrylate, technical grade | TG-000035 | 58 | 450,100 KG | 1,048,651 USD |

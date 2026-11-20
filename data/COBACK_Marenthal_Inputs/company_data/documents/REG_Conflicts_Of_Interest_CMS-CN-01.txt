@@ -1,0 +1,11 @@
+# Register of declared conflicts of interest - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Declared conflicts of interest with the assessment and the decision. Persons are not named.
+
+| Declared | Kind | Description | Partner | Assessment | Decision | Status | Decided on |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-05-27 | Nebentätigkeit | Selbständige Tätigkeit als Gutachter für Prüfinstitute neben dem Beruf. | - | potenzieller Konflikt | Zulässig mit Auflagen: Genehmigung durch den Vorgesetzten, Nachweis der zeitlichen Trennung, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2025-06-06 |
+| 2023-05-24 | Nebentätigkeit | Beratertätigkeit für ein Unternehmen außerhalb der Branche, keine Überschneidung mit Lieferanten oder Kunden. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2023-06-14 |
+| 2023-01-19 | Nebentätigkeit | Selbständige Tätigkeit als Gutachter für Prüfinstitute neben dem Beruf. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2023-02-02 |

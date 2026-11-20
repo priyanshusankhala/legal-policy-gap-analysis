@@ -1,0 +1,32 @@
+
+
+Nachweis: Brandschutzbegehung und
+Evakuierungsübung durchführen – Bitterfeld-Wolfen
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000838
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Brandschutzbegehung und Evakuierungsübung durchführen – Bitterfeld-Wolfen
+beschreibung: Brandschutzmängel erfassen, Übung mit Feuerwehr abstimmen.
+quelle: ArbStättV Anhang 2.2; ASR A2.2
+quelltyp: Verordnung
+land: DE
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2026-05-11
+intervall_monate: 12
+status: erfüllt
+letzte_pruefung: 2025-05-14

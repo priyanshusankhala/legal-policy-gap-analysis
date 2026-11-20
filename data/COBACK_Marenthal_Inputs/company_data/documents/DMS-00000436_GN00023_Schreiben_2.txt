@@ -1,0 +1,30 @@
+
+
+Response to Permit Conditions – EPA Hazardous Waste
+Generator ID (EPAID-BAY-2020/837)
+Behördenkorrespondenz
+Document no.
+DMS-00000436
+Version
+1.0
+Valid from
+2024-07-26
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: EPA Hazardous Waste Generator ID
+nummer: EPAID-BAY-2020/837
+behoerde: TCEQ
+erteilt_am: 2023-10-11
+gueltig_bis: 2026-10-16
+status: gültig
+auflagen: Jahresmeldung der Abfallmengen; Nachweise für Entsorger.

@@ -1,0 +1,42 @@
+# Register of raw material and goods purchases by country of origin - Marenthal France S.A.S. (part 2 of 2)
+
+Company: Marenthal France S.A.S. (FR). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal France S.A.S. | Sodium hydroxide (50 %), technical grade | MC-000064 | US | 15 | 7,500,000 KG | 28151200 | 2025-02-26 | 2026-01-30 |
+| Marenthal France S.A.S. | Sodium metasilicate | MP-000019 | BE | 1 | 73,000 KG | 38249996 | 2025-04-17 | 2025-04-17 |
+| Marenthal France S.A.S. | Sodium metasilicate | MP-000019 | FR | 11 | 803,000 KG | 38249996 | 2025-01-27 | 2026-01-08 |
+| Marenthal France S.A.S. | Sodium sulfate | MP-000018 | FR | 11 | 1,309,000 KG | 38249996 | 2025-03-05 | 2026-01-15 |
+| Marenthal France S.A.S. | Sodium thiosulfate | MP-000015 | BE | 1 | 6,200 KG | 38249996 | 2025-09-19 | 2025-09-19 |
+| Marenthal France S.A.S. | Sodium thiosulfate | MP-000015 | FR | 12 | 74,400 KG | 38249996 | 2025-01-27 | 2025-12-16 |
+| Marenthal France S.A.S. | Sodium tripolyphosphate | MP-000020 | BE | 1 | 25,000 KG | 38249996 | 2025-09-23 | 2025-09-23 |
+| Marenthal France S.A.S. | Sodium tripolyphosphate | MP-000020 | FR | 9 | 225,000 KG | 38249996 | 2025-02-28 | 2025-11-24 |
+| Marenthal France S.A.S. | Solvent naphtha (aromatic) | MP-000008 | BE | 1 | 36,000 KG | 38249996 | 2025-06-27 | 2025-06-27 |
+| Marenthal France S.A.S. | Solvent naphtha (aromatic) | MP-000008 | NL | 12 | 432,000 KG | 38249996 | 2025-02-05 | 2025-12-17 |
+| Marenthal France S.A.S. | Steel drum 200 L | EM-000001 | FR | 8 | 30,800 ST | 39231090 | 2025-02-21 | 2025-12-22 |
+| Marenthal France S.A.S. | Styrene | MP-000024 | DE | 14 | 4,480,000 KG | 38249996 | 2025-01-23 | 2026-01-02 |
+| Marenthal France S.A.S. | Styrene-acrylate copolymer dispersion | MP-000011 | FR | 13 | 80,600 KG | 38249996 | 2025-02-05 | 2026-01-02 |
+| Marenthal France S.A.S. | Sulfuric acid (96 %), technical grade | MC-000060 | DE | 31 | 15,500,000 KG | 28070010 | 2025-02-24 | 2026-01-02 |
+| Marenthal France S.A.S. | Tamper-evident closure | EM-000012 | DE | 1 | 51,950 ST | 39231090 | 2025-05-22 | 2025-05-22 |
+| Marenthal France S.A.S. | Tamper-evident closure | EM-000012 | FR | 7 | 363,650 ST | 39231090 | 2025-02-21 | 2026-01-09 |
+| Marenthal France S.A.S. | Titanium dioxide, technical grade | MC-000067 | CN | 5 | 395,000 KG | 32061100 | 2025-05-12 | 2026-01-23 |
+| Marenthal France S.A.S. | Toluene | MP-000006 | BE | 12 | 780,000 KG | 38249996 | 2025-02-12 | 2025-12-17 |
+| Marenthal France S.A.S. | Toluene, technical grade | MC-000057 | DE | 7 | 483,000 KG | 29023000 | 2025-02-20 | 2025-10-14 |
+| Marenthal France S.A.S. | Transport de matières dangereuses en citerne | - | - | 26 | 131 ST | - | 2025-02-06 | 2025-11-17 |
+| Marenthal France S.A.S. | Transport routier de marchandises | - | - | 24 | 137 ST | - | 2025-03-12 | 2025-12-30 |
+| Marenthal France S.A.S. | Triethylamine | MP-000028 | FR | 1 | 27,000 KG | 38249996 | 2025-11-14 | 2025-11-14 |
+| Marenthal France S.A.S. | Vinyl acetate | MP-000023 | DE | 1 | 117,000 KG | 38249996 | 2025-09-19 | 2025-09-19 |
+| Marenthal France S.A.S. | Vinyl acetate | MP-000023 | FR | 11 | 1,287,000 KG | 38249996 | 2025-02-06 | 2025-12-30 |
+| Marenthal France S.A.S. | Vinyl acetate | MP-000023 | NL | 2 | 234,000 KG | 38249996 | 2025-02-20 | 2025-09-19 |
+| Marenthal France S.A.S. | Water (demineralised) | MP-000001 | NL | 12 | 4,140,000 KG | 38249996 | 2025-03-07 | 2025-12-16 |
+| Marenthal France S.A.S. | Xylene (isomer mixture), technical grade | MC-000058 | DE | 9 | 936,000 KG | 29024400 | 2025-03-28 | 2025-12-31 |
+| Marenthal France S.A.S. | Zinc oxide | MP-000014 | AT | 1 | 3,800 KG | 38249996 | 2025-06-13 | 2025-06-13 |
+| Marenthal France S.A.S. | Zinc oxide | MP-000014 | FR | 12 | 45,600 KG | 38249996 | 2025-02-28 | 2026-01-09 |
+| Marenthal France S.A.S. | n-Butyl acrylate, technical grade | MC-000049 | DE | 8 | 472,000 KG | 29161200 | 2025-02-12 | 2025-12-15 |
+| Marenthal France S.A.S. | Élimination des déchets spéciaux | - | - | 45 | 248 ST | - | 2025-01-23 | 2025-11-17 |
+| Marenthal France S.A.S. | Éléments filtrants de procédé | - | - | 116 | 4,052 ST | - | 2025-01-27 | 2026-01-02 |
+| Marenthal France S.A.S. | Équipements de protection individuelle | - | - | 122 | 12,970 ST | - | 2025-01-20 | 2026-01-08 |
+| Marenthal France S.A.S. | Étalonnage des instruments de mesure | - | - | 44 | 402 ST | - | 2025-01-23 | 2025-12-31 |

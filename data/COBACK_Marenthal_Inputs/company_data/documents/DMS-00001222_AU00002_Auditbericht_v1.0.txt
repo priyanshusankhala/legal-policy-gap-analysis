@@ -1,0 +1,42 @@
+
+
+Auditbericht: Überwachungsaudit ISO 14001 – Werk
+Bitterfeld
+Auditbericht
+Dokumentnummer
+DMS-00001222
+Version
+1.0
+Gültig ab
+2025-10-03
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Überwachungsaudit ISO 14001 – Werk Bitterfeld
+art: Zertifizierung
+scope: Umweltmanagement
+geplant_von: 2025-09-16
+geplant_bis: 2025-09-17
+durchgefuehrt_von: 2025-09-16
+durchgefuehrt_bis: 2025-09-17
+leitender_auditor: Dr. Anja Kessler (DEKRA Certification)
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Umweltziele des Vorjahres: Zielerreichung nicht für alle Ziele bewertet.
+(geschlossen)
+2 [Hinweis] Positiv: Notfallübung mit Werkfeuerwehr ist vorbildlich dokumentiert. (geschlossen)
+3 [Hinweis] Abfallnachweise: Gegenzeichnung des Entsorgers fehlt bei zwei Vorgängen. (geschlossen)
+4 [Nebenabweichung] Abwasser-Selbstüberwachung: eine Probenahme wurde verspätet dokumentiert.
+(geschlossen)
+5 [Nebenabweichung] Auffänge im Fasslager sind nicht durchgängig gekennzeichnet;
+Füllstandskontrolle nicht dokumentiert. (in Bearbeitung)

@@ -1,0 +1,33 @@
+
+
+Product Specification Sheet Styrene, technical grade
+Spezifikationsblatt
+Document no.
+DMS-00001257
+Version
+9.1
+Valid from
+2025-10-21
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Styrene, technical grade
+Family: Intermediates
+Applications: Polymer intermediates, Compounding
+Description: Zwischenprodukt für Synthese und Formulierung (Monomer)
+Hazardous: 1
+SDS available: 1
+Density: 0.91
+UN: UN2055
+Class: 3
+HS: 2902500000
+Origin: FR
+Composition
+Styrene: 99–100 %

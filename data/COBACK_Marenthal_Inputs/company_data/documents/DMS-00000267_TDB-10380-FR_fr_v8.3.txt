@@ -1,0 +1,33 @@
+
+
+Fiche technique Marenclear 406 agent de déchloration
+Technisches Datenblatt
+N° du document
+DMS-00000267
+Version
+8.3
+Valable depuis
+2023-06-23
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Informations
+Product: Marenclear 406 dechlorinating agent
+Family: Specialty Chemicals
+Applications: Process water, Waste water
+Description: Entchlorung von Prozess- und Abwasser
+Hazardous: 0
+SDS available: 1
+Density: 1.104
+HS: 3824999600
+Origin: FR
+Composition
+Water (demineralised): 69.9–85.5 %
+Sodium thiosulfate: 18–22 %
+Sodium carbonate: 1.8–2.8 %

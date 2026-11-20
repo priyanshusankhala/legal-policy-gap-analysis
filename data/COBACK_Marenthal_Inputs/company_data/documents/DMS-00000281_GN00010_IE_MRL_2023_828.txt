@@ -1,0 +1,29 @@
+
+
+Indirekteinleitergenehmigung – IE-MRL-2023/828
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000281
+Version
+1.0
+Gültig ab
+2023-06-15
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Indirekteinleitergenehmigung
+nummer: IE-MRL-2023/828
+behoerde: Bezirksregierung Münster
+erteilt_am: 2023-06-15
+gueltig_bis: 2033-06-15
+status: gültig
+auflagen: Grenzwerte für pH, CSB und Schwermetalle; monatliche Selbstüberwachung.

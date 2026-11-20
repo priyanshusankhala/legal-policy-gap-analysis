@@ -1,0 +1,36 @@
+
+
+Technical Data Sheet Marenbase 1003 neutralising
+agent
+Technisches Datenblatt
+Document no.
+DMS-00001269
+Version
+6.3
+Valid from
+2025-10-30
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenbase 1003 neutralising agent
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Adjuvants
+Description: Einstellung des pH-Werts wässriger Beschichtungen
+Hazardous: 1
+SDS available: 1
+Density: 0.943
+UN: UN2920
+Class: 8(3)
+HS: 3824999600
+Origin: DE
+Composition
+2-Dimethylaminoethanol: 52.4–64 %
+Water (demineralised): 27.7–33.9 %
+Triethanolamine: 9.9–12.1 %

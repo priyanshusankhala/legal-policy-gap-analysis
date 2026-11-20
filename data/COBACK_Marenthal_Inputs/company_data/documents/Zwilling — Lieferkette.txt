@@ -1,0 +1,185 @@
+# Lieferkette
+
+20 Zeilen zur Lieferkette: eigene Produktionsstaetten, Fertigungslaender mit Anteil am Einkaufsvolumen, Produktionspartner der Stufe Tier-1 und Dienstleister. Die Spalte Gruppenzugehoerigkeit sagt, ob eine Staette zur Gruppe gehoert oder ein Dritter ist.
+
+Jede Angabe traegt in eckigen Klammern ihre Herkunft: Quellenkennung, Belegstatus, Vertrauensniveau und Stichtag. `belegt` heisst, die Angabe steht so in der Quelle. `indirekt_belegt` heisst, sie ist aus einer belegten Tatsache abgeleitet und nennt nie einen Zahlenwert. `belegt_ohne_registerauszug` heisst, die Gesellschaft ist durch eine Unternehmensquelle belegt, aber es liegt kein amtlicher Registerauszug vor. `nicht_oeffentlich` heisst, die Angabe existiert, wird aber nicht veroeffentlicht. `nicht_gefunden` heisst, sie war trotz gezielter Suche nicht auffindbar. Die letzten beiden sind kein Nein: sie fuehren zu einer offenen internen Frage und niemals zu einer geschaetzten Angabe.
+
+## L001 — 常州工厂, CN [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Eigene Produktionsstätte
+- **Rolle:** Herstellung
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Gesellschaft:** CMS-CN-01
+- **Belegstelle:** Standortstamm
+
+## L002 — Werk Bitterfeld, DE [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Eigene Produktionsstätte
+- **Rolle:** Herstellung
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Standortstamm
+
+## L003 — Werk Marl, DE [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Eigene Produktionsstätte
+- **Rolle:** Herstellung
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Standortstamm
+
+## L004 — Usine de Saint-Fons, FR [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Eigene Produktionsstätte
+- **Rolle:** Herstellung
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Gesellschaft:** CMS-FR-01
+- **Belegstelle:** Standortstamm
+
+## L005 — Baytown Plant, US [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Eigene Produktionsstätte
+- **Rolle:** Herstellung
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Gesellschaft:** CMS-US-01
+- **Belegstelle:** Standortstamm
+
+## L006 — DE [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 17.2 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L007 — US [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 12.4 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L008 — CN [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 11.0 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L009 — FR [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 7.9 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L010 — IT [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 5.6 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L011 — NL [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 4.4 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L012 — BR [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 4.4 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L013 — ES [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 4.4 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L014 — PL [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 4.3 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L015 — KE [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 3.0 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L016 — BE [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 3.0 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L017 — AT [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 2.8 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L018 — SE [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 2.0 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L019 — CZ [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 1.8 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm
+
+## L020 — DK [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Art:** Absatzland
+- **Rolle:** Kundenkonten
+- **Anteil:** 1.6 % der Kundenkonten
+- **Jahr:** 2026
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Belegstelle:** CRM-Kundenstamm

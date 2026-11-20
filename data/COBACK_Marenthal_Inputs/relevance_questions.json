@@ -1,0 +1,42 @@
+[
+  {
+    "question_id": "RQ-01",
+    "analysis_id": "02-R01",
+    "question": "Which legal entity is being assessed, where is it based, and what does the dump say about providing goods or services to customers?"
+  },
+  {
+    "question_id": "RQ-02",
+    "analysis_id": "05-A2-3.1.1",
+    "question": "What evidence describes chemical manufacturing or importing by the German entity, and which NACE activity can actually be established?"
+  },
+  {
+    "question_id": "RQ-03",
+    "analysis_id": "05-A2-3.1.1",
+    "question": "What evidence identifies substances, annual quantities and REACH registration or exemption for that entity?"
+  },
+  {
+    "question_id": "RQ-04",
+    "analysis_id": "02-R03",
+    "question": "What employee information is available for the German entity, and does it establish annual work units and the relevant reference period?"
+  },
+  {
+    "question_id": "RQ-05",
+    "analysis_id": "02-R03",
+    "question": "What net turnover and balance-sheet totals, with financial years, are available for the German entity?"
+  },
+  {
+    "question_id": "RQ-06",
+    "analysis_id": "02-R12",
+    "question": "What group relationships and ownership or control facts can be established, and what is missing for aggregation?"
+  },
+  {
+    "question_id": "RQ-07",
+    "analysis_id": "02-R11",
+    "question": "Does the evidence describe services or activities only inside one legal entity, inside the group, or for external customers?"
+  },
+  {
+    "question_id": "RQ-08",
+    "analysis_id": "02-R13",
+    "question": "What evidence supports or leaves open the legal, economic and actual IT independence described in the supplied analysis?"
+  }
+]

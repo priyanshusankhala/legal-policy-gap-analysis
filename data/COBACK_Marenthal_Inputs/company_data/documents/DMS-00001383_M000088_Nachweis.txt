@@ -1,0 +1,28 @@
+
+
+Umsetzungsnachweis: Maßnahme aus Hinweisfall
+Diebstahl oder Veruntreuung
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00001383
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals Inc.
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Maßnahme aus Hinweisfall Diebstahl oder Veruntreuung
+beschreibung: Schulung und Prozessanpassung im betroffenen Bereich, Nachverfolgung durch die
+Compliance-Funktion.
+quelle_typ: Hinweis
+prioritaet: mittel
+status: erledigt
+frist: 2025-11-20
+abgeschlossen_am: 2025-12-05
+bemerkung: Nachweis im Compliance-System abgelegt.

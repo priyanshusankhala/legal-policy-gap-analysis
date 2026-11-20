@@ -1,0 +1,81 @@
+
+
+Framework Agreement RV-2024-0113 – Celtic
+Automotive Components Ltd
+Rahmenvertrag
+Document no.
+DMS-00000411
+Version
+1.0
+Valid from
+2024-08-12
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2024-0113
+type: Framework Agreement
+status: Active
+start_date: 2024-08-12
+end_date: 2029-08-11
+auto_renew: 1
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 248.36
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-07-10
+governing_law: German law
+payment_terms: Z060
+incoterm: FCA
+Terms
+Marenemul 702 emulsifier: 279.24 EUR/100 kg
+Marencoat HL 509 water-based wood coating: 418.68 EUR/100 kg
+Marencoat AL 603 alkyd enamel: 522.17 EUR/100 kg
+Marencoat TG 1438 penetrating primer: 158.37 EUR/100 kg
+Butyl acetate, technical grade: 1388.93 EUR/1000 kg
+Account
+name: Celtic Automotive Components Ltd
+type: Customer
+billing_street: 177 Mill Lane
+billing_city: Cork
+billing_postcode: T12 X8R5
+billing_country: IE
+industry: Automotive supplier
+segment: Direct
+size_class: Medium
+status: Active
+
+website: www.celtic-automotive.ie
+created_date: 2017-12-07
+last_modified_date: 2025-07-08
+language: en
+selling_entity: Marenthal Chemie AG
+description: Automotive supplier. Sources Butyl acetate, technical grade, Marencoat HL 509
+water-based wood coating for ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2024-0113
+type: Framework Agreement
+status: Active
+start_date: 2024-08-12
+end_date: 2029-08-11
+auto_renew: 1
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 248.36
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-07-10
+governing_law: German law
+payment_terms: Z060
+incoterm: FCA
+Terms
+Marenemul 702 emulsifier: 279.24 EUR/100 kg
+Marencoat HL 509 water-based wood coating: 418.68 EUR/100 kg
+Marencoat AL 603 alkyd enamel: 522.17 EUR/100 kg
+Marencoat TG 1438 penetrating primer: 158.37 EUR/100 kg
+Butyl acetate, technical grade: 1388.93 EUR/1000 kg

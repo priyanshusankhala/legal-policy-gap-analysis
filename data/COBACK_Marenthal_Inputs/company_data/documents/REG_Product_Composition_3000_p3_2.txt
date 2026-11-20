@@ -1,0 +1,36 @@
+# Register of product composition (substances per product) - Marenthal Chemicals Inc. (part 3 of 3)
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+For every product or raw material: its substances with CAS number, typical share, function, hazard statements, SVHC flag and REACH status, plus UN number, hazard class and customs code of the product.
+
+| Company | Product | Material no. | UN no. | Hazard class | HS code | Substance | CAS | Typical share | Function | H statements | SVHC | REACH status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals Inc. | Marensolv 302 degreasing spirit (solvent blend) | TG-000010 | UN1993 | 3 | 3814009000 | n-Heptane | 142-82-5 | 19.7 % | Lösemittel | H225 H304 H315 H336 H410 | 0 | registriert |
+| Marenthal Chemicals Inc. | Marenthix 409 thickener | TG-000005 | - | - | 3912390000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.25 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenthix 409 thickener | TG-000005 | - | - | 3912390000 | Propylene glycol | 57-55-6 | 6.5 % | Lösevermittler | - | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenthix 409 thickener | TG-000005 | - | - | 3912390000 | Water (demineralised) | 7732-18-5 | 88.75 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals Inc. | Marenthix 409 thickener | TG-000005 | - | - | 3912390000 | Xanthan gum | 11138-66-2 | 4.5 % | Rheologieadditiv | - | 0 | ausgenommen |
+| Marenthal Chemicals Inc. | Marenwet 206 wetting agent | TG-000001 | - | - | 3402139000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.32 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenwet 206 wetting agent | TG-000001 | - | - | 3402139000 | Dipropylene glycol | 25265-71-8 | 6.7 % | Lösevermittler | - | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenwet 206 wetting agent | TG-000001 | - | - | 3402139000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 32.5 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals Inc. | Marenwet 206 wetting agent | TG-000001 | - | - | 3402139000 | Water (demineralised) | 7732-18-5 | 60.48 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals Inc. | Marenwet 237 wetting agent | TG-000002 | - | - | 3402139000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.31 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenwet 237 wetting agent | TG-000002 | - | - | 3402139000 | Dipropylene glycol | 25265-71-8 | 4.1 % | Lösevermittler | - | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenwet 237 wetting agent | TG-000002 | - | - | 3402139000 | Sodium dodecylbenzenesulfonate | 25155-30-0 | 33.3 % | Tensid | H302 H315 H318 H412 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Marenwet 237 wetting agent | TG-000002 | - | - | 3402139000 | Water (demineralised) | 7732-18-5 | 62.29 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals Inc. | Methanol, technical grade | TG-000056 | UN1230 | 3(6.1) | 2905110000 | Methanol | 67-56-1 | 100 % | Hauptbestandteil | H225 H301 H311 H331 H370 | 0 | registriert |
+| Marenthal Chemicals Inc. | Methyl ethyl ketone, technical grade | TG-000049 | UN1193 | 3 | 2914120000 | Methyl ethyl ketone | 78-93-3 | 100 % | Hauptbestandteil | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Methyl methacrylate, technical grade | TG-000034 | UN1247 | 3 | 2916140000 | Methyl methacrylate | 80-62-6 | 100 % | Hauptbestandteil | H225 H315 H317 H335 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Neopentyl glycol, technical grade | TG-000036 | - | - | 2905398000 | Neopentyl glycol | 126-30-7 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Pentaerythritol, technical grade | TG-000037 | - | - | 2905420000 | Pentaerythritol | 115-77-5 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Phosphoric acid (75 %), technical grade | TG-000058 | UN1805 | 8 | 2809200000 | Phosphoric acid (75 %) | 7664-38-2 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Propylene glycol, technical grade | TG-000055 | - | - | 2905320000 | Propylene glycol | 57-55-6 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Sodium hydroxide (50 %), technical grade | TG-000057 | UN1824 | 8 | 2815120000 | Sodium hydroxide (50 %) | 1310-73-2 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Styrene, technical grade | TG-000040 | UN2055 | 3 | 2902500000 | Styrene | 100-42-5 | 100 % | Hauptbestandteil | H226 H315 H319 H332 H361d H372 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Sulfuric acid (96 %), technical grade | TG-000053 | UN1830 | 8 | 2807001000 | Sulfuric acid (96 %) | 7664-93-9 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Titanium dioxide, technical grade | TG-000061 | - | - | 3206110000 | Titanium dioxide | 13463-67-7 | 100 % | Hauptbestandteil | - | 0 | registriert |
+| Marenthal Chemicals Inc. | Toluene, technical grade | TG-000050 | UN1294 | 3 | 2902300000 | Toluene | 108-88-3 | 100 % | Hauptbestandteil | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Vinyl acetate, technical grade | TG-000039 | UN1301 | 3 | 2915320000 | Vinyl acetate | 108-05-4 | 100 % | Hauptbestandteil | H225 H332 H335 H351 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | Xylene (isomer mixture), technical grade | TG-000051 | UN1307 | 3 | 2902440000 | Xylene (isomer mixture) | 1330-20-7 | 100 % | Hauptbestandteil | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marenthal Chemicals Inc. | n-Butyl acrylate, technical grade | TG-000035 | UN2348 | 3 | 2916120000 | n-Butyl acrylate | 141-32-2 | 100 % | Hauptbestandteil | H226 H315 H317 H335 H411 | 0 | Lieferant |

@@ -1,0 +1,84 @@
+
+
+Framework Agreement RV-2022-0032 – Pomorska
+Włókiennictwo Sp. z o.o.
+Rahmenvertrag
+Document no.
+DMS-00000188
+Version
+1.0
+Valid from
+2022-12-02
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2022-0032
+type: Framework Agreement
+status: Active
+start_date: 2022-12-02
+end_date: 2027-12-01
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 100.32
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-10-31
+compliance_review_ref: GPP0000106
+governing_law: German law
+payment_terms: Z060
+incoterm: DAP
+Terms
+Marenclean A 207 alkaline industrial cleaner: 128.1 EUR/100 kg
+Marenclean R 1402 rust remover: 138.3 EUR/100 kg
+Ethanol, technical grade: 1034.52 EUR/1000 kg
+Methyl ethyl ketone, technical grade: 1731.43 EUR/1000 kg
+Account
+name: Pomorska Włókiennictwo Sp. z o.o.
+type: Customer
+billing_street: ul. Chemików 162
+billing_city: Gdańsk
+billing_postcode: 80-853
+billing_country: PL
+industry: Textile and paper industry
+segment: Direct
+size_class: Large
+status: Active
+
+website: www.pomorska-wlokiennictwo.pl
+created_date: 1998-12-29
+last_modified_date: 2024-03-17
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-06-18
+cms_partner_ref: GP000036
+description: Textile and paper industry. Regular call-offs of Marenclean R 1402 rust remover, Ethanol,
+technical grade according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2022-0032
+type: Framework Agreement
+status: Active
+start_date: 2022-12-02
+end_date: 2027-12-01
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 100.32
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-10-31
+compliance_review_ref: GPP0000106
+governing_law: German law
+payment_terms: Z060
+incoterm: DAP
+Terms
+Marenclean A 207 alkaline industrial cleaner: 128.1 EUR/100 kg
+Marenclean R 1402 rust remover: 138.3 EUR/100 kg
+Ethanol, technical grade: 1034.52 EUR/1000 kg
+Methyl ethyl ketone, technical grade: 1731.43 EUR/1000 kg

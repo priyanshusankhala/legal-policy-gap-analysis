@@ -1,0 +1,30 @@
+审计报告: ISO 9001 与 ISO 14001 再认证 – 常州工厂
+Auditbericht
+
+文件编号: DMS-00001389
+版本: 1.0
+生效日期: 2025-12-10
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Audit
+titel: Re-Zertifizierung ISO 9001 und ISO 14001 – Werk Changzhou
+art: Zertifizierung
+scope: Qualitäts- und Umweltmanagement
+geplant_von: 2025-11-18
+geplant_bis: 2025-11-20
+durchgefuehrt_von: 2025-11-18
+durchgefuehrt_bis: 2025-11-20
+leitender_auditor: Hu Jianming (SGS China)
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+
+审核发现
+1 [Nebenabweichung] Reklamationsbearbeitung: Fristen zur Ursachenanalyse werden nicht einheitlich eingehalten. (in Bearbeitung)
+2 [Empfehlung] Umweltziele des Vorjahres: Zielerreichung nicht für alle Ziele bewertet. (geschlossen)
+3 [Hinweis] Positiv: Rückverfolgbarkeit der Chargen bis zum Rohstoff nachgewiesen. (geschlossen)

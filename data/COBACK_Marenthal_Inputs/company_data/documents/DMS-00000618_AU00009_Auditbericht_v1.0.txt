@@ -1,0 +1,37 @@
+
+
+Audit Report: TCEQ Compliance Investigation –
+Baytown Plant
+Auditbericht
+Document no.
+DMS-00000618
+Version
+1.0
+Valid from
+2025-02-10
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Audit
+titel: TCEQ Compliance Investigation – Baytown Plant
+art: Behörde
+scope: Air Permit, Emissions Records
+geplant_von: 2025-01-28
+geplant_bis: 2025-01-29
+durchgefuehrt_von: 2025-01-28
+durchgefuehrt_bis: 2025-01-29
+leitender_auditor: Texas Commission on Environmental Quality
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Findings
+1 [Empfehlung] Betriebstagebuch der Abluftreinigung enthält Lücken. (geschlossen)
+2 [Hinweis] Keine Beanstandungen bei Anlage und Genehmigungsauflagen. (geschlossen)
+3 [Nebenabweichung] Hinweis zur Kennzeichnung von Abfällen im Sammelbereich. (geschlossen)

@@ -1,0 +1,28 @@
+
+
+Umsetzungsnachweis: Interessenkonflikt beheben:
+Beteiligung bzw. Tätigkeit beenden
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00000337
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals Inc.
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Interessenkonflikt beheben: Beteiligung bzw. Tätigkeit beenden
+beschreibung: Beteiligung bzw. Beziehung ist zu beenden; bis dahin Ausschluss von allen
+Entscheidungen zu Franklin Insurance Brokers Inc.
+quelle_typ: Interessenkonflikt
+prioritaet: hoch
+status: erledigt
+frist: 2024-01-02
+abgeschlossen_am: 2023-12-01
+bemerkung: Nachweis im Compliance-System abgelegt.

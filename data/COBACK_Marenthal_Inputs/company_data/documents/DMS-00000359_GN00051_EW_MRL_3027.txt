@@ -1,0 +1,28 @@
+
+
+Eichung Fahrzeugwaage – EW-MRL-3027
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000359
+Version
+1.0
+Gültig ab
+2024-02-09
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Eichung Fahrzeugwaage
+nummer: EW-MRL-3027
+behoerde: Landesbetrieb Mess- und Eichwesen
+erteilt_am: 2024-02-09
+gueltig_bis: 2026-02-11
+status: in Verlängerung

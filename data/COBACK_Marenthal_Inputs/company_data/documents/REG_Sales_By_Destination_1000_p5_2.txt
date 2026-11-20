@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal Chemie AG (part 5 of 7)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| Kenya (KE) | Marenclean A 238 alkaline industrial cleaner | 11000014 | 13 | 93,900 KG | 160,979 USD |
+| Kenya (KE) | Marenclean D 703 disinfectant cleaner | 12000014 | 12 | 196,000 KG | 375,273 USD |
+| Kenya (KE) | Marenclean S 301 descaler | 11000015 | 1 | 10,500 KG | 16,191 EUR |
+| Kenya (KE) | Marenclean S 301 descaler | 11000015 | 12 | 84,400 KG | 146,583 USD |
+| Kenya (KE) | Marenclean U 134 all-purpose cleaner | 12000011 | 4 | 23,600 KG | 29,200 EUR |
+| Kenya (KE) | Marenclean U 134 all-purpose cleaner | 12000011 | 13 | 94,875 KG | 150,290 USD |
+| Kenya (KE) | Marencoat DB 1303 roof coating | 11000030 | 6 | 7,325 KG | 27,612 EUR |
+| Kenya (KE) | Marencoat DB 1303 roof coating | 11000030 | 15 | 44,650 KG | 206,059 USD |
+| Kenya (KE) | Marencoat DB 1333 roof coating | 12000027 | 4 | 12,700 KG | 42,537 EUR |
+| Kenya (KE) | Marencoat HL 533 water-based wood coating | 11000023 | 26 | 101,400 KG | 508,888 USD |
+| Kenya (KE) | Marencoat TG 1400 penetrating primer | 12000028 | 6 | 29,000 KG | 58,429 EUR |
+| Kenya (KE) | Marencoat TG 1438 penetrating primer | 11000031 | 10 | 86,900 KG | 153,448 USD |
+| Kenya (KE) | Marendisp 305 dispersing agent | 12000002 | 25 | 177,600 KG | 727,741 USD |
+| Kenya (KE) | Marendisp 332 dispersing agent | 11000002 | 19 | 84,100 KG | 343,750 USD |
+| Kenya (KE) | Marenpaste 237 pigment preparation | 12000007 | 2 | 5,000 KG | 19,445 EUR |
+| Kenya (KE) | Marenwet 206 wetting agent | 11000001 | 4 | 15,300 KG | 45,320 EUR |
+| Kenya (KE) | Marenwet 206 wetting agent | 11000001 | 13 | 30,075 KG | 114,845 USD |
+| Kenya (KE) | Marenwet 237 wetting agent | 12000001 | 26 | 186,000 KG | 652,010 USD |
+| Kenya (KE) | Methanol, technical grade | 12000049 | 17 | 1,655,500 KG | 750,978 USD |
+| Kenya (KE) | Methyl ethyl ketone, technical grade | 12000042 | 17 | 189,500 KG | 372,128 USD |
+| Kenya (KE) | Propylene glycol, technical grade | 12000048 | 18 | 143,800 KG | 250,421 EUR |
+| Kenya (KE) | Propylene glycol, technical grade | 12000048 | 21 | 232,400 KG | 454,900 USD |
+| Kenya (KE) | Sodium hydroxide (50 %), technical grade | 12000050 | 16 | 330,000 KG | 150,198 EUR |
+| Kenya (KE) | Styrene, technical grade | 12000031 | 2 | 11,900 KG | 13,925 EUR |
+| Kenya (KE) | Titanium dioxide, technical grade | 12000053 | 3 | 13,600 KG | 52,333 EUR |
+| Kenya (KE) | Toluene, technical grade | 12000043 | 10 | 274,200 KG | 246,530 EUR |
+| Latvia (LV) | Calcium carbonate, technical grade | 12000054 | 10 | 705,500 KG | 80,970 EUR |
+| Latvia (LV) | Isopropanol, technical grade | 12000038 | 10 | 42,700 KG | 57,987 EUR |
+| Latvia (LV) | Marenclean C 1305 CIP cleaner | 12000018 | 9 | 46,700 KG | 61,555 EUR |
+| Latvia (LV) | Marencoat AI 436 interior emulsion paint | 12000022 | 11 | 9,175 KG | 40,449 EUR |
+| Latvia (LV) | Marencoat AL 634 alkyd enamel | 12000024 | 7 | 18,200 KG | 111,313 EUR |
+| Latvia (LV) | Marencoat TG 1438 penetrating primer | 11000031 | 9 | 83,000 KG | 131,464 EUR |
+| Latvia (LV) | Marenflex 906 plasticizer | 11000010 | 6 | 4,475 KG | 21,283 EUR |
+| Latvia (LV) | Methyl ethyl ketone, technical grade | 12000042 | 6 | 12,675 KG | 24,311 EUR |
+| Latvia (LV) | Sodium hydroxide (50 %), technical grade | 12000050 | 11 | 272,100 KG | 125,327 EUR |
+| Lithuania (LT) | Ethyl acetate, technical grade | 12000040 | 6 | 27,600 KG | 31,054 EUR |
+| Lithuania (LT) | Hydrochloric acid (33 %), technical grade | 12000045 | 5 | 298,500 KG | 41,492 EUR |
+| Lithuania (LT) | Marenclean U 134 all-purpose cleaner | 12000011 | 11 | 155,400 KG | 214,918 EUR |
+| Lithuania (LT) | Marencoat AL 603 alkyd enamel | 11000024 | 6 | 5,750 KG | 30,802 EUR |
+| Lithuania (LT) | Marencoat AL 634 alkyd enamel | 12000024 | 2 | 2,450 KG | 15,371 EUR |
+| Lithuania (LT) | Marencoat DB 1303 roof coating | 11000030 | 5 | 9,300 KG | 38,772 EUR |
+| Lithuania (LT) | Marencoat HL 533 water-based wood coating | 11000023 | 9 | 22,800 KG | 108,368 EUR |
+| Lithuania (LT) | Marencoat TG 1438 penetrating primer | 11000031 | 3 | 2,500 KG | 4,350 EUR |
+| Lithuania (LT) | Marenflex 906 plasticizer | 11000010 | 15 | 24,050 KG | 115,622 EUR |
+| Lithuania (LT) | Marenglide 953 lubricant additive | 12000003 | 15 | 43,025 KG | 194,296 EUR |
+| Lithuania (LT) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 7 | 8,475 KG | 19,491 EUR |
+| Malta (MT) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 4 | 13,800 KG | 14,229 EUR |
+| Malta (MT) | Marenclean C 1305 CIP cleaner | 12000018 | 9 | 38,000 KG | 50,928 EUR |
+| Malta (MT) | Marenclean E 504 degreaser | 12000013 | 19 | 223,900 KG | 344,989 EUR |
+| Malta (MT) | Marenclean S 301 descaler | 11000015 | 4 | 26,500 KG | 38,161 EUR |
+| Malta (MT) | Marencoat DB 1303 roof coating | 11000030 | 17 | 78,550 KG | 327,475 EUR |
+| Malta (MT) | Marencoat DB 1333 roof coating | 12000027 | 16 | 41,100 KG | 153,878 EUR |
+| Malta (MT) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 16 | 39,650 KG | 300,408 EUR |
+| Malta (MT) | Marencoat HL 533 water-based wood coating | 11000023 | 18 | 71,800 KG | 312,603 EUR |
+| Malta (MT) | Marendisp 305 dispersing agent | 12000002 | 17 | 47,425 KG | 186,085 EUR |
+| Malta (MT) | Marenglide 953 lubricant additive | 12000003 | 22 | 89,050 KG | 400,467 EUR |
+| Malta (MT) | Marenphos 125 phosphating solution | 12000008 | 22 | 114,775 KG | 420,788 EUR |
+| Malta (MT) | Titanium dioxide, technical grade | 12000053 | 2 | 1,225 KG | 4,351 EUR |
+| Netherlands (NL) | Acetic acid, technical grade | 12000047 | 21 | 408,300 KG | 263,570 EUR |
+| Netherlands (NL) | Acrylic acid, technical grade | 12000032 | 44 | 276,500 KG | 542,336 EUR |
+| Netherlands (NL) | Butyl acetate, technical grade | 12000041 | 6 | 45,700 KG | 69,738 EUR |
+| Netherlands (NL) | Calcium carbonate, technical grade | 12000054 | 4 | 63,000 KG | 7,104 EUR |
+| Netherlands (NL) | Diethylenetriamine, technical grade | 12000036 | 20 | 57,900 KG | 141,649 EUR |
+| Netherlands (NL) | Ethanol, technical grade | 12000039 | 13 | 84,650 KG | 92,695 EUR |
+| Netherlands (NL) | Glycerol, technical grade | 12000052 | 86 | 4,263,775 KG | 4,338,287 EUR |
+| Netherlands (NL) | Hydrochloric acid (33 %), technical grade | 12000045 | 23 | 2,366,600 KG | 328,957 EUR |
+| Netherlands (NL) | Maleic anhydride, technical grade | 12000033 | 33 | 634,100 KG | 1,233,324 EUR |
+| Netherlands (NL) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 9 | 146,000 KG | 206,864 EUR |
+| Netherlands (NL) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 16 | 134,925 KG | 133,725 EUR |
+| Netherlands (NL) | Marenclean C 1305 CIP cleaner | 12000018 | 4 | 6,500 KG | 9,412 EUR |
+| Netherlands (NL) | Marenclean D 703 disinfectant cleaner | 12000014 | 22 | 274,200 KG | 448,748 EUR |
+| Netherlands (NL) | Marenclean E 504 degreaser | 12000013 | 16 | 67,600 KG | 96,475 EUR |
+| Netherlands (NL) | Marenclean E 537 degreaser | 11000017 | 32 | 326,500 KG | 482,777 EUR |
+| Netherlands (NL) | Marenclean G 800 glass cleaner | 12000015 | 50 | 1,790,400 KG | 2,054,004 EUR |
+| Netherlands (NL) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 3 | 5,800 KG | 9,315 EUR |
+| Netherlands (NL) | Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | 12 | 16,125 KG | 31,250 EUR |
+| Netherlands (NL) | Marenclean P 404 phosphoric acid cleaner | 12000012 | 13 | 220,000 KG | 283,463 EUR |
+| Netherlands (NL) | Marenclean S 301 descaler | 11000015 | 20 | 108,550 KG | 167,384 EUR |
+| Netherlands (NL) | Marenclean S 331 descaler | 11000016 | 2 | 13,800 KG | 20,272 EUR |
+| Netherlands (NL) | Marenclean U 101 all-purpose cleaner | 12000010 | 5 | 4,975 KG | 7,194 EUR |
+| Netherlands (NL) | Marenclean U 134 all-purpose cleaner | 12000011 | 4 | 5,100 KG | 7,053 EUR |
+| Netherlands (NL) | Marenclean Z 904 citrus cleaner | 11000020 | 19 | 144,675 KG | 330,550 EUR |
+| Netherlands (NL) | Marenclear 406 dechlorinating agent | 12000009 | 5 | 23,600 KG | 52,864 EUR |
+| Netherlands (NL) | Marencoat AF 309 acrylic facade paint | 12000020 | 7 | 8,550 KG | 32,502 EUR |
+| Netherlands (NL) | Marencoat AF 333 acrylic facade paint | 12000021 | 29 | 202,775 KG | 805,937 EUR |
+| Netherlands (NL) | Marencoat AI 436 interior emulsion paint | 12000022 | 14 | 38,950 KG | 170,633 EUR |
+| Netherlands (NL) | Marencoat AL 603 alkyd enamel | 11000024 | 18 | 346,700 KG | 1,989,018 EUR |
+| Netherlands (NL) | Marencoat AL 634 alkyd enamel | 12000024 | 4 | 1,325 KG | 8,903 EUR |
+| Netherlands (NL) | Marencoat DB 1303 roof coating | 11000030 | 39 | 441,400 KG | 1,780,488 EUR |
+| Netherlands (NL) | Marencoat HL 509 water-based wood coating | 12000023 | 12 | 164,200 KG | 716,608 EUR |
+| Netherlands (NL) | Marencoat HL 533 water-based wood coating | 11000023 | 5 | 2,725 KG | 12,952 EUR |
+| Netherlands (NL) | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | 4 | 1,900 KG | 10,876 EUR |
+| Netherlands (NL) | Marencoat TG 1438 penetrating primer | 11000031 | 26 | 921,500 KG | 1,603,410 EUR |
+| Netherlands (NL) | Marendisp 305 dispersing agent | 12000002 | 14 | 28,125 KG | 112,210 EUR |
+| Netherlands (NL) | Marendisp 332 dispersing agent | 11000002 | 5 | 3,125 KG | 12,425 EUR |
+| Netherlands (NL) | Marenemul 702 emulsifier | 11000007 | 2 | 2,100 KG | 6,443 EUR |
+| Netherlands (NL) | Marenflex 906 plasticizer | 11000010 | 9 | 5,225 KG | 25,352 EUR |
+| Netherlands (NL) | Marenglide 953 lubricant additive | 12000003 | 7 | 6,450 KG | 28,422 EUR |
+| Netherlands (NL) | Marenpaste 237 pigment preparation | 12000007 | 6 | 16,000 KG | 61,205 EUR |
+| Netherlands (NL) | Marensolv 108 thinner (solvent blend) | 12000004 | 19 | 416,900 KG | 1,037,247 EUR |
+| Netherlands (NL) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 11 | 29,900 KG | 72,057 EUR |
+| Netherlands (NL) | Marenthix 409 thickener | 11000004 | 4 | 2,175 KG | 6,308 EUR |
+| Netherlands (NL) | Marenwet 237 wetting agent | 12000001 | 25 | 150,600 KG | 468,239 EUR |
+| Netherlands (NL) | Methyl methacrylate, technical grade | 11000035 | 9 | 40,900 KG | 82,164 EUR |
+| Netherlands (NL) | Neopentyl glycol, technical grade | 11000038 | 23 | 912,400 KG | 1,742,484 EUR |
+| Netherlands (NL) | Pentaerythritol, technical grade | 11000039 | 12 | 279,500 KG | 499,746 EUR |
+| Netherlands (NL) | Phosphoric acid (75 %), technical grade | 12000051 | 9 | 60,800 KG | 64,691 EUR |
+| Netherlands (NL) | Propylene glycol, technical grade | 12000048 | 16 | 536,000 KG | 1,036,624 EUR |
+| Netherlands (NL) | Sodium hydroxide (50 %), technical grade | 12000050 | 8 | 96,300 KG | 46,421 EUR |
+| Netherlands (NL) | Styrene, technical grade | 12000031 | 17 | 1,167,500 KG | 1,527,090 EUR |
+| Netherlands (NL) | Sulfuric acid (96 %), technical grade | 12000046 | 29 | 4,388,000 KG | 456,775 EUR |
+| Netherlands (NL) | Titanium dioxide, technical grade | 12000053 | 8 | 29,850 KG | 114,863 EUR |
+| Netherlands (NL) | n-Butyl acrylate, technical grade | 11000036 | 3 | 2,600 KG | 5,358 EUR |
+| Poland (PL) | Acetic acid, technical grade | 12000047 | 18 | 403,350 KG | 1,165,460 PLN |
+| Poland (PL) | Acrylic acid, technical grade | 12000032 | 10 | 18,250 KG | 39,456 EUR |
+| Poland (PL) | Calcium carbonate, technical grade | 12000054 | 30 | 5,693,000 KG | 586,261 EUR |
+| Poland (PL) | Diethylenetriamine, technical grade | 12000036 | 18 | 130,700 KG | 298,938 EUR |
+| Poland (PL) | Diethylenetriamine, technical grade | 12000036 | 22 | 202,100 KG | 2,026,471 PLN |
+| Poland (PL) | Ethanol, technical grade | 12000039 | 4 | 47,900 KG | 212,396 PLN |
+| Poland (PL) | Ethanol, technical grade | 12000039 | 15 | 226,800 KG | 234,629 EUR |

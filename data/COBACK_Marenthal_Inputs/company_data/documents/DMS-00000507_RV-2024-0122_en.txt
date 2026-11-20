@@ -1,0 +1,79 @@
+
+
+Framework Agreement RV-2024-0122 – Southeastern
+Beverages Co.
+Rahmenvertrag
+Document no.
+DMS-00000507
+Version
+1.0
+Valid from
+2024-12-02
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2024-0122
+type: Framework Agreement
+status: Active
+start_date: 2024-12-02
+end_date: 2027-12-01
+auto_renew: 1
+notice_period_days: 90
+currency: USD
+committed_volume_t: 167.31
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2024-11-19
+governing_law: State of Texas
+payment_terms: Z045
+incoterm: DAP
+Terms
+Marenclean A 207 alkaline industrial cleaner: 159.16 USD/100 kg
+Marenclean A 238 alkaline industrial cleaner: 173.75 USD/100 kg
+Marenclean E 537 degreaser: 189.22 USD/100 kg
+Glycerol, technical grade: 1243.93 USD/1000 kg
+Account
+name: Southeastern Beverages Co.
+type: Customer
+billing_street: 56 Cedar Street
+billing_city: Atlanta
+billing_postcode: 30301
+billing_country: US
+industry: Food and beverage industry
+segment: Direct
+size_class: Medium
+status: Active
+website: www.southeastern-beverages.com
+
+created_date: 2024-10-15
+last_modified_date: 2025-06-04
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Food and beverage industry. Sources Marenclean A 238 alkaline industrial cleaner,
+Marenclean E 537 degreaser for ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2024-0122
+type: Framework Agreement
+status: Active
+start_date: 2024-12-02
+end_date: 2027-12-01
+auto_renew: 1
+notice_period_days: 90
+currency: USD
+committed_volume_t: 167.31
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2024-11-19
+governing_law: State of Texas
+payment_terms: Z045
+incoterm: DAP
+Terms
+Marenclean A 207 alkaline industrial cleaner: 159.16 USD/100 kg
+Marenclean A 238 alkaline industrial cleaner: 173.75 USD/100 kg
+Marenclean E 537 degreaser: 189.22 USD/100 kg
+Glycerol, technical grade: 1243.93 USD/1000 kg

@@ -1,0 +1,167 @@
+# Standorte
+
+13 Standorte. Die Spalte Zuordnung belegt sagt, ob die Zuordnung zu einer Gesellschaft belegt ist; wo sie "nein" lautet, ist die betreibende Gesellschaft offen.
+
+Jede Angabe traegt in eckigen Klammern ihre Herkunft: Quellenkennung, Belegstatus, Vertrauensniveau und Stichtag. `belegt` heisst, die Angabe steht so in der Quelle. `indirekt_belegt` heisst, sie ist aus einer belegten Tatsache abgeleitet und nennt nie einen Zahlenwert. `belegt_ohne_registerauszug` heisst, die Gesellschaft ist durch eine Unternehmensquelle belegt, aber es liegt kein amtlicher Registerauszug vor. `nicht_oeffentlich` heisst, die Angabe existiert, wird aber nicht veroeffentlicht. `nicht_gefunden` heisst, sie war trotz gezielter Suche nicht auffindbar. Die letzten beiden sind kein Nein: sie fuehren zu einer offenen internen Frage und niemals zu einer geschaetzten Angabe.
+
+## ST-CN-CZX — 常州工厂 [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Werk
+- **Land:** CN
+- **Ort:** Changzhou
+- **Adresse:** 中山路21号, 213022 Changzhou
+- **Funktion:** Werk
+- **Gesellschaft:** CMS-CN-01
+- **Zuordnung belegt:** ja
+- **Zertifikate:** Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Eichung Fahrzeugwaage; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015; 危险化学品登记证; 危险废物管理计划备案; 安全生产许可证; 排污许可证 (Emissionserlaubnis); 排污许可证 (污水); 重大危险源备案
+
+## ST-CN-NGB — 宁波仓库 [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Lager
+- **Land:** CN
+- **Ort:** Ningbo
+- **Adresse:** 化工路47号, 315800 Ningbo
+- **Funktion:** Lager
+- **Gesellschaft:** CMS-CN-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: 危险化学品经营许可证; 消防验收
+
+## ST-CN-SHA — 上海办公室、实验室与销售中心 [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Verwaltung
+- **Land:** CN
+- **Ort:** Shanghai
+- **Adresse:** 工业大道2号, 201203 Shanghai
+- **Funktion:** Verwaltung
+- **Gesellschaft:** CMS-CN-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: 两用物项出口许可证; 海关AEO高级认证
+
+## ST-DE-BTF — Werk Bitterfeld [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Werk
+- **Land:** DE
+- **Ort:** Bitterfeld-Wolfen
+- **Adresse:** Lindenallee 49, 06749 Bitterfeld-Wolfen
+- **Funktion:** Werk
+- **Gesellschaft:** CMS-DE-01
+- **Zuordnung belegt:** ja
+- **Zertifikate:** Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Abfallerzeugernummer; Anzeige des Betriebsbereichs (Störfall-Verordnung); BImSchG-Genehmigung; Eichung Fahrzeugwaage; Indirekteinleitergenehmigung; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+
+## ST-DE-DUI — Zentrallager Duisburg [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Lager
+- **Land:** DE
+- **Ort:** Duisburg
+- **Adresse:** Kaiserstraße 100, 47226 Duisburg
+- **Funktion:** Lager
+- **Gesellschaft:** CMS-DE-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Ausnahmegenehmigung ADR (Beladung Tankcontainer); BImSchG-Genehmigung; Brandschutzgenehmigung Gefahrstofflager
+
+## ST-DE-FRA — Zentrale und Forschungszentrum Frankfurt [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Zentrale
+- **Land:** DE
+- **Ort:** Frankfurt am Main
+- **Adresse:** Gewerbepark 77, 60388 Frankfurt am Main
+- **Funktion:** Zentrale
+- **Gesellschaft:** CMS-DE-01
+- **Zuordnung belegt:** ja
+- **Zertifikate:** AEO-Bewilligung (AEOC); Zertifikat Informationssicherheit ISO/IEC 27001:2022
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: AEO-Bewilligung (AEOC); Sammelausfuhrgenehmigung (BAFA); Zertifikat Informationssicherheit ISO/IEC 27001:2022; Zugelassener Ausführer
+
+## ST-DE-MRL — Werk Marl [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Werk
+- **Land:** DE
+- **Ort:** Marl
+- **Adresse:** Gewerbepark 102, 45768 Marl
+- **Funktion:** Werk
+- **Gesellschaft:** CMS-DE-01
+- **Zuordnung belegt:** ja
+- **Zertifikate:** Teilnahmebestätigung Responsible Care; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Abfallerzeugernummer; Anzeige des Betriebsbereichs (Störfall-Verordnung); BImSchG-Genehmigung; Eichung Fahrzeugwaage; Indirekteinleitergenehmigung; Teilnahmebestätigung Responsible Care; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+
+## ST-FR-LYO — Siège et ventes Lyon [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Verwaltung
+- **Land:** FR
+- **Ort:** Lyon
+- **Adresse:** 5 chemin des Carrières, 69003 Lyon
+- **Funktion:** Verwaltung
+- **Gesellschaft:** CMS-FR-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Statut d'exportateur agréé
+
+## ST-FR-SFO — Usine de Saint-Fons [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Werk
+- **Land:** FR
+- **Ort:** Saint-Fons
+- **Adresse:** 19 rue de la République, 69190 Saint-Fons
+- **Funktion:** Werk
+- **Gesellschaft:** CMS-FR-01
+- **Zuordnung belegt:** ja
+- **Zertifikate:** Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Arrêté Seveso seuil haut; Arrêté préfectoral (ICPE); Autorisation de rejet (ICPE); Eichung Fahrzeugwaage; Numéro SIRET déchets (BSD); Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+
+## ST-FR-VIE — Entrepôt de Vienne [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Lager
+- **Land:** FR
+- **Ort:** Vienne
+- **Adresse:** 61 zone industrielle Nord, 38200 Vienne
+- **Funktion:** Lager
+- **Gesellschaft:** CMS-FR-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Arrêté préfectoral (ICPE); Autorisation d'exploiter (stockage)
+
+## ST-US-BAY — Baytown Plant [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Werk
+- **Land:** US
+- **Ort:** Baytown
+- **Adresse:** 35 Industrial Parkway, 77520 Baytown
+- **Funktion:** Werk
+- **Gesellschaft:** CMS-US-01
+- **Zuordnung belegt:** ja
+- **Zertifikate:** Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: EPA Hazardous Waste Generator ID; EPA RMP Registration; Eichung Fahrzeugwaage; NPDES Pretreatment Permit; TCEQ Air Permit; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+
+## ST-US-CLT — Charlotte Distribution Center [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Lager
+- **Land:** US
+- **Ort:** Charlotte
+- **Adresse:** 125 Business Park Road, 28273 Charlotte
+- **Funktion:** Lager
+- **Gesellschaft:** CMS-US-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Fire Department Hazmat Permit; NC DEQ Permit
+
+## ST-US-HOU — Houston Headquarters and Sales Office [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Typ:** Verwaltung
+- **Land:** US
+- **Ort:** Houston
+- **Adresse:** 45 Harbor Road, 77002 Houston
+- **Funktion:** Verwaltung
+- **Gesellschaft:** CMS-US-01
+- **Zuordnung belegt:** ja
+- **Belegstelle:** Stammdaten Compliance-System
+- **Kommentar:** Genehmigungen und Zulassungen: Customs Bond (Continuous)

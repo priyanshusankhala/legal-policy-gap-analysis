@@ -1,0 +1,36 @@
+
+
+Technical Data Sheet Marenclean R 1402 rust remover
+Technisches Datenblatt
+Document no.
+DMS-00000733
+Version
+7.3
+Valid from
+2025-04-30
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean R 1402 rust remover
+Family: Industrial Cleaners
+Applications: Cleaning of parts, Hard surface cleaning
+Description: Entfernung von Rost und Anlauffarben
+Hazardous: 1
+SDS available: 1
+Density: 1.086
+UN: UN3264
+Class: 8
+HS: 3402909000
+Origin: US
+Composition
+Water (demineralised): 69.9–85.5 %
+Phosphoric acid (75 %): 15.7–19.1 %
+Oxalic acid: 2.7–3.7 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 1.2–2.2 %

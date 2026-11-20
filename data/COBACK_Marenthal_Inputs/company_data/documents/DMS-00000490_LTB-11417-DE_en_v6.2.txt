@@ -1,0 +1,33 @@
+
+
+Supplier Technical Data Sheet Ethanol, technical grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00000490
+Version
+6.2
+Valid from
+2024-10-25
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Ethanol, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.79
+UN: UN1170
+Class: 3
+HS: 2207200000
+Origin: BE
+Composition
+Ethanol: 99–100 %

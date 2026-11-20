@@ -1,0 +1,36 @@
+
+
+Technical Data Sheet Marenclean U 134 all-purpose
+cleaner
+Technisches Datenblatt
+Document no.
+DMS-00000498
+Version
+4.3
+Valid from
+2024-11-19
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean U 134 all-purpose cleaner
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Equipment cleaning
+Description: Neutrale Reinigung von Böden und Flächen
+Hazardous: 1
+SDS available: 1
+Density: 1.007
+HS: 34022090
+Origin: US
+Composition
+Water (demineralised): 83.5–100 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 2.7–3.7 %
+Sodium cumenesulfonate: 2.7–3.7 %
+Citric acid: 0.265–0.795 %
+2-Phenoxyethanol: 0.155–0.465 %

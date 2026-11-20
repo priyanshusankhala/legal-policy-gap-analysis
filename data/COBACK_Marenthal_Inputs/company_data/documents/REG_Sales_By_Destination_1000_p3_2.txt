@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal Chemie AG (part 3 of 7)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Company | Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Finland (FI) | Marenglide 953 lubricant additive | 12000003 | 7 | 10,150 KG | 45,636 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marenpaste 202 pigment preparation | 12000006 | 8 | 23,800 KG | 92,558 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marenphos 125 phosphating solution | 12000008 | 13 | 81,975 KG | 288,011 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marenprotect 806 preservative | 11000009 | 20 | 21,100 KG | 184,991 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marensolv 108 thinner (solvent blend) | 12000004 | 7 | 25,500 KG | 63,444 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 11 | 45,700 KG | 102,851 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marenthix 409 thickener | 11000004 | 11 | 36,225 KG | 105,052 EUR |
+| Marenthal Chemie AG | Finland (FI) | Marenwet 237 wetting agent | 12000001 | 7 | 25,250 KG | 78,810 EUR |
+| Marenthal Chemie AG | Finland (FI) | Methanol, technical grade | 12000049 | 3 | 52,700 KG | 24,031 EUR |
+| Marenthal Chemie AG | Finland (FI) | Phosphoric acid (75 %), technical grade | 12000051 | 3 | 74,500 KG | 71,576 EUR |
+| Marenthal Chemie AG | Finland (FI) | Propylene glycol, technical grade | 12000048 | 36 | 328,200 KG | 584,953 EUR |
+| Marenthal Chemie AG | Finland (FI) | Vinyl acetate, technical grade | 12000030 | 8 | 23,400 KG | 38,958 EUR |
+| Marenthal Chemie AG | Finland (FI) | n-Butyl acrylate, technical grade | 11000036 | 6 | 4,850 KG | 9,441 EUR |
+| Marenthal Chemie AG | France (FR) | Acetone, technical grade | 12000037 | 1 | 7,000 KG | 7,840 EUR |
+| Marenthal Chemie AG | France (FR) | Butyl acetate, technical grade | 12000041 | 7 | 777,000 KG | 1,049,294 EUR |
+| Marenthal Chemie AG | France (FR) | Glycerol, technical grade | 12000052 | 6 | 46,600 KG | 50,425 EUR |
+| Marenthal Chemie AG | France (FR) | Hydrochloric acid (33 %), technical grade | 12000045 | 19 | 9,500,000 KG | 1,183,700 EUR |
+| Marenthal Chemie AG | France (FR) | Marenbase 1003 neutralising agent | 11000011 | 8 | 184,000 KG | 551,246 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 13 | 1,609,500 KG | 1,403,580 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean A 238 alkaline industrial cleaner | 11000014 | 8 | 768,000 KG | 709,229 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 7 | 924,000 KG | 697,224 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean E 537 degreaser | 11000017 | 8 | 560,000 KG | 594,496 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean H 637 hand cleaner | 11000019 | 7 | 301,000 KG | 311,415 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 6 | 20,225 KG | 32,481 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean P 404 phosphoric acid cleaner | 12000012 | 5 | 44,775 KG | 67,655 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean R 1402 rust remover | 12000019 | 7 | 58,200 KG | 89,162 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean S 301 descaler | 11000015 | 7 | 476,000 KG | 471,519 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean U 101 all-purpose cleaner | 12000010 | 11 | 101,800 KG | 147,203 EUR |
+| Marenthal Chemie AG | France (FR) | Marenclean Z 904 citrus cleaner | 11000020 | 7 | 574,000 KG | 1,006,739 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat AL 603 alkyd enamel | 11000024 | 7 | 63,000 KG | 213,444 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat DB 1303 roof coating | 11000030 | 8 | 160,000 KG | 407,984 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | 3 | 1,400 KG | 6,267 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 10 | 12,625 KG | 101,417 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat HL 533 water-based wood coating | 11000023 | 6 | 157,000 KG | 371,509 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | 7 | 25,600 KG | 86,708 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat RS 703 anticorrosive primer | 11000025 | 6 | 348,000 KG | 1,033,560 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat TG 1400 penetrating primer | 12000028 | 3 | 5,750 KG | 11,514 EUR |
+| Marenthal Chemie AG | France (FR) | Marencoat TG 1438 penetrating primer | 11000031 | 7 | 455,000 KG | 514,014 EUR |
+| Marenthal Chemie AG | France (FR) | Marendisp 305 dispersing agent | 12000002 | 9 | 17,975 KG | 71,530 EUR |
+| Marenthal Chemie AG | France (FR) | Marendisp 332 dispersing agent | 11000002 | 8 | 736,000 KG | 1,519,141 EUR |
+| Marenthal Chemie AG | France (FR) | Marenemul 731 emulsifier | 11000008 | 5 | 3,700 KG | 7,043 EUR |
+| Marenthal Chemie AG | France (FR) | Marenflex 906 plasticizer | 11000010 | 6 | 150,000 KG | 435,780 EUR |
+| Marenthal Chemie AG | France (FR) | Marenfoam 133 defoamer | 11000003 | 6 | 162,000 KG | 363,042 EUR |
+| Marenthal Chemie AG | France (FR) | Marenphos 125 phosphating solution | 12000008 | 6 | 12,825 KG | 48,812 EUR |
+| Marenthal Chemie AG | France (FR) | Marenprotect 806 preservative | 11000009 | 6 | 18,900 KG | 90,323 EUR |
+| Marenthal Chemie AG | France (FR) | Marensolv 108 thinner (solvent blend) | 12000004 | 3 | 6,050 KG | 15,052 EUR |
+| Marenthal Chemie AG | France (FR) | Marenthix 409 thickener | 11000004 | 7 | 847,000 KG | 1,376,714 EUR |
+| Marenthal Chemie AG | France (FR) | Marenwet 206 wetting agent | 11000001 | 7 | 434,000 KG | 850,869 EUR |
+| Marenthal Chemie AG | France (FR) | Methyl methacrylate, technical grade | 11000035 | 3 | 1,200 KG | 2,137 EUR |
+| Marenthal Chemie AG | France (FR) | Neopentyl glycol, technical grade | 11000038 | 8 | 128,000 KG | 237,190 EUR |
+| Marenthal Chemie AG | France (FR) | Pentaerythritol, technical grade | 11000039 | 8 | 488,000 KG | 713,066 EUR |
+| Marenthal Chemie AG | France (FR) | Propylene glycol, technical grade | 12000048 | 7 | 574,000 KG | 997,956 EUR |
+| Marenthal Chemie AG | France (FR) | Sulfuric acid (96 %), technical grade | 12000046 | 31 | 15,500,000 KG | 1,581,000 EUR |
+| Marenthal Chemie AG | France (FR) | Toluene, technical grade | 12000043 | 7 | 483,000 KG | 451,219 EUR |
+| Marenthal Chemie AG | France (FR) | Xylene (isomer mixture), technical grade | 12000044 | 9 | 936,000 KG | 869,638 EUR |
+| Marenthal Chemie AG | France (FR) | n-Butyl acrylate, technical grade | 11000036 | 8 | 472,000 KG | 778,894 EUR |
+| Marenthal Chemie AG | Germany (DE) | 2-Ethylhexyl acrylate, technical grade | 12000029 | 25 | 210,475 KG | 452,545 EUR |
+| Marenthal Chemie AG | Germany (DE) | Acetic acid, technical grade | 12000047 | 71 | 1,376,600 KG | 922,050 EUR |
+| Marenthal Chemie AG | Germany (DE) | Acetone, technical grade | 12000037 | 1 | 4,200 KG | 4,704 EUR |
+| Marenthal Chemie AG | Germany (DE) | Acrylic acid, technical grade | 12000032 | 17 | 148,200 KG | 295,694 EUR |
+| Marenthal Chemie AG | Germany (DE) | Butyl acetate, technical grade | 12000041 | 43 | 512,700 KG | 724,562 EUR |
+| Marenthal Chemie AG | Germany (DE) | Diethylenetriamine, technical grade | 12000036 | 80 | 628,250 KG | 1,584,241 EUR |
+| Marenthal Chemie AG | Germany (DE) | Ethanol, technical grade | 12000039 | 63 | 1,827,700 KG | 1,974,072 EUR |
+| Marenthal Chemie AG | Germany (DE) | Ethyl acetate, technical grade | 12000040 | 62 | 897,225 KG | 1,010,635 EUR |
+| Marenthal Chemie AG | Germany (DE) | Glycerol, technical grade | 12000052 | 95 | 1,749,750 KG | 1,703,852 EUR |
+| Marenthal Chemie AG | Germany (DE) | Hydrochloric acid (33 %), technical grade | 12000045 | 60 | 8,745,500 KG | 1,017,746 EUR |
+| Marenthal Chemie AG | Germany (DE) | Isophorone diisocyanate, technical grade | 12000034 | 21 | 260,350 KG | 1,345,419 EUR |
+| Marenthal Chemie AG | Germany (DE) | Isopropanol, technical grade | 12000038 | 6 | 17,200 KG | 23,358 EUR |
+| Marenthal Chemie AG | Germany (DE) | Maleic anhydride, technical grade | 12000033 | 35 | 496,700 KG | 922,818 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenbase 1003 neutralising agent | 11000011 | 48 | 342,525 KG | 2,170,726 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 26 | 138,725 KG | 187,267 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean A 238 alkaline industrial cleaner | 11000014 | 62 | 2,184,575 KG | 2,804,836 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 44 | 586,500 KG | 640,893 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean C 1305 CIP cleaner | 12000018 | 92 | 972,400 KG | 1,332,722 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean D 703 disinfectant cleaner | 12000014 | 7 | 23,900 KG | 44,841 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean E 504 degreaser | 12000013 | 14 | 189,200 KG | 277,949 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean E 537 degreaser | 11000017 | 22 | 72,725 KG | 118,714 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean G 800 glass cleaner | 12000015 | 62 | 506,600 KG | 613,567 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean H 637 hand cleaner | 11000019 | 25 | 272,625 KG | 407,780 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 74 | 892,225 KG | 1,400,165 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | 20 | 527,475 KG | 1,022,247 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean P 404 phosphoric acid cleaner | 12000012 | 81 | 1,425,500 KG | 2,035,264 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean R 1402 rust remover | 12000019 | 43 | 846,000 KG | 1,090,724 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean S 301 descaler | 11000015 | 79 | 1,051,750 KG | 1,581,109 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean U 101 all-purpose cleaner | 12000010 | 20 | 55,975 KG | 79,048 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean U 134 all-purpose cleaner | 12000011 | 95 | 947,500 KG | 1,224,553 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclean Z 904 citrus cleaner | 11000020 | 46 | 321,825 KG | 746,211 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenclear 406 dechlorinating agent | 12000009 | 23 | 134,100 KG | 279,943 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat AF 309 acrylic facade paint | 12000020 | 68 | 1,383,150 KG | 4,570,269 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat AF 333 acrylic facade paint | 12000021 | 38 | 120,450 KG | 531,845 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat AI 436 interior emulsion paint | 12000022 | 13 | 44,075 KG | 176,778 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat AL 603 alkyd enamel | 11000024 | 43 | 109,650 KG | 579,974 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat AL 634 alkyd enamel | 12000024 | 96 | 1,034,075 KG | 5,581,160 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat DB 1303 roof coating | 11000030 | 79 | 436,175 KG | 1,634,936 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat DB 1333 roof coating | 12000027 | 42 | 231,450 KG | 856,126 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 54 | 182,825 KG | 1,396,168 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat HL 509 water-based wood coating | 12000023 | 48 | 123,175 KG | 510,938 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat HL 533 water-based wood coating | 11000023 | 44 | 170,575 KG | 730,455 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | 15 | 58,400 KG | 298,501 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat RS 703 anticorrosive primer | 11000025 | 22 | 64,350 KG | 306,305 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat RS 730 anticorrosive primer | 12000025 | 28 | 75,875 KG | 413,141 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat TG 1400 penetrating primer | 12000028 | 85 | 784,450 KG | 1,457,549 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marencoat TG 1438 penetrating primer | 11000031 | 11 | 119,700 KG | 195,427 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marendisp 305 dispersing agent | 12000002 | 113 | 1,433,425 KG | 4,836,894 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marendisp 332 dispersing agent | 11000002 | 45 | 214,425 KG | 800,429 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenemul 731 emulsifier | 11000008 | 54 | 1,464,550 KG | 3,775,327 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenflex 906 plasticizer | 11000010 | 21 | 44,875 KG | 211,226 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenfoam 133 defoamer | 11000003 | 38 | 96,625 KG | 412,818 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenglide 953 lubricant additive | 12000003 | 49 | 105,400 KG | 459,810 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenpaste 202 pigment preparation | 12000006 | 34 | 210,025 KG | 897,857 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenpaste 237 pigment preparation | 12000007 | 25 | 30,450 KG | 119,533 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenphos 125 phosphating solution | 12000008 | 43 | 208,000 KG | 744,861 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenprotect 806 preservative | 11000009 | 26 | 57,050 KG | 548,054 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marensolv 108 thinner (solvent blend) | 12000004 | 68 | 518,575 KG | 1,195,284 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 96 | 1,222,975 KG | 2,861,805 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenthix 409 thickener | 11000004 | 8 | 17,125 KG | 49,662 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenwet 206 wetting agent | 11000001 | 66 | 381,475 KG | 1,118,093 EUR |
+| Marenthal Chemie AG | Germany (DE) | Marenwet 237 wetting agent | 12000001 | 19 | 56,500 KG | 180,685 EUR |
+| Marenthal Chemie AG | Germany (DE) | Methanol, technical grade | 12000049 | 61 | 1,653,700 KG | 739,824 EUR |
+| Marenthal Chemie AG | Germany (DE) | Methyl ethyl ketone, technical grade | 12000042 | 23 | 136,725 KG | 247,606 EUR |

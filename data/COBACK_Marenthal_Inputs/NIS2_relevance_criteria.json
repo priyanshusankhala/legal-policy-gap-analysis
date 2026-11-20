@@ -1,0 +1,241 @@
+{
+  "regulation": "NIS2 / German BSIG",
+  "analysis_date": "2026-10-12",
+  "source_workbook": "NIS2_Gesamtanalyse.xlsx",
+  "source_worksheet": "Gesamtanalyse",
+  "purpose": "Relevance through chemical substances and mixtures, Annex 2 no. 3.1.1",
+  "primary_ids": [
+    "02-R01",
+    "02-R02",
+    "05-A2-3.1.1",
+    "02-R03",
+    "02-R11",
+    "02-R12",
+    "02-R13"
+  ],
+  "supporting_ids": [
+    "03-K01",
+    "03-K02",
+    "03-K03",
+    "03-K04",
+    "03-K05",
+    "03-K06",
+    "03-K07",
+    "03-K08",
+    "03-K09",
+    "03-K10",
+    "17-AUS-01",
+    "17-AUS-02",
+    "17-AUS-03",
+    "17-AUS-04"
+  ],
+  "records": [
+    {
+      "source_id": "02-R01",
+      "source_row": 53,
+      "source_label_de": "02-R01 · §28 Abs.1 Nr.4 / Abs.2 Nr.3 BSIG",
+      "addressees_de": "Zu prüfender Rechtsträger",
+      "criterion_and_questions_de": "Rechtsträger bietet anderen natürlichen oder juristischen Personen entgeltlich Waren oder Dienstleistungen an.\nTatsachenfrage: Welche natürliche oder juristische Person bzw. rechtlich unselbstständige kommunale Einheit schließt die Kundenverträge und erhält das Entgelt?\nAntwort: Firmenname, Rechtsform, Register-Nr., Sitz, Vertragspartei, Geschäftsjahr oder Unbekannt",
+      "evaluation_guidance_de": "Tätigkeiten und Kennzahlen je Rechtsträger erfassen. Eine Marke oder ein Produktname ist kein eigenständiger Rechtsträger. Rechtlich unselbstständige Organisationseinheiten einer Gebietskörperschaft sind ausdrücklich erfasst; § 28 Abs. 4 Satz 1 nimmt sie von der KMU-Berechnung aus.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu"
+    },
+    {
+      "source_id": "02-R02",
+      "source_row": 54,
+      "source_label_de": "02-R02 · §28 Abs.1 Nr.4 / Abs.2 Nr.3 BSIG",
+      "addressees_de": "Zu prüfender Rechtsträger",
+      "criterion_and_questions_de": "Mindestens eine tatsächlich ausgeübte Tätigkeit muss einer konkret beschriebenen Einrichtungsart der Anlage 1 oder 2 entsprechen.\nTatsachenfrage: Welche Waren stellen Sie tatsächlich her und welche Dienste erbringen Sie selbst für Dritte?\nAntwort: Mehrfachauswahl konkreter Tätigkeiten plus Beschreibung und Vertrags-/Produktbeleg; Unbekannt",
+      "evaluation_guidance_de": "Antworten anhand der ausgeschriebenen Tätigkeitszeilen zuordnen. Reiner Einkauf von Cloud-Diensten oder reiner Gebrauch eines Medizinprodukts erfüllt keinen Anbieter-/Herstellertatbestand.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu"
+    },
+    {
+      "source_id": "05-A2-3.1.1",
+      "source_row": 199,
+      "source_label_de": "05-A2-3.1.1 · Anlage 2 Nr.3.1.1 BSIG · Chemische Stoffe und Gemische",
+      "addressees_de": "Rechtsträger, der die genannte Tätigkeit tatsächlich erbringt",
+      "criterion_and_questions_de": "Stoff: chemisches Element und seine Verbindungen in natürlicher Form oder gewonnen durch ein Herstellungsverfahren, einschließlich der zur Wahrung seiner Stabilität notwendigen Zusatzstoffe und der durch das angewandte Verfahren bedingten Verunreinigungen, aber mit Ausnahme von Lösungsmitteln, die von dem Stoff ohne Beeinträchtigung seiner Stabilität und ohne Änderung seiner Zusammensetzung abgetrennt werden können; Gemisch  : Gemenge, Gemische oder Lösungen, die aus zwei oder mehr Stoffen bestehen; Hersteller: natürliche oder juristische Person mit Sitz in der Gemeinschaft, die in der Gemeinschaft einen Stoff herstellt; Importeur: natürliche oder juristische Person mit Sitz in der Gemeinschaft, die für die Einfuhr verantwortlich ist; Deutsche Zusatzmerkmale: Tätigkeit in NACE Rev. 2 Abteilung 20 UND Registrierungspflicht nach REACH Art. 6. Grundschwelle: Stoffherstellung/-einfuhr ≥1 Tonne/Jahr je Hersteller/Importeur, vorbehaltlich Ausnahmen. Polymerregel: Monomer/anderer chemisch gebundener Stoff ≥2 Massenprozent UND ≥1 Tonne/Jahr, soweit nicht vorgeschaltet registriert.\nTatsachenfrage: Welche Stoffe stellt der Rechtsträger her oder führt er selbst ein, in welchen Jahresmengen und mit welchen Registrierungsnummern/Ausnahmebelegen? Welche konkrete Herstellungstätigkeit aus NACE20 liegt vor?\nAntwort: Ja / Nein / Unbekannt; Tätigkeit, Standort, Vertrags-/Genehmigungsnachweis angeben.",
+      "evaluation_guidance_de": "Zusätzlich § 28-Größenprüfung: ≥50 JAE ODER (Umsatz >10 Mio.EUR UND Bilanz >10 Mio.EUR). Anlage 2 allein macht auch ein großes Unternehmen grundsätzlich nur zu einer wichtigen Einrichtung. KRITIS-/Sonderrollen zusätzlich prüfen.  Keine Einstufung allein anhand eines Firmennamens oder einer Branchen-Selbstauskunft.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/anlage_2.html\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02006R1907-20260622\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1893"
+    },
+    {
+      "source_id": "02-R03",
+      "source_row": 55,
+      "source_label_de": "02-R03 · §28 Abs.2 Nr.3 BSIG",
+      "addressees_de": "Zu prüfender Rechtsträger",
+      "criterion_and_questions_de": "Anlage 1 ODER Anlage 2; zusätzlich M ≥50 ODER (U >10 Mio.EUR UND B >10 Mio.EUR). M=nach KMU-Regeln berechnete Jahresarbeitseinheiten, U=Jahresumsatz netto indirekter Steuern, B=Jahresbilanzsumme.\nTatsachenfrage: Wie hoch sind Jahresarbeitseinheiten, Nettoumsatz und Bilanzsumme in den relevanten abgeschlossenen Geschäftsjahren?\nAntwort: Drei Zahlen je Geschäftsjahr, Abschlussdatum, Währung/EUR, Nachweise; Unbekannt",
+      "evaluation_guidance_de": "Wichtige Einrichtung, sofern keine besonders wichtige Einrichtung und keine Bundesverwaltung. Umsatz allein über 10 Mio reicht bei M<50 und Bilanz≤10 Mio nicht.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361"
+    },
+    {
+      "source_id": "02-R11",
+      "source_row": 63,
+      "source_label_de": "02-R11 · §28 Abs.3 BSIG",
+      "addressees_de": "Zu prüfender Rechtsträger",
+      "criterion_and_questions_de": "§ 28 Abs. 3 BSIG; nur Anlagenzuordnung. KRITIS, Vertrauensdienste, TLD, DNS und öffentliche TK werden nicht über diesen Zweig ausgenommen.\nGewählte Auslegung nach BSI: Ausschließlich für eigene interne Zwecke erbrachte Katalogtätigkeit darf bei der Anlagenzuordnung entfallen. Die bloße Überschusseinspeisung einer für Eigenbedarf installierten PV-Anlage bleibt im Eigenbedarfszweig. Leistungen an eine andere Konzerngesellschaft sind gesondert nach 17-AUS-02 zu prüfen.\nGewählte BSI-Auslegung: Konzerninterne Tätigkeit ist ausklammerbar, wenn ihr Personal unter 50 liegt UND ihr Jahresumsatzanteil unter 10% UND ihr Bilanzanteil unter 10% liegt. Alternativ bei mehr als 500 Mitarbeitern der Einrichtung: Personalanteil unter 10% UND Umsatzanteil unter 10% UND Bilanzanteil unter 10%. Alle Nenner beziehen sich auf die einzelne geprüfte Einrichtung, nicht auf den gesamten Konzern.",
+      "evaluation_guidance_de": "Erhebe ausschließlich die einzelnen Eingaben in 17-AUS-01 bis 03. Nur intern im Verbund UND U_T/U_E<0,10 UND B_T/B_E<0,10 UND [P_T<50 ODER (P_E>500 UND P_T/P_E<0,10)] → Zahlen-/Empfängerzweig der BSI-Auslegung erfüllt. Zusätzlich die Personalmethodik nach 17-AUS-03 und konkrete widersprechende Tatsachen zum Gesamtbild prüfen; der Zahlenvergleich allein ist keine gesetzliche Freistellung. Gleichheit genügt nie. Externer Marktanteil von 1% besteht den Empfängertest nicht. Unbekannte Kennzahlen oder nicht belastbar zugeordnete Bilanzwerte werden nicht zu 0.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html"
+    },
+    {
+      "source_id": "02-R12",
+      "source_row": 64,
+      "source_label_de": "02-R12 · §28 Abs.4 Satz1 BSIG",
+      "addressees_de": "Zu prüfender Rechtsträger",
+      "criterion_and_questions_de": "KMU-Anhang außer Art. 3 Abs. 4; eigenständig, Partner oder verbunden beeinflusst Datensumme.\nTatsachenfrage: Welche Kapital- und Stimmrechtsquoten, Organbestellungsrechte, Beherrschungsverträge und Stimmrechtsvereinbarungen bestehen direkt und indirekt?\nAntwort: Beteiligungsgraph je Jahr, Quoten, Verträge und Kontrollrechte; Unbekannt",
+      "evaluation_guidance_de": "Partnerwerte anteilig, verbundene Werte grundsätzlich 100%, ohne doppelte Konsolidierung. Öffentliche Beteiligung allein löst den ausgeschlossenen Art. 3 Abs. 4 nicht aus.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361"
+    },
+    {
+      "source_id": "02-R13",
+      "source_row": 65,
+      "source_label_de": "02-R13 · §28 Abs.4 Satz2 BSIG",
+      "addressees_de": "Zu prüfender Rechtsträger",
+      "criterion_and_questions_de": "Daten von Partnern/verbundenen Unternehmen entfallen nur bei rechtlicher, wirtschaftlicher und tatsächlicher Unabhängigkeit in Beschaffenheit UND Betrieb der dienstetragenden IT-Systeme, Komponenten und Prozesse.\nTatsachenfrage: Wer entscheidet über die IT, betreibt sie, hat Administratorzugriff, finanziert sie und erbringt gemeinsame IT-Dienste für die verbundenen Einheiten?\nAntwort: Je Einheit Entscheidungsrechte, Architektur, Zugriffe, IT-Verträge; Unbekannt",
+      "evaluation_guidance_de": "IT-Unabhängigkeit als begründete Ausnahme prüfen. Eigenes Netzwerk oder eigener Vertrag allein belegt die gesamte Ausnahme nicht.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361"
+    },
+    {
+      "source_id": "03-K01",
+      "source_row": 122,
+      "source_label_de": "03-K01 · KMU-Anhang Art.3 Abs.1 · Eigenständigkeit",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Kein Partner- oder Verbundenheitsverhältnis nach den folgenden Kriterien.\nTatsachenfrage: Welche Beteiligungs- oder Kontrollbeziehungen bestehen?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Nur eigene Jahresabschlussdaten, sofern tatsächlich eigenständig.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K02",
+      "source_row": 123,
+      "source_label_de": "03-K02 · KMU-Anhang Art.3 Abs.2 · Partner",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Mindestens 25% des Kapitals ODER der Stimmrechte, allein oder zusammen mit verbundenen Unternehmen, ohne Verbundenheit.\nTatsachenfrage: Welche Kapital- und Stimmrechtsquoten bestehen in beide Richtungen?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Unmittelbar vor-/nachgeschaltete Partner anteilig mit höherer Quote hinzurechnen.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K03",
+      "source_row": 124,
+      "source_label_de": "03-K03 · KMU-Anhang Art.3 Abs.2 Unterabs.2 · Investorenprivileg",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Beteiligung≥25% kann Eigenständigkeit erhalten bei den abschließend benannten Investorengruppen, sofern keine Verbundenheit besteht.\nTatsachenfrage: Ist der Investor staatliche Beteiligungs-/Risikokapitalgesellschaft, Business Angel (Gesamtinvestition≤1,25 Mio.EUR), nicht gewinnorientierte Universität/Forschungsstelle, institutioneller Anleger einschließlich Regionalfonds oder autonome Gebietskörperschaft mit Budget<10 Mio.EUR UND <5.000 Einwohnern?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Investorengruppe und sämtliche Voraussetzungen belegen, nicht allein den Namen einer Beteiligungsgesellschaft verwenden.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K04",
+      "source_row": 125,
+      "source_label_de": "03-K04 · KMU-Anhang Art.3 Abs.3 Buchst.a–d · Verbundenheit",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Stimmrechtsmehrheit ODER Mehrheit der Organbestellungs-/Abberufungsrechte ODER vertraglich/satzungsmäßig beherrschender Einfluss ODER alleinige Stimmrechtsmehrheit durch Gesellschaftervereinbarung.\nTatsachenfrage: Welche dieser vier Kontrollrechte bestehen, wem stehen sie zu und seit wann?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Daten verbundener Unternehmen grundsätzlich 100% zurechnen. Jedes Kontrollmerkmal einzeln erheben.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K05",
+      "source_row": 126,
+      "source_label_de": "03-K05 · KMU-Anhang Art.3 Abs.3 Unterabs.3–4 · Indirekte Kontrolle / natürliche Personen",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Verbundenheit über Unternehmen/privilegierte Investoren erfasst; über natürliche Personen/gemeinsam handelnde Gruppe nur bei Tätigkeit ganz/teilweise im gleichen oder benachbarten Markt.\nTatsachenfrage: Welche Kontrolle besteht über weitere Unternehmen oder gemeinsam handelnde Personen; welche Produkte/Dienste bieten diese Unternehmen auf welchen vor-/nachgelagerten Märkten an?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Mehrstufigen Beteiligungsgraphen auswerten. Benachbart bedeutet unmittelbar vor- oder nachgelagerter Produkt-/Dienstleistungsmarkt. Marktdefinition kann Auslegung verlangen.\nAuslegung konkretisiert (17-AUS-10): Eine gemeinsam handelnde Personengruppe stimmt ihren Einfluss auf Geschäftsentscheidungen so ab, dass die Unternehmen wirtschaftlich nicht unabhängig sind. Verbundenheit kann auch ohne formales Beteiligungs-/Kontrollschema vorliegen, wenn eine wirtschaftliche Einheit besteht und die Unternehmen auf demselben oder unmittelbar vor-/nachgelagerten Markt tätig sind. Vertrag oder Umgehungsabsicht sind nicht erforderlich.\nRegel: Abgestimmter geschäftlicher Einfluss mit wirtschaftlicher Einheit UND gleicher/benachbarter Markt → Verbundenheit bejaht. Bloß gleicher Nachname oder gelegentliche Kooperation ohne solchen Einfluss → nicht ausreichend. Eine ausdrückliche Vereinbarung darf nicht als zwingender Ja/Nein-Eingang verlangt werden. Gegenbelege wirtschaftlicher Eigenständigkeit mitbewerten.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62013CJ0110 · EuGH27.02.2014, ECLI:EU:C:2014:114, Rn. 34–38\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K06",
+      "source_row": 127,
+      "source_label_de": "03-K06 · KMU-Anhang Art.4 Abs.1 · Bezugsdaten",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Letzter Rechnungsabschluss, Jahresbasis, Berücksichtigung ab Abschlussstichtag; Umsatz ohne Mehrwertsteuer/sonstige indirekte Steuern und Abgaben.\nTatsachenfrage: Wann endete das letzte abgeschlossene Geschäftsjahr und welche geprüften Jahreswerte liegen vor?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Keine beliebige Monatsumsatzhochrechnung für bestehende Unternehmen statt Jahreswerten.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K07",
+      "source_row": 128,
+      "source_label_de": "03-K07 · KMU-Anhang Art.4 Abs.2 · Statuswechsel",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Über-/Unterschreiten der Größenschwellen auf Jahresbasis verändert Größenstatus grundsätzlich erst bei zwei aufeinanderfolgenden Geschäftsjahren.\nTatsachenfrage: Wie lauten die relevanten Kennzahlen der letzten zwei abgeschlossenen Jahre und gab es Beteiligungs-/Kontrollwechsel?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Zweijahresregel erfassen. Unternehmenskauf/Umstrukturierung nicht ohne gesonderte Auslegung als zwei Jahre Schonfrist behandeln.\nAuslegung konkretisiert (17-AUS-09): Gewählte Arbeitsauslegung: Die Zweijahresregel schützt vor Statuswechsel durch vorübergehendes organisches Über-/Unterschreiten. Ändert Erwerb/Fusion die Eigentums-/Kontrollstruktur und führt die neue Datenzurechnung zur Überschreitung, wird der Status zum Wirksamwerden des Strukturwechsels anhand der neuen Struktur geprüft. Es entsteht keine neue zweijährige Wartezeit allein durch den Kauf.\nRegel: Strukturwechsel UND neue Datenzurechnung überschreitet relevante Schwelle → Status ab Vorgangstag nach gewählter Auslegung neu bestimmen, § 28 Abs. 4 Satz 2 separat anwenden. Reines organisches Wachstum → Art. 4 Abs. 2 Zweijahresmechanismus. Ein Anteilskauf ohne relevante Kontroll-/Zuordnungsänderung löst nicht automatisch eine Neueinstufung aus.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361 · Anhang Art. 4\nhttps://publications.europa.eu/resource/cellar/79c0ce87-f4dc-11e6-8a35-01aa75ed71a1.0004.01/DOC_1 · deutsche Ausgabe 2015, S. 14"
+    },
+    {
+      "source_id": "03-K08",
+      "source_row": 129,
+      "source_label_de": "03-K08 · KMU-Anhang Art.4 Abs.3 · Neugründung",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Noch kein Jahresabschluss verfügbar.\nTatsachenfrage: Wann wurde gegründet; welche nach Treu und Glauben geschätzten Jahreswerte liegen mit Berechnungsgrundlage vor?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Begründete Jahresschätzung statt automatischer Einstufung als klein.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K09",
+      "source_row": 130,
+      "source_label_de": "03-K09 · KMU-Anhang Art.5 · Jahresarbeitseinheiten",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Vollzeit während ganzem Berichtsjahr=1 JAE; Teilzeit, unterjährige Arbeit und Saisonarbeit anteilig. Einbezogen: Beschäftigte, gleichgestellte untergeordnete Personen, mitarbeitende Eigentümer, regelmäßig mitarbeitende und finanziell begünstigte Teilhaber.\nTatsachenfrage: Welche Beschäftigungsdauer und Arbeitszeit hatte jede einzubeziehende Person im Berichtsjahr?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Auszubildende mit Ausbildungsvertrag nicht zählen; Mutterschafts-/Elternurlaubszeit nicht einrechnen. Keine einfache Kopfzahl.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "03-K10",
+      "source_row": 131,
+      "source_label_de": "03-K10 · KMU-Anhang Art.6 Abs.2–4 · Aggregation",
+      "addressees_de": "Einrichtungen im größenabhängigen Prüfzweig",
+      "criterion_and_questions_de": "Eigene Daten plus anteilige unmittelbare Partner plus 100% direkte/indirekte verbundene Unternehmen, soweit noch nicht konsolidiert. Verbundene Unternehmen der Partner zu 100% in deren Daten; Partner verbundener Unternehmen anteilig.\nTatsachenfrage: Welche Werte sind im Konzernabschluss schon enthalten, zu welchem Prozentsatz, und welche zusätzlichen Unternehmen fehlen?\nAntwort: Angaben/Belege oder Unbekannt.",
+      "evaluation_guidance_de": "Doppelzählungen verhindern; höhere Kapital-/Stimmrechtsquote verwenden. Beschäftigte bei fehlenden Konzernzahlen nach denselben Beteiligungsregeln ergänzen; deutsche IT-Unabhängigkeitsausnahme gesondert prüfen.",
+      "source_links_raw": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361\nhttps://www.gesetze-im-internet.de/bsig_2025/__28.html"
+    },
+    {
+      "source_id": "17-AUS-01",
+      "source_row": 24,
+      "source_label_de": "17-AUS-01 · Vernachlässigbar: interner Eigenbedarf",
+      "addressees_de": "Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle",
+      "criterion_and_questions_de": "§ 28 Abs. 3 BSIG; nur Anlagenzuordnung. KRITIS, Vertrauensdienste, TLD, DNS und öffentliche TK werden nicht über diesen Zweig ausgenommen.\nEinzelne Tatsachenfragen (je Objekt, Datum und Beleg; Unbekannt separat):\nQ-AUS-01-01: Welcher Rechtsträger empfängt jede betreffende Leistung?\nQ-AUS-01-02: Gibt es Angebote oder Verträge für diese Leistung mit Dritten außerhalb des Verbunds?\nQ-AUS-01-03: Für welchen Verbrauchszweck wurde die Eigenanlage installiert?\nQ-AUS-01-04: Welche Strommengen wurden selbst verbraucht und welche als Überschuss eingespeist?\nQ-AUS-01-05: Bestehen Verträge über eine eigenständige Stromvermarktung über den Überschussfall hinaus?",
+      "evaluation_guidance_de": "Definition / gewählte Auslegung:\nGewählte Auslegung nach BSI: Ausschließlich für eigene interne Zwecke erbrachte Katalogtätigkeit darf bei der Anlagenzuordnung entfallen. Die bloße Überschusseinspeisung einer für Eigenbedarf installierten PV-Anlage bleibt im Eigenbedarfszweig. Leistungen an eine andere Konzerngesellschaft sind gesondert nach 17-AUS-02 zu prüfen.\nEntscheidungsregel:\nSonderrolle ausgeschlossen UND ausschließlich Eigenbedarf belegt → Ausklammerung dieser Tätigkeit nach BSI-Maßstab. Marktangebot außerhalb des PV-Überschussfalls → keine Ausklammerung nach dieser Auslegung. Anschließend übrige Tätigkeiten/Sonderrollen weiterprüfen.\nBegründung und verworfene Abkürzung:\n§ 28 Abs. 3 ist qualitativ formuliert; die amtliche BSI-Auslegungshilfe konkretisiert den Eigenbedarfsfall. Das ist eine Behördenauffassung, keine neue gesetzliche Ausnahme. Die Überschrift „Einzelunternehmen“ wird hier sachlich als Leistung innerhalb derselben Einrichtung verstanden, nicht als Beschränkung auf die Rechtsform Einzelkaufmann.\nBeispiele:\nPositiv: nur eigene interne IT oder Eigenverbrauchs-PV mit Überschuss. Negativ: eigenständiger externer IT-Service oder vornehmlich für Verkauf errichtete Erzeugung.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html · Anwendungsbereich und Betroffenheit, Frage 1, Auslegungshilfe"
+    },
+    {
+      "source_id": "17-AUS-02",
+      "source_row": 25,
+      "source_label_de": "17-AUS-02 · Vernachlässigbar: Konzernleistungen und Zahlenregel",
+      "addressees_de": "Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle",
+      "criterion_and_questions_de": "§ 28 Abs. 3 BSIG; Tätigkeit ausschließlich gegenüber verbundenen Unternehmen; selbständige Sonderrollen wie in 17-AUS-01 gehen vor.\nEinzelne Tatsachenfragen (je Objekt, Datum und Beleg; Unbekannt separat):\nQ-AUS-02-01: Welche rechtlich selbständigen Empfänger haben die Leistung erhalten oder angeboten bekommen?\nQ-AUS-02-02: Welche nachgewiesene Verbundbeziehung besteht zu jedem Empfänger?\nQ-AUS-02-03: Wie viele Mitarbeiter entfallen auf die Tätigkeit?\nQ-AUS-02-04: Wie viele Mitarbeiter entfallen auf die gesamte Einrichtung?\nQ-AUS-02-05: Wie hoch ist der Jahresumsatz der Tätigkeit?\nQ-AUS-02-06: Wie hoch ist der Jahresumsatz derselben Einrichtung?\nQ-AUS-02-07: Wie hoch ist die der Tätigkeit zurechenbare Jahresbilanzsumme?\nQ-AUS-02-08: Wie hoch ist die Jahresbilanzsumme derselben Einrichtung?",
+      "evaluation_guidance_de": "Definition / gewählte Auslegung:\nGewählte BSI-Auslegung: Konzerninterne Tätigkeit ist ausklammerbar, wenn ihr Personal unter 50 liegt UND ihr Jahresumsatzanteil unter 10% UND ihr Bilanzanteil unter 10% liegt. Alternativ bei mehr als 500 Mitarbeitern der Einrichtung: Personalanteil unter 10% UND Umsatzanteil unter 10% UND Bilanzanteil unter 10%. Alle Nenner beziehen sich auf die einzelne geprüfte Einrichtung, nicht auf den gesamten Konzern.\nEntscheidungsregel:\nNur intern im Verbund UND U_T/U_E<0,10 UND B_T/B_E<0,10 UND [P_T<50 ODER (P_E>500 UND P_T/P_E<0,10)] → Zahlen-/Empfängerzweig der BSI-Auslegung erfüllt. Zusätzlich die Personalmethodik nach 17-AUS-03 und konkrete widersprechende Tatsachen zum Gesamtbild prüfen; der Zahlenvergleich allein ist keine gesetzliche Freistellung. Gleichheit genügt nie. Externer Marktanteil von 1% besteht den Empfängertest nicht. Unbekannte Kennzahlen oder nicht belastbar zugeordnete Bilanzwerte werden nicht zu 0.\nBegründung und verworfene Abkürzung:\nDas Gesetz nennt keinen festen Prozentsatz; die BSI-Auslegungshilfe nennt inzwischen konkrete Zahlen für diesen abgegrenzten Fall. Eine allgemeine „unter 10% immer irrelevant“-Regel wird verworfen. Satzungszweck und Gesamtbild als Widerspruchsprüfung dokumentieren; ein Widerspruch verlangt Benennung der konkreten Tatsache, keine pauschale neue Rechtsfrage.\nBeispiele:\n500 Gesamtmitarbeiter/50 Bereich/9%/9%: nein. 501/50/9%/9%: ja. 49 Bereich/10% Umsatz: nein. Eigenständige Konzern-IT mit 100% ihres eigenen Umsatzes aus IT: nein, selbst bei kleinem Konzernanteil.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html · Frage 1, Abschnitt Verbundene Unternehmen"
+    },
+    {
+      "source_id": "17-AUS-03",
+      "source_row": 26,
+      "source_label_de": "17-AUS-03 · Kennzahlen: Bezugsobjekt, Personal und fehlende Werte [Teil1/2]",
+      "addressees_de": "Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle",
+      "criterion_and_questions_de": "Datenbasis der Entscheidungen 17-AUS-01/02 und getrennt der Größenberechnung nach § 28 Abs. 4 BSIG.\nEinzelne Tatsachenfragen (je Objekt, Datum und Beleg; Unbekannt separat):\nQ-AUS-03-01: Welches Geschäftsjahr und welcher Abschluss liegen vor?\nQ-AUS-03-02: Wie viele Kopfzahlen und Jahresarbeitseinheiten entfallen auf Tätigkeit und Einrichtung?\nQ-AUS-03-03: Wie wurden Teilzeit, Saisonkräfte und gemeinsam tätige Personen zugeordnet?\nQ-AUS-03-04: Welche Vermögenswerte und gemeinsamen Positionen wurden welcher Tätigkeit zugeordnet?\nQ-AUS-03-05: Welche Positionen konnten nicht belastbar zugeordnet werden?",
+      "evaluation_guidance_de": "Definition / gewählte Auslegung:\nTätigkeitszahlen und Gesamtzahlen gehören zu demselben Rechtsträger und demselben aussagekräftigen Jahreszeitraum. § 28 Abs. 4 schreibt die KMU-Jahresarbeitseinheiten für die Größenprüfung nach Abs. 1/2 vor, nicht ausdrücklich für Abs. 3. Für die behördliche Vernachlässigbarkeitsregel wird JAE hier als eigene systematisch begründete Arbeitsmethode gewählt; zusätzlich wird mit Kopfzahlen gerechnet. Die BSI-Auslegungshilfe bestimmt diese Personalmethodik nicht. Eine belastbare Bereichsbilanz braucht dokumentierte Zuordnung der Vermögenswerte; Umsatzquote ersetzt sie nicht.\nEntscheidungsregel:\nBelegter Wert 0 bleibt 0. Fehlend bleibt unbekannt. Nichtpositiver Nenner, negative oder widersprüchliche Zähler/Nenner → Kennzahlenklärung. § 28 Abs. 3: Personalzweig einmal mit JAE, einmal mit Kopfzahlen auswerten. Gleicher Ausgang → methodenstabiles Modellergebnis. Unterschiedlicher Ausgang → keine automatische Ausklammerung; JAE-Arbeitsvotum und abweichendes Kopfzahlergebnis anzeigen und die konkrete Methodenentscheidung vor einer negativen Betroffenheitsentscheidung dokumentieren. Fehlende Vergleichsdaten sind kein positiver Ausnahmenachweis. Ein unabhängig sicher negatives Kriterium lässt diesen Ausnahmezweig scheitern. Abs. 4-Konzernzurechnung verändert nicht den Abs. 3-Nenner.\nBegründung und verworfene Abkürzung:\nDie JAE-Wahl ist eine eigene Übertragung aus Abs. 4, keine ausdrückliche Vorgabe für Abs. 3. Die Vergleichsrechnung verhindert, dass diese Übertragung stillschweigend Unternehmen aus dem Anwendungsbereich herausnimmt. Für vorsorgliche Maßnahmenplanung kann bis zur begründeten Methodenentscheidung der nicht ausklammernde Ausgang verwendet werden; das ist keine verbindliche Feststellung der gesetzlichen Betroffenheit. Keine erfundenen Verteilungsschlüssel ",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361 · Anhang Art. 4–6\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html"
+    },
+    {
+      "source_id": "17-AUS-03",
+      "source_row": 27,
+      "source_label_de": "17-AUS-03 · Kennzahlen: Bezugsobjekt, Personal und fehlende Werte [Teil2/2]",
+      "addressees_de": "Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle",
+      "criterion_and_questions_de": "Siehe Teil1 dieser ID; unveränderter Zusammenhang. Keine neue eigenständige Regel.",
+      "evaluation_guidance_de": "Fortsetzung 2/2:\nals Tatsachen behandeln.\nBeispiele:\nUnbekannte Bereichsbilanz bei 9% Umsatz ist nicht automatisch 9% Bilanz. P_T50/P_E501 wird ungerundet verglichen. Rundung der Anzeige auf 10,0% darf das positive Ergebnis nicht umkehren.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003H0361 · Anhang Art. 4–6\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html"
+    },
+    {
+      "source_id": "17-AUS-04",
+      "source_row": 28,
+      "source_label_de": "17-AUS-04 · IT-Unabhängigkeit: eigene Entscheidungsmacht [Teil1/2]",
+      "addressees_de": "Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle",
+      "criterion_and_questions_de": "§ 28 Abs. 4 Satz 2 BSIG; Ausnahme von der Zurechnung von Partner-/Verbunddaten, kein eigener Tätigkeitstatbestand.\nEinzelne Tatsachenfragen (je Objekt, Datum und Beleg; Unbekannt separat):\nQ-AUS-04-01: Wer genehmigt die Auswahl und den Austausch der diensttragenden Systeme?\nQ-AUS-04-02: Wer kann Betrieb, Konfiguration und Sicherheitsänderungen verbindlich anweisen?\nQ-AUS-04-03: Welche Zustimmungs- oder Vetorechte haben Partner oder Muttergesellschaft?\nQ-AUS-04-04: Wer verfügt über Budget und Vertrag zur Durchsetzung dieser Entscheidungen?\nQ-AUS-04-05: Welche letzten Beschaffungs-/Betriebs-/Konfigurationsentscheidungen belegen die tatsächliche Handhabung?\nQ-AUS-04-06: Kann die Einrichtung einem externen oder konzerninternen Betreiber verbindliche Weisungen erteilen und deren Umsetzung kontrollieren?",
+      "evaluation_guidance_de": "Definition / gewählte Auslegung:\nIT-Unabhängigkeit wird aus allen rechtlichen, wirtschaftlichen und tatsächlichen Einflussmöglichkeiten auf Beschaffenheit und Betrieb der diensttragenden IT-Systeme, Komponenten und Prozesse bestimmt. Eigenverantwortliche Grundentscheidungen zu Beschaffung, Betrieb und Konfiguration sind nach der BSI-/Materialienerläuterung ein insbesondere genannter Positivfall, keine drei ausnahmslos notwendigen Einzelhoheiten. Eigener Handelsregistereintrag oder getrennte Server allein genügen nicht.\nEntscheidungsregel:\nBefugnisse, tatsächliche Ausübung, wirtschaftliche Durchsetzbarkeit und Einfluss der Partner/Verbundenen je diensttragendem System erfassen. Eigene maßgebliche IT-Steuerung im Gesamtbild nachgewiesen → Ausnahme nach begründeter Arbeitsauslegung bejahen. Vollständig muttergesteuerter Betrieb ohne eigenen Einfluss → verneinen. Zentrale Beschaffung, gemeinsame Verträge oder einzelne Zustimmungsrechte allein entscheiden nicht negativ. Bei gemischten Befugnissen die konkrete Entscheidung benennen, die eigenständige IT-Steuerung ermöglicht oder verhindert, und ihre Bedeutung begründen. Keine automatische Ablehnung wegen eines einzelnen fehlenden Beschaffungs-, Betriebs- oder Konfigurationsrechts.\nBegründung und verworfene Abkürzung:\nVorzugswürdig ist die funktionsbezogene Auslegung aus BSI-FAQ und Gesetzesmaterialien. Die historische Materialformel „bestimmender Einfluss“ erklärt den aktuellen Begriff „unabhängig“, ersetzt ihn nicht. Outsourcing kann unabhängig sein, wenn der Auftraggeber die Steuerung behält; Konzernoutsourcing ist nicht automatisch unabhängig.\nBeispiele:\nJa: selbst beauftragter Dienstleister setzt eigene IT-Vorgaben vertraglich durch. Nein: ",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html · Antwort zur kumulativen Größenberechnung und IT-Unabhängigkeit\nhttps://dserver.bundestag.de/btd/21/015/2101501.pdf · Begründung zu § 28 Abs. 4"
+    },
+    {
+      "source_id": "17-AUS-04",
+      "source_row": 29,
+      "source_label_de": "17-AUS-04 · IT-Unabhängigkeit: eigene Entscheidungsmacht [Teil2/2]",
+      "addressees_de": "Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle",
+      "criterion_and_questions_de": "Siehe Teil1 dieser ID; unveränderter Zusammenhang. Keine neue eigenständige Regel.",
+      "evaluation_guidance_de": "Fortsetzung 2/2:\nKonzernmutter bestimmt alle Systeme und Tochter kann nichts ändern. Zentraler Rahmenvertrag allein entscheidet den Fall nicht.",
+      "source_links_raw": "https://www.gesetze-im-internet.de/bsig_2025/__28.html\nhttps://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-FAQ/NIS-2-FAQ-allgemein/FAQ-zu-NIS-2_node.html · Antwort zur kumulativen Größenberechnung und IT-Unabhängigkeit\nhttps://dserver.bundestag.de/btd/21/015/2101501.pdf · Begründung zu § 28 Abs. 4"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+# Register of material batches by country of origin - Marenthal Chemicals Inc. (part 1 of 2)
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one | RM-000005 | United States (US) | 13 |
+| 2-Butoxyethanol | RM-000028 | Germany (DE) | 1 |
+| 2-Butoxyethanol | RM-000028 | United States (US) | 11 |
+| 2-Ethylhexyl acrylate, technical grade | TG-000038 | France (FR) | 8 |
+| 2-Phenoxyethanol | RM-000012 | United States (US) | 14 |
+| Acetic acid, technical grade | TG-000054 | Netherlands (NL) | 10 |
+| Acrylic acid, technical grade | TG-000041 | France (FR) | 6 |
+| Aluminium hydroxide | RM-000038 | United States (US) | 13 |
+| Barium sulfate | RM-000035 | Netherlands (NL) | 1 |
+| Barium sulfate | RM-000035 | United States (US) | 13 |
+| Butyl acetate, technical grade | TG-000048 | Germany (DE) | 8 |
+| Calcium carbonate | RM-000007 | United States (US) | 14 |
+| Calcium carbonate, technical grade | TG-000062 | China (CN) | 8 |
+| Calcium stearate | RM-000006 | Germany (DE) | 1 |
+| Calcium stearate | RM-000006 | United States (US) | 13 |
+| Carbon black | RM-000009 | Germany (DE) | 1 |
+| Carbon black | RM-000009 | United States (US) | 12 |
+| Citric acid | RM-000013 | United States (US) | 13 |
+| Diethylenetriamine, technical grade | TG-000044 | France (FR) | 8 |
+| Ethanol, technical grade | TG-000046 | Belgium (BE) | 10 |
+| Ethyl acetate, technical grade | TG-000047 | Netherlands (NL) | 10 |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) | RM-000010 | Netherlands (NL) | 1 |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) | RM-000010 | United States (US) | 13 |
+| Glycerol, technical grade | TG-000060 | China (CN) | 6 |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) | RM-000029 | United States (US) | 12 |
+| Hydrochloric acid (33 %), technical grade | TG-000052 | Germany (DE) | 12 |
+| Hydroxyethyl cellulose | RM-000027 | United States (US) | 13 |
+| Iron(III) oxide | RM-000031 | Germany (DE) | 1 |
+| Iron(III) oxide | RM-000031 | United States (US) | 11 |
+| Isophorone diisocyanate, technical grade | TG-000043 | France (FR) | 6 |
+| Isopropanol, technical grade | TG-000045 | Belgium (BE) | 10 |
+| Linseed oil | RM-000030 | Germany (DE) | 1 |
+| Linseed oil | RM-000030 | United States (US) | 11 |
+| Maleic anhydride, technical grade | TG-000042 | France (FR) | 7 |
+| Marenbase 1003 neutralising agent | TG-000008 | Germany (DE) | 7 |
+| Marenclean A 207 alkaline industrial cleaner | TG-000014 | Germany (DE) | 8 |
+| Marenclean A 238 alkaline industrial cleaner | TG-000015 | Germany (DE) | 8 |
+| Marenclean B 1006 chlorine-based cleaner | TG-000023 | Germany (DE) | 5 |
+| Marenclean C 1305 CIP cleaner | FG-000007 | United States (US) | 290 |
+| Marenclean E 504 degreaser | TG-000018 | China (CN) | 7 |
+| Marenclean E 537 degreaser | TG-000019 | Germany (DE) | 8 |
+| Marenclean G 800 glass cleaner | TG-000021 | China (CN) | 6 |
+| Marenclean H 637 hand cleaner | TG-000020 | Germany (DE) | 8 |
+| Marenclean O 1100 active oxygen cleaner (powder) | FG-000006 | United States (US) | 123 |
+| Marenclean P 404 phosphoric acid cleaner | TG-000017 | France (FR) | 7 |
+| Marenclean R 1402 rust remover | FG-000008 | United States (US) | 662 |
+| Marenclean S 301 descaler | TG-000016 | Germany (DE) | 9 |
+| Marenclean U 101 all-purpose cleaner | FG-000004 | United States (US) | 266 |
+| Marenclean U 134 all-purpose cleaner | FG-000005 | United States (US) | 96 |
+| Marenclean Z 904 citrus cleaner | TG-000022 | Germany (DE) | 8 |
+| Marenclear 406 dechlorinating agent | TG-000013 | France (FR) | 8 |
+| Marencoat AF 309 acrylic facade paint | FG-000009 | United States (US) | 204 |
+| Marencoat AF 333 acrylic facade paint | TG-000025 | China (CN) | 5 |
+| Marencoat AL 603 alkyd enamel | TG-000027 | Germany (DE) | 8 |
+| Marencoat AL 634 alkyd enamel | TG-000028 | China (CN) | 4 |
+| Marencoat DB 1303 roof coating | TG-000032 | Germany (DE) | 8 |
+| Marencoat DB 1333 roof coating | FG-000013 | United States (US) | 153 |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | China (CN) | 5 |
+| Marencoat HL 509 water-based wood coating | FG-000010 | United States (US) | 86 |
+| Marencoat HL 533 water-based wood coating | TG-000026 | Germany (DE) | 8 |
+| Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | Germany (DE) | 7 |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | Germany (DE) | 2 |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | United States (US) | 39 |
+| Marencoat TG 1400 penetrating primer | FG-000014 | United States (US) | 373 |
+| Marencoat TG 1438 penetrating primer | TG-000033 | Germany (DE) | 7 |
+| Marendisp 305 dispersing agent | FG-000001 | United States (US) | 398 |
+| Marendisp 332 dispersing agent | TG-000003 | Germany (DE) | 6 |
+| Marenemul 731 emulsifier | TG-000006 | Germany (DE) | 8 |
+| Marenflex 906 plasticizer | TG-000007 | Germany (DE) | 8 |
+| Marenfoam 133 defoamer | TG-000004 | Germany (DE) | 9 |
+| Marenglide 953 lubricant additive | FG-000002 | United States (US) | 278 |
+| Marenpaste 202 pigment preparation | TG-000011 | France (FR) | 8 |
+| Marenpaste 237 pigment preparation | FG-000003 | United States (US) | 120 |
+| Marenphos 125 phosphating solution | TG-000012 | France (FR) | 5 |
+| Marensolv 108 thinner (solvent blend) | TG-000009 | France (FR) | 8 |
+| Marensolv 302 degreasing spirit (solvent blend) | TG-000010 | China (CN) | 5 |
+| Marenthix 409 thickener | TG-000005 | Germany (DE) | 9 |
+| Marenwet 206 wetting agent | TG-000001 | Germany (DE) | 8 |
+| Marenwet 237 wetting agent | TG-000002 | China (CN) | 6 |
+| Methanol, technical grade | TG-000056 | United States (US) | 10 |
+| Methyl ethyl ketone, technical grade | TG-000049 | Netherlands (NL) | 10 |
+| Methyl methacrylate, technical grade | TG-000034 | Germany (DE) | 6 |
+| Neopentyl glycol, technical grade | TG-000036 | Germany (DE) | 8 |
+| Oxalic acid | RM-000022 | Germany (DE) | 1 |
+| Oxalic acid | RM-000022 | United States (US) | 12 |
+| Paraffin wax | RM-000008 | United States (US) | 14 |
+| Pentaerythritol, technical grade | TG-000037 | Germany (DE) | 8 |
+| Phosphoric acid (75 %) | RM-000021 | United States (US) | 14 |
+| Phosphoric acid (75 %), technical grade | TG-000058 | United States (US) | 10 |
+| Polydimethylsiloxane | RM-000026 | United States (US) | 14 |
+| Propylene glycol | RM-000003 | United States (US) | 13 |
+| Propylene glycol, technical grade | TG-000055 | Germany (DE) | 8 |
+| Rosin (colophony) | RM-000033 | Germany (DE) | 1 |
+| Rosin (colophony) | RM-000033 | United States (US) | 11 |
+| Sodium carbonate | RM-000016 | United States (US) | 12 |
+| Sodium cumenesulfonate | RM-000011 | United States (US) | 13 |
+| Sodium dodecyl sulfate | RM-000017 | Germany (DE) | 1 |
+| Sodium dodecyl sulfate | RM-000017 | United States (US) | 9 |
+| Sodium gluconate | RM-000019 | United States (US) | 12 |
+| Sodium hydroxide (50 %) | RM-000018 | Germany (DE) | 1 |
+| Sodium hydroxide (50 %) | RM-000018 | United States (US) | 12 |
+| Sodium hydroxide (50 %), technical grade | TG-000057 | United States (US) | 10 |
+| Sodium percarbonate | RM-000015 | Netherlands (NL) | 1 |
+| Sodium percarbonate | RM-000015 | United States (US) | 11 |
+| Sodium sulfate | RM-000014 | United States (US) | 10 |
+| Styrene, technical grade | TG-000040 | France (FR) | 6 |
+| Styrene-acrylate copolymer dispersion | RM-000002 | United States (US) | 13 |
+| Sulfuric acid (96 %), technical grade | TG-000053 | Germany (DE) | 9 |
+| Talc | RM-000024 | Germany (DE) | 1 |
+| Talc | RM-000024 | United States (US) | 12 |
+| Tetrasodium EDTA | RM-000020 | United States (US) | 14 |
+| Titanium dioxide | RM-000023 | United States (US) | 14 |
+| Titanium dioxide, technical grade | TG-000061 | China (CN) | 5 |
+| Toluene, technical grade | TG-000050 | Germany (DE) | 8 |
+| Triethanolamine | RM-000004 | Germany (DE) | 1 |
+| Triethanolamine | RM-000004 | United States (US) | 12 |
+| Vinyl acetate, technical grade | TG-000039 | France (FR) | 7 |
+| Water (demineralised) | RM-000001 | United States (US) | 14 |
+| Xylene (isomer mixture), technical grade | TG-000051 | Germany (DE) | 8 |
+| Zinc oxide | RM-000025 | Netherlands (NL) | 1 |

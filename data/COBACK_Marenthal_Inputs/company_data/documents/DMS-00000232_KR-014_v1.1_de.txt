@@ -1,0 +1,40 @@
+
+
+Lieferantenkodex
+Konzernrichtlinie
+Dokumentnummer
+DMS-00000232
+Version
+1.1
+Gültig ab
+2023-04-18
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Zweck und Geltungsbereich
+Diese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Lieferkette“ fest. Sie
+gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für Geschäftspartner.
+Verstöße können arbeits- und strafrechtliche Folgen haben.
+Pflichten und Zuständigkeiten
+Lieferantenkodex von Schlüssellieferanten unterzeichnen lassen – Unterschriebene Kodizes und
+Selbstauskunft der Lieferanten einholen.
+Richtlinie
+nummer: KR-014
+titel: Lieferantenkodex
+thema: Lieferkette
+geltung: Konzern
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2026-03-24
+master_sprache: de
+vertraulichkeit: öffentlich
+Richtlinienversion
+version: 1.1
+sprache: de
+status: Gültig
+gueltig_ab: 2023-04-18
+freigabe_datum: 2023-04-18
+aenderungsgrund: Aufnahme neuer Lieferantengruppen

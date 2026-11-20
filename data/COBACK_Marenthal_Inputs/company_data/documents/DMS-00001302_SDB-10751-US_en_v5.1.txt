@@ -1,0 +1,84 @@
+
+
+Safety Data Sheet Marencoat AF 333 acrylic facade
+paint
+Sicherheitsdatenblatt
+Document no.
+DMS-00001302
+Version
+5.1
+Valid from
+2025-11-05
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marencoat AF 333 acrylic facade paint
+Product: Marencoat AF 333 acrylic facade paint
+SDS: SDB-10751-US
+2. Hazards identification
+H: H302 H315 H317 H318 H400 H410
+3. Composition / information on ingredients
+Water (demineralised) 7732-18-5 231-791-2 30–36.7 %
+Styrene-acrylate
+copolymer dispersion
+25767-47-9 20.5–25.1 %
+Calcium carbonate 471-34-1 207-439-9 16.5–20.1 %
+Titanium dioxide 13463-67-7 236-675-5 15.8–19.4 %
+Talc 14807-96-6 238-877-9 4.5–5.5 %
+Zinc oxide 1314-13-2 215-222-5 0.5–1.5 % H410
+Propylene glycol 57-55-6 200-338-0 0.495–1.485 %
+Polydimethylsiloxane 63148-62-9 0.22–0.66 %
+Hydroxyethyl cellulose 9004-62-0 0.215–0.645 %
+1,2-Benzisothiazolin-3-on
+e
+2634-33-5 220-120-9 0.03–0.09 % H302 H315
+H317 H318
+H400
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.431
+Base unit: KG
+Shelf life (months): 18
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 3209100000
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+1,2-Benzisothiazolin-3-one: TSCA – Inventar aktiv
+Calcium carbonate: TSCA – nicht erforderlich
+Hydroxyethyl cellulose: TSCA – Inventar aktiv
+Polydimethylsiloxane: TSCA – Inventar aktiv
+Propylene glycol: TSCA – nicht erforderlich
+Styrene-acrylate copolymer dispersion: TSCA – Inventar aktiv
+Talc: TSCA – Inventar aktiv
+Titanium dioxide: TSCA – nicht erforderlich
+16. Other information
+5.1 · 2025-11-05

@@ -1,0 +1,32 @@
+
+
+Technical Data Sheet Marenflex 906 plasticizer
+Technisches Datenblatt
+Document no.
+DMS-00000450
+Version
+9.1
+Valid from
+2024-08-28
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenflex 906 plasticizer
+Family: Specialty Chemicals
+Applications: Sealants and adhesives, Formulation auxiliaries
+Description: Weichmachung von Kunststoffen und Dichtmassen
+Hazardous: 0
+SDS available: 1
+Density: 0.981
+HS: 3812200000
+Origin: DE
+Composition
+Dioctyl terephthalate: 77.9–95.3 %
+Epoxidised soybean oil: 12.1–14.7 %

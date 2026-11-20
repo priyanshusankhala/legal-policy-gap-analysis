@@ -1,0 +1,28 @@
+
+
+Beschlussprotokoll Aufsichtsrat: Billigung des
+Compliance-Jahresberichts 2024
+Beschlussprotokoll
+Dokumentnummer
+DMS-00000706
+Version
+1.0
+Gültig ab
+2025-03-17
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Restricted
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Beschluss
+gremium: Aufsichtsrat
+datum: 2025-03-17
+titel: Billigung des Compliance-Jahresberichts 2024
+inhalt: Der Aufsichtsrat billigt den Jahresbericht Compliance 2024 und nimmt die Risikolage zur
+Kenntnis.
+status: umgesetzt
+bezug: Bericht BR00009

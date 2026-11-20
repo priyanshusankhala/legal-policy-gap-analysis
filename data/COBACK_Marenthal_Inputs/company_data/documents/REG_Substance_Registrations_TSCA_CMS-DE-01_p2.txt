@@ -1,0 +1,44 @@
+# Register of substance registrations: TSCA - Marenthal Chemie AG (part 2 of 2)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Status of each substance under TSCA for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sodium percarbonate (CAS 15630-89-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium persulfate (CAS 7775-27-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium silicate (water glass) (CAS 1344-09-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium sulfate (CAS 7757-82-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium thiosulfate (CAS 7772-98-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium tripolyphosphate (CAS 7758-29-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Stearic acid (CAS 57-11-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Styrene (CAS 100-42-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sulfamic acid (CAS 5329-14-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sulfuric acid (96 %) (CAS 7664-93-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Talc (CAS 14807-96-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Tartaric acid (CAS 87-69-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Tetraethyl orthosilicate (CAS 78-10-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Tetrahydrofuran (CAS 109-99-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Tetrasodium EDTA (CAS 64-02-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Titanium dioxide (CAS 13463-67-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Toluene (CAS 108-88-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Triethanolamine (CAS 102-71-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Triethylamine (CAS 121-44-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Trisodium citrate (CAS 68-04-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Trisodium phosphate (CAS 7601-54-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Urea (CAS 57-13-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Vinyl acetate (CAS 108-05-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Xanthan gum (CAS 11138-66-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Xylene (isomer mixture) (CAS 1330-20-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Zinc oxide (CAS 1314-13-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Zinc phosphate (CAS 7779-90-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Zinc stearate (CAS 557-05-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| d-Limonene (CAS 5989-27-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| n-Butanol (CAS 71-36-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| n-Butyl acrylate (CAS 141-32-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| n-Heptane (CAS 142-82-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| n-Hexane (CAS 110-54-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |

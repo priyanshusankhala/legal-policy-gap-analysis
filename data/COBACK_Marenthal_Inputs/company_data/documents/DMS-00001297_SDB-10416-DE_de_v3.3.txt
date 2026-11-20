@@ -1,0 +1,79 @@
+
+
+Sicherheitsdatenblatt Marenclean U 134
+Universalreiniger
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00001297
+Version
+3.3
+Gültig ab
+2025-11-19
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marenclean U 134 Universalreiniger
+Marenclean U 134 Universalreiniger
+SDS: SDB-10416-DE
+2. Mögliche Gefahren
+H: H302 H318 H319 H335 H412
+3. Zusammensetzung / Angaben zu Bestandteilen
+Wasser
+(demineralisiert)
+7732-18-5 231-791-2 83.5–100 %
+Fettalkoholethoxylat
+(C12-14, 6 EO)
+68439-50-9 2.7–3.7 % H302 H318 H412
+Natriumcumolsulfonat 15763-76-5 239-854-6 2.7–3.7 % H319
+Citronensäure 77-92-9 201-069-1 0.265–0.795 % H319
+2-Phenoxyethanol 122-99-6 204-589-7 0.155–0.465 % H302 H318 H335
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 1.007
+
+Base unit: KG
+Shelf life (months): 24
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+HS: 34022090
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+2-Phenoxyethanol: IECSC – nicht erforderlich
+2-Phenoxyethanol: REACH – nicht erforderlich
+2-Phenoxyethanol: TSCA – nicht erforderlich
+Citric acid: IECSC – nicht erforderlich
+Citric acid: REACH – nicht erforderlich
+Citric acid: TSCA – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+16. Sonstige Angaben
+3.3 · 2025-11-19

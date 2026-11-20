@@ -1,0 +1,29 @@
+
+
+Umsetzungsnachweis: Kontrolle nacharbeiten:
+Rundgänge zur Leckage- und Korrosionskontrolle
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00000642
+Version
+1.0
+Gesellschaft
+Marenthal France S.A.S.
+Standort
+FR01-002
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Kontrolle nacharbeiten: Rundgänge zur Leckage- und Korrosionskontrolle
+beschreibung: Kontrollziel nicht erreicht; Maßnahme zur Behebung eingeleitet.
+quelle_typ: Kontrolle
+prioritaet: mittel
+status: erledigt
+frist: 2025-02-26
+abgeschlossen_am: 2025-02-26
+bemerkung: Nachweis im Compliance-System abgelegt.

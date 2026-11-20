@@ -1,0 +1,53 @@
+
+
+Qualitätssicherungsvereinbarung QA-2023-0002 – Isar
+Textilveredelung GmbH
+Qualitätssicherungsvereinbarung
+Dokumentnummer
+DMS-00000226
+Version
+1.0
+Gültig ab
+2023-04-03
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: QA-2023-0002
+type: Quality Agreement
+status: Active
+start_date: 2023-04-03
+end_date: 2026-04-02
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-03-23
+governing_law: German law
+Account
+name: Isar Textilveredelung GmbH
+type: Customer
+billing_street: Gartenstraße 157
+billing_city: München
+billing_postcode: 80947
+billing_country: DE
+industry: Textile and paper industry
+segment: Direct
+size_class: Large
+status: Active
+website: www.isar-textilveredelung.de
+created_date: 2022-10-30
+last_modified_date: 2025-03-13
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-11-27
+cms_partner_ref: GP000545
+description: Textil- und Papierindustrie; Stammkunde seit 2022. Hauptprodukte: Butylacetat, techn.,
+Natronlauge (50 %), techn.

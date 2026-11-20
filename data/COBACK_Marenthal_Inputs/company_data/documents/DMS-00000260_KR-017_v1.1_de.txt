@@ -1,0 +1,51 @@
+
+
+Notfall- und Krisenmanagement
+Konzernrichtlinie
+Dokumentnummer
+DMS-00000260
+Version
+1.1
+Gültig ab
+2023-05-12
+Gesellschaft
+Marenthal Chemie AG
+Status
+Superseded
+Vertraulichkeit
+Internal
+Zweck und Geltungsbereich
+Diese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „EHS“ fest. Sie gilt für
+alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für Geschäftspartner. Verstöße
+können arbeits- und strafrechtliche Folgen haben.
+Pflichten und Zuständigkeiten
+Alarmierung der Behörden und Notfallkontakte rund um die Uhr prüfen – Erreichbarkeit und
+Alarmketten halbjährlich testen.
+Schichtleiter zum Notfallmanagement schulen – Marl – Schichtleiter in Alarmierung und ersten
+Maßnahmen unterweisen.
+Schichtleiter zum Notfallmanagement schulen – Bitterfeld-Wolfen – Schichtleiter in Alarmierung und
+ersten Maßnahmen unterweisen.
+Evakuierungsübung durchführen – Bitterfeld-Wolfen – Jährliche Übung mit Dokumentation der
+Räumungszeit.
+Evakuierungsübung durchführen – Duisburg – Jährliche Übung mit Dokumentation der Räumungszeit.
+Evakuierungsübung durchführen – Frankfurt am Main – Jährliche Übung mit Dokumentation der
+Räumungszeit.
+Evakuierungsübung durchführen – Marl – Jährliche Übung mit Dokumentation der Räumungszeit.
+Richtlinie
+nummer: KR-017
+titel: Notfall- und Krisenmanagement
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-16
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.1
+sprache: de
+status: Ersetzt
+gueltig_ab: 2023-05-12
+gueltig_bis: 2025-03-24
+freigabe_datum: 2023-05-10
+aenderungsgrund: Anpassung nach Umstrukturierung der Organisation

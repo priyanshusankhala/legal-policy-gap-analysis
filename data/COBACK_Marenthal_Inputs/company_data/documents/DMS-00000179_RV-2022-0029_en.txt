@@ -1,0 +1,84 @@
+
+
+Framework Agreement RV-2022-0029 – Kovačić & Turk
+Paints d.d.
+Rahmenvertrag
+Document no.
+DMS-00000179
+Version
+1.0
+Valid from
+2022-11-03
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2022-0029
+type: Framework Agreement
+status: Active
+start_date: 2022-11-03
+end_date: 2027-11-02
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 54.56
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-09-29
+compliance_review_ref: GPP0000557
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marendisp 305 dispersing agent: 379.05 EUR/100 kg
+Marenfoam 133 defoamer: 429.04 EUR/100 kg
+Marensolv 302 degreasing spirit (solvent blend): 227.15 EUR/100 kg
+Acrylic acid, technical grade: 1993.93 EUR/1000 kg
+Account
+name: Kovačić & Turk Paints d.d.
+type: Customer
+billing_street: Celjska cesta 22
+billing_city: Ljubljana
+billing_postcode: 1669
+billing_country: SI
+industry: Paints and coatings
+segment: Direct
+size_class: Medium
+status: Active
+
+website: www.kovacic-paints.si
+created_date: 2008-07-30
+last_modified_date: 2025-08-08
+language: en
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-08-30
+cms_partner_ref: GP000205
+description: Paints and coatings. Regular call-offs of Marenfoam 133 defoamer, Marensolv 302
+degreasing spirit (solvent blend) according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2022-0029
+type: Framework Agreement
+status: Active
+start_date: 2022-11-03
+end_date: 2027-11-02
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 54.56
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-09-29
+compliance_review_ref: GPP0000557
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marendisp 305 dispersing agent: 379.05 EUR/100 kg
+Marenfoam 133 defoamer: 429.04 EUR/100 kg
+Marensolv 302 degreasing spirit (solvent blend): 227.15 EUR/100 kg
+Acrylic acid, technical grade: 1993.93 EUR/1000 kg

@@ -1,0 +1,81 @@
+
+
+Safety Data Sheet Marenpaste 202 pigment
+preparation
+Sicherheitsdatenblatt
+Document no.
+DMS-00000613
+Version
+5.2
+Valid from
+2025-02-21
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenpaste 202 pigment preparation
+Product: Marenpaste 202 pigment preparation
+SDS: SDB-10329-US
+2. Hazards identification
+H: H302 H315 H317 H318 H400 H412
+3. Composition / information on ingredients
+Water (demineralised) 7732-18-5 231-791-2 48.9–59.8 %
+Iron(III) oxide 1309-37-1 215-168-2 26.7–32.7 %
+Styrene-acrylate
+copolymer dispersion
+25767-47-9 8.8–10.8 %
+Propylene glycol 57-55-6 200-338-0 3.1–4.1 %
+Fatty alcohol ethoxylate
+(C12-14, 6 EO)
+68439-50-9 2–3 % H302 H318
+H412
+1,2-Benzisothiazolin-3-on
+e
+2634-33-5 220-120-9 0.015–0.045 % H302 H315
+H317 H318
+H400
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.326
+Base unit: KG
+Shelf life (months): 12
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 3212900000
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+1,2-Benzisothiazolin-3-one: TSCA – Inventar aktiv
+Fatty alcohol ethoxylate (C12-14, 6 EO): TSCA – nicht erforderlich
+Iron(III) oxide: TSCA – Inventar aktiv
+Propylene glycol: TSCA – nicht erforderlich
+Styrene-acrylate copolymer dispersion: TSCA – Inventar aktiv
+Water (demineralised): TSCA – nicht erforderlich
+16. Other information
+5.2 · 2025-02-21

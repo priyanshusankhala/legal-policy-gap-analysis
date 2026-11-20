@@ -1,0 +1,10 @@
+# Register of internal investigations and their steps - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Internal investigations with opening date, status, result and the sequence of investigation steps. Persons are not named.
+
+| Case | Opened | Status | Closed | Result | Steps | Step history |
+| --- | --- | --- | --- | --- | --- | --- |
+| UT00002 | 2025-03-27 | abgeschlossen | 2025-07-31 | Der Sachverhalt wurde bestätigt. Personelle und organisatorische Konsequenzen wurden durch die Geschäftsleitung entschieden; Prozessanpassungen sind eingeleitet. | 5 steps | 2025-03-27: Sachverhalt aufgenommen und Beweissicherung eingeleitet / 2025-04-28: Dokumente und E-Mails ausgewertet / 2025-05-29: Befragung der beteiligten Personen / 2025-06-30: Stellungnahme der betroffenen Person eingeholt / 2025-07-31: Abschlussbericht erstellt |
+| UT00009 | 2025-07-22 | abgeschlossen | 2025-09-17 | Der Sachverhalt konnte nicht bestätigt werden; es wurden keine Regelverstöße festgestellt. Die Untersuchung wurde ohne Maßnahmen abgeschlossen. | 5 steps | 2025-07-22: Sachverhalt aufgenommen und Beweissicherung eingeleitet / 2025-08-05: Dokumente und E-Mails ausgewertet / 2025-08-20: Befragung der beteiligten Personen / 2025-09-03: Stellungnahme der betroffenen Person eingeholt / 2025-09-17: Abschlussbericht erstellt |

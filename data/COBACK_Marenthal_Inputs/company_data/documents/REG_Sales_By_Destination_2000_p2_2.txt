@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal France S.A.S. (part 2 of 4)
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| China (CN) | Vinyl acetate, technical grade | PF-000009 | 4 | 196,000 KG | 294,676 EUR |
+| France (FR) | 2-Ethylhexyl acrylate, technical grade | PF-000008 | 23 | 245,200 KG | 474,977 EUR |
+| France (FR) | Acrylic acid, technical grade | PF-000011 | 39 | 305,025 KG | 629,618 EUR |
+| France (FR) | Butyl acetate, technical grade | MC-000055 | 12 | 211,200 KG | 277,765 EUR |
+| France (FR) | Calcium carbonate, technical grade | MC-000068 | 2 | 53,500 KG | 6,050 EUR |
+| France (FR) | Diethylenetriamine, technical grade | PF-000015 | 45 | 464,250 KG | 1,105,145 EUR |
+| France (FR) | Ethanol, technical grade | MC-000053 | 113 | 3,731,450 KG | 3,662,146 EUR |
+| France (FR) | Ethyl acetate, technical grade | MC-000054 | 18 | 188,200 KG | 217,632 EUR |
+| France (FR) | Glycerol, technical grade | MC-000066 | 33 | 419,800 KG | 448,051 EUR |
+| France (FR) | Hydrochloric acid (33 %), technical grade | MC-000059 | 45 | 3,860,900 KG | 497,765 EUR |
+| France (FR) | Isophorone diisocyanate, technical grade | PF-000013 | 9 | 14,800 KG | 72,250 EUR |
+| France (FR) | Isopropanol, technical grade | MC-000052 | 21 | 233,600 KG | 299,006 EUR |
+| France (FR) | Maleic anhydride, technical grade | PF-000012 | 39 | 652,525 KG | 1,242,636 EUR |
+| France (FR) | Marenbase 1003 neutralising agent | MC-000012 | 58 | 132,875 KG | 821,730 EUR |
+| France (FR) | Marenclean A 207 alkaline industrial cleaner | MC-000017 | 55 | 1,100,825 KG | 1,374,977 EUR |
+| France (FR) | Marenclean A 238 alkaline industrial cleaner | MC-000018 | 4 | 16,800 KG | 26,544 EUR |
+| France (FR) | Marenclean C 1305 CIP cleaner | MC-000030 | 29 | 465,950 KG | 598,042 EUR |
+| France (FR) | Marenclean E 504 degreaser | MC-000021 | 8 | 71,900 KG | 115,651 EUR |
+| France (FR) | Marenclean E 537 degreaser | MC-000022 | 28 | 174,050 KG | 287,950 EUR |
+| France (FR) | Marenclean G 800 glass cleaner | MC-000026 | 39 | 1,175,300 KG | 1,269,211 EUR |
+| France (FR) | Marenclean H 637 hand cleaner | MC-000024 | 17 | 124,875 KG | 202,346 EUR |
+| France (FR) | Marenclean M 1200 machine cleaner (powder) | PF-000007 | 67 | 2,009,325 KG | 2,757,422 EUR |
+| France (FR) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 39 | 173,175 KG | 257,469 EUR |
+| France (FR) | Marenclean R 1402 rust remover | MC-000031 | 11 | 122,500 KG | 180,063 EUR |
+| France (FR) | Marenclean S 301 descaler | MC-000019 | 35 | 226,975 KG | 354,253 EUR |
+| France (FR) | Marenclean U 101 all-purpose cleaner | MC-000015 | 17 | 188,600 KG | 254,540 EUR |
+| France (FR) | Marenclean U 134 all-purpose cleaner | MC-000016 | 6 | 29,900 KG | 42,180 EUR |
+| France (FR) | Marenclean Z 904 citrus cleaner | MC-000027 | 23 | 137,975 KG | 354,147 EUR |
+| France (FR) | Marenclear 406 dechlorinating agent | PF-000005 | 23 | 113,150 KG | 238,365 EUR |
+| France (FR) | Marencoat AF 309 acrylic facade paint | MC-000032 | 6 | 4,125 KG | 16,066 EUR |
+| France (FR) | Marencoat AF 333 acrylic facade paint | MC-000033 | 7 | 3,100 KG | 14,504 EUR |
+| France (FR) | Marencoat AL 603 alkyd enamel | MC-000037 | 7 | 5,325 KG | 31,160 EUR |
+| France (FR) | Marencoat AL 634 alkyd enamel | MC-000038 | 36 | 66,525 KG | 429,622 EUR |
+| France (FR) | Marencoat DB 1303 roof coating | MC-000044 | 10 | 27,900 KG | 109,944 EUR |
+| France (FR) | Marencoat DB 1333 roof coating | MC-000045 | 5 | 11,700 KG | 40,079 EUR |
+| France (FR) | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | 22 | 14,725 KG | 120,652 EUR |
+| France (FR) | Marencoat HL 509 water-based wood coating | MC-000035 | 11 | 17,000 KG | 79,764 EUR |
+| France (FR) | Marencoat HL 533 water-based wood coating | MC-000036 | 23 | 78,500 KG | 343,236 EUR |
+| France (FR) | Marencoat PH 1102 epoxy hardener (component B) | MC-000043 | 3 | 4,800 KG | 28,277 EUR |
+| France (FR) | Marencoat RS 703 anticorrosive primer | MC-000039 | 14 | 284,400 KG | 1,491,609 EUR |
+| France (FR) | Marencoat TG 1400 penetrating primer | MC-000046 | 30 | 196,300 KG | 387,766 EUR |
+| France (FR) | Marencoat TG 1438 penetrating primer | MC-000047 | 24 | 134,800 KG | 218,724 EUR |
+| France (FR) | Marendisp 305 dispersing agent | MC-000003 | 9 | 16,900 KG | 63,101 EUR |
+| France (FR) | Marendisp 332 dispersing agent | MC-000004 | 43 | 576,425 KG | 1,978,285 EUR |
+| France (FR) | Marenflex 906 plasticizer | MC-000010 | 30 | 64,550 KG | 300,542 EUR |
+| France (FR) | Marenfoam 133 defoamer | MC-000005 | 38 | 184,050 KG | 821,864 EUR |
+| France (FR) | Marenglide 953 lubricant additive | MC-000011 | 50 | 176,900 KG | 783,778 EUR |
+| France (FR) | Marenpaste 237 pigment preparation | MC-000014 | 5 | 6,775 KG | 28,700 EUR |
+| France (FR) | Marenphos 125 phosphating solution | PF-000004 | 24 | 68,925 KG | 247,792 EUR |
+| France (FR) | Marenprotect 806 preservative | MC-000009 | 22 | 21,900 KG | 217,528 EUR |
+| France (FR) | Marensolv 302 degreasing spirit (solvent blend) | MC-000013 | 36 | 110,450 KG | 253,542 EUR |
+| France (FR) | Marenthix 409 thickener | MC-000006 | 34 | 896,300 KG | 2,213,354 EUR |
+| France (FR) | Marenwet 206 wetting agent | MC-000001 | 26 | 165,200 KG | 503,774 EUR |
+| France (FR) | Marenwet 237 wetting agent | MC-000002 | 11 | 56,300 KG | 201,719 EUR |
+| France (FR) | Methanol, technical grade | MC-000063 | 5 | 566,500 KG | 224,390 EUR |
+| France (FR) | Methyl ethyl ketone, technical grade | MC-000056 | 7 | 224,000 KG | 367,405 EUR |
+| France (FR) | Neopentyl glycol, technical grade | MC-000050 | 7 | 22,000 KG | 44,184 EUR |
+| France (FR) | Phosphoric acid (75 %), technical grade | MC-000065 | 45 | 433,100 KG | 446,709 EUR |
+| France (FR) | Propylene glycol, technical grade | MC-000062 | 21 | 139,425 KG | 240,101 EUR |
+| France (FR) | Sodium hydroxide (50 %), technical grade | MC-000064 | 69 | 3,318,100 KG | 1,551,299 EUR |
+| France (FR) | Styrene, technical grade | PF-000010 | 13 | 269,100 KG | 303,609 EUR |
+| France (FR) | Sulfuric acid (96 %), technical grade | MC-000060 | 92 | 11,983,500 KG | 1,319,614 EUR |
+| France (FR) | Titanium dioxide, technical grade | MC-000067 | 18 | 164,200 KG | 633,019 EUR |
+| France (FR) | Toluene, technical grade | MC-000057 | 8 | 43,500 KG | 43,204 EUR |
+| France (FR) | Xylene (isomer mixture), technical grade | MC-000058 | 21 | 951,100 KG | 899,041 EUR |
+| France (FR) | n-Butyl acrylate, technical grade | MC-000049 | 18 | 119,900 KG | 231,939 EUR |
+| Germany (DE) | 2-Ethylhexyl acrylate, technical grade | PF-000008 | 7 | 259,000 KG | 442,009 EUR |
+| Germany (DE) | Acrylic acid, technical grade | PF-000011 | 8 | 832,000 KG | 1,400,506 EUR |
+| Germany (DE) | Diethylenetriamine, technical grade | PF-000015 | 7 | 1,568,000 KG | 3,786,250 EUR |
+| Germany (DE) | Isophorone diisocyanate, technical grade | PF-000013 | 8 | 768,000 KG | 3,390,643 EUR |
+| Germany (DE) | Maleic anhydride, technical grade | PF-000012 | 7 | 1,806,000 KG | 2,950,101 EUR |
+| Germany (DE) | Marenclean M 1200 machine cleaner (powder) | PF-000007 | 7 | 1,435,000 KG | 1,584,958 EUR |
+| Germany (DE) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 8 | 2,208,000 KG | 2,129,837 EUR |
+| Germany (DE) | Marenclear 406 dechlorinating agent | PF-000005 | 7 | 154,000 KG | 176,299 EUR |
+| Germany (DE) | Marendisp 305 dispersing agent | MC-000003 | 5 | 6,550 KG | 27,459 EUR |
+| Germany (DE) | Marenflex 906 plasticizer | MC-000010 | 4 | 4,275 KG | 21,907 EUR |
+| Germany (DE) | Marenpaste 202 pigment preparation | PF-000003 | 7 | 546,000 KG | 1,200,927 EUR |
+| Germany (DE) | Marenphos 125 phosphating solution | PF-000004 | 7 | 504,000 KG | 868,140 EUR |
+| Germany (DE) | Marensolv 108 thinner (solvent blend) | PF-000002 | 7 | 1,211,000 KG | 2,224,607 EUR |
+| Germany (DE) | Methyl ethyl ketone, technical grade | MC-000056 | 1 | 5,500 KG | 10,760 EUR |
+| Germany (DE) | Sodium hydroxide (50 %), technical grade | MC-000064 | 6 | 122,625 KG | 65,939 EUR |
+| Germany (DE) | Styrene, technical grade | PF-000010 | 14 | 1,933,900 KG | 2,129,927 EUR |
+| Germany (DE) | Sulfuric acid (96 %), technical grade | MC-000060 | 7 | 374,000 KG | 42,726 EUR |
+| Germany (DE) | Titanium dioxide, technical grade | MC-000067 | 2 | 1,850 KG | 7,199 EUR |
+| Germany (DE) | Triethylamine, technical grade | PF-000014 | 5 | 17,300 KG | 30,880 EUR |
+| Germany (DE) | Vinyl acetate, technical grade | PF-000009 | 6 | 852,000 KG | 1,219,510 EUR |
+| Italy (IT) | 2-Ethylhexyl acrylate, technical grade | PF-000008 | 5 | 38,000 KG | 86,008 EUR |
+| Italy (IT) | Acetic acid, technical grade | MC-000061 | 4 | 67,300 KG | 49,700 EUR |
+| Italy (IT) | Butyl acetate, technical grade | MC-000055 | 18 | 128,825 KG | 189,934 EUR |
+| Italy (IT) | Diethylenetriamine, technical grade | PF-000015 | 2 | 13,000 KG | 34,489 EUR |
+| Italy (IT) | Ethyl acetate, technical grade | MC-000054 | 15 | 80,275 KG | 92,138 EUR |
+| Italy (IT) | Glycerol, technical grade | MC-000066 | 11 | 82,025 KG | 91,901 EUR |
+| Italy (IT) | Hydrochloric acid (33 %), technical grade | MC-000059 | 24 | 1,520,500 KG | 204,686 EUR |
+| Italy (IT) | Isophorone diisocyanate, technical grade | PF-000013 | 8 | 40,900 KG | 220,521 EUR |
+| Italy (IT) | Isopropanol, technical grade | MC-000052 | 7 | 9,300 KG | 12,882 EUR |
+| Italy (IT) | Marenbase 1003 neutralising agent | MC-000012 | 17 | 24,175 KG | 153,627 EUR |
+| Italy (IT) | Marenclean A 207 alkaline industrial cleaner | MC-000017 | 25 | 326,000 KG | 482,553 EUR |
+| Italy (IT) | Marenclean A 238 alkaline industrial cleaner | MC-000018 | 11 | 68,200 KG | 107,756 EUR |
+| Italy (IT) | Marenclean C 1305 CIP cleaner | MC-000030 | 33 | 342,800 KG | 493,590 EUR |
+| Italy (IT) | Marenclean E 504 degreaser | MC-000021 | 7 | 30,200 KG | 48,577 EUR |
+| Italy (IT) | Marenclean E 537 degreaser | MC-000022 | 17 | 238,700 KG | 410,731 EUR |
+| Italy (IT) | Marenclean G 800 glass cleaner | MC-000026 | 14 | 153,600 KG | 189,997 EUR |
+| Italy (IT) | Marenclean H 637 hand cleaner | MC-000024 | 3 | 6,100 KG | 9,744 EUR |
+| Italy (IT) | Marenclean M 1200 machine cleaner (powder) | PF-000007 | 14 | 44,925 KG | 73,592 EUR |
+| Italy (IT) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 13 | 150,675 KG | 226,705 EUR |
+| Italy (IT) | Marenclean R 1402 rust remover | MC-000031 | 10 | 142,300 KG | 205,837 EUR |
+| Italy (IT) | Marenclean S 301 descaler | MC-000019 | 6 | 22,300 KG | 35,073 EUR |
+| Italy (IT) | Marenclean U 101 all-purpose cleaner | MC-000015 | 7 | 46,100 KG | 66,840 EUR |
+| Italy (IT) | Marenclean Z 904 citrus cleaner | MC-000027 | 15 | 57,600 KG | 148,251 EUR |
+| Italy (IT) | Marencoat AF 309 acrylic facade paint | MC-000032 | 9 | 11,100 KG | 43,826 EUR |
+| Italy (IT) | Marencoat AF 333 acrylic facade paint | MC-000033 | 8 | 5,425 KG | 25,382 EUR |
+| Italy (IT) | Marencoat AI 436 interior emulsion paint | MC-000034 | 15 | 90,050 KG | 362,654 EUR |
+| Italy (IT) | Marencoat AL 634 alkyd enamel | MC-000038 | 7 | 9,625 KG | 65,964 EUR |
+| Italy (IT) | Marencoat DB 1303 roof coating | MC-000044 | 17 | 61,750 KG | 234,771 EUR |
+| Italy (IT) | Marencoat DB 1333 roof coating | MC-000045 | 40 | 116,825 KG | 419,751 EUR |
+| Italy (IT) | Marencoat EK 1001 2K clear epoxy coating (component A) | MC-000042 | 1 | 450 KG | 3,642 EUR |
+| Italy (IT) | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | 1 | 225 KG | 1,844 EUR |
+| Italy (IT) | Marencoat PH 1102 epoxy hardener (component B) | MC-000043 | 14 | 17,400 KG | 103,261 EUR |
+| Italy (IT) | Marencoat RS 703 anticorrosive primer | MC-000039 | 21 | 98,350 KG | 445,753 EUR |
+| Italy (IT) | Marendisp 305 dispersing agent | MC-000003 | 1 | 450 KG | 1,886 EUR |

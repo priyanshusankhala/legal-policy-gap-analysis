@@ -1,0 +1,58 @@
+
+
+Entwurf Rahmenvertrag 2026 – Bock Kunststoffwerke
+KG
+Vertragsentwurf
+Dokumentnummer
+DMS-00000812
+Version
+0.2
+Gesellschaft
+Marenthal Chemie AG
+Status
+Draft
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Account
+name: Bock Kunststoffwerke KG
+type: Customer
+billing_street: Kaiserstraße 15
+billing_city: Düsseldorf
+billing_postcode: 40612
+billing_country: DE
+industry: Plastics processing
+segment: Direct
+size_class: Medium
+status: On Hold
+website: www.bock-kunststoffwerke.de
+created_date: 2023-05-25
+last_modified_date: 2025-03-09
+language: de
+selling_entity: Marenthal Chemie AG
+description: Kunststoffverarbeitung. Rahmenlieferungen von Titandioxid, techn., Schwefelsäure (96 %),
+techn., Abrufe nach Produktionsplan.
+Vertrag
+contract_number: RV-2023-0059
+type: Framework Agreement
+status: Active
+start_date: 2023-07-03
+end_date: 2028-07-02
+auto_renew: 1
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 774.06
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-06-20
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Bedingungen
+
+Marendisp 305 dispersing agent: 374.97 EUR/100 kg
+Marenpaste 237 pigment preparation: 378.89 EUR/100 kg
+Neopentyl glycol, technical grade: 1796.39 EUR/1000 kg
+Sulfuric acid (96 %), technical grade: 102.18 EUR/1000 kg
+Titanium dioxide, technical grade: 3510.66 EUR/1000 kg

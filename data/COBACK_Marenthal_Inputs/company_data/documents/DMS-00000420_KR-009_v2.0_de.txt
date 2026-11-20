@@ -1,0 +1,40 @@
+
+
+Informationssicherheitsrichtlinie
+Konzernrichtlinie
+Dokumentnummer
+DMS-00000420
+Version
+2.0
+Gültig ab
+2024-07-09
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Zweck und Geltungsbereich
+Diese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Informationssicherheit“
+fest. Sie gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für
+Geschäftspartner. Verstöße können arbeits- und strafrechtliche Folgen haben.
+Pflichten und Zuständigkeiten
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Richtlinie
+nummer: KR-009
+titel: Informationssicherheitsrichtlinie
+thema: Informationssicherheit
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2027-06-23
+master_sprache: de
+vertraulichkeit: vertraulich
+Richtlinienversion
+version: 2.0
+sprache: de
+status: Gültig
+gueltig_ab: 2024-07-09
+freigabe_datum: 2024-07-08
+aenderungsgrund: Anpassung an die aktuelle Bedrohungslage

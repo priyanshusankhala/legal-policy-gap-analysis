@@ -1,0 +1,29 @@
+
+
+NPDES Pretreatment Permit – NPDES-BAY-2018/495
+Genehmigung oder Zertifikat
+Document no.
+DMS-00000014
+Version
+1.0
+Valid from
+2018-05-01
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: NPDES Pretreatment Permit
+nummer: NPDES-BAY-2018/495
+behoerde: TCEQ
+erteilt_am: 2018-05-01
+gueltig_bis: 2028-05-01
+status: gültig
+auflagen: Grenzwerte für pH, CSB und Schwermetalle; monatliche Selbstüberwachung.

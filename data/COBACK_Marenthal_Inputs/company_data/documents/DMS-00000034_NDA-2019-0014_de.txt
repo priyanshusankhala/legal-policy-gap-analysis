@@ -1,0 +1,51 @@
+
+
+Geheimhaltungsvereinbarung NDA-2019-0014 – Wirth
+& Fischer Fahrzeugteile GmbH & Co. KG
+Geheimhaltungsvereinbarung
+Dokumentnummer
+DMS-00000034
+Version
+1.0
+Gültig ab
+2019-09-11
+Gesellschaft
+Marenthal Chemie AG
+Status
+Archived
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: NDA-2019-0014
+type: NDA
+status: Expired
+start_date: 2019-09-11
+end_date: 2024-09-10
+auto_renew: 0
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-09-06
+governing_law: German law
+Account
+name: Wirth & Fischer Fahrzeugteile GmbH & Co. KG
+type: Customer
+billing_street: Ringstraße 71
+billing_city: Düsseldorf
+billing_postcode: 40604
+billing_country: DE
+industry: Automotive supplier
+segment: Direct
+size_class: Large
+status: Active
+website: www.wirth-fahrzeugteile.de
+created_date: 2017-12-08
+last_modified_date: 2025-02-07
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-07-26
+cms_partner_ref: GP000421
+description: Automobilzulieferer. Rahmenlieferungen von Marencoat HL 533 Holzlack (wasserbasiert),
+Ethanol, techn., Abrufe nach Produktionsplan.

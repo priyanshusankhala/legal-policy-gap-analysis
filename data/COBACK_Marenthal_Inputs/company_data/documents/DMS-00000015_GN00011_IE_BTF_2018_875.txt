@@ -1,0 +1,29 @@
+
+
+Indirekteinleitergenehmigung – IE-BTF-2018/875
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000015
+Version
+1.0
+Gültig ab
+2018-07-05
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Indirekteinleitergenehmigung
+nummer: IE-BTF-2018/875
+behoerde: Landesverwaltungsamt Sachsen-Anhalt
+erteilt_am: 2018-07-05
+gueltig_bis: 2028-07-05
+status: gültig
+auflagen: Grenzwerte für pH, CSB und Schwermetalle; monatliche Selbstüberwachung.

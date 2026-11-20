@@ -1,0 +1,40 @@
+
+
+Gestion des urgences et des crises
+Konzernrichtlinie
+N° du document
+DMS-00000071
+Version
+1.0
+Valable depuis
+2021-09-23
+Société
+Marenthal Chemie AG
+Statut
+Superseded
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « EHS » pour Marenthal Chemie AG. Elle
+s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinie
+nummer: KR-017
+titel: Notfall- und Krisenmanagement
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-16
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.0
+sprache: fr
+status: Ersetzt
+gueltig_ab: 2021-09-23
+gueltig_bis: 2023-06-18
+freigabe_datum: 2021-09-20
+aenderungsgrund: Erstfassung

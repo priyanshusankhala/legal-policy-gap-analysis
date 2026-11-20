@@ -1,0 +1,39 @@
+
+
+Export Control and Sanctions – Training Material
+Schulungsunterlage
+Document no.
+DMS-00000153
+Version
+1.0
+Valid from
+2022-05-30
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Exportkontrolle und Sanktionen
+thema: Außenwirtschaft
+pflicht: 1
+zielgruppe: Vertrieb, Kundenservice, Logistik, Regulatory
+sprachen: de,en,zh
+dauer_min: 90
+intervall_monate: 24
+format: Webinar
+status: aktiv
+Richtlinie
+nummer: KR-005
+titel: Richtlinie Sanktionen und Exportkontrolle
+thema: Außenwirtschaft
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-10-21
+master_sprache: de
+vertraulichkeit: intern

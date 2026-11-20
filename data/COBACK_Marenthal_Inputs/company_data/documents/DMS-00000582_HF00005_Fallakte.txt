@@ -1,0 +1,35 @@
+
+
+Case file HF00005 (confidential)
+Fallakte Meldestelle
+Document no.
+DMS-00000582
+Version
+1.0
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Restricted
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Hinweisfall
+eingang_datum: 2025-01-22
+kanal: E-Mail
+kategorie: Buchhaltung und Betrug
+sprache: en
+schweregrad: kritisch
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 0
+kurzbeschreibung: Die Meldestelle hat einen Hinweis zu einem kritischen Fall im Bereich Buchhaltung
+und Betrug erhalten. Betroffen ist eine US-amerikanische Konzerngesellschaft. Dem Hinweis liegt der
+Verdacht zugrunde, dass Lagerbestände bei der Inventur manipuliert wurden. Die Angaben deuten auf
+mögliche Verzerrungen der Bilanzwerte hin. Es werden nun die Prüfung der Inventurunterlagen, der
+Abgleich mit Warenbewegungen sowie eine Untersuchung durch die zuständige Revision eingeleitet.
+bestaetigung_am: 2025-01-24
+rueckmeldung_am: 2025-02-27
+abschluss_datum: 2025-04-07
+ergebnis: nicht bestätigt

@@ -1,0 +1,185 @@
+# Faktenkatalog
+
+21 belegte Einzelfakten ueber das Unternehmen, jeweils als Frage, Antwort und Belegstelle. Dies ist der Einstieg fuer Fragen nach einer einzelnen Tatsache.
+
+Jede Angabe traegt in eckigen Klammern ihre Herkunft: Quellenkennung, Belegstatus, Vertrauensniveau und Stichtag. `belegt` heisst, die Angabe steht so in der Quelle. `indirekt_belegt` heisst, sie ist aus einer belegten Tatsache abgeleitet und nennt nie einen Zahlenwert. `belegt_ohne_registerauszug` heisst, die Gesellschaft ist durch eine Unternehmensquelle belegt, aber es liegt kein amtlicher Registerauszug vor. `nicht_oeffentlich` heisst, die Angabe existiert, wird aber nicht veroeffentlicht. `nicht_gefunden` heisst, sie war trotz gezielter Suche nicht auffindbar. Die letzten beiden sind kein Nein: sie fuehren zu einer offenen internen Frage und niemals zu einer geschaetzten Angabe.
+
+## F0001 — In welchem Land sitzt Marenthal Chemicals (Shanghai) Co., Ltd. und welche Rechtsform hat sie? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Marenthal Chemicals (Shanghai) Co., Ltd. ist eine Co., Ltd. (WFOE) mit Sitz in Shanghai (CN).
+- **Ausfuehrlich:** Marenthal Chemicals (Shanghai) Co., Ltd. ist eine Co., Ltd. (WFOE) mit Sitz in Shanghai (CN).
+- **Kategorie:** Gesellschaftsstruktur
+- **Gesellschaft:** Marenthal Chemicals (Shanghai) Co., Ltd.
+- **Rechtsraum:** CN
+- **Belegstelle:** Interne Stammdaten
+
+## F0002 — Wie viele Beschäftigte hat Marenthal Chemicals (Shanghai) Co., Ltd.? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Rund 350 aktive Beschäftigte.
+- **Ausfuehrlich:** Rund 350 aktive Beschäftigte.
+- **Kategorie:** Mitarbeitende
+- **Gesellschaft:** Marenthal Chemicals (Shanghai) Co., Ltd.
+- **Rechtsraum:** CN
+- **Belegstelle:** Interne Stammdaten
+
+## F0003 — In welchem Land sitzt Marenthal Chemie AG und welche Rechtsform hat sie? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Marenthal Chemie AG ist eine Aktiengesellschaft mit Sitz in Frankfurt am Main (DE).
+- **Ausfuehrlich:** Marenthal Chemie AG ist eine Aktiengesellschaft mit Sitz in Frankfurt am Main (DE).
+- **Kategorie:** Gesellschaftsstruktur
+- **Gesellschaft:** Marenthal Chemie AG
+- **Rechtsraum:** DE
+- **Belegstelle:** Interne Stammdaten
+
+## F0004 — Wie viele Beschäftigte hat Marenthal Chemie AG? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Rund 800 aktive Beschäftigte.
+- **Ausfuehrlich:** Rund 800 aktive Beschäftigte.
+- **Kategorie:** Mitarbeitende
+- **Gesellschaft:** Marenthal Chemie AG
+- **Rechtsraum:** DE
+- **Belegstelle:** Interne Stammdaten
+
+## F0005 — In welchem Land sitzt Marenthal France S.A.S. und welche Rechtsform hat sie? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Marenthal France S.A.S. ist eine Société par actions simplifiée mit Sitz in Lyon (FR).
+- **Ausfuehrlich:** Marenthal France S.A.S. ist eine Société par actions simplifiée mit Sitz in Lyon (FR).
+- **Kategorie:** Gesellschaftsstruktur
+- **Gesellschaft:** Marenthal France S.A.S.
+- **Rechtsraum:** FR
+- **Belegstelle:** Interne Stammdaten
+
+## F0006 — Wie viele Beschäftigte hat Marenthal France S.A.S.? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Rund 400 aktive Beschäftigte.
+- **Ausfuehrlich:** Rund 400 aktive Beschäftigte.
+- **Kategorie:** Mitarbeitende
+- **Gesellschaft:** Marenthal France S.A.S.
+- **Rechtsraum:** FR
+- **Belegstelle:** Interne Stammdaten
+
+## F0007 — In welchem Land sitzt Marenthal Chemicals Inc. und welche Rechtsform hat sie? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Marenthal Chemicals Inc. ist eine Corporation (Delaware) mit Sitz in Houston, TX (US).
+- **Ausfuehrlich:** Marenthal Chemicals Inc. ist eine Corporation (Delaware) mit Sitz in Houston, TX (US).
+- **Kategorie:** Gesellschaftsstruktur
+- **Gesellschaft:** Marenthal Chemicals Inc.
+- **Rechtsraum:** US
+- **Belegstelle:** Interne Stammdaten
+
+## F0008 — Wie viele Beschäftigte hat Marenthal Chemicals Inc.? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Rund 450 aktive Beschäftigte.
+- **Ausfuehrlich:** Rund 450 aktive Beschäftigte.
+- **Kategorie:** Mitarbeitende
+- **Gesellschaft:** Marenthal Chemicals Inc.
+- **Rechtsraum:** US
+- **Belegstelle:** Interne Stammdaten
+
+## F0009 — Wie ist die Konzernstruktur der Marenthal-Gruppe aufgebaut? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Marenthal Chemie AG (DE) ist Konzernmutter. Tochtergesellschaften: Marenthal Chemicals (Shanghai) Co., Ltd. (CN); Marenthal France S.A.S. (FR); Marenthal Chemicals Inc. (US).
+- **Ausfuehrlich:** Marenthal Chemie AG (DE) ist Konzernmutter. Tochtergesellschaften: Marenthal Chemicals (Shanghai) Co., Ltd. (CN); Marenthal France S.A.S. (FR); Marenthal Chemicals Inc. (US).
+- **Kategorie:** Gesellschaftsstruktur
+- **Gesellschaft:** Marenthal Chemie AG
+- **Belegstelle:** Interne Stammdaten
+
+## F0010 — Wie viele Beschäftigte hat die Marenthal-Gruppe insgesamt? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Rund 2000 aktive Beschäftigte in 4 Gesellschaften.
+- **Ausfuehrlich:** Rund 2000 aktive Beschäftigte in 4 Gesellschaften.
+- **Kategorie:** Gesellschaftsstruktur
+- **Belegstelle:** Interne Stammdaten
+
+## F0011 — Welche Produktfamilien stellt die Marenthal-Gruppe her? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Specialty Chemicals (22 Produkte); Industrial Cleaners (20 Produkte); Coatings (20 Produkte); Trade Goods (20 Produkte); Intermediates (18 Produkte).
+- **Ausfuehrlich:** Specialty Chemicals (22 Produkte); Industrial Cleaners (20 Produkte); Coatings (20 Produkte); Trade Goods (20 Produkte); Intermediates (18 Produkte).
+- **Kategorie:** Produkte
+- **Belegstelle:** Interne Stammdaten
+
+## F0012 — In welchen Branchen und Märkten sind Kunden der Marenthal-Gruppe tätig? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Metalworking & Lubricants; Industrial Cleaning; Construction & Concrete; Paints & Coatings; Plastics & Polymers; Automotive & Transport; Water Treatment; Personal Care & Hygiene; Food & Beverage Processing; Textile, Paper & Leather; Electronics & Semiconductors; Agrochemicals.
+- **Ausfuehrlich:** Metalworking & Lubricants; Industrial Cleaning; Construction & Concrete; Paints & Coatings; Plastics & Polymers; Automotive & Transport; Water Treatment; Personal Care & Hygiene; Food & Beverage Processing; Textile, Paper & Leather; Electronics & Semiconductors; Agrochemicals.
+- **Kategorie:** Produkte
+- **Belegstelle:** Interne Stammdaten
+
+## F0013 — In welchen Ländern hat die Marenthal-Gruppe Kunden? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** DE (147 Konten); US (106 Konten); CN (94 Konten); FR (68 Konten); IT (48 Konten); NL (38 Konten); BR (38 Konten); ES (38 Konten); PL (37 Konten); KE (26 Konten); BE (26 Konten); AT (24 Konten); SE (17 Konten); CZ (15 Konten); DK (14 Konten).
+- **Ausfuehrlich:** DE (147 Konten); US (106 Konten); CN (94 Konten); FR (68 Konten); IT (48 Konten); NL (38 Konten); BR (38 Konten); ES (38 Konten); PL (37 Konten); KE (26 Konten); BE (26 Konten); AT (24 Konten); SE (17 Konten); CZ (15 Konten); DK (14 Konten).
+- **Kategorie:** Lieferkette
+- **Belegstelle:** Interne Stammdaten
+
+## F0014 — Welche Genehmigungen und Zulassungen hat der Standort 常州工厂? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Eichung Fahrzeugwaage; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015; 危险化学品登记证; 危险废物管理计划备案; 安全生产许可证; 排污许可证 (Emissionserlaubnis); 排污许可证 (污水); 重大危险源备案
+- **Ausfuehrlich:** Eichung Fahrzeugwaage; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015; 危险化学品登记证; 危险废物管理计划备案; 安全生产许可证; 排污许可证 (Emissionserlaubnis); 排污许可证 (污水); 重大危险源备案
+- **Kategorie:** Umwelt
+- **Gesellschaft:** Marenthal Chemicals (Shanghai) Co., Ltd.
+- **Standort:** 常州工厂
+- **Rechtsraum:** CN
+- **Belegstelle:** Interne Stammdaten
+
+## F0015 — Welche Genehmigungen und Zulassungen hat der Standort Werk Bitterfeld? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Abfallerzeugernummer; Anzeige des Betriebsbereichs (Störfall-Verordnung); BImSchG-Genehmigung; Eichung Fahrzeugwaage; Indirekteinleitergenehmigung; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Ausfuehrlich:** Abfallerzeugernummer; Anzeige des Betriebsbereichs (Störfall-Verordnung); BImSchG-Genehmigung; Eichung Fahrzeugwaage; Indirekteinleitergenehmigung; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Kategorie:** Umwelt
+- **Gesellschaft:** Marenthal Chemie AG
+- **Standort:** Werk Bitterfeld
+- **Rechtsraum:** DE
+- **Belegstelle:** Interne Stammdaten
+
+## F0016 — Welche Genehmigungen und Zulassungen hat der Standort Werk Marl? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Abfallerzeugernummer; Anzeige des Betriebsbereichs (Störfall-Verordnung); BImSchG-Genehmigung; Eichung Fahrzeugwaage; Indirekteinleitergenehmigung; Teilnahmebestätigung Responsible Care; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Ausfuehrlich:** Abfallerzeugernummer; Anzeige des Betriebsbereichs (Störfall-Verordnung); BImSchG-Genehmigung; Eichung Fahrzeugwaage; Indirekteinleitergenehmigung; Teilnahmebestätigung Responsible Care; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Kategorie:** Umwelt
+- **Gesellschaft:** Marenthal Chemie AG
+- **Standort:** Werk Marl
+- **Rechtsraum:** DE
+- **Belegstelle:** Interne Stammdaten
+
+## F0017 — Welche Genehmigungen und Zulassungen hat der Standort Usine de Saint-Fons? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Arrêté Seveso seuil haut; Arrêté préfectoral (ICPE); Autorisation de rejet (ICPE); Eichung Fahrzeugwaage; Numéro SIRET déchets (BSD); Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Ausfuehrlich:** Arrêté Seveso seuil haut; Arrêté préfectoral (ICPE); Autorisation de rejet (ICPE); Eichung Fahrzeugwaage; Numéro SIRET déchets (BSD); Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Kategorie:** Umwelt
+- **Gesellschaft:** Marenthal France S.A.S.
+- **Standort:** Usine de Saint-Fons
+- **Rechtsraum:** FR
+- **Belegstelle:** Interne Stammdaten
+
+## F0018 — Welche Genehmigungen und Zulassungen hat der Standort Baytown Plant? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** EPA Hazardous Waste Generator ID; EPA RMP Registration; Eichung Fahrzeugwaage; NPDES Pretreatment Permit; TCEQ Air Permit; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Ausfuehrlich:** EPA Hazardous Waste Generator ID; EPA RMP Registration; Eichung Fahrzeugwaage; NPDES Pretreatment Permit; TCEQ Air Permit; Zertifikat Arbeitsschutzmanagement ISO 45001:2018; Zertifikat Qualitätsmanagement ISO 9001:2015; Zertifikat Umweltmanagement ISO 14001:2015
+- **Kategorie:** Umwelt
+- **Gesellschaft:** Marenthal Chemicals Inc.
+- **Standort:** Baytown Plant
+- **Rechtsraum:** US
+- **Belegstelle:** Interne Stammdaten
+
+## F0019 — Welche Stoffe in Produkten der Marenthal-Gruppe sind als SVHC eingestuft? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** Dimethylformamide; N-Methyl-2-pyrrolidone; Bisphenol A.
+- **Ausfuehrlich:** Dimethylformamide; N-Methyl-2-pyrrolidone; Bisphenol A.
+- **Kategorie:** Lieferkette
+- **Rechtsraum:** EU
+- **Belegstelle:** Interne Stammdaten
+
+## F0020 — In welchen Stoffregistern sind Stoffe der Marenthal-Gruppe geführt? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** IECSC CN: 313 Einträge; REACH EU: 314 Einträge; TSCA US: 313 Einträge.
+- **Ausfuehrlich:** IECSC CN: 313 Einträge; REACH EU: 314 Einträge; TSCA US: 313 Einträge.
+- **Kategorie:** Lieferkette
+- **Belegstelle:** Interne Stammdaten
+
+## F0021 — Welche Managementsystem-Zertifikate hat die Marenthal-Gruppe? [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Antwort:** AEO-Bewilligung (AEOC) (ST-DE-FRA); Teilnahmebestätigung Responsible Care (ST-DE-MRL); Zertifikat Arbeitsschutzmanagement ISO 45001:2018 (ST-DE-MRL); Zertifikat Arbeitsschutzmanagement ISO 45001:2018 (ST-FR-SFO); Zertifikat Arbeitsschutzmanagement ISO 45001:2018 (ST-US-BAY); Zertifikat Informationssicherheit ISO/IEC 27001:2022 (ST-DE-FRA); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-CN-CZX); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-DE-BTF); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-DE-MRL); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-FR-SFO); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-US-BAY); Zertifikat Umweltmanagement ISO 14001:2015 (ST-CN-CZX); Zertifikat Umweltmanagement ISO 14001:2015 (ST-DE-BTF); Zertifikat Umweltmanagement ISO 14001:2015 (ST-DE-MRL); Zertifikat Umweltmanagement ISO 14001:2015 (ST-FR-SFO); Zertifikat Umweltmanagement ISO 14001:2015 (ST-US-BAY).
+- **Ausfuehrlich:** AEO-Bewilligung (AEOC) (ST-DE-FRA); Teilnahmebestätigung Responsible Care (ST-DE-MRL); Zertifikat Arbeitsschutzmanagement ISO 45001:2018 (ST-DE-MRL); Zertifikat Arbeitsschutzmanagement ISO 45001:2018 (ST-FR-SFO); Zertifikat Arbeitsschutzmanagement ISO 45001:2018 (ST-US-BAY); Zertifikat Informationssicherheit ISO/IEC 27001:2022 (ST-DE-FRA); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-CN-CZX); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-DE-BTF); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-DE-MRL); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-FR-SFO); Zertifikat Qualitätsmanagement ISO 9001:2015 (ST-US-BAY); Zertifikat Umweltmanagement ISO 14001:2015 (ST-CN-CZX); Zertifikat Umweltmanagement ISO 14001:2015 (ST-DE-BTF); Zertifikat Umweltmanagement ISO 14001:2015 (ST-DE-MRL); Zertifikat Umweltmanagement ISO 14001:2015 (ST-FR-SFO); Zertifikat Umweltmanagement ISO 14001:2015 (ST-US-BAY).
+- **Kategorie:** Zertifizierung
+- **Belegstelle:** Interne Stammdaten

@@ -1,0 +1,128 @@
+# Register of product composition (substances per product) - Marenthal Chemicals (Shanghai) Co., Ltd. (part 1 of 3)
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+For every product or raw material: its substances with CAS number, typical share, function, hazard statements, SVHC flag and REACH status, plus UN number, hazard class and customs code of the product.
+
+| Company | Product | Material no. | UN no. | Hazard class | HS code | Substance | CAS | Typical share | Function | H statements | SVHC | REACH status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 2-Ethylhexyl acrylate, technical grade | 4020000040 | UN3082 | 9 | 2916120000 | 2-Ethylhexyl acrylate | 103-11-7 | 100 % | Hauptbestandteil | H315 H317 H335 H411 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Acetic acid, technical grade | 4020000056 | UN2789 | 8(3) | 2915210000 | Acetic acid | 64-19-7 | 100 % | Hauptbestandteil | H226 H314 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Acrylic acid, technical grade | 4020000043 | UN2218 | 8(3) | 2916110000 | Acrylic acid | 79-10-7 | 100 % | Hauptbestandteil | H226 H302 H311 H314 H331 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Butyl acetate, technical grade | 4020000050 | UN1123 | 3 | 2915330000 | Butyl acetate | 123-86-4 | 100 % | Hauptbestandteil | H226 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Calcium carbonate, technical grade | 4020000063 | - | - | 2836500000 | Calcium carbonate | 471-34-1 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Diethylenetriamine, technical grade | 4020000046 | UN2079 | 8 | 2921290000 | Diethylenetriamine | 111-40-0 | 100 % | Hauptbestandteil | H302 H311 H314 H317 H412 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ethanol, technical grade | 4020000048 | UN1170 | 3 | 2207200000 | Ethanol | 64-17-5 | 100 % | Hauptbestandteil | H225 H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ethyl acetate, technical grade | 4020000049 | UN1173 | 3 | 2915310000 | Ethyl acetate | 141-78-6 | 100 % | Hauptbestandteil | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Glycerol, technical grade | 4020000060 | - | - | 2905450000 | Glycerol | 56-81-5 | 100 % | Hauptbestandteil | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydrochloric acid (33 %), technical grade | 4020000054 | UN1789 | 8 | 2806100000 | Hydrochloric acid (33 %) | 7647-01-0 | 100 % | Hauptbestandteil | H290 H314 H335 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isophorone diisocyanate, technical grade | 4020000045 | UN2290 | 6.1 | 2929100000 | Isophorone diisocyanate | 4098-71-9 | 100 % | Hauptbestandteil | H315 H317 H330 H334 H335 H411 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isopropanol, technical grade | 4020000047 | UN1219 | 3 | 2905120000 | Isopropanol | 67-63-0 | 100 % | Hauptbestandteil | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Maleic anhydride, technical grade | 4020000044 | UN2215 | 8 | 2917140000 | Maleic anhydride | 108-31-6 | 100 % | Hauptbestandteil | H302 H314 H317 H334 H372 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenbase 1003 neutralising agent | 4020000009 | UN2920 | 8(3) | 3824999600 | 2-Dimethylaminoethanol | 108-01-0 | 58.2 % | Neutralisationsamin | H226 H302 H312 H314 H332 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenbase 1003 neutralising agent | 4020000009 | UN2920 | 8(3) | 3824999600 | Triethanolamine | 102-71-6 | 11 % | Neutralisationsamin | - | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenbase 1003 neutralising agent | 4020000009 | UN2920 | 8(3) | 3824999600 | Water (demineralised) | 7732-18-5 | 30.8 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | UN3266 | 8 | 3402909000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 4.7 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | UN3266 | 8 | 3402909000 | Sodium hydroxide (50 %) | 1310-73-2 | 9.7 % | Alkalität | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | UN3266 | 8 | 3402909000 | Sodium metasilicate | 6834-92-0 | 6 % | Alkalität | H290 H314 H335 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | UN3266 | 8 | 3402909000 | Tetrasodium EDTA | 64-02-8 | 1.3 % | Komplexbildner | H302 H318 H332 H373 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | UN3266 | 8 | 3402909000 | Water (demineralised) | 7732-18-5 | 78.3 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean B 1006 chlorine-based cleaner | 4020000022 | UN1791 | 8 | 2828909000 | Sodium hydroxide (50 %) | 1310-73-2 | 1.7 % | Alkalität | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean B 1006 chlorine-based cleaner | 4020000022 | UN1791 | 8 | 2828909000 | Sodium hypochlorite solution | 7681-52-9 | 16.6 % | Bleichmittel | H290 H314 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean B 1006 chlorine-based cleaner | 4020000022 | UN1791 | 8 | 2828909000 | Sodium laureth sulfate | 68585-34-2 | 2 % | Tensid | H315 H318 H412 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean B 1006 chlorine-based cleaner | 4020000022 | UN1791 | 8 | 2828909000 | Water (demineralised) | 7732-18-5 | 79.7 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean C 1305 CIP cleaner | 4020000025 | UN3266 | 8 | 3402909000 | Sodium gluconate | 527-07-1 | 3.3 % | Komplexbildner | - | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean C 1305 CIP cleaner | 4020000025 | UN3266 | 8 | 3402909000 | Sodium hydroxide (50 %) | 1310-73-2 | 27.2 % | Alkalität | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean C 1305 CIP cleaner | 4020000025 | UN3266 | 8 | 3402909000 | Tetrasodium EDTA | 64-02-8 | 2.1 % | Komplexbildner | H302 H318 H332 H373 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean C 1305 CIP cleaner | 4020000025 | UN3266 | 8 | 3402909000 | Water (demineralised) | 7732-18-5 | 67.4 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean D 703 disinfectant cleaner | 4010000004 | UN1993 | 3 | 3808949000 | Benzalkonium chloride | 63449-41-2 | 2.6 % | Biozid | H302 H312 H314 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean D 703 disinfectant cleaner | 4010000004 | UN1993 | 3 | 3808949000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 2.2 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean D 703 disinfectant cleaner | 4010000004 | UN1993 | 3 | 3808949000 | Isopropanol | 67-63-0 | 15.2 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean D 703 disinfectant cleaner | 4010000004 | UN1993 | 3 | 3808949000 | Water (demineralised) | 7732-18-5 | 80 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 504 degreaser | 4010000003 | - | - | 3402909000 | 2-Butoxyethanol | 111-76-2 | 5.4 % | Lösemittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 504 degreaser | 4010000003 | - | - | 3402909000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 5.8 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 504 degreaser | 4010000003 | - | - | 3402909000 | Isopropanol | 67-63-0 | 7.9 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 504 degreaser | 4010000003 | - | - | 3402909000 | Monoethanolamine | 141-43-5 | 1.5 % | Alkalität | H302 H312 H314 H332 H335 H412 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 504 degreaser | 4010000003 | - | - | 3402909000 | Water (demineralised) | 7732-18-5 | 79.4 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | - | - | 3402909000 | 2-Butoxyethanol | 111-76-2 | 8.6 % | Lösemittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | - | - | 3402909000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 3 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | - | - | 3402909000 | Isopropanol | 67-63-0 | 6.6 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | - | - | 3402909000 | Monoethanolamine | 141-43-5 | 2.8 % | Alkalität | H302 H312 H314 H332 H335 H412 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | - | - | 3402909000 | Water (demineralised) | 7732-18-5 | 79 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean G 800 glass cleaner | 4010000005 | - | - | 3402209000 | 2-Butoxyethanol | 111-76-2 | 1.9 % | Lösemittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean G 800 glass cleaner | 4010000005 | - | - | 3402209000 | Ammonia solution (25 %) | 1336-21-6 | 0.69 % | Alkalität | H314 H335 H400 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean G 800 glass cleaner | 4010000005 | - | - | 3402209000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 0.39 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean G 800 glass cleaner | 4010000005 | - | - | 3402209000 | Isopropanol | 67-63-0 | 5.7 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean G 800 glass cleaner | 4010000005 | - | - | 3402209000 | Water (demineralised) | 7732-18-5 | 91.32 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | - | - | 3402209000 | 2-Phenoxyethanol | 122-99-6 | 0.35 % | Konservierungsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | - | - | 3402209000 | Cocamidopropyl betaine | 61789-40-0 | 5.7 % | Co-Tensid | H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | - | - | 3402209000 | Glycerol | 56-81-5 | 4.5 % | Feuchthaltemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | - | - | 3402209000 | Sodium chloride | 7647-14-5 | 1.7 % | Verdicker | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | - | - | 3402209000 | Sodium laureth sulfate | 68585-34-2 | 8.7 % | Tensid | H315 H318 H412 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | - | - | 3402209000 | Water (demineralised) | 7732-18-5 | 79.05 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | UN3262 | 8 | 3402909000 | Sodium carbonate | 497-19-8 | 20.4 % | Alkalität | H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | UN3262 | 8 | 3402909000 | Sodium dodecyl sulfate | 151-21-3 | 1.2 % | Tensid | H302 H315 H318 H335 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | UN3262 | 8 | 3402909000 | Sodium metasilicate | 6834-92-0 | 26.3 % | Alkalität | H290 H314 H335 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | UN3262 | 8 | 3402909000 | Sodium sulfate | 7757-82-6 | 43.1 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | UN3262 | 8 | 3402909000 | Sodium tripolyphosphate | 7758-29-4 | 9 % | Komplexbildner | H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | UN1479 | 5.1 | 2836999000 | Sodium carbonate | 497-19-8 | 16.3 % | Alkalität | H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | UN1479 | 5.1 | 2836999000 | Sodium dodecyl sulfate | 151-21-3 | 1.6 % | Tensid | H302 H315 H318 H335 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | UN1479 | 5.1 | 2836999000 | Sodium percarbonate | 15630-89-4 | 31.3 % | Bleichmittel | H272 H302 H318 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | UN1479 | 5.1 | 2836999000 | Sodium sulfate | 7757-82-6 | 50.8 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean P 404 phosphoric acid cleaner | 4020000018 | UN3264 | 8 | 3402909000 | 2-Butoxyethanol | 111-76-2 | 2.4 % | Lösemittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean P 404 phosphoric acid cleaner | 4020000018 | UN3264 | 8 | 3402909000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 1.1 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean P 404 phosphoric acid cleaner | 4020000018 | UN3264 | 8 | 3402909000 | Phosphoric acid (75 %) | 7664-38-2 | 21.5 % | Säure | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean P 404 phosphoric acid cleaner | 4020000018 | UN3264 | 8 | 3402909000 | Water (demineralised) | 7732-18-5 | 75 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean R 1402 rust remover | 4020000026 | UN3264 | 8 | 3402909000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 1.7 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean R 1402 rust remover | 4020000026 | UN3264 | 8 | 3402909000 | Oxalic acid | 144-62-7 | 3.2 % | Säure | H302 H312 H318 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean R 1402 rust remover | 4020000026 | UN3264 | 8 | 3402909000 | Phosphoric acid (75 %) | 7664-38-2 | 17.4 % | Säure | H290 H314 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean R 1402 rust remover | 4020000026 | UN3264 | 8 | 3402909000 | Water (demineralised) | 7732-18-5 | 77.7 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean S 301 descaler | 4020000017 | - | - | 3402909000 | Citric acid | 77-92-9 | 5.1 % | Säure | H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean S 301 descaler | 4020000017 | - | - | 3402909000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 1.4 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean S 301 descaler | 4020000017 | - | - | 3402909000 | Sulfamic acid | 5329-14-6 | 13.6 % | Säure | H315 H319 H412 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean S 301 descaler | 4020000017 | - | - | 3402909000 | Water (demineralised) | 7732-18-5 | 79.9 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | - | - | 3402209000 | 2-Phenoxyethanol | 122-99-6 | 0.36 % | Konservierungsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | - | - | 3402209000 | Citric acid | 77-92-9 | 0.32 % | Säure | H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | - | - | 3402209000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 4.6 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | - | - | 3402209000 | Sodium cumenesulfonate | 15763-76-5 | 4 % | Lösevermittler | H319 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | - | - | 3402209000 | Water (demineralised) | 7732-18-5 | 90.72 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean Z 904 citrus cleaner | 4020000021 | UN1993 | 3 | 3402209000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 12.5 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean Z 904 citrus cleaner | 4020000021 | UN1993 | 3 | 3402209000 | Sodium cumenesulfonate | 15763-76-5 | 3.4 % | Lösevermittler | H319 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean Z 904 citrus cleaner | 4020000021 | UN1993 | 3 | 3402209000 | Water (demineralised) | 7732-18-5 | 65.2 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean Z 904 citrus cleaner | 4020000021 | UN1993 | 3 | 3402209000 | d-Limonene | 5989-27-5 | 18.9 % | Lösemittel | H226 H304 H315 H317 H410 | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclear 406 dechlorinating agent | 4020000014 | - | - | 3824999600 | Sodium carbonate | 497-19-8 | 2.3 % | Puffer | H319 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclear 406 dechlorinating agent | 4020000014 | - | - | 3824999600 | Sodium thiosulfate | 7772-98-7 | 20 % | Reduktionsmittel | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclear 406 dechlorinating agent | 4020000014 | - | - | 3824999600 | Water (demineralised) | 7732-18-5 | 77.7 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.07 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Calcium carbonate | 471-34-1 | 22.4 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Hydroxyethyl cellulose | 9004-62-0 | 0.22 % | Verdicker | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.39 % | Entschäumer | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 1.3 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 28.2 % | Bindemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Talc | 14807-96-6 | 4.4 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 13.8 % | Pigment | - | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 28.25 % | Lösemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | - | - | 3209100000 | Zinc oxide | 1314-13-2 | 0.97 % | Pigment | H410 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.06 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Calcium carbonate | 471-34-1 | 18.3 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Hydroxyethyl cellulose | 9004-62-0 | 0.43 % | Verdicker | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.44 % | Entschäumer | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 0.99 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 22.8 % | Bindemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Talc | 14807-96-6 | 5 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 17.6 % | Pigment | - | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 33.38 % | Lösemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | - | - | 3209100000 | Zinc oxide | 1314-13-2 | 1 % | Pigment | H410 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Calcium carbonate | 471-34-1 | 26.6 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Hydroxyethyl cellulose | 9004-62-0 | 0.39 % | Verdicker | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.3 % | Entschäumer | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 0.59 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 24.9 % | Bindemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Talc | 14807-96-6 | 3.2 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 16.4 % | Pigment | - | 0 | registriert |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 401 interior emulsion paint | 4010000007 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 27.59 % | Lösemittel | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 436 interior emulsion paint | 4010000008 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.04 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 436 interior emulsion paint | 4010000008 | - | - | 3209100000 | Calcium carbonate | 471-34-1 | 18.5 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 436 interior emulsion paint | 4010000008 | - | - | 3209100000 | Hydroxyethyl cellulose | 9004-62-0 | 0.31 % | Verdicker | - | 0 | ausgenommen |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 436 interior emulsion paint | 4010000008 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.36 % | Entschäumer | - | 0 | ausgenommen |

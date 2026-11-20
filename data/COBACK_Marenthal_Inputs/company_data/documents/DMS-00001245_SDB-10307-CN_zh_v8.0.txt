@@ -1,0 +1,69 @@
+安全技术说明书 Marensolv 302 脱脂溶剂油（混合溶剂）
+Sicherheitsdatenblatt
+
+文件编号: DMS-00001245
+版本: 8.0
+生效日期: 2025-10-31
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+1. 化学品及企业标识
+安全技术说明书 Marensolv 302 脱脂溶剂油（混合溶剂）
+Marensolv 302 脱脂溶剂油（混合溶剂）
+SDS: SDB-10307-CN
+
+2. 危险性概述
+H: H225 H226 H304 H315 H317 H336 H410 H411
+
+3. 成分/组成信息
+Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 265-150-3 | 67.3–82.3 % | H226 H304 H336 H411
+n-Heptane | 142-82-5 | 205-563-8 | 17.7–21.7 % | H225 H304 H315 H336 H410
+d-Limonene | 5989-27-5 | 227-813-5 | 5–6.1 % | H226 H304 H315 H317 H410
+
+4. 急救措施
+皮肤接触：用肥皂和清水冲洗。眼睛接触：用大量清水冲洗数分钟。如有不适请就医。
+
+5. 消防措施
+灭火剂：泡沫、干粉、二氧化碳、水雾。消防人员须佩戴正压自给式呼吸器。
+
+6. 泄漏应急处理
+佩戴个人防护装备，消除一切火源，用惰性材料吸收并妥善处置。防止进入下水道。
+
+7. 操作处置与储存
+容器保持密闭，储存于通风良好处，远离火源和不相容物质。
+
+8. 接触控制/个体防护
+佩戴防护手套、护目镜，必要时佩戴呼吸防护用品。保证良好的局部通风。
+
+9. 理化特性
+Density: 0.761
+Base unit: KG
+Shelf life (months): 12
+
+10. 稳定性和反应性
+在正常使用和储存条件下稳定。避免接触强氧化剂、酸和碱。
+
+11. 毒理学信息
+本信息基于第3部分所列成分及混合物分类。
+
+12. 生态学信息
+防止进入水体和土壤。
+
+13. 废弃处置
+按当地法规委托有资质的单位处置，空容器须清空后交回。
+
+14. 运输信息
+UN: UN1993
+ADR/IMDG class: 3
+Packing group: III
+HS: 3814009000
+
+15. 法规信息
+依据《危险化学品安全管理条例》、GB/T 16483 和 GB 13690 进行分类和标签。
+Hydrocarbon solvent (hydrotreated heavy naphtha): IECSC – Inventar aktiv
+d-Limonene: IECSC – Inventar aktiv
+n-Heptane: IECSC – Inventar aktiv
+
+16. 其他信息
+8.0 · 2025-10-31

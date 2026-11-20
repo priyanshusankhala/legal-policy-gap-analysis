@@ -1,0 +1,40 @@
+
+
+Kartellrecht für Vertrieb und Einkauf –
+Schulungsunterlage
+Schulungsunterlage
+Dokumentnummer
+DMS-00000119
+Version
+1.0
+Gültig ab
+2022-01-28
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Schulung
+titel: Kartellrecht für Vertrieb und Einkauf
+thema: Compliance
+pflicht: 1
+zielgruppe: Vertrieb, Einkauf, Marketing, Geschäftsleitung
+sprachen: de,en
+dauer_min: 120
+intervall_monate: 24
+format: Präsenz
+status: aktiv
+Richtlinie
+nummer: KR-004
+titel: Kartellrechts-Richtlinie
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2027-06-15
+master_sprache: de
+vertraulichkeit: intern

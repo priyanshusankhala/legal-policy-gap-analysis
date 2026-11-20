@@ -1,0 +1,40 @@
+
+
+REACH, CLP and the Safety Data Sheet – Training
+Material
+Schulungsunterlage
+Document no.
+DMS-00000180
+Version
+1.0
+Valid from
+2022-08-23
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: REACH, CLP und Sicherheitsdatenblatt
+thema: Produkt
+pflicht: 0
+zielgruppe: Regulatory, Qualität, Anwendungstechnik, Vertrieb
+sprachen: de,en
+dauer_min: 120
+intervall_monate: 24
+format: Webinar
+status: aktiv
+Richtlinie
+nummer: KR-011
+titel: Richtlinie Produktstewardship und Stoffrecht
+thema: Produkt
+geltung: Konzern
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2027-02-09
+master_sprache: de
+vertraulichkeit: intern

@@ -1,0 +1,31 @@
+
+
+Umsetzungsnachweis: Auditfeststellung beheben:
+Aufbewahrung der Untersuchungsunterlagen
+entspricht nicht der Zugriffsvorgabe.
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00000866
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Auditfeststellung beheben: Aufbewahrung der Untersuchungsunterlagen entspricht nicht der
+Zugriffsvorgabe.
+beschreibung: Aufbewahrung der Untersuchungsunterlagen entspricht nicht der Zugriffsvorgabe.
+quelle_typ: Audit
+prioritaet: mittel
+status: erledigt
+frist: 2025-06-13
+abgeschlossen_am: 2025-05-30
+bemerkung: Nachweis im Compliance-System abgelegt.

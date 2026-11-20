@@ -1,0 +1,32 @@
+
+
+Supplier Technical Data Sheet Glycerol, technical
+grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00000464
+Version
+5.0
+Valid from
+2024-09-09
+Company
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Glycerol, technical grade
+Family: Trade Goods
+Applications: Formulation auxiliaries, Cooling water
+Description: Handelsware: Feuchthaltemittel
+Hazardous: 0
+SDS available: 1
+Density: 1.26
+HS: 2905450000
+Origin: CN
+Composition
+Glycerol: 99–100 %

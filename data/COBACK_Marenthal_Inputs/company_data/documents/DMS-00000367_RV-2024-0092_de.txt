@@ -1,0 +1,88 @@
+
+
+Rahmenvertrag RV-2024-0092 – Elster Beschichtungen
+GmbH
+Rahmenvertrag
+Dokumentnummer
+DMS-00000367
+Version
+1.0
+Gültig ab
+2024-04-12
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2024-0092
+type: Framework Agreement
+status: Active
+start_date: 2024-04-12
+end_date: 2029-04-11
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 47.32
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-03-24
+compliance_review_ref: GPP0001248
+governing_law: German law
+payment_terms: Z014
+incoterm: DAP
+Bedingungen
+Marencoat PH 1102 epoxy hardener (component B): 515.43 EUR/100 kg
+Marencoat TG 1438 penetrating primer: 156.68 EUR/100 kg
+3-Glycidyloxypropyltrimethoxysilane, technical grade: 6923.73 EUR/1000 kg
+2-Ethylhexyl acrylate, technical grade: 1998.15 EUR/1000 kg
+Xylene (isomer mixture), technical grade: 1007.63 EUR/1000 kg
+Phosphoric acid (75 %), technical grade: 958.1 EUR/1000 kg
+Account
+name: Elster Beschichtungen GmbH
+type: Customer
+billing_street: Gewerbepark 57
+billing_city: Leipzig
+billing_postcode: 04292
+billing_country: DE
+industry: Paints and coatings
+segment: Direct
+
+size_class: Medium
+status: Active
+website: www.elster-beschichtungen.de
+created_date: 2019-05-10
+last_modified_date: 2025-07-08
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-04-09
+cms_partner_ref: GP000455
+description: Farben und Lacke. Rahmenlieferungen von Xylol (Isomerengemisch), techn.,
+Phosphorsäure (75 %), techn., Abrufe nach Produktionsplan.
+Rahmenvertragsnummer
+contract_number: RV-2024-0092
+type: Framework Agreement
+status: Active
+start_date: 2024-04-12
+end_date: 2029-04-11
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 47.32
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-03-24
+compliance_review_ref: GPP0001248
+governing_law: German law
+payment_terms: Z014
+incoterm: DAP
+Bedingungen
+Marencoat PH 1102 epoxy hardener (component B): 515.43 EUR/100 kg
+Marencoat TG 1438 penetrating primer: 156.68 EUR/100 kg
+3-Glycidyloxypropyltrimethoxysilane, technical grade: 6923.73 EUR/1000 kg
+2-Ethylhexyl acrylate, technical grade: 1998.15 EUR/1000 kg
+Xylene (isomer mixture), technical grade: 1007.63 EUR/1000 kg
+Phosphoric acid (75 %), technical grade: 958.1 EUR/1000 kg

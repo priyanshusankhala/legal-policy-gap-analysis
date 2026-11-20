@@ -1,0 +1,34 @@
+
+
+Supplier Technical Data Sheet Ethyl acetate, technical
+grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00000529
+Version
+3.1
+Valid from
+2024-12-27
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Ethyl acetate, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.9
+UN: UN1173
+Class: 3
+HS: 2915310000
+Origin: NL
+Composition
+Ethyl acetate: 99–100 %

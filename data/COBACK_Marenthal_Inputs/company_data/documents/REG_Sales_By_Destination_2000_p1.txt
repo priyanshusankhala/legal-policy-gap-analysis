@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal France S.A.S. (part 1 of 4)
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| Austria (AT) | Marendisp 332 dispersing agent | MC-000004 | 5 | 1,375 KG | 5,576 EUR |
+| Austria (AT) | Marenphos 125 phosphating solution | PF-000004 | 4 | 850 KG | 3,347 EUR |
+| Austria (AT) | Phosphoric acid (75 %), technical grade | MC-000065 | 5 | 3,625 KG | 3,934 EUR |
+| Belgium (BE) | Acetic acid, technical grade | MC-000061 | 11 | 113,700 KG | 83,965 EUR |
+| Belgium (BE) | Acrylic acid, technical grade | PF-000011 | 6 | 25,300 KG | 55,793 EUR |
+| Belgium (BE) | Butyl acetate, technical grade | MC-000055 | 17 | 121,100 KG | 177,147 EUR |
+| Belgium (BE) | Diethylenetriamine, technical grade | PF-000015 | 22 | 266,775 KG | 707,759 EUR |
+| Belgium (BE) | Ethanol, technical grade | MC-000053 | 16 | 208,000 KG | 235,401 EUR |
+| Belgium (BE) | Ethyl acetate, technical grade | MC-000054 | 19 | 93,700 KG | 115,167 EUR |
+| Belgium (BE) | Glycerol, technical grade | MC-000066 | 3 | 33,100 KG | 36,364 EUR |
+| Belgium (BE) | Hydrochloric acid (33 %), technical grade | MC-000059 | 15 | 995,500 KG | 141,142 EUR |
+| Belgium (BE) | Maleic anhydride, technical grade | PF-000012 | 1 | 3,700 KG | 7,117 EUR |
+| Belgium (BE) | Marenclean D 703 disinfectant cleaner | MC-000025 | 21 | 62,125 KG | 120,336 EUR |
+| Belgium (BE) | Marenclean E 537 degreaser | MC-000022 | 14 | 54,275 KG | 93,391 EUR |
+| Belgium (BE) | Marenclean R 1402 rust remover | MC-000031 | 8 | 67,800 KG | 102,919 EUR |
+| Belgium (BE) | Marenclean S 301 descaler | MC-000019 | 11 | 46,600 KG | 73,292 EUR |
+| Belgium (BE) | Marenclean U 101 all-purpose cleaner | MC-000015 | 2 | 13,800 KG | 19,585 EUR |
+| Belgium (BE) | Marenclean Z 904 citrus cleaner | MC-000027 | 8 | 23,875 KG | 64,023 EUR |
+| Belgium (BE) | Marencoat AF 309 acrylic facade paint | MC-000032 | 6 | 8,375 KG | 33,143 EUR |
+| Belgium (BE) | Marencoat AF 333 acrylic facade paint | MC-000033 | 22 | 41,200 KG | 192,762 EUR |
+| Belgium (BE) | Marencoat AI 436 interior emulsion paint | MC-000034 | 9 | 12,325 KG | 56,434 EUR |
+| Belgium (BE) | Marencoat AL 603 alkyd enamel | MC-000037 | 9 | 8,525 KG | 47,307 EUR |
+| Belgium (BE) | Marencoat AL 634 alkyd enamel | MC-000038 | 12 | 11,675 KG | 80,013 EUR |
+| Belgium (BE) | Marencoat DB 1303 roof coating | MC-000044 | 9 | 20,225 KG | 84,311 EUR |
+| Belgium (BE) | Marencoat DB 1333 roof coating | MC-000045 | 33 | 125,600 KG | 468,861 EUR |
+| Belgium (BE) | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | 9 | 5,900 KG | 48,343 EUR |
+| Belgium (BE) | Marencoat HL 509 water-based wood coating | MC-000035 | 12 | 23,225 KG | 108,972 EUR |
+| Belgium (BE) | Marencoat HL 533 water-based wood coating | MC-000036 | 2 | 1,600 KG | 7,757 EUR |
+| Belgium (BE) | Marencoat RS 703 anticorrosive primer | MC-000039 | 7 | 7,500 KG | 38,591 EUR |
+| Belgium (BE) | Marencoat RS 730 anticorrosive primer | MC-000040 | 7 | 33,200 KG | 193,838 EUR |
+| Belgium (BE) | Marencoat TG 1400 penetrating primer | MC-000046 | 1 | 6,500 KG | 13,704 EUR |
+| Belgium (BE) | Marencoat TG 1438 penetrating primer | MC-000047 | 22 | 229,000 KG | 377,575 EUR |
+| Belgium (BE) | Marendisp 305 dispersing agent | MC-000003 | 3 | 12,200 KG | 51,145 EUR |
+| Belgium (BE) | Marenflex 906 plasticizer | MC-000010 | 6 | 5,600 KG | 28,697 EUR |
+| Belgium (BE) | Marenglide 953 lubricant additive | MC-000011 | 2 | 1,000 KG | 4,746 EUR |
+| Belgium (BE) | Marenpaste 202 pigment preparation | PF-000003 | 6 | 11,025 KG | 48,075 EUR |
+| Belgium (BE) | Marenprotect 806 preservative | MC-000009 | 1 | 200 KG | 1,987 EUR |
+| Belgium (BE) | Marensolv 302 degreasing spirit (solvent blend) | MC-000013 | 27 | 91,150 KG | 228,996 EUR |
+| Belgium (BE) | Marenwet 206 wetting agent | MC-000001 | 13 | 50,475 KG | 170,464 EUR |
+| Belgium (BE) | Marenwet 237 wetting agent | MC-000002 | 4 | 8,300 KG | 29,575 EUR |
+| Belgium (BE) | Methyl ethyl ketone, technical grade | MC-000056 | 9 | 13,700 KG | 26,802 EUR |
+| Belgium (BE) | Neopentyl glycol, technical grade | MC-000050 | 1 | 5,500 KG | 11,046 EUR |
+| Belgium (BE) | Phosphoric acid (75 %), technical grade | MC-000065 | 4 | 18,800 KG | 20,403 EUR |
+| Belgium (BE) | Sodium hydroxide (50 %), technical grade | MC-000064 | 35 | 547,600 KG | 287,954 EUR |
+| Belgium (BE) | Xylene (isomer mixture), technical grade | MC-000058 | 3 | 3,200 KG | 3,652 EUR |
+| Belgium (BE) | n-Butyl acrylate, technical grade | MC-000049 | 25 | 275,500 KG | 550,113 EUR |
+| Brazil (BR) | Acrylic acid, technical grade | PF-000011 | 1 | 375 KG | 827 EUR |
+| Brazil (BR) | Butyl acetate, technical grade | MC-000055 | 11 | 65,400 KG | 92,713 EUR |
+| Brazil (BR) | Butyl acetate, technical grade | MC-000055 | 16 | 84,300 KG | 140,636 USD |
+| Brazil (BR) | Calcium carbonate, technical grade | MC-000068 | 7 | 771,000 KG | 83,037 EUR |
+| Brazil (BR) | Calcium carbonate, technical grade | MC-000068 | 8 | 600,500 KG | 83,689 USD |
+| Brazil (BR) | Ethanol, technical grade | MC-000053 | 7 | 21,700 KG | 26,908 USD |
+| Brazil (BR) | Ethyl acetate, technical grade | MC-000054 | 5 | 19,500 KG | 27,938 USD |
+| Brazil (BR) | Glycerol, technical grade | MC-000066 | 15 | 180,325 KG | 190,042 EUR |
+| Brazil (BR) | Glycerol, technical grade | MC-000066 | 19 | 219,600 KG | 258,998 USD |
+| Brazil (BR) | Hydrochloric acid (33 %), technical grade | MC-000059 | 4 | 675,500 KG | 95,772 EUR |
+| Brazil (BR) | Hydrochloric acid (33 %), technical grade | MC-000059 | 16 | 1,123,000 KG | 183,033 USD |
+| Brazil (BR) | Isophorone diisocyanate, technical grade | PF-000013 | 3 | 5,800 KG | 31,272 EUR |
+| Brazil (BR) | Isophorone diisocyanate, technical grade | PF-000013 | 5 | 4,925 KG | 29,655 USD |
+| Brazil (BR) | Maleic anhydride, technical grade | PF-000012 | 7 | 101,300 KG | 179,831 EUR |
+| Brazil (BR) | Maleic anhydride, technical grade | PF-000012 | 9 | 41,800 KG | 93,660 USD |
+| Brazil (BR) | Marenbase 1003 neutralising agent | MC-000012 | 7 | 8,700 KG | 68,273 USD |
+| Brazil (BR) | Marenclean B 1006 chlorine-based cleaner | MC-000028 | 10 | 284,200 KG | 293,156 EUR |
+| Brazil (BR) | Marenclean B 1006 chlorine-based cleaner | MC-000028 | 10 | 43,975 KG | 57,672 USD |
+| Brazil (BR) | Marenclean E 504 degreaser | MC-000021 | 2 | 2,200 KG | 4,140 USD |
+| Brazil (BR) | Marenclean E 504 degreaser | MC-000021 | 18 | 117,000 KG | 180,675 EUR |
+| Brazil (BR) | Marenclean O 1100 active oxygen cleaner (powder) | MC-000029 | 3 | 3,600 KG | 8,328 USD |
+| Brazil (BR) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 2 | 23,700 KG | 36,526 EUR |
+| Brazil (BR) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 8 | 36,600 KG | 63,816 USD |
+| Brazil (BR) | Marenclean S 301 descaler | MC-000019 | 10 | 40,900 KG | 72,315 USD |
+| Brazil (BR) | Marenclean S 301 descaler | MC-000019 | 11 | 75,400 KG | 118,589 EUR |
+| Brazil (BR) | Marenclean U 101 all-purpose cleaner | MC-000015 | 3 | 43,500 KG | 63,406 EUR |
+| Brazil (BR) | Marenclean U 101 all-purpose cleaner | MC-000015 | 6 | 11,775 KG | 19,539 USD |
+| Brazil (BR) | Marenclean U 134 all-purpose cleaner | MC-000016 | 3 | 7,800 KG | 11,003 EUR |
+| Brazil (BR) | Marenclean U 134 all-purpose cleaner | MC-000016 | 17 | 122,800 KG | 182,163 USD |
+| Brazil (BR) | Marenclean Z 904 citrus cleaner | MC-000027 | 6 | 9,325 KG | 26,976 USD |
+| Brazil (BR) | Marencoat AF 309 acrylic facade paint | MC-000032 | 2 | 2,900 KG | 11,776 EUR |
+| Brazil (BR) | Marencoat AF 309 acrylic facade paint | MC-000032 | 6 | 2,225 KG | 10,037 USD |
+| Brazil (BR) | Marencoat AI 436 interior emulsion paint | MC-000034 | 9 | 31,700 KG | 131,631 EUR |
+| Brazil (BR) | Marencoat AL 603 alkyd enamel | MC-000037 | 20 | 31,250 KG | 174,837 EUR |
+| Brazil (BR) | Marencoat AL 634 alkyd enamel | MC-000038 | 10 | 30,375 KG | 186,851 EUR |
+| Brazil (BR) | Marencoat DB 1303 roof coating | MC-000044 | 8 | 7,375 KG | 30,717 EUR |
+| Brazil (BR) | Marencoat DB 1333 roof coating | MC-000045 | 17 | 60,225 KG | 240,134 USD |
+| Brazil (BR) | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | 1 | 175 KG | 1,434 EUR |
+| Brazil (BR) | Marencoat HL 509 water-based wood coating | MC-000035 | 3 | 2,725 KG | 14,971 USD |
+| Brazil (BR) | Marencoat HL 533 water-based wood coating | MC-000036 | 1 | 1,100 KG | 5,333 EUR |
+| Brazil (BR) | Marencoat HL 533 water-based wood coating | MC-000036 | 17 | 64,550 KG | 324,590 USD |
+| Brazil (BR) | Marencoat RS 703 anticorrosive primer | MC-000039 | 5 | 12,500 KG | 63,088 EUR |
+| Brazil (BR) | Marencoat RS 703 anticorrosive primer | MC-000039 | 13 | 25,900 KG | 153,381 USD |
+| Brazil (BR) | Marencoat TG 1400 penetrating primer | MC-000046 | 16 | 75,200 KG | 164,551 USD |
+| Brazil (BR) | Marendisp 305 dispersing agent | MC-000003 | 5 | 5,650 KG | 27,665 USD |
+| Brazil (BR) | Marendisp 305 dispersing agent | MC-000003 | 10 | 38,600 KG | 146,095 EUR |
+| Brazil (BR) | Marenpaste 202 pigment preparation | PF-000003 | 19 | 33,400 KG | 131,522 EUR |
+| Brazil (BR) | Marenpaste 237 pigment preparation | MC-000014 | 1 | 2,400 KG | 10,167 EUR |
+| Brazil (BR) | Marenthix 409 thickener | MC-000006 | 5 | 9,225 KG | 31,399 USD |
+| Brazil (BR) | Marenwet 206 wetting agent | MC-000001 | 4 | 11,900 KG | 40,189 EUR |
+| Brazil (BR) | Marenwet 237 wetting agent | MC-000002 | 13 | 13,425 KG | 55,521 USD |
+| Brazil (BR) | Methanol, technical grade | MC-000063 | 9 | 145,500 KG | 73,482 USD |
+| Brazil (BR) | Methanol, technical grade | MC-000063 | 19 | 576,600 KG | 243,479 EUR |
+| Brazil (BR) | Pentaerythritol, technical grade | MC-000051 | 14 | 73,375 KG | 120,644 EUR |
+| Brazil (BR) | Phosphoric acid (75 %), technical grade | MC-000065 | 9 | 26,075 KG | 32,041 USD |
+| Brazil (BR) | Propylene glycol, technical grade | MC-000062 | 19 | 76,800 KG | 139,414 EUR |
+| Brazil (BR) | Sodium hydroxide (50 %), technical grade | MC-000064 | 10 | 232,800 KG | 112,070 EUR |
+| Brazil (BR) | Sodium hydroxide (50 %), technical grade | MC-000064 | 17 | 609,900 KG | 327,752 USD |
+| Brazil (BR) | Styrene, technical grade | PF-000010 | 2 | 8,500 KG | 11,479 EUR |
+| Brazil (BR) | Titanium dioxide, technical grade | MC-000067 | 4 | 9,625 KG | 33,804 EUR |
+| Brazil (BR) | Xylene (isomer mixture), technical grade | MC-000058 | 2 | 25,000 KG | 28,534 EUR |
+| Brazil (BR) | n-Butyl acrylate, technical grade | MC-000049 | 4 | 29,300 KG | 62,790 EUR |
+| China (CN) | 2-Ethylhexyl acrylate, technical grade | PF-000008 | 4 | 88,000 KG | 158,682 EUR |
+| China (CN) | Acrylic acid, technical grade | PF-000011 | 6 | 1,308,000 KG | 2,341,930 EUR |
+| China (CN) | Diethylenetriamine, technical grade | PF-000015 | 5 | 610,000 KG | 1,556,354 EUR |
+| China (CN) | Isophorone diisocyanate, technical grade | PF-000013 | 1 | 1,800 KG | 8,397 EUR |
+| China (CN) | Maleic anhydride, technical grade | PF-000012 | 5 | 460,000 KG | 816,794 EUR |
+| China (CN) | Marenclean M 1200 machine cleaner (powder) | PF-000007 | 5 | 90,000 KG | 105,030 EUR |
+| China (CN) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 5 | 940,000 KG | 972,637 EUR |
+| China (CN) | Marenclear 406 dechlorinating agent | PF-000005 | 1 | 9,000 KG | 10,886 EUR |
+| China (CN) | Marenpaste 202 pigment preparation | PF-000003 | 4 | 20,200 KG | 46,945 EUR |
+| China (CN) | Marenphos 125 phosphating solution | PF-000004 | 5 | 255,000 KG | 464,100 EUR |
+| China (CN) | Marensolv 108 thinner (solvent blend) | PF-000002 | 6 | 162,000 KG | 314,442 EUR |
+| China (CN) | Styrene, technical grade | PF-000010 | 5 | 1,720,000 KG | 1,995,716 EUR |

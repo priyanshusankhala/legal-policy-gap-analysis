@@ -1,0 +1,69 @@
+
+
+Sicherheitsdatenblatt Triethylamin, techn.
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00001285
+Version
+1.1
+Gültig ab
+2025-11-14
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Triethylamin, techn.
+Triethylamin, techn.
+SDS: SDB-11352-DE
+2. Mögliche Gefahren
+H: H225 H302 H311 H314 H331 H335
+3. Zusammensetzung / Angaben zu Bestandteilen
+Triethylamin 121-44-8 204-469-4 99–100 % H225 H302 H311
+H314 H331 H335
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 0.73
+Base unit: KG
+Shelf life (months): 12
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN1296
+ADR/IMDG class: 3(8)
+Packing group: II
+HS: 29211200
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Triethylamine: IECSC – nicht erforderlich
+Triethylamine: REACH – registriert (01-2119606445-61-0007)
+Triethylamine: TSCA – nicht erforderlich
+16. Sonstige Angaben
+1.1 · 2025-11-14

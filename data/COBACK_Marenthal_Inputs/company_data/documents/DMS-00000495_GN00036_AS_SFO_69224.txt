@@ -1,0 +1,30 @@
+
+
+Certificat de management de la santé et sécurité au
+travail ISO 45001:2018 – AS-SFO-69224
+Genehmigung oder Zertifikat
+N° du document
+DMS-00000495
+Version
+1.0
+Valable depuis
+2024-10-14
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Internal
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Genehmigung
+art: Zertifikat Arbeitsschutzmanagement ISO 45001:2018
+nummer: AS-SFO-69224
+behoerde: AFNOR Certification
+erteilt_am: 2024-10-14
+gueltig_bis: 2027-10-14
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

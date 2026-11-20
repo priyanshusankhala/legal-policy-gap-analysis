@@ -1,0 +1,128 @@
+# Register of business partner checks - Marenthal Chemie AG (part 2 of 3)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Each business partner with the latest check: risk class, approval status, sanctions list screening, PEP check and adverse media result.
+
+| Partner | Type | Country | Risk class | Approval | Checks | Last check | Result | Sanctions screening | PEP | Adverse media |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Coastal Chemical Distribution Ltd | Vertriebspartner | KE | hoch | freigegeben | 5 | 2025-10-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kuipers Kunststoffen B.V. | Kunde | NL | niedrig | freigegeben | 2 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Born Logistik GmbH & Co. KG | Dienstleister | DE | niedrig | freigegeben | 2 | 2024-08-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Bałtyk Handel chemiczny Sp. z o.o. | Vertriebspartner | PL | mittel | freigegeben | 3 | 2025-12-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Schulz Industrieservice GmbH & Co. KG | Dienstleister | DE | niedrig | freigegeben | 3 | 2025-07-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳长荣涂料有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-04-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Grigore Chemical Distribution S.R.L. | Vertriebspartner | RO | mittel | freigegeben | 3 | 2025-04-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lungu Building Products S.R.L. | Kunde | RO | niedrig | freigegeben | 2 | 2024-04-05 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Peachtree Beverages Inc. | Kunde | US | mittel | freigegeben | 3 | 2025-08-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Butkus & Paulauskienė Industrial Systems UAB | Kunde | LT | mittel | freigegeben | 3 | 2025-03-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| de Wit Specialty Chemicals B.V. | Lieferant | NL | niedrig | freigegeben | 3 | 2025-10-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Butkienė & Jankauskas Automotive Components AB | Kunde | LT | niedrig | freigegeben | 2 | 2024-08-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Weiß Galvanik e. K. | Kunde | DE | niedrig | freigegeben | 2 | 2025-03-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Heinrich Hygieneservice GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-11-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Verhoeven Specialty Chemicals NV | Lieferant | BE | niedrig | freigegeben | 2 | 2024-08-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Butler Hygiene Solutions Ltd | Kunde | MT | niedrig | freigegeben | 2 | 2025-05-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lis Farby i Lakiery Sp. z o.o. | Kunde | PL | niedrig | freigegeben | 2 | 2024-04-25 | freigegeben | Treffer - Fehlalarm | kein Treffer | Hinweis bewertet |
+| Jacobs Chemical Trading B.V. | Lieferant | NL | mittel | mit Auflagen | 3 | 2025-01-02 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Schreiber Verpackungen GmbH | Lieferant | DE | niedrig | freigegeben | 3 | 2025-10-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Pohl & Simon Bauchemie GmbH | Kunde | DE | hoch | mit Auflagen | 3 | 2025-08-12 | freigegeben mit Auflagen | kein Treffer | kein Treffer | Hinweis bewertet |
+| Christensen & Jørgensen Metal Finishing A/S | Kunde | DK | niedrig | freigegeben | 3 | 2025-08-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Baltic Industrial Systems SIA | Kunde | LV | mittel | freigegeben | 2 | 2024-03-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Heinz Anlagentechnik GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2025-01-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Schwaben Anlagentechnik GmbH & Co. KG | Kunde | DE | niedrig | freigegeben | 2 | 2025-04-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kamiński Materiały budowlane S.A. | Kunde | PL | niedrig | freigegeben | 2 | 2024-08-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Fink Farbwerke KG | Kunde | DE | niedrig | freigegeben | 2 | 2025-04-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mazowiecka Tworzywa sztuczne Sp. z o.o. | Kunde | PL | niedrig | mit Auflagen | 2 | 2024-11-13 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Becker Nahrungsmittel GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2025-03-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rheinland Metallveredelung AG | Kunde | DE | mittel | freigegeben | 2 | 2024-03-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Stein Beschichtungen AG | Kunde | DE | niedrig | freigegeben | 2 | 2024-05-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Günther & Lindner Lacke AG | Kunde | DE | niedrig | mit Auflagen | 2 | 2024-10-02 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Paranaense Tratamento de superfícies Ltda. | Kunde | BR | mittel | abgelaufen | 2 | 2023-09-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Schwarz Anlagentechnik GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-11-19 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Seine Constructions mécaniques SARL | Kunde | FR | mittel | freigegeben | 2 | 2024-02-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Davis & Owens Water Treatment Ltd | Kunde | IE | niedrig | freigegeben | 2 | 2024-10-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Ševčíková Automotive Components s.r.o. | Kunde | SK | hoch | mit Auflagen | 3 | 2025-06-16 | freigegeben mit Auflagen | Treffer - Fehlalarm | Treffer - bewertet | kein Treffer |
+| Elster Rohstoffe GmbH | Lieferant | DE | niedrig | gesperrt | 2 | 2024-11-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Korhonen Paper Oy | Kunde | FI | mittel | freigegeben | 3 | 2025-12-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kremer Arbeitsschutz GmbH & Co. KG | Lieferant | DE | niedrig | gesperrt | 2 | 2024-07-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lehtinen Surface Technologies Oy | Kunde | FI | niedrig | freigegeben | 2 | 2024-08-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rheinische Verpackungen GmbH | Lieferant | DE | niedrig | freigegeben | 2 | 2025-02-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Hoffmann & Pape Prüflabor GmbH | Dienstleister | DE | niedrig | freigegeben | 2 | 2025-02-05 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Elbe Elektronik GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2025-03-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Weser Fassfabrik KG | Lieferant | DE | niedrig | freigegeben | 2 | 2025-02-21 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Amstel Tank Transport B.V. | Dienstleister | NL | niedrig | freigegeben | 2 | 2024-03-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Bohemia Chemical Distribution s.r.o. | Vertriebspartner | CZ | mittel | mit Auflagen | 3 | 2025-03-31 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| de Jong Metaalbewerking B.V. | Kunde | NL | mittel | freigegeben | 3 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Bengtsson Petrochemicals AB | Lieferant | SE | niedrig | freigegeben | 2 | 2024-10-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Sachsen Chemikalien GmbH | Lieferant | DE | niedrig | freigegeben | 2 | 2024-12-05 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Frank Farbwerke GmbH | Kunde | DE | mittel | freigegeben | 3 | 2025-07-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Brabantse Specialty Chemicals B.V. | Lieferant | NL | niedrig | freigegeben | 2 | 2024-09-06 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Berry & Price Paper DAC | Kunde | IE | hoch | mit Auflagen | 2 | 2025-02-13 | freigegeben mit Auflagen | Treffer - geprüft | kein Treffer | kein Treffer |
+| Mayer Transporte AG | Dienstleister | DE | mittel | freigegeben | 2 | 2024-02-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Brinkmann Kunststofftechnik GmbH & Co. KG | Kunde | DE | mittel | mit Auflagen | 3 | 2025-10-21 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Kuiper Industriële reiniging B.V. | Kunde | NL | mittel | freigegeben | 3 | 2025-07-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Peters & Heinrich Chemiehandel GmbH | Vertriebspartner | DE | mittel | freigegeben | 2 | 2024-02-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Ochieng Metal Finishing Ltd | Kunde | KE | hoch | mit Auflagen | 5 | 2025-05-27 | freigegeben mit Auflagen | Treffer - geprüft | kein Treffer | kein Treffer |
+| Hollandse Voeding B.V. | Kunde | NL | niedrig | gesperrt | 2 | 2024-10-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Richter Chemikalien GmbH & Co. KG | Lieferant | DE | niedrig | freigegeben | 2 | 2025-02-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kunz Industrieservice AG | Dienstleister | DE | hoch | mit Auflagen | 2 | 2025-01-15 | freigegeben mit Auflagen | kein Treffer | Treffer - bewertet | kein Treffer |
+| Neckar Fassfabrik GmbH & Co. KG | Lieferant | DE | mittel | mit Auflagen | 3 | 2025-07-08 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Mäkelä Plastics Oy | Kunde | FI | mittel | mit Auflagen | 2 | 2025-01-01 | freigegeben mit Auflagen | kein Treffer | kein Treffer | Hinweis bewertet |
+| Allen Machinery Ltd | Kunde | MT | niedrig | freigegeben | 2 | 2024-10-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Jansen & Schneider Arbeitsschutz GmbH | Lieferant | DE | niedrig | freigegeben | 2 | 2024-03-29 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Veenstra Chemiehandel B.V. | Vertriebspartner | NL | hoch | mit Auflagen | 3 | 2025-11-24 | freigegeben mit Auflagen | kein Treffer | kein Treffer | Hinweis bewertet |
+| Fuchs Chemikalienvertrieb GmbH | Lieferant | DE | niedrig | freigegeben | 2 | 2025-01-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Utrechtse Chemicals B.V. | Lieferant | NL | niedrig | freigegeben | 2 | 2025-04-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mazowiecka Maszyny Sp. z o.o. | Kunde | PL | niedrig | freigegeben | 2 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mulder Textiel B.V. | Kunde | NL | niedrig | freigegeben | 2 | 2025-01-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Nagel & Marx Galvanik GmbH | Kunde | DE | mittel | freigegeben | 2 | 2024-01-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kern & Hahn Gebäudereinigung GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-11-05 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Jabłońska Handel chemiczny S.A. | Vertriebspartner | PL | hoch | freigegeben | 4 | 2025-05-08 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Laziale Chemicals S.r.l. | Lieferant | IT | niedrig | freigegeben | 2 | 2025-04-16 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Wendt Automotive GmbH | Kunde | AT | niedrig | freigegeben | 2 | 2025-06-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Adria Industrial Systems d.o.o. | Kunde | HR | niedrig | freigegeben | 2 | 2024-04-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Friedrich Galvanik KG | Kunde | DE | mittel | freigegeben | 3 | 2025-11-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Zijlstra Chemical Trading NV | Lieferant | BE | niedrig | freigegeben | 2 | 2025-04-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Pohl Rohstoffe GmbH | Lieferant | DE | niedrig | freigegeben | 2 | 2025-05-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| van Dijk & Verhoeven Chimie NV | Lieferant | BE | niedrig | mit Auflagen | 2 | 2024-08-01 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Russell Hygiene Solutions Ltd | Kunde | IE | niedrig | freigegeben | 2 | 2024-03-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Odra Maszyny Sp. z o.o. | Kunde | PL | niedrig | freigegeben | 2 | 2024-04-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Weser Beschichtungen AG | Kunde | DE | niedrig | freigegeben | 2 | 2025-01-31 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Mediterranean Foods Ltd | Kunde | CY | niedrig | freigegeben | 2 | 2024-10-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Ebert Beschichtungen GmbH & Co. KG | Kunde | DE | niedrig | mit Auflagen | 2 | 2024-12-06 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Born Spedition GmbH | Dienstleister | DE | niedrig | mit Auflagen | 2 | 2025-05-02 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Kraus Fahrzeugteile GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-10-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Heinonen Cleaning Services Oy | Kunde | FI | mittel | freigegeben | 2 | 2024-05-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Svea Chemical Supply AB | Vertriebspartner | SE | mittel | freigegeben | 3 | 2025-07-22 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Rift Valley Metal Finishing Ltd | Kunde | KE | hoch | freigegeben | 4 | 2025-03-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Czarnecka Części samochodowe S.A. | Kunde | PL | niedrig | freigegeben | 2 | 2024-09-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Becker Transporte SE | Dienstleister | DE | niedrig | freigegeben | 2 | 2024-05-02 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Haas Spedition GmbH | Dienstleister | DE | niedrig | freigegeben | 2 | 2025-03-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Čermáková Hygiene Solutions s.r.o. | Kunde | SK | niedrig | mit Auflagen | 2 | 2023-02-03 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Hellenic Chemical Supply A.E. | Vertriebspartner | GR | mittel | freigegeben | 2 | 2024-04-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Krause Wassertechnik GmbH & Co. KG | Kunde | DE | mittel | freigegeben | 3 | 2025-04-01 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Keil & Simon Prüflabor GmbH | Dienstleister | DE | mittel | freigegeben | 2 | 2024-04-01 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Celtic Automotive Components Ltd | Kunde | IE | niedrig | freigegeben | 2 | 2024-05-01 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Wirth & Fischer Fahrzeugteile GmbH & Co. KG | Kunde | DE | niedrig | freigegeben | 2 | 2024-07-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Perkins Electronics Inc. | Kunde | US | niedrig | freigegeben | 2 | 2024-11-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kelley & Woods Paints Ltd | Kunde | IE | mittel | freigegeben | 3 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Koch & Wolter Automotive GmbH & Co. KG | Kunde | DE | mittel | freigegeben | 3 | 2025-09-15 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Dolnośląska Farby i Lakiery Sp. z o.o. | Kunde | PL | mittel | freigegeben | 3 | 2025-07-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Delta Chemical Supply N.V. | Lieferant | NL | niedrig | freigegeben | 2 | 2024-03-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州鑫源汽车零部件有限公司 | Kunde | CN | hoch | freigegeben | 5 | 2025-05-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Hahn Kunststoffwerke GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-06-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rhein Farbwerke GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-11-22 | freigegeben | Treffer - Fehlalarm | kein Treffer | Hinweis bewertet |
+| Alpen Logistik GmbH & Co. KG | Dienstleister | DE | niedrig | mit Auflagen | 2 | 2024-05-27 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Hanse Gebäudereinigung GmbH & Co. KG | Kunde | DE | mittel | freigegeben | 3 | 2025-05-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Neckar Beschichtungen GmbH & Co. KG | Kunde | DE | niedrig | freigegeben | 2 | 2025-03-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Dolnośląska Handel chemiczny Sp. z o.o. | Vertriebspartner | PL | mittel | freigegeben | 3 | 2025-01-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kazlauskienė & Paulauskas Building Products UAB | Kunde | LT | niedrig | freigegeben | 2 | 2024-11-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Alpine Electronics d.o.o. | Kunde | SI | mittel | freigegeben | 2 | 2024-02-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Fink Hygieneservice KG | Kunde | DE | niedrig | freigegeben | 2 | 2024-10-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Elster Beschichtungen GmbH | Kunde | DE | niedrig | freigegeben | 2 | 2024-04-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Oláh Chemical Distribution Kft. | Vertriebspartner | HU | hoch | mit Auflagen | 5 | 2025-05-22 | freigegeben mit Auflagen | kein Treffer | kein Treffer | Hinweis bewertet |
+| Main Ingenieurbüro GmbH & Co. KG | Dienstleister | DE | niedrig | freigegeben | 2 | 2024-11-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Kuipers Specialty Chemicals NV | Lieferant | BE | niedrig | freigegeben | 2 | 2025-03-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Ivanova & Stefanov Water Treatment AD | Kunde | BG | niedrig | freigegeben | 2 | 2025-02-19 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| 上海瑞丰表面处理有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-08-06 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Farkas Coatings Zrt. | Kunde | HU | mittel | freigegeben | 3 | 2025-03-31 | freigegeben | kein Treffer | kein Treffer | kein Treffer |

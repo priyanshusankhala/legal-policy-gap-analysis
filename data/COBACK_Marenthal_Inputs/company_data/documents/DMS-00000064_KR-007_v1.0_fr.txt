@@ -1,0 +1,40 @@
+
+
+Politique du dispositif d'alerte
+Konzernrichtlinie
+N° du document
+DMS-00000064
+Version
+1.0
+Valable depuis
+2021-08-16
+Société
+Marenthal Chemie AG
+Statut
+Superseded
+Confidentialité
+Public
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « Compliance » pour Marenthal Chemie AG. Elle
+s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinie
+nummer: KR-007
+titel: Richtlinie Hinweisgebersystem
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-04-08
+master_sprache: de
+vertraulichkeit: öffentlich
+Richtlinienversion
+version: 1.0
+sprache: fr
+status: Ersetzt
+gueltig_ab: 2021-08-16
+gueltig_bis: 2022-08-01
+freigabe_datum: 2021-08-13
+aenderungsgrund: Erstfassung

@@ -1,0 +1,21 @@
+排污许可证 – 91320411FH30C26RKL001Q
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000004
+版本: 1.0
+生效日期: 2008-12-24
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Archived
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 排污许可证 (Emissionserlaubnis)
+nummer: 91320411FH30C26RKL001Q
+behoerde: 常州市生态环境局
+erteilt_am: 2008-12-24
+status: gültig
+auflagen: Auflagen zu Emissionen, Messungen und Betriebstagebuch gemäß Bescheid; jährliche Berichte an die Behörde.

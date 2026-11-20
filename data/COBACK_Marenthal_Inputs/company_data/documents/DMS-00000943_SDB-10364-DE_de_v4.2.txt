@@ -1,0 +1,83 @@
+
+
+Sicherheitsdatenblatt Marenphos 125
+Phosphatierlösung
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00000943
+Version
+4.2
+Gültig ab
+2025-07-10
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marenphos 125 Phosphatierlösung
+Marenphos 125 Phosphatierlösung
+SDS: SDB-10364-DE
+2. Mögliche Gefahren
+H: H290 H302 H314 H318 H410 H412
+3. Zusammensetzung / Angaben zu Bestandteilen
+Wasser
+(demineralisiert)
+7732-18-5 231-791-2 58.5–71.5 %
+Phosphorsäure (75
+%)
+7664-38-2 231-633-2 25.9–31.7 % H290 H314
+Zinkoxid 1314-13-2 215-222-5 4.6–5.6 % H410
+Fettalkoholethoxylat
+(C12-14, 6 EO)
+68439-50-9 0.6–1.6 % H302 H318 H412
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 1.173
+
+Base unit: KG
+Shelf life (months): 36
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN3264
+ADR/IMDG class: 8
+Packing group: II
+HS: 38249996
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+Fatty alcohol ethoxylate (C12-14, 6 EO): TSCA – nicht erforderlich
+Phosphoric acid (75 %): IECSC – nicht erforderlich
+Phosphoric acid (75 %): REACH – nicht erforderlich
+Phosphoric acid (75 %): TSCA – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+Zinc oxide: IECSC – nicht erforderlich
+16. Sonstige Angaben
+4.2 · 2025-07-10

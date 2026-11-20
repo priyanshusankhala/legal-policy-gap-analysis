@@ -1,0 +1,77 @@
+
+
+Safety Data Sheet Marenclean C 1305 CIP cleaner
+Sicherheitsdatenblatt
+Document no.
+DMS-00000610
+Version
+2.0
+Valid from
+2025-02-11
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenclean C 1305 CIP cleaner
+Product: Marenclean C 1305 CIP cleaner
+SDS: SDB-10686-US
+2. Hazards identification
+H: H290 H302 H314 H318 H332 H373
+3. Composition / information on ingredients
+Water
+(demineralised)
+7732-18-5 231-791-2 60.7–74.1 %
+Sodium hydroxide
+(50 %)
+1310-73-2 215-185-5 24.5–29.9 % H290 H314
+Sodium gluconate 527-07-1 208-407-7 2.8–3.8 %
+Tetrasodium
+EDTA
+64-02-8 200-573-9 1.6–2.6 % H302 H318 H332
+H373
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.12
+Base unit: KG
+
+Shelf life (months): 24
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN3266
+ADR/IMDG class: 8
+Packing group: II
+HS: 3402909000
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Sodium gluconate: TSCA – Inventar aktiv
+Sodium hydroxide (50 %): TSCA – Inventar aktiv
+Tetrasodium EDTA: TSCA – Inventar aktiv
+Water (demineralised): TSCA – nicht erforderlich
+16. Other information
+2.0 · 2025-02-11

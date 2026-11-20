@@ -1,0 +1,38 @@
+
+
+Technical Data Sheet Marencoat DB 1333 roof coating
+Technisches Datenblatt
+Document no.
+DMS-00000718
+Version
+5.2
+Valid from
+2025-04-11
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat DB 1333 roof coating
+Family: Coatings
+Applications: Architectural paints, Sealants and adhesives
+Description: Elastische Abdichtung und Schutz von Dachflächen
+Hazardous: 0
+SDS available: 1
+Density: 1.302
+HS: 3209100000
+Origin: US
+Composition
+Styrene-acrylate copolymer dispersion: 31.5–38.5 %
+Water (demineralised): 29.8–36.4 %
+Titanium dioxide: 11.2–13.6 %
+Aluminium hydroxide: 9.7–11.9 %
+Barium sulfate: 6.7–8.1 %
+Propylene glycol: 0.445–1.335 %
+Polydimethylsiloxane: 0.18–0.54 %
+1,2-Benzisothiazolin-3-one: 0.015–0.045 %

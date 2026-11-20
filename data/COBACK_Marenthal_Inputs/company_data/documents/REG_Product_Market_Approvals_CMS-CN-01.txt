@@ -1,0 +1,105 @@
+# Register of product approvals per market - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Shows for each product in which market it is approved to be placed, the status, the validity and any condition.
+
+| Product | Market | Status | Requested | Approved | Valid until | Condition |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2-Ethylhexyl acrylate, technical grade (PS-2021-0173) | CN | freigegeben | 2021-07-07 | 2021-08-03 | - | - |
+| 3-Aminopropyltriethoxysilane, technical grade (PS-2023-0163) | CN | in Prüfung | 2025-06-13 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| 3-Glycidyloxypropyltrimethoxysilane, technical grade (PS-2021-0164) | CN | in Prüfung | 2025-10-24 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Acetic acid, technical grade (PS-2021-0191) | CN | freigegeben | 2021-04-28 | 2021-05-05 | - | - |
+| Acetone, technical grade (PS-2025-0181) | CN | in Prüfung | 2025-11-26 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Acrylic acid, technical grade (PS-2021-0176) | CN | freigegeben | 2021-05-11 | 2021-05-28 | - | - |
+| Bisphenol-A epoxy resin, technical grade (PS-2025-0168) | CN | in Prüfung | 2025-07-16 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Butyl acetate, technical grade (PS-2021-0185) | CN | freigegeben | 2021-05-04 | 2021-05-19 | - | - |
+| Calcium carbonate, technical grade (PS-2021-0200) | CN | freigegeben | 2021-07-13 | 2021-07-22 | - | - |
+| Diethylenetriamine, technical grade (PS-2021-0180) | CN | freigegeben | 2021-05-26 | 2021-06-09 | - | - |
+| Ethanol, technical grade (PS-2021-0183) | CN | freigegeben | 2021-04-22 | 2021-05-03 | - | - |
+| Ethyl acetate, technical grade (PS-2021-0184) | CN | freigegeben | 2021-08-04 | 2021-08-10 | - | - |
+| Glycerol, technical grade (PS-2021-0197) | CN | freigegeben | 2021-04-02 | 2021-04-19 | - | - |
+| Hexamethylene diisocyanate, technical grade (PS-2021-0171) | CN | gesperrt | 2021-04-02 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Hydrochloric acid (33 %), technical grade (PS-2021-0189) | CN | freigegeben | 2021-06-17 | 2021-06-21 | - | - |
+| Isophorone diisocyanate, technical grade (PS-2021-0178) | CN | freigegeben | 2021-08-04 | 2021-08-12 | - | - |
+| Isophoronediamine, technical grade (PS-2025-0172) | CN | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Isopropanol, technical grade (PS-2021-0182) | CN | freigegeben | 2021-08-04 | 2021-08-09 | - | - |
+| Maleic anhydride, technical grade (PS-2021-0177) | CN | freigegeben | 2021-09-17 | 2021-09-28 | - | - |
+| Marenbase 1003 neutralising agent (PS-2021-0115) | CN | freigegeben | 2021-05-12 | 2021-05-24 | - | - |
+| Marenchel 603 chelating agent solution (PS-2021-0109) | CN | gesperrt | 2021-04-23 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenclean A 207 alkaline industrial cleaner (PS-2021-0125) | CN | freigegeben | 2021-06-11 | 2021-06-22 | - | - |
+| Marenclean A 238 alkaline industrial cleaner (PS-2022-0126) | CN | freigegeben | 2022-08-04 | 2022-09-02 | - | - |
+| Marenclean B 1006 chlorine-based cleaner (PS-2021-0137) | CN | freigegeben | 2021-07-09 | 2021-07-21 | - | - |
+| Marenclean C 1305 CIP cleaner (PS-2021-0140) | CN | freigegeben | 2022-01-06 | 2022-04-18 | - | - |
+| Marenclean D 703 disinfectant cleaner (PS-2021-0134) | CN | freigegeben | 2021-04-01 | 2021-04-05 | - | - |
+| Marenclean E 504 degreaser (PS-2021-0130) | CN | freigegeben | 2021-03-23 | 2021-04-05 | - | - |
+| Marenclean E 537 degreaser (PS-2021-0131) | CN | freigegeben | 2021-08-20 | 2021-08-26 | - | - |
+| Marenclean F 1503 floor care product (PS-2021-0142) | CN | gesperrt | 2021-10-04 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenclean G 800 glass cleaner (PS-2021-0135) | CN | freigegeben | 2021-08-13 | 2021-08-17 | - | - |
+| Marenclean H 602 hand cleaner (PS-2025-0132) | CN | in Prüfung | 2025-07-28 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenclean H 637 hand cleaner (PS-2021-0133) | CN | freigegeben | 2021-05-06 | 2021-05-12 | - | - |
+| Marenclean M 1200 machine cleaner (powder) (PS-2021-0139) | CN | freigegeben | 2021-09-01 | 2021-09-17 | - | - |
+| Marenclean O 1100 active oxygen cleaner (powder) (PS-2021-0138) | CN | freigegeben | 2021-06-09 | 2021-06-22 | - | - |
+| Marenclean P 404 phosphoric acid cleaner (PS-2021-0129) | CN | freigegeben | 2021-08-17 | 2021-08-20 | - | - |
+| Marenclean R 1402 rust remover (PS-2021-0141) | CN | freigegeben | 2021-08-12 | 2021-08-18 | - | - |
+| Marenclean S 301 descaler (PS-2021-0127) | CN | freigegeben | 2021-08-04 | 2021-08-17 | - | - |
+| Marenclean S 331 descaler (PS-2025-0128) | CN | in Prüfung | 2025-08-22 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenclean U 101 all-purpose cleaner (PS-2021-0123) | CN | freigegeben | 2021-07-27 | 2021-08-09 | - | - |
+| Marenclean U 134 all-purpose cleaner (PS-2021-0124) | CN | freigegeben | 2021-09-28 | 2021-10-14 | - | - |
+| Marenclean Z 904 citrus cleaner (PS-2021-0136) | CN | freigegeben | 2021-09-09 | 2021-09-20 | - | - |
+| Marenclear 406 dechlorinating agent (PS-2021-0122) | CN | freigegeben | 2021-08-20 | 2021-08-31 | - | - |
+| Marencoat AF 309 acrylic facade paint (PS-2021-0143) | CN | freigegeben | 2021-07-27 | 2021-10-13 | - | - |
+| Marencoat AF 333 acrylic facade paint (PS-2021-0144) | CN | freigegeben | 2021-05-20 | 2021-05-31 | - | - |
+| Marencoat AI 401 interior emulsion paint (PS-2021-0145) | CN | gesperrt | 2021-04-28 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marencoat AI 436 interior emulsion paint (PS-2023-0146) | CN | freigegeben | 2023-11-07 | 2023-12-05 | - | - |
+| Marencoat AL 603 alkyd enamel (PS-2021-0149) | CN | freigegeben | 2021-09-03 | 2021-09-20 | - | - |
+| Marencoat AL 634 alkyd enamel (PS-2021-0150) | CN | freigegeben | 2021-08-05 | 2021-08-13 | - | - |
+| Marencoat DB 1303 roof coating (PS-2021-0159) | CN | freigegeben | 2021-09-17 | 2021-09-29 | - | - |
+| Marencoat DB 1333 roof coating (PS-2021-0160) | CN | freigegeben | 2021-05-28 | 2021-06-01 | - | - |
+| Marencoat EK 1001 2K clear epoxy coating (component A) (PS-2025-0156) | CN | freigegeben | 2025-10-27 | 2025-12-16 | - | - |
+| Marencoat EP 806 2K epoxy primer (component A) (PS-2021-0153) | CN | freigegeben | 2021-04-22 | 2021-05-12 | - | - |
+| Marencoat EP 839 2K epoxy primer (component A) (PS-2025-0154) | CN | gesperrt | 2025-11-10 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat HL 509 water-based wood coating (PS-2021-0147) | CN | freigegeben | 2021-06-15 | 2021-06-28 | - | - |
+| Marencoat HL 533 water-based wood coating (PS-2021-0148) | CN | freigegeben | 2021-06-23 | 2021-07-12 | - | - |
+| Marencoat PH 1102 epoxy hardener (component B) (PS-2021-0157) | CN | freigegeben | 2021-06-09 | 2021-06-14 | - | - |
+| Marencoat RS 703 anticorrosive primer (PS-2021-0151) | CN | freigegeben | 2021-06-25 | 2021-07-02 | - | - |
+| Marencoat RS 730 anticorrosive primer (PS-2021-0152) | CN | freigegeben | 2022-05-17 | 2022-08-01 | - | - |
+| Marencoat SM 1208 road marking paint (PS-2025-0158) | CN | gesperrt | 2025-11-26 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat TG 1400 penetrating primer (PS-2021-0161) | CN | freigegeben | 2021-08-20 | 2021-09-06 | - | - |
+| Marencoat TG 1438 penetrating primer (PS-2023-0162) | CN | freigegeben | 2023-08-09 | 2023-11-01 | - | - |
+| Marencure 410 epoxy hardener (PS-2025-0116) | CN | gesperrt | 2025-10-09 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marendisp 305 dispersing agent (PS-2021-0103) | CN | freigegeben | 2021-07-16 | 2021-07-22 | - | - |
+| Marendisp 332 dispersing agent (PS-2021-0104) | CN | freigegeben | 2021-08-25 | 2021-09-13 | - | - |
+| Marenemul 702 emulsifier (PS-2024-0110) | CN | in Prüfung | 2025-07-31 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenemul 731 emulsifier (PS-2021-0111) | CN | freigegeben | 2021-06-29 | 2021-07-09 | - | - |
+| Marenflex 906 plasticizer (PS-2021-0113) | CN | freigegeben | 2021-07-07 | 2021-07-26 | - | - |
+| Marenfoam 133 defoamer (PS-2021-0106) | CN | freigegeben | 2021-04-30 | 2021-05-19 | - | - |
+| Marenglide 953 lubricant additive (PS-2021-0114) | CN | freigegeben | 2021-04-20 | 2021-04-29 | - | - |
+| Marenpaste 202 pigment preparation (PS-2021-0119) | CN | freigegeben | 2021-09-01 | 2021-09-14 | - | - |
+| Marenpaste 237 pigment preparation (PS-2021-0120) | CN | freigegeben | 2021-04-01 | 2021-04-19 | - | - |
+| Marenphos 125 phosphating solution (PS-2021-0121) | CN | freigegeben | 2021-04-23 | 2021-05-07 | - | - |
+| Marenprotect 806 preservative (PS-2021-0112) | CN | freigegeben | 2021-03-25 | 2021-03-30 | - | - |
+| Marensolv 108 thinner (solvent blend) (PS-2021-0117) | CN | freigegeben | 2021-08-20 | 2021-09-08 | - | - |
+| Marensolv 302 degreasing spirit (solvent blend) (PS-2021-0118) | CN | freigegeben | 2021-09-21 | 2021-10-05 | - | - |
+| Marenstop 500 corrosion inhibitor (PS-2025-0108) | CN | in Prüfung | 2025-07-17 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenthix 409 thickener (PS-2021-0107) | CN | freigegeben | 2021-05-21 | 2021-05-26 | - | - |
+| Marenwet 206 wetting agent (PS-2021-0101) | CN | freigegeben | 2021-06-02 | 2021-06-14 | - | - |
+| Marenwet 237 wetting agent (PS-2021-0102) | CN | freigegeben | 2021-06-01 | 2021-06-16 | - | - |
+| Methanol, technical grade (PS-2021-0193) | CN | freigegeben | 2021-09-22 | 2021-10-12 | - | - |
+| Methyl ethyl ketone, technical grade (PS-2021-0186) | CN | freigegeben | 2021-06-08 | 2021-06-18 | - | - |
+| Methyl methacrylate, technical grade (PS-2021-0166) | CN | freigegeben | 2021-09-09 | 2021-09-20 | - | - |
+| Neopentyl glycol, technical grade (PS-2021-0169) | CN | freigegeben | 2021-04-13 | 2021-04-19 | - | - |
+| Pentaerythritol, technical grade (PS-2021-0170) | CN | freigegeben | 2021-04-07 | 2021-04-14 | - | - |
+| Phosphoric acid (75 %), technical grade (PS-2021-0195) | CN | freigegeben | 2022-04-25 | 2022-05-18 | - | - |
+| Propylene glycol, technical grade (PS-2023-0192) | CN | freigegeben | 2023-11-27 | 2024-01-02 | - | - |
+| Sodium carbonate, technical grade (PS-2025-0199) | CN | in Prüfung | 2025-10-13 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Sodium hydroxide (50 %), technical grade (PS-2021-0194) | CN | freigegeben | 2021-03-26 | 2021-03-30 | - | - |
+| Styrene, technical grade (PS-2021-0175) | CN | freigegeben | 2021-08-03 | 2021-08-13 | - | - |
+| Sulfuric acid (96 %), technical grade (PS-2021-0190) | CN | freigegeben | 2021-04-15 | 2021-04-23 | - | - |
+| Tetraethyl orthosilicate, technical grade (PS-2021-0165) | CN | in Prüfung | 2025-10-08 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Titanium dioxide, technical grade (PS-2021-0198) | CN | freigegeben | 2021-09-21 | 2021-10-06 | - | - |
+| Toluene, technical grade (PS-2021-0187) | CN | freigegeben | 2021-09-28 | 2021-10-04 | - | - |
+| Triethylamine, technical grade (PS-2025-0179) | CN | in Prüfung | 2025-07-29 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Vinyl acetate, technical grade (PS-2021-0174) | CN | freigegeben | 2021-09-23 | 2021-10-08 | - | - |
+| Xylene (isomer mixture), technical grade (PS-2021-0188) | CN | freigegeben | 2021-05-18 | 2021-06-04 | - | - |
+| n-Butyl acrylate, technical grade (PS-2021-0167) | CN | freigegeben | 2021-06-23 | 2021-07-06 | - | - |

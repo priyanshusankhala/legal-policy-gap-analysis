@@ -1,0 +1,45 @@
+
+
+Prüfbericht Anlassbezogen (GPP0000586)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00001147
+Version
+1.0
+Gültig ab
+2025-09-12
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Anlassbezogen
+pruefdatum: 2025-09-09
+anlass: Negativmeldung in der Presse
+risikoklasse: hoch
+sanktionslisten_abgleich: Treffer - geprüft
+pep_pruefung: kein Treffer
+adverse_media: Hinweis bewertet
+ergebnis: freigegeben mit Auflagen
+auflagen: Presseberichte ausgewertet; Stellungnahme des Partners eingeholt, engmaschige
+Überwachung für 12 Monate
+gueltig_bis: 2026-09-04
+begruendung: Treffer bei der Sanktionsprüfung bewertet; Beteiligungsverhältnisse offengelegt,
+Geschäftsbeziehung nur mit Auflagen zulässig. Negative Presseberichterstattung ausgewertet.
+Risikoklasse hoch. Freigabe unter Auflagen.
+Geschäftspartner
+name: Utrechtse Coatings B.V.
+partner_typ: Kunde
+land: NL
+strasse: Havenstraat 175
+plz: 3582 RY
+ort: Utrecht
+aktiv: 1
+risikoklasse_aktuell: hoch
+letzte_pruefung: 2025-09-09
+freigabestatus: mit Auflagen

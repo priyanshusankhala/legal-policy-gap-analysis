@@ -1,0 +1,30 @@
+
+
+Notification of Significant Change – EPA RMP
+Registration (RMP-BAY-2017/911)
+Behördenkorrespondenz
+Document no.
+DMS-00000257
+Version
+1.0
+Valid from
+2023-04-28
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: EPA RMP Registration
+nummer: RMP-BAY-2017/911
+behoerde: TCEQ
+erteilt_am: 2022-09-12
+gueltig_bis: 2027-10-03
+status: gültig
+auflagen: Sicherheitsbericht und Alarmpläne aktuell halten; Übungen nachweisen.

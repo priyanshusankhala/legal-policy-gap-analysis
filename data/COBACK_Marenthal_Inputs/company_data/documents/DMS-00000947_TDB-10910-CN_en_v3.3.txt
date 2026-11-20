@@ -1,0 +1,40 @@
+
+
+Technical Data Sheet Marencoat EP 806 2K epoxy
+primer (component A)
+Technisches Datenblatt
+Document no.
+DMS-00000947
+Version
+3.3
+Valid from
+2025-07-18
+Company
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat EP 806 2K epoxy primer (component A)
+Family: Coatings
+Applications: Floor systems, Industrial coatings
+Description: Grundierung für Stahl und Beton, Komponente A
+Hazardous: 1
+SDS available: 1
+Density: 1.378
+UN: UN1263
+Class: 3
+HS: 3208909100
+Origin: CN
+Composition
+Bisphenol-A epoxy resin: 42.8–52.4 %
+Xylene (isomer mixture): 10.3–12.5 %
+Talc: 9.7–11.9 %
+Barium sulfate: 8.4–10.2 %
+n-Butanol: 6.6–8 %
+Titanium dioxide: 6.3–7.7 %
+Zinc phosphate: 5.9–7.3 %

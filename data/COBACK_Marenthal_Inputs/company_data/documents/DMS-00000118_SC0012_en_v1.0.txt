@@ -1,0 +1,40 @@
+
+
+Environmental and Water Protection at the Plant –
+Training Material
+Schulungsunterlage
+Document no.
+DMS-00000118
+Version
+1.0
+Valid from
+2022-01-28
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Umwelt- und Gewässerschutz im Betrieb
+thema: EHS
+pflicht: 1
+zielgruppe: EHS, Produktionsleiter und Schichtleiter
+sprachen: de,en,fr,zh
+dauer_min: 120
+intervall_monate: 12
+format: Präsenz
+status: aktiv
+Richtlinie
+nummer: KR-010
+titel: Richtlinie Umwelt-, Arbeits- und Gesundheitsschutz (EHS)
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-10
+master_sprache: de
+vertraulichkeit: intern

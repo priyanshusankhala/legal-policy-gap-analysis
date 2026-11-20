@@ -1,0 +1,45 @@
+# Register of substance registrations: IECSC - Marenthal Chemicals (Shanghai) Co., Ltd. (part 2 of 2)
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Status of each substance under IECSC for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sodium percarbonate (CAS 15630-89-4) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Sodium persulfate (CAS 7775-27-1) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Sodium silicate (water glass) (CAS 1344-09-8) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Sodium sulfate (CAS 7757-82-6) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Sodium thiosulfate (CAS 7772-98-7) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Sodium tripolyphosphate (CAS 7758-29-4) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Stearic acid (CAS 57-11-4) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Styrene (CAS 100-42-5) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | CN | Registrant | Inventar aktiv | - | - | - | - | - |
+| Sulfamic acid (CAS 5329-14-6) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Sulfuric acid (96 %) (CAS 7664-93-9) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Talc (CAS 14807-96-6) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Tartaric acid (CAS 87-69-4) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Tetraethyl orthosilicate (CAS 78-10-4) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Tetrahydrofuran (CAS 109-99-9) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Tetrasodium EDTA (CAS 64-02-8) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Titanium dioxide (CAS 13463-67-7) | CN | Registrant | Inventar aktiv | - | - | - | - | - |
+| Toluene (CAS 108-88-3) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Triethanolamine (CAS 102-71-6) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Triethylamine (CAS 121-44-8) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Trisodium citrate (CAS 68-04-2) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Trisodium phosphate (CAS 7601-54-9) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Urea (CAS 57-13-6) | CN | Registrant | Inventar aktiv | - | - | - | - | - |
+| Vinyl acetate (CAS 108-05-4) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Water (demineralised) (CAS 7732-18-5) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| Xanthan gum (CAS 11138-66-2) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Xylene (isomer mixture) (CAS 1330-20-7) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Zinc oxide (CAS 1314-13-2) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Zinc phosphate (CAS 7779-90-0) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| Zinc stearate (CAS 557-05-1) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| d-Limonene (CAS 5989-27-5) | CN | Importeur | Inventar aktiv | - | - | - | - | - |
+| n-Butanol (CAS 71-36-3) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| n-Butyl acrylate (CAS 141-32-2) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| n-Heptane (CAS 142-82-5) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |
+| n-Hexane (CAS 110-54-3) | CN | Nachgeschalteter Anwender | Inventar aktiv | - | - | - | - | - |

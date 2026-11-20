@@ -1,0 +1,40 @@
+
+
+Brandschutz- und Ersthelfer-Auffrischung –
+Schulungsunterlage
+Schulungsunterlage
+Dokumentnummer
+DMS-00000103
+Version
+1.0
+Gültig ab
+2021-12-06
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Schulung
+titel: Brandschutz- und Ersthelfer-Auffrischung
+thema: EHS
+pflicht: 1
+zielgruppe: Brandschutz- und Ersthelfer in Produktion und Instandhaltung
+sprachen: de,en,fr,zh
+dauer_min: 240
+intervall_monate: 24
+format: Präsenz
+status: aktiv
+Richtlinie
+nummer: KR-017
+titel: Notfall- und Krisenmanagement
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-16
+master_sprache: de
+vertraulichkeit: intern

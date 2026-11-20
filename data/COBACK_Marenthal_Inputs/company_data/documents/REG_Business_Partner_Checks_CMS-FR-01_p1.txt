@@ -1,0 +1,128 @@
+# Register of business partner checks - Marenthal France S.A.S. (part 1 of 2)
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Each business partner with the latest check: risk class, approval status, sanctions list screening, PEP check and adverse media result.
+
+| Partner | Type | Country | Risk class | Approval | Checks | Last check | Result | Sanctions screening | PEP | Adverse media |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kariuki Chemical Distribution Ltd | Vertriebspartner | KE | hoch | freigegeben | 5 | 2025-09-01 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Emiliana Commercio chimico S.r.l. | Vertriebspartner | IT | hoch | freigegeben | 5 | 2025-10-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Muller Plasturgie SAS | Kunde | FR | niedrig | freigegeben | 2 | 2025-04-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Paulista Eletrónica S.A. | Kunde | BR | mittel | freigegeben | 3 | 2025-05-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Delmas & Blanc Conseil SAS | Dienstleister | FR | mittel | freigegeben | 2 | 2024-03-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Madrileña Tratamientos superficiales S.A. | Kunde | ES | niedrig | freigegeben | 2 | 2024-10-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Roux & Robert Distribution chimique SAS | Vertriebspartner | FR | hoch | freigegeben | 5 | 2025-12-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Parisienne Produits chimiques SARL | Lieferant | FR | niedrig | freigegeben | 2 | 2024-10-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Legrand Textiles SA | Kunde | FR | niedrig | freigegeben | 2 | 2024-09-25 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Mwangi & Kamau Automotive Components Ltd | Kunde | KE | hoch | gesperrt | 5 | 2025-12-26 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Laurent Chimie du bâtiment SAS | Kunde | FR | niedrig | freigegeben | 2 | 2025-02-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Benelux Textiles S.à r.l. | Kunde | LU | niedrig | freigegeben | 2 | 2024-09-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Dubois Peintures SAS | Kunde | FR | niedrig | freigegeben | 2 | 2025-01-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Vidal Comercio de productos químicos S.L. | Vertriebspartner | ES | mittel | freigegeben | 3 | 2025-08-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mora Química de la construcción S.L. | Kunde | ES | niedrig | mit Auflagen | 2 | 2024-10-02 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Carioca Vernizes S.A. | Kunde | BR | mittel | freigegeben | 2 | 2024-03-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Flandres Équipements automobiles SARL | Kunde | FR | niedrig | freigegeben | 3 | 2025-07-31 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rolland Systèmes d'information SA | Dienstleister | FR | mittel | freigegeben | 3 | 2025-05-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Seine Services aux bâtiments SARL | Lieferant | FR | niedrig | freigegeben | 2 | 2024-08-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Visser Traitement de surface NV | Kunde | BE | niedrig | freigegeben | 2 | 2024-12-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lucas Mécanique SA | Kunde | FR | niedrig | freigegeben | 3 | 2025-04-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Arnaud Équipements automobiles S.à r.l. | Kunde | LU | mittel | freigegeben | 3 | 2025-10-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Occitanie Mécanique SAS | Kunde | FR | niedrig | freigegeben | 2 | 2025-05-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lozano Comercio de productos químicos S.A. | Vertriebspartner | ES | mittel | freigegeben | 3 | 2025-04-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Romero Metalurgia S.L. | Kunde | ES | mittel | freigegeben | 3 | 2025-06-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Dekker Chemiehandel BV | Vertriebspartner | BE | mittel | freigegeben | 3 | 2025-09-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Esteves Vernizes Ltda. | Kunde | BR | mittel | freigegeben | 2 | 2024-02-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Méditerranée Vernis SAS | Kunde | FR | mittel | freigegeben | 3 | 2025-12-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Méditerranée Logistique SARL | Dienstleister | FR | niedrig | freigegeben | 2 | 2025-01-16 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Flandres Chemical Supply NV | Lieferant | BE | mittel | freigegeben | 2 | 2024-05-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Minhota Materiais de construção Lda. | Kunde | PT | niedrig | freigegeben | 2 | 2025-05-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mocanu & Preda Building Products S.R.L. | Kunde | RO | niedrig | freigegeben | 2 | 2024-08-15 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Paulista Equipamentos industriais Ltda. | Kunde | BR | hoch | freigegeben | 5 | 2025-09-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rhône Traitement de surface SAS | Kunde | FR | niedrig | freigegeben | 2 | 2024-09-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Paranaense Comércio de produtos químicos Ltda. | Vertriebspartner | BR | hoch | freigegeben | 4 | 2025-05-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Santos Componentes automóveis Ltda. | Kunde | BR | mittel | freigegeben | 3 | 2025-03-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rhône Distribution chimique SARL | Vertriebspartner | FR | mittel | mit Auflagen | 3 | 2025-11-26 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Catalana Plásticos S.A. | Kunde | ES | niedrig | freigegeben | 3 | 2025-07-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lombardi Componenti auto S.r.l. | Kunde | IT | mittel | abgelaufen | 2 | 2023-11-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Jacobs Industriële reiniging NV | Kunde | BE | niedrig | mit Auflagen | 2 | 2024-11-15 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Rossetti Igiene S.r.l. | Kunde | IT | niedrig | freigegeben | 2 | 2025-04-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| de Vries Automotive onderdelen B.V. | Kunde | NL | mittel | mit Auflagen | 3 | 2025-07-07 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Kok Chemiehandel B.V. | Vertriebspartner | NL | hoch | mit Auflagen | 5 | 2025-11-04 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Bauer Metallveredelung GmbH & Co. KG | Kunde | DE | niedrig | freigegeben | 2 | 2024-12-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lombarda Elettronica S.p.A. | Kunde | IT | niedrig | freigegeben | 2 | 2025-02-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Bernardi Commercio chimico S.r.l. | Vertriebspartner | IT | hoch | freigegeben | 5 | 2025-06-05 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Padana Pulizie industriali S.p.A. | Kunde | IT | mittel | freigegeben | 2 | 2024-05-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Benelux Machinebouw BV | Kunde | BE | niedrig | freigegeben | 2 | 2024-11-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Antunes Papel Ltda. | Kunde | BR | hoch | freigegeben | 5 | 2025-08-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Levante Tratamiento de aguas S.A. | Kunde | ES | niedrig | freigegeben | 2 | 2024-11-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Ferri Edilizia S.p.A. | Kunde | IT | niedrig | freigegeben | 2 | 2024-05-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Garnier Vernis SA | Kunde | FR | mittel | freigegeben | 3 | 2025-03-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Díaz Higiene S.L. | Kunde | ES | niedrig | freigegeben | 2 | 2025-01-06 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Garrido Barnices S.L. | Kunde | ES | niedrig | freigegeben | 2 | 2025-04-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Evers Équipements automobiles NV | Kunde | BE | niedrig | freigegeben | 2 | 2025-04-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Schmitt Peintures SARL | Kunde | FR | niedrig | mit Auflagen | 2 | 2024-12-23 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Bonnet Papeteries SARL | Kunde | FR | niedrig | freigegeben | 2 | 2024-06-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lefebvre Services aux bâtiments SARL | Lieferant | FR | niedrig | freigegeben | 2 | 2025-04-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Domínguez Componentes de automoción S.A. | Kunde | ES | mittel | freigegeben | 3 | 2025-06-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Méditerranée Fabrique de fûts SARL | Lieferant | FR | niedrig | freigegeben | 2 | 2024-07-16 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Joly Boissons SA | Kunde | FR | niedrig | freigegeben | 3 | 2025-05-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Garonne Transports SAS | Dienstleister | FR | niedrig | freigegeben | 2 | 2025-01-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rey Transports SARL | Dienstleister | FR | niedrig | freigegeben | 2 | 2024-12-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Highland Water Treatment Ltd | Kunde | KE | hoch | freigegeben | 5 | 2025-03-31 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Vidal Matériaux de construction SARL | Kunde | FR | mittel | freigegeben | 3 | 2025-05-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rousset Conseil SAS | Dienstleister | FR | niedrig | freigegeben | 3 | 2025-08-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Seidel Wassertechnik GmbH | Kunde | AT | niedrig | mit Auflagen | 2 | 2024-03-20 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Nord Nettoyage industriel SA | Kunde | FR | mittel | freigegeben | 2 | 2024-03-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Wafula Electronics Ltd | Kunde | KE | hoch | freigegeben | 5 | 2025-09-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lorenzo Textil S.L. | Kunde | ES | niedrig | freigegeben | 2 | 2024-10-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Magalhães Comércio de produtos químicos Ltda. | Vertriebspartner | BR | hoch | freigegeben | 4 | 2025-04-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rey & Boucher Matériaux de construction SAS | Kunde | FR | niedrig | freigegeben | 2 | 2025-01-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Dubois Électronique SARL | Kunde | FR | niedrig | freigegeben | 2 | 2024-09-27 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Parisienne Analyses SA | Dienstleister | FR | niedrig | freigegeben | 2 | 2024-07-30 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Fiore Colori S.p.A. | Kunde | IT | niedrig | freigegeben | 2 | 2024-12-09 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Barbosa Limpeza industrial S.A. | Kunde | BR | hoch | freigegeben | 5 | 2025-05-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Garcia & Gillet Hygiène SARL | Kunde | FR | niedrig | freigegeben | 2 | 2024-07-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Flandres Mécanique BV | Kunde | BE | niedrig | freigegeben | 3 | 2025-11-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Garonne Plastiques SAS | Kunde | FR | mittel | freigegeben | 3 | 2025-09-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Esposito Componenti auto S.p.A. | Kunde | IT | niedrig | freigegeben | 2 | 2024-04-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Robin Mécanique SA | Kunde | FR | niedrig | freigegeben | 2 | 2024-12-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Silva Bebidas S.A. | Kunde | BR | mittel | freigegeben | 3 | 2025-11-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Méditerranée Gaz industriels SARL | Dienstleister | FR | mittel | freigegeben | 3 | 2025-09-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Paranaense Mecânica S.A. | Kunde | BR | mittel | freigegeben | 2 | 2024-03-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Parisienne Hygiène SA | Kunde | FR | niedrig | mit Auflagen | 2 | 2025-03-19 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Flandres Bouwmaterialen BV | Kunde | BE | niedrig | freigegeben | 2 | 2025-04-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Muller Produits chimiques SARL | Lieferant | FR | niedrig | freigegeben | 2 | 2024-05-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Wijnands Nettoyage industriel NV | Kunde | BE | niedrig | freigegeben | 2 | 2024-06-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Pereira Plásticos Ltda. | Kunde | BR | hoch | freigegeben | 5 | 2025-05-08 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Perrin Traitement de surface SARL | Kunde | FR | niedrig | freigegeben | 2 | 2025-05-15 | freigegeben | Treffer - Fehlalarm | kein Treffer | Hinweis bewertet |
+| Bernard Produits chimiques SAS | Lieferant | FR | niedrig | freigegeben | 2 | 2024-12-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Odhiambo Automotive Components Ltd | Kunde | KE | hoch | freigegeben | 5 | 2025-11-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Santos Tratamento de superfícies S.A. | Kunde | PT | mittel | freigegeben | 3 | 2024-10-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Benelux Matériaux de construction S.A. | Kunde | LU | niedrig | freigegeben | 2 | 2025-09-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Provence Chimie SAS | Lieferant | FR | niedrig | freigegeben | 2 | 2024-10-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Nord Emballages SARL | Lieferant | FR | niedrig | freigegeben | 2 | 2025-03-07 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Maillard & Vasseur Équipements automobiles SAS | Kunde | FR | hoch | mit Auflagen | 3 | 2025-10-27 | freigegeben mit Auflagen | Treffer - Fehlalarm | kein Treffer | Hinweis bewertet |
+| Leblanc Plasturgie SAS | Kunde | FR | niedrig | mit Auflagen | 2 | 2024-12-11 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Rossi Edilizia S.r.l. | Kunde | IT | niedrig | freigegeben | 2 | 2024-08-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Smit Environnement NV | Kunde | BE | mittel | freigegeben | 3 | 2025-10-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Poirier Équipements automobiles SAS | Kunde | FR | niedrig | mit Auflagen | 2 | 2025-05-08 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Michel Plastiques SAS | Kunde | FR | niedrig | freigegeben | 2 | 2024-07-18 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Padana Trattamenti superficiali S.r.l. | Kunde | IT | niedrig | gesperrt | 2 | 2024-07-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lyonnaise Matériaux de construction SA | Kunde | FR | niedrig | freigegeben | 2 | 2024-04-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Parisienne Distribution chimique SARL | Vertriebspartner | FR | mittel | freigegeben | 3 | 2025-08-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lima Tratamento de superfícies Ltda. | Kunde | BR | mittel | freigegeben | 3 | 2025-05-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mora Comercio de productos químicos S.L. | Vertriebspartner | ES | mittel | freigegeben | 2 | 2024-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Medeiros Tintas Ltda. | Kunde | BR | mittel | freigegeben | 3 | 2025-09-16 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Paulista Tratamento de superfícies S.A. | Kunde | BR | mittel | freigegeben | 2 | 2024-02-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Vasca Higiene S.A. | Kunde | ES | niedrig | freigegeben | 2 | 2024-05-13 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Seine Logistique SARL | Dienstleister | FR | niedrig | freigegeben | 2 | 2024-12-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Duriense Comércio de produtos químicos S.A. | Vertriebspartner | PT | mittel | freigegeben | 3 | 2025-03-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Correia Plásticos Lda. | Kunde | PT | niedrig | freigegeben | 2 | 2024-04-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Rossi Componenti auto S.r.l. | Kunde | IT | niedrig | mit Auflagen | 2 | 2024-08-05 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Guerrero Componentes de automoción S.L. | Kunde | ES | niedrig | freigegeben | 2 | 2024-06-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Subalpina Materie plastiche S.r.l. | Kunde | IT | mittel | freigegeben | 3 | 2024-05-09 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| Paulista Plásticos S.A. | Kunde | BR | mittel | freigegeben | 3 | 2025-06-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Méditerranée Maintenance industrielle SARL | Dienstleister | FR | hoch | gesperrt | 3 | 2025-09-24 | freigegeben mit Auflagen | Treffer - geprüft | kein Treffer | kein Treffer |
+| Highland Metal Finishing Ltd | Kunde | KE | hoch | freigegeben | 5 | 2025-09-15 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Mariani Vernici S.p.A. | Kunde | IT | niedrig | freigegeben | 2 | 2024-10-16 | freigegeben | kein Treffer | kein Treffer | kein Treffer |

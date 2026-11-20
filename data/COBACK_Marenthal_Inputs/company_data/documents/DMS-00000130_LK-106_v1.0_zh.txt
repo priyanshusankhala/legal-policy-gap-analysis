@@ -1,0 +1,35 @@
+个人信息保护内部管理制度
+Lokale Richtlinie
+
+文件编号: DMS-00000130
+版本: 1.0
+生效日期: 2022-03-07
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Superseded
+保密级别: Internal
+
+目的和适用范围
+本制度规定了Marenthal Chemicals (Shanghai) Co., Ltd.在“Datenschutz”方面的约束性规则，适用于全体员工、管理人员，并在合同约定的范围内适用于商业伙伴。
+
+义务和责任
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Richtlinie
+nummer: LK-106
+titel: 个人信息保护内部管理制度
+thema: Datenschutz
+geltung: Lokal
+aktuelle_version: 1.1
+status: in Überarbeitung
+naechste_ueberpruefung: 2025-02-11
+master_sprache: zh
+vertraulichkeit: intern
+
+Richtlinienversion
+version: 1.0
+sprache: zh
+status: Ersetzt
+gueltig_ab: 2022-03-07
+gueltig_bis: 2023-08-17
+freigabe_datum: 2022-03-07
+aenderungsgrund: Erstfassung

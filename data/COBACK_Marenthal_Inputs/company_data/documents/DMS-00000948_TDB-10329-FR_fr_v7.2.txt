@@ -1,0 +1,37 @@
+
+
+Fiche technique Marenpaste 202 préparation
+pigmentaire
+Technisches Datenblatt
+N° du document
+DMS-00000948
+Version
+7.2
+Valable depuis
+2025-07-10
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Informations
+Product: Marenpaste 202 pigment preparation
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Surfactant systems
+Description: Einfärbung wässriger Beschichtungen
+Hazardous: 1
+SDS available: 1
+Density: 1.326
+HS: 3212900000
+Origin: FR
+Composition
+Water (demineralised): 48.9–59.8 %
+Iron(III) oxide: 26.7–32.7 %
+Styrene-acrylate copolymer dispersion: 8.8–10.8 %
+Propylene glycol: 3.1–4.1 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 2–3 %
+1,2-Benzisothiazolin-3-one: 0.015–0.045 %

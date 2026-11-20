@@ -1,0 +1,30 @@
+
+
+Umsetzungsnachweis: Korrekturmaßnahme:
+Transportvorfall Ningbo
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00000729
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Standort
+CN01-002
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Korrekturmaßnahme: Transportvorfall Ningbo
+beschreibung: Ursache analysiert; technische und organisatorische Maßnahmen zur Vermeidung von
+Wiederholungen festgelegt.
+quelle_typ: Vorfall
+prioritaet: mittel
+status: erledigt
+frist: 2025-03-24
+abgeschlossen_am: 2025-04-01
+bemerkung: Wirksamkeit bei der nächsten Kontrolle zu prüfen.

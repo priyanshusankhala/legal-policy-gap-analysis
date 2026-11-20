@@ -1,0 +1,26 @@
+# Register of compliance roles and responsibilities - Marenthal Chemie AG
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Compliance roles in the company, the area covered, the site if any, validity period and whether a deputy is appointed. Role holders are not named.
+
+| Role | Area | Site | Valid from | Valid until | Deputy appointed |
+| --- | --- | --- | --- | --- | --- |
+| Chief Compliance Officer | Konzern | - | 2022-02-09 | - | yes |
+| Datenschutzbeauftragter | Datenschutz | - | 2022-09-13 | - | yes |
+| Exportkontrollbeauftragter | Außenwirtschaft und Exportkontrolle | - | 2021-10-08 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | Werk Bitterfeld | 2021-11-23 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | Werk Marl | 2021-11-11 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | Zentrallager Duisburg | 2021-04-09 | - | yes |
+| Gewaesserschutzbeauftragter | Abwasser und Gewässerschutz | Werk Bitterfeld | 2023-10-05 | - | yes |
+| Gewaesserschutzbeauftragter | Abwasser und Gewässerschutz | Werk Marl | 2023-07-14 | - | yes |
+| Informationssicherheitsbeauftragter | Informationssicherheit | - | 2021-05-25 | - | yes |
+| Local Compliance Officer | Compliance-Management der Gesellschaft | - | 2021-06-01 | - | yes |
+| Meldestelle Hinweisgeber | Interne Meldestelle | - | 2022-10-25 | - | yes |
+| Qualitätsbeauftragter | Qualitätsmanagement | Werk Bitterfeld | 2022-03-23 | - | yes |
+| Qualitätsbeauftragter | Qualitätsmanagement | Werk Marl | 2021-09-09 | - | yes |
+| Sicherheitsfachkraft | Arbeitssicherheit | Werk Bitterfeld | 2025-10-09 | - | yes |
+| Sicherheitsfachkraft | Arbeitssicherheit | Werk Marl | 2025-04-04 | - | yes |
+| Sicherheitsfachkraft | Arbeitssicherheit | Zentrallager Duisburg | 2025-11-14 | - | yes |
+| Umweltschutzbeauftragter | Immissionsschutz, Abfall | Werk Bitterfeld | 2021-09-06 | - | yes |
+| Umweltschutzbeauftragter | Immissionsschutz, Abfall | Werk Marl | 2021-10-11 | - | yes |

@@ -1,0 +1,36 @@
+
+
+Technical Data Sheet Marencoat TG 1438 penetrating
+primer
+Technisches Datenblatt
+Document no.
+DMS-00000320
+Version
+1.0
+Valid from
+2023-10-27
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat TG 1438 penetrating primer
+Family: Coatings
+Applications: Architectural paints
+Description: Verfestigende Grundierung saugender Untergründe
+Hazardous: 0
+SDS available: 1
+Density: 1.005
+HS: 3209100000
+Origin: DE
+Composition
+Water (demineralised): 81.6–99.7 %
+Styrene-acrylate copolymer dispersion: 7.3–8.9 %
+Propylene glycol: 0.445–1.335 %
+2-Phenoxyethanol: 0.16–0.48 %
+1,2-Benzisothiazolin-3-one: 0.015–0.045 %

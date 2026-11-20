@@ -1,0 +1,63 @@
+
+
+Draft Framework Agreement 2026 – Nichols & Edwards
+Industrial Systems LLC
+Vertragsentwurf
+Document no.
+DMS-00001060
+Version
+0.2
+Company
+Marenthal Chemicals Inc.
+Status
+Draft
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Account
+name: Nichols & Edwards Industrial Systems LLC
+type: Customer
+billing_street: 90 Enterprise Way
+billing_city: Atlanta
+billing_postcode: 30373
+billing_country: US
+industry: Mechanical and plant engineering
+segment: Direct
+size_class: Large
+status: Active
+website: www.nicholsindustrial.com
+created_date: 1998-07-22
+last_modified_date: 2024-09-24
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Mechanical and plant engineering. Sources Marencoat AF 333 acrylic facade paint,
+Marenclean R 1402 rust remover for ongoing production.
+Vertrag
+contract_number: RV-2022-0039
+type: Framework Agreement
+status: Expired
+start_date: 2022-12-30
+end_date: 2025-12-29
+auto_renew: 0
+notice_period_days: 90
+currency: USD
+committed_volume_t: 154.09
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2022-12-20
+governing_law: State of Texas
+payment_terms: Z060
+incoterm: DAP
+Terms
+
+Marendisp 305 dispersing agent: 446.91 USD/100 kg
+Marendisp 305 dispersing agent: 433.5 USD/100 kg
+Marenclean R 1402 rust remover: 166.59 USD/100 kg
+Marenclean R 1402 rust remover: 161.59 USD/100 kg
+Marencoat AF 333 acrylic facade paint: 498.78 USD/100 kg
+Marencoat AF 333 acrylic facade paint: 483.82 USD/100 kg
+Marencoat HL 509 water-based wood coating: 500.19 USD/100 kg
+Marencoat HL 509 water-based wood coating: 490.19 USD/100 kg
+Ethyl acetate, technical grade: 1310.29 USD/1000 kg
+Ethyl acetate, technical grade: 1284.08 USD/1000 kg

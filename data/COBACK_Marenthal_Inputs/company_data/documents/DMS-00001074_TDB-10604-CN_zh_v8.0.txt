@@ -1,0 +1,30 @@
+技术数据表 Marenclean G 800 玻璃清洁剂
+Technisches Datenblatt
+
+文件编号: DMS-00001074
+版本: 8.0
+生效日期: 2025-08-29
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+详细信息
+Product: Marenclean G 800 glass cleaner
+Family: Industrial Cleaners
+Applications: Facility hygiene, Hard surface cleaning
+Description: Reinigung von Glas- und Spiegelflächen
+Hazardous: 1
+SDS available: 1
+Density: 0.982
+HS: 3402209000
+Origin: CN
+
+成分
+Water (demineralised): 82.2–100 %
+Isopropanol: 5.1–6.3 %
+2-Butoxyethanol: 1.4–2.4 %
+Ammonia solution (25 %): 0.345–1.035 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 0.195–0.585 %

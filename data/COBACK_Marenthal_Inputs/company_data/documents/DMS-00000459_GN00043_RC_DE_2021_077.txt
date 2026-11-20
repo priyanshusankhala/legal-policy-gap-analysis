@@ -1,0 +1,30 @@
+
+
+Teilnahmebestätigung Responsible Care –
+RC-DE-2021-077
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000459
+Version
+1.0
+Gültig ab
+2024-08-30
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Teilnahmebestätigung Responsible Care
+nummer: RC-DE-2021-077
+behoerde: Verband der Chemischen Industrie
+erteilt_am: 2024-08-30
+gueltig_bis: 2027-09-01
+status: gültig
+auflagen: Jährlicher Fortschrittsbericht.

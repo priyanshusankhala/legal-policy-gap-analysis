@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal Chemie AG (part 2 of 7)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| China (CN) | Vinyl acetate, technical grade | 12000030 | 6 | 14,925 KG | 31,391 USD |
+| China (CN) | Xylene (isomer mixture), technical grade | 12000044 | 29 | 646,000 KG | 622,849 EUR |
+| China (CN) | n-Butyl acrylate, technical grade | 11000036 | 2 | 62,000 KG | 106,107 EUR |
+| Croatia (HR) | Acetic acid, technical grade | 12000047 | 15 | 486,400 KG | 313,431 EUR |
+| Croatia (HR) | Diethylenetriamine, technical grade | 12000036 | 9 | 54,000 KG | 140,454 EUR |
+| Croatia (HR) | Ethyl acetate, technical grade | 12000040 | 10 | 141,000 KG | 151,224 EUR |
+| Croatia (HR) | Maleic anhydride, technical grade | 12000033 | 9 | 56,200 KG | 109,309 EUR |
+| Croatia (HR) | Marenclean G 800 glass cleaner | 12000015 | 15 | 226,300 KG | 252,777 EUR |
+| Croatia (HR) | Marenclean U 101 all-purpose cleaner | 12000010 | 9 | 57,100 KG | 73,488 EUR |
+| Croatia (HR) | Marencoat AF 333 acrylic facade paint | 12000021 | 9 | 23,475 KG | 110,147 EUR |
+| Croatia (HR) | Marencoat RS 703 anticorrosive primer | 11000025 | 6 | 8,800 KG | 42,476 EUR |
+| Croatia (HR) | Marendisp 305 dispersing agent | 12000002 | 12 | 44,775 KG | 169,008 EUR |
+| Croatia (HR) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 21 | 185,100 KG | 420,991 EUR |
+| Croatia (HR) | Methyl ethyl ketone, technical grade | 12000042 | 13 | 112,200 KG | 191,538 EUR |
+| Croatia (HR) | Toluene, technical grade | 12000043 | 14 | 145,100 KG | 145,826 EUR |
+| Cyprus (CY) | Marenclean E 504 degreaser | 12000013 | 12 | 166,600 KG | 236,039 EUR |
+| Cyprus (CY) | Marencoat AF 309 acrylic facade paint | 12000020 | 8 | 8,350 KG | 31,074 EUR |
+| Cyprus (CY) | Marencoat DB 1303 roof coating | 11000030 | 6 | 6,950 KG | 27,086 EUR |
+| Cyprus (CY) | Marencoat RS 703 anticorrosive primer | 11000025 | 11 | 14,125 KG | 69,096 EUR |
+| Cyprus (CY) | Marenflex 906 plasticizer | 11000010 | 14 | 44,525 KG | 200,968 EUR |
+| Cyprus (CY) | Marenglide 953 lubricant additive | 12000003 | 6 | 6,225 KG | 28,422 EUR |
+| Cyprus (CY) | Marenpaste 202 pigment preparation | 12000006 | 14 | 49,250 KG | 210,544 EUR |
+| Cyprus (CY) | Phosphoric acid (75 %), technical grade | 12000051 | 9 | 242,300 KG | 231,619 EUR |
+| Cyprus (CY) | Sodium hydroxide (50 %), technical grade | 12000050 | 5 | 186,400 KG | 84,737 EUR |
+| Cyprus (CY) | Toluene, technical grade | 12000043 | 23 | 340,000 KG | 306,989 EUR |
+| Cyprus (CY) | Triethylamine, technical grade | 12000035 | 1 | 3,700 KG | 7,263 EUR |
+| Czechia (CZ) | Acetic acid, technical grade | 12000047 | 16 | 662,700 KG | 420,189 EUR |
+| Czechia (CZ) | Acrylic acid, technical grade | 12000032 | 6 | 17,275 KG | 37,349 EUR |
+| Czechia (CZ) | Butyl acetate, technical grade | 12000041 | 3 | 8,700 KG | 13,276 EUR |
+| Czechia (CZ) | Diethylenetriamine, technical grade | 12000036 | 15 | 83,900 KG | 197,246 EUR |
+| Czechia (CZ) | Ethanol, technical grade | 12000039 | 18 | 195,700 KG | 196,754 EUR |
+| Czechia (CZ) | Ethyl acetate, technical grade | 12000040 | 7 | 65,100 KG | 70,618 EUR |
+| Czechia (CZ) | Glycerol, technical grade | 12000052 | 1 | 11,000 KG | 12,199 EUR |
+| Czechia (CZ) | Isophorone diisocyanate, technical grade | 12000034 | 4 | 3,875 KG | 18,514 EUR |
+| Czechia (CZ) | Isopropanol, technical grade | 12000038 | 19 | 249,350 KG | 305,456 EUR |
+| Czechia (CZ) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 5 | 11,450 KG | 393,645 CZK |
+| Czechia (CZ) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 25 | 445,700 KG | 549,741 EUR |
+| Czechia (CZ) | Marenclean A 238 alkaline industrial cleaner | 11000014 | 1 | 700 KG | 976 EUR |
+| Czechia (CZ) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 13 | 90,700 KG | 101,312 EUR |
+| Czechia (CZ) | Marenclean C 1305 CIP cleaner | 12000018 | 6 | 6,675 KG | 9,665 EUR |
+| Czechia (CZ) | Marenclean G 800 glass cleaner | 12000015 | 8 | 30,700 KG | 39,094 EUR |
+| Czechia (CZ) | Marenclean P 404 phosphoric acid cleaner | 12000012 | 1 | 3,500 KG | 5,288 EUR |
+| Czechia (CZ) | Marenclean R 1402 rust remover | 12000019 | 1 | 2,800 KG | 4,290 EUR |
+| Czechia (CZ) | Marenclean U 134 all-purpose cleaner | 12000011 | 10 | 48,500 KG | 67,076 EUR |
+| Czechia (CZ) | Marencoat AI 436 interior emulsion paint | 12000022 | 2 | 1,600 KG | 6,841 EUR |
+| Czechia (CZ) | Marencoat AL 634 alkyd enamel | 12000024 | 3 | 5,700 KG | 34,476 EUR |
+| Czechia (CZ) | Marencoat DB 1303 roof coating | 11000030 | 10 | 15,600 KG | 65,036 EUR |
+| Czechia (CZ) | Marencoat DB 1333 roof coating | 12000027 | 3 | 9,500 KG | 32,019 EUR |
+| Czechia (CZ) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 3 | 550 KG | 4,418 EUR |
+| Czechia (CZ) | Marencoat HL 509 water-based wood coating | 12000023 | 5 | 5,650 KG | 25,779 EUR |
+| Czechia (CZ) | Marencoat HL 533 water-based wood coating | 11000023 | 12 | 50,125 KG | 204,670 EUR |
+| Czechia (CZ) | Marencoat RS 730 anticorrosive primer | 12000025 | 7 | 6,850 KG | 38,181 EUR |
+| Czechia (CZ) | Marencoat TG 1400 penetrating primer | 12000028 | 3 | 17,500 KG | 34,404 EUR |
+| Czechia (CZ) | Marenfoam 133 defoamer | 11000003 | 8 | 55,475 KG | 235,718 EUR |
+| Czechia (CZ) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 9 | 79,300 KG | 189,675 EUR |
+| Czechia (CZ) | Methanol, technical grade | 12000049 | 18 | 1,096,000 KG | 433,459 EUR |
+| Czechia (CZ) | Methyl methacrylate, technical grade | 11000035 | 6 | 34,000 KG | 67,025 EUR |
+| Czechia (CZ) | Propylene glycol, technical grade | 12000048 | 3 | 1,675 KG | 3,239 EUR |
+| Czechia (CZ) | Sodium hydroxide (50 %), technical grade | 12000050 | 3 | 6,200 KG | 72,856 CZK |
+| Czechia (CZ) | Sodium hydroxide (50 %), technical grade | 12000050 | 19 | 481,600 KG | 232,866 EUR |
+| Czechia (CZ) | Styrene, technical grade | 12000031 | 7 | 68,500 KG | 80,985 EUR |
+| Czechia (CZ) | Toluene, technical grade | 12000043 | 6 | 33,200 KG | 33,366 EUR |
+| Czechia (CZ) | n-Butyl acrylate, technical grade | 11000036 | 8 | 39,100 KG | 74,252 EUR |
+| Denmark (DK) | Acrylic acid, technical grade | 12000032 | 11 | 102,000 KG | 220,524 EUR |
+| Denmark (DK) | Butyl acetate, technical grade | 12000041 | 22 | 398,100 KG | 4,176,137 DKK |
+| Denmark (DK) | Diethylenetriamine, technical grade | 12000036 | 25 | 167,350 KG | 3,002,677 DKK |
+| Denmark (DK) | Isophorone diisocyanate, technical grade | 12000034 | 2 | 5,200 KG | 183,999 DKK |
+| Denmark (DK) | Marenclean E 537 degreaser | 11000017 | 12 | 68,500 KG | 113,223 EUR |
+| Denmark (DK) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 20 | 174,500 KG | 2,078,340 DKK |
+| Denmark (DK) | Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | 12 | 111,700 KG | 1,614,901 DKK |
+| Denmark (DK) | Marenclean S 301 descaler | 11000015 | 13 | 83,875 KG | 910,977 DKK |
+| Denmark (DK) | Marenclean U 101 all-purpose cleaner | 12000010 | 4 | 24,850 KG | 268,061 DKK |
+| Denmark (DK) | Marenclean Z 904 citrus cleaner | 11000020 | 12 | 22,625 KG | 56,504 EUR |
+| Denmark (DK) | Marencoat AF 309 acrylic facade paint | 12000020 | 4 | 7,500 KG | 213,904 DKK |
+| Denmark (DK) | Marencoat AL 603 alkyd enamel | 11000024 | 4 | 6,075 KG | 233,301 DKK |
+| Denmark (DK) | Marencoat AL 634 alkyd enamel | 12000024 | 14 | 17,000 KG | 104,426 EUR |
+| Denmark (DK) | Marencoat DB 1303 roof coating | 11000030 | 2 | 1,600 KG | 44,652 DKK |
+| Denmark (DK) | Marencoat DB 1333 roof coating | 12000027 | 2 | 12,725 KG | 355,412 DKK |
+| Denmark (DK) | Marencoat HL 533 water-based wood coating | 11000023 | 1 | 250 KG | 8,864 DKK |
+| Denmark (DK) | Marencoat RS 730 anticorrosive primer | 12000025 | 13 | 36,525 KG | 191,135 EUR |
+| Denmark (DK) | Marendisp 305 dispersing agent | 12000002 | 6 | 14,875 KG | 456,076 DKK |
+| Denmark (DK) | Marenflex 906 plasticizer | 11000010 | 3 | 7,550 KG | 269,360 DKK |
+| Denmark (DK) | Marenglide 953 lubricant additive | 12000003 | 11 | 26,950 KG | 935,472 DKK |
+| Denmark (DK) | Marenthix 409 thickener | 11000004 | 24 | 117,350 KG | 314,820 EUR |
+| Denmark (DK) | Marenwet 206 wetting agent | 11000001 | 6 | 6,450 KG | 159,315 DKK |
+| Denmark (DK) | Marenwet 237 wetting agent | 12000001 | 7 | 22,125 KG | 562,875 DKK |
+| Denmark (DK) | Methanol, technical grade | 12000049 | 4 | 36,300 KG | 123,484 DKK |
+| Denmark (DK) | Methyl ethyl ketone, technical grade | 12000042 | 23 | 276,800 KG | 3,640,147 DKK |
+| Denmark (DK) | Methyl methacrylate, technical grade | 11000035 | 17 | 72,825 KG | 158,696 EUR |
+| Denmark (DK) | Pentaerythritol, technical grade | 11000039 | 3 | 17,400 KG | 232,090 DKK |
+| Denmark (DK) | Phosphoric acid (75 %), technical grade | 12000051 | 16 | 154,600 KG | 164,494 EUR |
+| Denmark (DK) | Sodium hydroxide (50 %), technical grade | 12000050 | 5 | 72,200 KG | 258,954 DKK |
+| Denmark (DK) | Toluene, technical grade | 12000043 | 13 | 99,375 KG | 91,306 EUR |
+| Denmark (DK) | Vinyl acetate, technical grade | 12000030 | 11 | 130,600 KG | 1,570,999 DKK |
+| Estonia (EE) | Calcium carbonate, technical grade | 12000054 | 8 | 281,500 KG | 31,748 EUR |
+| Estonia (EE) | Diethylenetriamine, technical grade | 12000036 | 9 | 32,400 KG | 84,272 EUR |
+| Estonia (EE) | Isophorone diisocyanate, technical grade | 12000034 | 5 | 4,250 KG | 22,386 EUR |
+| Estonia (EE) | Marenclean U 134 all-purpose cleaner | 12000011 | 10 | 51,500 KG | 71,224 EUR |
+| Estonia (EE) | Marencoat TG 1400 penetrating primer | 12000028 | 8 | 22,750 KG | 45,471 EUR |
+| Estonia (EE) | Marendisp 332 dispersing agent | 11000002 | 11 | 27,225 KG | 108,247 EUR |
+| Estonia (EE) | Marensolv 108 thinner (solvent blend) | 12000004 | 12 | 38,125 KG | 94,855 EUR |
+| Estonia (EE) | Marenwet 206 wetting agent | 11000001 | 8 | 16,425 KG | 54,383 EUR |
+| Estonia (EE) | Pentaerythritol, technical grade | 11000039 | 11 | 28,000 KG | 50,064 EUR |
+| Estonia (EE) | Titanium dioxide, technical grade | 12000053 | 9 | 24,850 KG | 95,623 EUR |
+| Finland (FI) | 2-Ethylhexyl acrylate, technical grade | 12000029 | 4 | 8,100 KG | 17,974 EUR |
+| Finland (FI) | Acetic acid, technical grade | 12000047 | 10 | 242,800 KG | 158,731 EUR |
+| Finland (FI) | Acrylic acid, technical grade | 12000032 | 10 | 31,975 KG | 67,004 EUR |
+| Finland (FI) | Butyl acetate, technical grade | 12000041 | 3 | 27,500 KG | 37,893 EUR |
+| Finland (FI) | Hydrochloric acid (33 %), technical grade | 12000045 | 19 | 1,884,000 KG | 237,094 EUR |
+| Finland (FI) | Isophorone diisocyanate, technical grade | 12000034 | 6 | 18,250 KG | 87,109 EUR |
+| Finland (FI) | Isopropanol, technical grade | 12000038 | 4 | 11,900 KG | 16,160 EUR |
+| Finland (FI) | Maleic anhydride, technical grade | 12000033 | 2 | 12,000 KG | 21,075 EUR |
+| Finland (FI) | Marenbase 1003 neutralising agent | 11000011 | 2 | 775 KG | 5,148 EUR |
+| Finland (FI) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 9 | 49,200 KG | 54,956 EUR |
+| Finland (FI) | Marenclean C 1305 CIP cleaner | 12000018 | 5 | 20,600 KG | 29,829 EUR |
+| Finland (FI) | Marenclean E 504 degreaser | 12000013 | 15 | 155,100 KG | 223,247 EUR |
+| Finland (FI) | Marenclean P 404 phosphoric acid cleaner | 12000012 | 8 | 51,300 KG | 69,629 EUR |
+| Finland (FI) | Marencoat AF 333 acrylic facade paint | 12000021 | 2 | 1,800 KG | 8,320 EUR |
+| Finland (FI) | Marencoat DB 1303 roof coating | 11000030 | 5 | 2,850 KG | 11,882 EUR |
+| Finland (FI) | Marenflex 906 plasticizer | 11000010 | 7 | 6,625 KG | 30,837 EUR |

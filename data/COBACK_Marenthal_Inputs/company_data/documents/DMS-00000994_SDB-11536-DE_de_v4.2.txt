@@ -1,0 +1,70 @@
+
+
+Sicherheitsdatenblatt Schwefelsäure (96 %), techn.
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00000994
+Version
+4.2
+Gültig ab
+2025-08-05
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Schwefelsäure (96 %), techn.
+Schwefelsäure (96 %), techn.
+SDS: SDB-11536-DE
+2. Mögliche Gefahren
+H: H290 H314
+3. Zusammensetzung / Angaben zu Bestandteilen
+Schwefelsäure
+(96 %)
+7664-93-9 231-639-5 99–100 % H290 H314
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 1.84
+Base unit: KG
+Shelf life (months): 36
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN1830
+ADR/IMDG class: 8
+Packing group: II
+HS: 28070010
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Sulfuric acid (96 %): IECSC – nicht erforderlich
+Sulfuric acid (96 %): REACH – nicht erforderlich
+Sulfuric acid (96 %): TSCA – nicht erforderlich
+16. Sonstige Angaben
+4.2 · 2025-08-05

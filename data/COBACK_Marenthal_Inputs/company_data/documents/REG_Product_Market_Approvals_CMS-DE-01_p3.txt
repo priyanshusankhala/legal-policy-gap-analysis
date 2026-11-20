@@ -1,0 +1,15 @@
+# Register of product approvals per market - Marenthal Chemie AG (part 3 of 3)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Shows for each product in which market it is approved to be placed, the status, the validity and any condition.
+
+| Product | Market | Status | Requested | Approved | Valid until | Condition |
+| --- | --- | --- | --- | --- | --- | --- |
+| Toluene, technical grade (PS-2021-0187) | KE | freigegeben mit Auflagen | 2021-09-28 | 2021-10-04 | 2026-10-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Xylene (isomer mixture), technical grade (PS-2021-0188) | BR | freigegeben mit Auflagen | 2021-05-18 | 2021-05-24 | 2026-05-25 | Gilt nur für Lieferung über den registrierten Importeur |
+| Xylene (isomer mixture), technical grade (PS-2021-0188) | EU | freigegeben | 2021-05-18 | 2021-05-31 | - | - |
+| Xylene (isomer mixture), technical grade (PS-2021-0188) | KE | freigegeben mit Auflagen | 2021-05-18 | 2021-06-04 | 2026-06-04 | Gilt nur für Lieferung über den registrierten Importeur |
+| n-Butyl acrylate, technical grade (PS-2021-0167) | BR | freigegeben mit Auflagen | 2021-06-23 | 2021-07-08 | 2026-07-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| n-Butyl acrylate, technical grade (PS-2021-0167) | EU | freigegeben | 2021-06-23 | 2021-06-30 | - | - |
+| n-Butyl acrylate, technical grade (PS-2021-0167) | KE | freigegeben mit Auflagen | 2021-06-23 | 2021-06-28 | 2026-06-26 | Gilt nur für Lieferung über den registrierten Importeur |

@@ -1,0 +1,41 @@
+
+
+Business Partner Due Diligence Policy
+Konzernrichtlinie
+Document no.
+DMS-00000283
+Version
+1.1
+Valid from
+2023-07-28
+Company
+Marenthal Chemie AG
+Status
+Superseded
+Confidentiality
+Internal
+Purpose and scope
+This policy sets binding rules on “Compliance” for Marenthal Chemie AG. It applies to all employees,
+managers and, where contractually agreed, to business partners. Violations may have consequences
+under employment and criminal law.
+Obligations and responsibilities
+Geschäftspartner vor Aufnahme und wiederkehrend prüfen – Identität, Sanktionslisten, PEP und
+Negativmeldungen prüfen; Ergebnis im Compliance-System dokumentieren.
+Richtlinie
+nummer: KR-003
+titel: Richtlinie Geschäftspartnerprüfung
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2027-01-26
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.1
+sprache: en
+status: Ersetzt
+gueltig_ab: 2023-07-28
+gueltig_bis: 2025-02-10
+freigabe_datum: 2023-07-26
+aenderungsgrund: Redaktionelle Überarbeitung und Klärung der Zuständigkeiten

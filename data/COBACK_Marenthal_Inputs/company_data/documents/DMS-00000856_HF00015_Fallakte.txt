@@ -1,0 +1,35 @@
+
+
+Dossier HF00015 (confidentiel)
+Fallakte Meldestelle
+N° du document
+DMS-00000856
+Version
+1.0
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Restricted
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Hinweisfall
+eingang_datum: 2025-05-21
+kanal: Brief
+kategorie: Buchhaltung und Betrug
+sprache: fr
+schweregrad: niedrig
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 0
+kurzbeschreibung: Die Meldestelle hat einen Hinweis zu möglichen Unregelmäßigkeiten in der
+Buchhaltung und einen Betrugsverdacht erhalten. Gemeldet wurden auffällig hohe
+Spesenabrechnungen, bei denen die zugehörigen Belege unvollständig sind. Der Schweregrad wird als
+niedrig eingestuft. Betroffen ist die Gesellschaft FR. Der Sachverhalt soll im Rahmen einer internen
+Prüfung der Spesenabrechnungen und der Belegvollständigkeit aufgeklärt werden.
+bestaetigung_am: 2025-05-22
+rueckmeldung_am: 2025-08-15
+abschluss_datum: 2025-12-02
+ergebnis: nicht bestätigt

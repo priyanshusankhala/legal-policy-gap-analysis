@@ -1,0 +1,33 @@
+
+
+Supplier Technical Data Sheet Toluene, technical grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00000467
+Version
+5.1
+Valid from
+2024-09-12
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Toluene, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.87
+UN: UN1294
+Class: 3
+HS: 2902300000
+Origin: DE
+Composition
+Toluene: 99–100 %

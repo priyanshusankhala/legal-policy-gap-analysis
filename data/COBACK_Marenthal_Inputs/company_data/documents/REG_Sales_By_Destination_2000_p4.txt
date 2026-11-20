@@ -1,0 +1,65 @@
+# Register of sales by destination country and product - Marenthal France S.A.S. (part 4 of 4)
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| Spain (ES) | Marenclean B 1006 chlorine-based cleaner | MC-000028 | 5 | 16,400 KG | 18,685 EUR |
+| Spain (ES) | Marenclean C 1305 CIP cleaner | MC-000030 | 8 | 63,800 KG | 97,049 EUR |
+| Spain (ES) | Marenclean E 504 degreaser | MC-000021 | 41 | 387,250 KG | 602,599 EUR |
+| Spain (ES) | Marenclean E 537 degreaser | MC-000022 | 8 | 44,500 KG | 76,571 EUR |
+| Spain (ES) | Marenclean G 800 glass cleaner | MC-000026 | 9 | 71,400 KG | 87,746 EUR |
+| Spain (ES) | Marenclean O 1100 active oxygen cleaner (powder) | MC-000029 | 5 | 4,100 KG | 8,105 EUR |
+| Spain (ES) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 2 | 27,000 KG | 41,612 EUR |
+| Spain (ES) | Marenclean R 1402 rust remover | MC-000031 | 1 | 6,000 KG | 9,073 EUR |
+| Spain (ES) | Marenclean S 301 descaler | MC-000019 | 12 | 92,200 KG | 145,012 EUR |
+| Spain (ES) | Marenclean U 101 all-purpose cleaner | MC-000015 | 16 | 131,200 KG | 186,801 EUR |
+| Spain (ES) | Marenclean U 134 all-purpose cleaner | MC-000016 | 14 | 72,725 KG | 102,593 EUR |
+| Spain (ES) | Marenclean Z 904 citrus cleaner | MC-000027 | 14 | 59,000 KG | 158,214 EUR |
+| Spain (ES) | Marencoat AF 333 acrylic facade paint | MC-000033 | 7 | 4,525 KG | 21,171 EUR |
+| Spain (ES) | Marencoat AI 436 interior emulsion paint | MC-000034 | 12 | 18,300 KG | 83,792 EUR |
+| Spain (ES) | Marencoat AL 603 alkyd enamel | MC-000037 | 5 | 16,175 KG | 84,741 EUR |
+| Spain (ES) | Marencoat DB 1303 roof coating | MC-000044 | 4 | 8,000 KG | 32,975 EUR |
+| Spain (ES) | Marencoat DB 1333 roof coating | MC-000045 | 9 | 15,975 KG | 59,425 EUR |
+| Spain (ES) | Marencoat EK 1001 2K clear epoxy coating (component A) | MC-000042 | 1 | 900 KG | 7,284 EUR |
+| Spain (ES) | Marencoat TG 1400 penetrating primer | MC-000046 | 32 | 157,425 KG | 312,791 EUR |
+| Spain (ES) | Marencoat TG 1438 penetrating primer | MC-000047 | 14 | 126,500 KG | 201,009 EUR |
+| Spain (ES) | Marendisp 332 dispersing agent | MC-000004 | 14 | 41,050 KG | 166,478 EUR |
+| Spain (ES) | Marenemul 731 emulsifier | MC-000008 | 2 | 175 KG | 576 EUR |
+| Spain (ES) | Marenflex 906 plasticizer | MC-000010 | 21 | 46,025 KG | 217,273 EUR |
+| Spain (ES) | Marenfoam 133 defoamer | MC-000005 | 6 | 9,075 KG | 43,061 EUR |
+| Spain (ES) | Marenglide 953 lubricant additive | MC-000011 | 14 | 55,975 KG | 265,663 EUR |
+| Spain (ES) | Marenpaste 202 pigment preparation | PF-000003 | 22 | 36,075 KG | 157,305 EUR |
+| Spain (ES) | Marenpaste 237 pigment preparation | MC-000014 | 2 | 225 KG | 1,014 EUR |
+| Spain (ES) | Marensolv 108 thinner (solvent blend) | PF-000002 | 10 | 38,100 KG | 96,690 EUR |
+| Spain (ES) | Marenwet 206 wetting agent | MC-000001 | 7 | 15,700 KG | 53,022 EUR |
+| Spain (ES) | Pentaerythritol, technical grade | MC-000051 | 11 | 41,750 KG | 76,142 EUR |
+| Spain (ES) | Phosphoric acid (75 %), technical grade | MC-000065 | 12 | 99,700 KG | 101,445 EUR |
+| Spain (ES) | Sodium hydroxide (50 %), technical grade | MC-000064 | 33 | 695,200 KG | 367,195 EUR |
+| Spain (ES) | Styrene, technical grade | PF-000010 | 6 | 41,500 KG | 56,305 EUR |
+| Spain (ES) | Sulfuric acid (96 %), technical grade | MC-000060 | 5 | 272,500 KG | 31,130 EUR |
+| Spain (ES) | Titanium dioxide, technical grade | MC-000067 | 5 | 15,825 KG | 60,621 EUR |
+| Spain (ES) | Toluene, technical grade | MC-000057 | 15 | 157,600 KG | 144,652 EUR |
+| Spain (ES) | Vinyl acetate, technical grade | PF-000009 | 13 | 80,375 KG | 141,537 EUR |
+| Spain (ES) | Xylene (isomer mixture), technical grade | MC-000058 | 8 | 24,400 KG | 27,610 EUR |
+| Spain (ES) | n-Butyl acrylate, technical grade | MC-000049 | 1 | 7,500 KG | 16,073 EUR |
+| Sweden (SE) | Ethanol, technical grade | MC-000053 | 7 | 48,300 KG | 608,377 SEK |
+| Sweden (SE) | Isophorone diisocyanate, technical grade | PF-000013 | 11 | 24,275 KG | 1,457,193 SEK |
+| Sweden (SE) | Marendisp 332 dispersing agent | MC-000004 | 8 | 16,300 KG | 728,489 SEK |
+| Sweden (SE) | Marensolv 108 thinner (solvent blend) | PF-000002 | 5 | 18,100 KG | 506,570 SEK |
+| Sweden (SE) | Methanol, technical grade | MC-000063 | 7 | 195,100 KG | 1,005,496 SEK |
+| Sweden (SE) | Sulfuric acid (96 %), technical grade | MC-000060 | 4 | 629,000 KG | 811,412 SEK |
+| United States (US) | 2-Ethylhexyl acrylate, technical grade | PF-000008 | 8 | 400,000 KG | 708,400 EUR |
+| United States (US) | Acrylic acid, technical grade | PF-000011 | 5 | 540,000 KG | 943,272 EUR |
+| United States (US) | Diethylenetriamine, technical grade | PF-000015 | 8 | 192,000 KG | 481,114 EUR |
+| United States (US) | Isophorone diisocyanate, technical grade | PF-000013 | 5 | 86,000 KG | 394,009 EUR |
+| United States (US) | Maleic anhydride, technical grade | PF-000012 | 6 | 666,000 KG | 1,128,937 EUR |
+| United States (US) | Marenclean P 404 phosphoric acid cleaner | PF-000006 | 7 | 378,000 KG | 378,378 EUR |
+| United States (US) | Marenclear 406 dechlorinating agent | PF-000005 | 7 | 95,000 KG | 112,860 EUR |
+| United States (US) | Marenpaste 202 pigment preparation | PF-000003 | 8 | 104,000 KG | 237,380 EUR |
+| United States (US) | Marenphos 125 phosphating solution | PF-000004 | 4 | 18,300 KG | 32,711 EUR |
+| United States (US) | Marensolv 108 thinner (solvent blend) | PF-000002 | 8 | 661,000 KG | 1,260,064 EUR |
+| United States (US) | Styrene, technical grade | PF-000010 | 6 | 43,700 KG | 49,801 EUR |
+| United States (US) | Vinyl acetate, technical grade | PF-000009 | 7 | 179,000 KG | 265,211 EUR |

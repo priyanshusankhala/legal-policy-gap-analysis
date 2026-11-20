@@ -1,0 +1,28 @@
+# Register of material batches by country of origin - Marenthal France S.A.S. (part 2 of 2)
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Company | Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- | --- |
+| Marenthal France S.A.S. | Styrene-acrylate copolymer dispersion | MP-000011 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | Styrene-acrylate copolymer dispersion | MP-000011 | France (FR) | 12 |
+| Marenthal France S.A.S. | Sulfuric acid (96 %), technical grade | MC-000060 | Germany (DE) | 31 |
+| Marenthal France S.A.S. | Titanium dioxide, technical grade | MC-000067 | China (CN) | 5 |
+| Marenthal France S.A.S. | Toluene | MP-000006 | Belgium (BE) | 12 |
+| Marenthal France S.A.S. | Toluene | MP-000006 | France (FR) | 1 |
+| Marenthal France S.A.S. | Toluene, technical grade | MC-000057 | Germany (DE) | 8 |
+| Marenthal France S.A.S. | Triethylamine | MP-000028 | France (FR) | 1 |
+| Marenthal France S.A.S. | Triethylamine, technical grade | PF-000014 | France (FR) | 1 |
+| Marenthal France S.A.S. | Vinyl acetate | MP-000023 | France (FR) | 10 |
+| Marenthal France S.A.S. | Vinyl acetate | MP-000023 | Germany (DE) | 1 |
+| Marenthal France S.A.S. | Vinyl acetate | MP-000023 | Netherlands (NL) | 2 |
+| Marenthal France S.A.S. | Vinyl acetate, technical grade | PF-000009 | France (FR) | 16 |
+| Marenthal France S.A.S. | Water (demineralised) | MP-000001 | China (CN) | 1 |
+| Marenthal France S.A.S. | Water (demineralised) | MP-000001 | Netherlands (NL) | 12 |
+| Marenthal France S.A.S. | Xylene (isomer mixture), technical grade | MC-000058 | Germany (DE) | 9 |
+| Marenthal France S.A.S. | Zinc oxide | MP-000014 | Austria (AT) | 1 |
+| Marenthal France S.A.S. | Zinc oxide | MP-000014 | Belgium (BE) | 1 |
+| Marenthal France S.A.S. | Zinc oxide | MP-000014 | France (FR) | 11 |
+| Marenthal France S.A.S. | n-Butyl acrylate, technical grade | MC-000049 | Germany (DE) | 8 |

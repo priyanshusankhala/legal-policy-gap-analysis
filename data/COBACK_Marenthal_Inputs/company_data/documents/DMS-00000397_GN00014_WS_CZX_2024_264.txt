@@ -1,0 +1,22 @@
+排污许可证 (污水) – WS-CZX-2024/264
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000397
+版本: 1.0
+生效日期: 2024-05-08
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 排污许可证 (污水)
+nummer: WS-CZX-2024/264
+behoerde: 常州市生态环境局
+erteilt_am: 2024-05-08
+gueltig_bis: 2034-05-08
+status: gültig
+auflagen: Grenzwerte für pH, CSB und Schwermetalle; monatliche Selbstüberwachung.

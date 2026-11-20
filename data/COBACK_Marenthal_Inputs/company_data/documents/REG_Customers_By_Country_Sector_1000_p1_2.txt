@@ -1,0 +1,128 @@
+# Register of customers by country and sector - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- |
+| Austria (AT) | Automobilzulieferer | Industrie | 2 |
+| Austria (AT) | Bauchemie und Baustoffe | Industrie | 2 |
+| Austria (AT) | Chemiehandel | Distributor | 1 |
+| Austria (AT) | Farben und Lacke | Industrie | 1 |
+| Austria (AT) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Austria (AT) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Austria (AT) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Austria (AT) | Metall- und Oberflächentechnik | Industrie | 3 |
+| Brazil (BR) | Chemiehandel | Distributor | 1 |
+| Brazil (BR) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Brazil (BR) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Bulgaria (BG) | Automobilzulieferer | Industrie | 1 |
+| Bulgaria (BG) | Bauchemie und Baustoffe | Industrie | 2 |
+| Bulgaria (BG) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| China (CN) | Automobilzulieferer | Industrie | 1 |
+| China (CN) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| China (CN) | Farben und Lacke | Industrie | 2 |
+| China (CN) | Maschinen- und Anlagenbau | Industrie | 1 |
+| China (CN) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Croatia (HR) | Bauchemie und Baustoffe | Industrie | 1 |
+| Croatia (HR) | Farben und Lacke | Industrie | 1 |
+| Croatia (HR) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Cyprus (CY) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Cyprus (CY) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Cyprus (CY) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Czechia (CZ) | Automobilzulieferer | Industrie | 1 |
+| Czechia (CZ) | Chemiehandel | Distributor | 1 |
+| Czechia (CZ) | Farben und Lacke | Industrie | 1 |
+| Czechia (CZ) | Kunststoffverarbeitung | Industrie | 2 |
+| Czechia (CZ) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Czechia (CZ) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Czechia (CZ) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Denmark (DK) | Bauchemie und Baustoffe | Industrie | 1 |
+| Denmark (DK) | Chemiehandel | Distributor | 1 |
+| Denmark (DK) | Farben und Lacke | Industrie | 1 |
+| Denmark (DK) | Kunststoffverarbeitung | Industrie | 2 |
+| Denmark (DK) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Denmark (DK) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Denmark (DK) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Estonia (EE) | Automobilzulieferer | Industrie | 1 |
+| Estonia (EE) | Farben und Lacke | Industrie | 1 |
+| Estonia (EE) | Kunststoffverarbeitung | Industrie | 1 |
+| Finland (FI) | Chemiehandel | Distributor | 2 |
+| Finland (FI) | Farben und Lacke | Industrie | 1 |
+| Finland (FI) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Finland (FI) | Kunststoffverarbeitung | Industrie | 1 |
+| Finland (FI) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Finland (FI) | Textil- und Papierindustrie | Industrie | 1 |
+| Finland (FI) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| France (FR) | Automobilzulieferer | Industrie | 1 |
+| France (FR) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| France (FR) | Maschinen- und Anlagenbau | Industrie | 1 |
+| France (FR) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Germany (DE) | Automobilzulieferer | Industrie | 5 |
+| Germany (DE) | Bauchemie und Baustoffe | Industrie | 7 |
+| Germany (DE) | Chemiehandel | Distributor | 7 |
+| Germany (DE) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Germany (DE) | Farben und Lacke | Industrie | 15 |
+| Germany (DE) | Gebäudereinigung und Hygiene | Endkunde | 7 |
+| Germany (DE) | Kunststoffverarbeitung | Industrie | 7 |
+| Germany (DE) | Lebensmittel- und Getränkeindustrie | Industrie | 4 |
+| Germany (DE) | Maschinen- und Anlagenbau | Industrie | 8 |
+| Germany (DE) | Metall- und Oberflächentechnik | Industrie | 16 |
+| Germany (DE) | Textil- und Papierindustrie | Industrie | 5 |
+| Germany (DE) | Wasseraufbereitung und Umwelttechnik | Industrie | 5 |
+| Greece (GR) | Bauchemie und Baustoffe | Industrie | 1 |
+| Greece (GR) | Chemiehandel | Distributor | 1 |
+| Greece (GR) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Greece (GR) | Textil- und Papierindustrie | Industrie | 1 |
+| Greece (GR) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Hungary (HU) | Automobilzulieferer | Industrie | 2 |
+| Hungary (HU) | Bauchemie und Baustoffe | Industrie | 1 |
+| Hungary (HU) | Chemiehandel | Distributor | 1 |
+| Hungary (HU) | Farben und Lacke | Industrie | 1 |
+| Hungary (HU) | Textil- und Papierindustrie | Industrie | 1 |
+| Ireland (IE) | Automobilzulieferer | Industrie | 2 |
+| Ireland (IE) | Farben und Lacke | Industrie | 1 |
+| Ireland (IE) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Ireland (IE) | Textil- und Papierindustrie | Industrie | 1 |
+| Ireland (IE) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Italy (IT) | Bauchemie und Baustoffe | Industrie | 1 |
+| Italy (IT) | Chemiehandel | Distributor | 1 |
+| Italy (IT) | Farben und Lacke | Industrie | 1 |
+| Italy (IT) | Kunststoffverarbeitung | Industrie | 4 |
+| Italy (IT) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Kenya (KE) | Bauchemie und Baustoffe | Industrie | 1 |
+| Kenya (KE) | Chemiehandel | Distributor | 1 |
+| Kenya (KE) | Kunststoffverarbeitung | Industrie | 1 |
+| Kenya (KE) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Kenya (KE) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Latvia (LV) | Automobilzulieferer | Industrie | 1 |
+| Latvia (LV) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Latvia (LV) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Lithuania (LT) | Automobilzulieferer | Industrie | 1 |
+| Lithuania (LT) | Bauchemie und Baustoffe | Industrie | 1 |
+| Lithuania (LT) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Malta (MT) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Malta (MT) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Malta (MT) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Netherlands (NL) | Automobilzulieferer | Industrie | 2 |
+| Netherlands (NL) | Bauchemie und Baustoffe | Industrie | 1 |
+| Netherlands (NL) | Chemiehandel | Distributor | 3 |
+| Netherlands (NL) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Netherlands (NL) | Farben und Lacke | Industrie | 2 |
+| Netherlands (NL) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Netherlands (NL) | Kunststoffverarbeitung | Industrie | 2 |
+| Netherlands (NL) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Netherlands (NL) | Metall- und Oberflächentechnik | Industrie | 3 |
+| Netherlands (NL) | Textil- und Papierindustrie | Industrie | 1 |
+| Netherlands (NL) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Poland (PL) | Automobilzulieferer | Industrie | 2 |
+| Poland (PL) | Bauchemie und Baustoffe | Industrie | 4 |
+| Poland (PL) | Chemiehandel | Distributor | 4 |
+| Poland (PL) | Farben und Lacke | Industrie | 4 |
+| Poland (PL) | Gebäudereinigung und Hygiene | Endkunde | 2 |
+| Poland (PL) | Kunststoffverarbeitung | Industrie | 3 |
+| Poland (PL) | Maschinen- und Anlagenbau | Industrie | 3 |
+| Poland (PL) | Textil- und Papierindustrie | Industrie | 1 |
+| Portugal (PT) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Romania (RO) | Bauchemie und Baustoffe | Industrie | 1 |

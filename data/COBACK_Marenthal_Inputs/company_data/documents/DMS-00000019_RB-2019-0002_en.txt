@@ -1,0 +1,55 @@
+
+
+Rebate Agreement RB-2019-0002 – Jabłońska Handel
+chemiczny S.A.
+Bonusvereinbarung
+Document no.
+DMS-00000019
+Version
+1.0
+Valid from
+2019-03-21
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RB-2019-0002
+type: Rebate Agreement
+status: Active
+start_date: 2019-03-21
+end_date: 2026-03-20
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 105.89
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-02-27
+governing_law: German law
+Account
+name: Jabłońska Handel chemiczny S.A.
+type: Distributor
+billing_street: ul. Fabryczna 26
+billing_city: Kraków
+billing_postcode: 30-799
+billing_country: PL
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.jablonska-handel.pl
+created_date: 2015-11-09
+last_modified_date: 2025-07-08
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-05-08
+cms_partner_ref: GP000376
+
+description: Distribution partner (Chemical trading), focus on Sulfuric acid (96 %), technical grade,
+Marencoat AF 309 acrylic facade paint; own warehouse logistics in Poland.

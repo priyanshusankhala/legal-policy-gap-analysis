@@ -1,0 +1,39 @@
+
+
+Technical Data Sheet Marencoat RS 703 anticorrosive
+primer
+Technisches Datenblatt
+Document no.
+DMS-00000930
+Version
+5.0
+Valid from
+2025-07-18
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat RS 703 anticorrosive primer
+Family: Coatings
+Applications: Industrial coatings, OEM coatings
+Description: Korrosionsschutzgrundierung für Stahlkonstruktionen
+Hazardous: 1
+SDS available: 1
+Density: 1.139
+UN: UN1263
+Class: 3
+HS: 3208909100
+Origin: DE
+Composition
+Hydrocarbon solvent (hydrotreated heavy naphtha): 41.4–50.6 %
+Iron(III) oxide: 16.3–19.9 %
+Linseed oil: 14.2–17.4 %
+Zinc phosphate: 8.6–10.5 %
+Talc: 6.4–7.8 %
+Rosin (colophony): 3–4 %

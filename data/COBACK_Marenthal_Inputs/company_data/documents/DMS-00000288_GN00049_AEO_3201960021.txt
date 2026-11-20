@@ -1,0 +1,22 @@
+海关AEO高级认证 – AEO-3201960021
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000288
+版本: 1.0
+生效日期: 2023-07-10
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-003
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 海关AEO高级认证
+nummer: AEO-3201960021
+behoerde: 中华人民共和国海关总署
+erteilt_am: 2023-07-10
+gueltig_bis: 2026-07-10
+status: gültig
+auflagen: Meldung von Veränderungen an die Behörde; Nachweis der Sicherheitsstandards.

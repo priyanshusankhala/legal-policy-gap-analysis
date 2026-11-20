@@ -1,0 +1,37 @@
+
+
+Technical Data Sheet Marencoat AL 603 alkyd enamel
+Technisches Datenblatt
+Document no.
+DMS-00000514
+Version
+6.1
+Valid from
+2024-12-23
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat AL 603 alkyd enamel
+Family: Coatings
+Applications: Industrial coatings, Wood coatings
+Description: Deckanstrich für Stahl und Holz im Innen- und Außenbereich
+Hazardous: 1
+SDS available: 1
+Density: 1.019
+UN: UN1263
+Class: 3
+HS: 3208901900
+Origin: DE
+Composition
+Hydrocarbon solvent (hydrotreated heavy naphtha): 40.1–49.1 %
+Linseed oil: 24.7–30.1 %
+Titanium dioxide: 15.6–19 %
+Rosin (colophony): 5.4–6.6 %
+Talc: 4.2–5.2 %

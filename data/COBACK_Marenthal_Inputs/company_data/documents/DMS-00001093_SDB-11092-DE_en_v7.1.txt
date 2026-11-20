@@ -1,0 +1,64 @@
+
+
+Safety Data Sheet
+3-Glycidyloxypropyltrimethoxysilane, technical grade
+Sicherheitsdatenblatt
+Document no.
+DMS-00001093
+Version
+7.1
+Valid from
+2025-09-05
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet 3-Glycidyloxypropyltrimethoxysilane, technical grade
+Product: 3-Glycidyloxypropyltrimethoxysilan, techn.
+SDS: SDB-11092-DE
+2. Hazards identification
+H: H317 H318
+3. Composition / information on ingredients
+3-Glycidyloxypropyltrimethoxysilane 2530-83-8 219-784-2 99–100 % H317 H318
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.07
+Base unit: KG
+Shelf life (months): 12
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 29310095
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+3-Glycidyloxypropyltrimethoxysilane: IECSC – nicht erforderlich
+3-Glycidyloxypropyltrimethoxysilane: REACH – Zwischenprodukt (01-2119302698-44-0013)
+3-Glycidyloxypropyltrimethoxysilane: TSCA – nicht erforderlich
+16. Other information
+7.1 · 2025-09-05

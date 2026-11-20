@@ -1,0 +1,30 @@
+# Register of gifts and invitations - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Requests to give or accept gifts and invitations, with value, occasion, whether a public official is involved, and the decision.
+
+| Date | Kind | Partner | Value | Currency | Occasion | Public official | Decision | Reason |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-15 | Geschenk gegeben | 北京科辉汽车零部件有限公司 | 482.17 | CNY | Jahresabschlussgeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-12-12 | Geschenk erhalten | 上海立诚塑料制品有限公司 | 760.77 | CNY | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-12-09 | Geschenk erhalten | 北京科辉汽车零部件有限公司 | 1114.68 | CNY | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-12-08 | Geschenk erhalten | 广州盛华塑料制品有限公司 | 371.9 | CNY | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-11-28 | Geschenk erhalten | 常州金海涂料有限公司 | 105.74 | CNY | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-11-06 | Geschenk gegeben | 常州宁远运输有限公司 | 107.15 | CNY | Jahresabschlussgeschenk | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-11-06 | Geschenk erhalten | 上海百川精细化工有限公司 | 168.4 | CNY | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-10-03 | Einladung gegeben | 常州金海涂料有限公司 | 1540.45 | CNY | Fachveranstaltung des Branchenverbands | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-09-05 | Bewirtung | 广州金海建材有限公司 | 432.04 | CNY | Fachveranstaltung des Branchenverbands | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-08-13 | Einladung gegeben | 北京安泰食品有限公司 | 886.83 | CNY | Einladung zur Werksbesichtigung | 0 | abgelehnt | Geschäftsanlass nicht erkennbar; Häufung von Zuwendungen an denselben Partner. |
+| 2025-07-17 | Geschenk gegeben | 广州博远涂料有限公司 | 620.03 | CNY | Dank für langjährige Zusammenarbeit | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-05-15 | Geschenk gegeben | 上海宁远精细化工有限公司 | 577.99 | CNY | Jubiläum des Geschäftspartners | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-05-01 | Einladung gegeben | 北京兴盛化工贸易有限公司 | 307.57 | CNY | Abendessen im Rahmen der Jahresverhandlung | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-05-01 | Einladung erhalten | 深圳嘉禾汽车零部件有限公司 | 685.3 | CNY | Einladung zur Werksbesichtigung | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-04-21 | Geschenk gegeben | 深圳达明水处理有限公司 | 318.39 | CNY | Dank für langjährige Zusammenarbeit | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-27 | Bewirtung | 广州恒泰化工贸易有限公司 | 361.13 | CNY | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-26 | Geschenk erhalten | 广州盛华涂料有限公司 | 164 | CNY | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-26 | Einladung gegeben | 常州宁远化工贸易有限公司 | 535 | CNY | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-26 | Einladung erhalten | 常州达明化工贸易有限公司 | 510.37 | CNY | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-25 | Einladung erhalten | 广州科辉涂料有限公司 | 2811.58 | CNY | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-03 | Geschenk gegeben | 深圳瑞丰信息技术有限公司 | 535.8 | CNY | Jubiläum des Geschäftspartners | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-02-27 | Geschenk gegeben | 常州宁远运输有限公司 | 129 | CNY | Jubiläum des Geschäftspartners | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |

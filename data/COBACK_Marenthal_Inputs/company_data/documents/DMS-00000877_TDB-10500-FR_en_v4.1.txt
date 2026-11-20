@@ -1,0 +1,37 @@
+
+
+Technical Data Sheet Marenclean P 404 phosphoric
+acid cleaner
+Technisches Datenblatt
+Document no.
+DMS-00000877
+Version
+4.1
+Valid from
+2025-06-30
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean P 404 phosphoric acid cleaner
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Equipment cleaning
+Description: Entfernung von Zementschleiern und Kalk
+Hazardous: 1
+SDS available: 1
+Density: 1.083
+UN: UN3264
+Class: 8
+HS: 3402909000
+Origin: FR
+Composition
+Water (demineralised): 67.5–82.5 %
+Phosphoric acid (75 %): 19.4–23.7 %
+2-Butoxyethanol: 1.9–2.9 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 0.6–1.6 %

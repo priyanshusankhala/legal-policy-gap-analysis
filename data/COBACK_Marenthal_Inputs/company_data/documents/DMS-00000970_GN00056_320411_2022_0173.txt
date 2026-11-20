@@ -1,0 +1,22 @@
+危险化学品登记证 – 320411-2022-0173
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000970
+版本: 1.0
+生效日期: 2025-07-04
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 危险化学品登记证
+nummer: 320411-2022-0173
+behoerde: 应急管理部门化学品登记中心
+erteilt_am: 2025-07-04
+gueltig_bis: 2028-07-20
+status: gültig
+auflagen: Registrierte Gefahrchemikalien: siehe Anlage; jährliche Aktualisierung.

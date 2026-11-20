@@ -1,0 +1,55 @@
+
+
+Bonusvereinbarung RB-2019-0003 – Donau
+Chemiehandel GmbH
+Bonusvereinbarung
+Dokumentnummer
+DMS-00000020
+Version
+1.0
+Gültig ab
+2019-04-12
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RB-2019-0003
+type: Rebate Agreement
+status: Active
+start_date: 2019-04-12
+end_date: 2026-04-11
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 329.56
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-03-26
+governing_law: German law
+Account
+name: Donau Chemiehandel GmbH
+type: Distributor
+billing_street: Industriestraße 85
+billing_city: Wien
+billing_postcode: 1081
+billing_country: AT
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.donau-chemiehandel.at
+created_date: 2009-04-23
+last_modified_date: 2024-09-04
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-08-12
+cms_partner_ref: GP000215
+
+description: Vertriebspartner (Chemiehandel), Schwerpunkt Marencoat RS 703 Rostschutzgrund,
+Diethylentriamin, techn.; eigene Lagerlogistik in Österreich.

@@ -1,0 +1,87 @@
+
+
+Supply Agreement RV-2023-0054 – Simpson & Coleman
+Chemical Distribution Inc.
+Liefervertrag
+Document no.
+DMS-00000255
+Version
+1.0
+Valid from
+2023-05-17
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2023-0054
+type: Supply Agreement
+status: Active
+start_date: 2023-05-17
+end_date: 2028-05-16
+auto_renew: 0
+notice_period_days: 90
+currency: USD
+committed_volume_t: 98.97
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2023-05-09
+governing_law: State of Texas
+payment_terms: Z060
+incoterm: CPT
+Terms
+Marendisp 332 dispersing agent: 441.12 USD/100 kg
+Marencoat AF 309 acrylic facade paint: 441.67 USD/100 kg
+Marencoat RS 703 anticorrosive primer: 548.96 USD/100 kg
+Marencoat EP 806 2K epoxy primer (component A): 891.23 USD/100 kg
+Marencoat TG 1400 penetrating primer: 229.32 USD/100 kg
+Diethylenetriamine, technical grade: 2885.69 USD/1000 kg
+Butyl acetate, technical grade: 1693.03 USD/1000 kg
+Sodium hydroxide (50 %), technical grade: 561.38 USD/1000 kg
+Account
+name: Simpson & Coleman Chemical Distribution Inc.
+type: Distributor
+billing_street: 214 Park Avenue
+billing_city: Atlanta
+billing_postcode: 30344
+billing_country: US
+industry: Chemical trading
+
+segment: Distribution
+size_class: Key Account
+status: Active
+website: www.simpsonchemical.com
+created_date: 1997-06-14
+last_modified_date: 2024-07-08
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Chemical trading in United States; distributes Marenthal products (Sodium hydroxide (50
+%), technical grade, Marendisp 332 dispersing agent) to industry and trade.
+Rahmenvertragsnummer
+contract_number: RV-2023-0054
+type: Supply Agreement
+status: Active
+start_date: 2023-05-17
+end_date: 2028-05-16
+auto_renew: 0
+notice_period_days: 90
+currency: USD
+committed_volume_t: 98.97
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2023-05-09
+governing_law: State of Texas
+payment_terms: Z060
+incoterm: CPT
+Terms
+Marendisp 332 dispersing agent: 441.12 USD/100 kg
+Marencoat AF 309 acrylic facade paint: 441.67 USD/100 kg
+Marencoat RS 703 anticorrosive primer: 548.96 USD/100 kg
+Marencoat EP 806 2K epoxy primer (component A): 891.23 USD/100 kg
+Marencoat TG 1400 penetrating primer: 229.32 USD/100 kg
+Diethylenetriamine, technical grade: 2885.69 USD/1000 kg
+Butyl acetate, technical grade: 1693.03 USD/1000 kg
+Sodium hydroxide (50 %), technical grade: 561.38 USD/1000 kg

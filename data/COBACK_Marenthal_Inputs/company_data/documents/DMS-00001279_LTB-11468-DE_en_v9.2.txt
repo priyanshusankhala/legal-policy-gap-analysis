@@ -1,0 +1,34 @@
+
+
+Supplier Technical Data Sheet Methyl ethyl ketone,
+technical grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00001279
+Version
+9.2
+Valid from
+2025-11-03
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Methyl ethyl ketone, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.805
+UN: UN1193
+Class: 3
+HS: 2914120000
+Origin: NL
+Composition
+Methyl ethyl ketone: 99–100 %

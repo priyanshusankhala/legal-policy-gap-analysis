@@ -1,0 +1,29 @@
+
+
+NC DEQ Permit – No. 09876
+Genehmigung oder Zertifikat
+Document no.
+DMS-00000003
+Version
+1.0
+Valid from
+2008-10-28
+Company
+Marenthal Chemicals Inc.
+Site
+US01-002
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: NC DEQ Permit
+nummer: No. 09876
+behoerde: North Carolina Department of Environmental Quality
+erteilt_am: 2008-10-28
+status: gültig
+auflagen: Auflagen zu Emissionen, Messungen und Betriebstagebuch gemäß Bescheid; jährliche
+Berichte an die Behörde.

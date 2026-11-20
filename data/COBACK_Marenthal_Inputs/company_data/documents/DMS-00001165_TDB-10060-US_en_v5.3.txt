@@ -1,0 +1,35 @@
+
+
+Technical Data Sheet Marendisp 305 dispersing agent
+Technisches Datenblatt
+Document no.
+DMS-00001165
+Version
+5.3
+Valid from
+2025-09-30
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marendisp 305 dispersing agent
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Surfactant systems
+Description: Dispergierung von Pigmenten und Füllstoffen in wässrigen Beschichtungen
+Hazardous: 0
+SDS available: 1
+Density: 1.019
+HS: 3906909000
+Origin: US
+Composition
+Water (demineralised): 56.4–68.9 %
+Styrene-acrylate copolymer dispersion: 28.5–34.9 %
+Propylene glycol: 2.6–3.6 %
+Triethanolamine: 2–3 %
+1,2-Benzisothiazolin-3-one: 0.04–0.12 %

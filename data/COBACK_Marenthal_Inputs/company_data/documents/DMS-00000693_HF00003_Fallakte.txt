@@ -1,0 +1,26 @@
+案件档案 HF00003（机密）
+Fallakte Meldestelle
+
+文件编号: DMS-00000693
+版本: 1.0
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Restricted
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Hinweisfall
+eingang_datum: 2025-03-12
+kanal: Webformular
+kategorie: Diskriminierung oder Belästigung
+sprache: zh
+schweregrad: hoch
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 1
+kurzbeschreibung: Ein Hinweis ging bei der Meldestelle der Gesellschaft CN ein und betrifft Diskriminierung bzw. Belästigung mit hohem Schweregrad. Gemeldet werden herabsetzende Bemerkungen eines Vorgesetzten gegenüber Mitgliedern seines Teams. Die Vorwürfe betreffen wiederholte abwertende Äußerungen, die von mehreren betroffenen Beschäftigten geschildert wurden. Der Fall wird nach internen Richtlinien geprüft, Betroffene erhalten Schutz vor Benachteiligung, und die weitere Sachverhaltsaufklärung ist eingeleitet.
+bestaetigung_am: 2025-03-17
+rueckmeldung_am: 2025-04-17
+abschluss_datum: 2025-07-31
+ergebnis: bestätigt

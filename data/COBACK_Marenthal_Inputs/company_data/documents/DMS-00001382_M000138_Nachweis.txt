@@ -1,0 +1,31 @@
+
+
+Umsetzungsnachweis: Auditfeststellung beheben:
+Geschäftspartnerprüfung: Wiederholungsprüfung bei
+mehreren Partnern überfällig.
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00001382
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals Inc.
+Standort
+US01-003
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Auditfeststellung beheben: Geschäftspartnerprüfung: Wiederholungsprüfung bei mehreren
+Partnern überfällig.
+beschreibung: Geschäftspartnerprüfung: Wiederholungsprüfung bei mehreren Partnern überfällig.
+quelle_typ: Audit
+prioritaet: mittel
+status: erledigt
+frist: 2026-01-07
+abgeschlossen_am: 2025-12-04
+bemerkung: Wirksamkeit bei der nächsten Kontrolle zu prüfen.

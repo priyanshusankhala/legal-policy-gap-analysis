@@ -1,0 +1,41 @@
+
+
+Audit Report: Internal Audit Compliance – Marenthal
+Chemicals Inc.
+Auditbericht
+Document no.
+DMS-00001220
+Version
+1.0
+Valid from
+2025-10-02
+Company
+Marenthal Chemicals Inc.
+Site
+US01-003
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Audit
+titel: Internal Audit Compliance – Marenthal Chemicals Inc.
+art: intern
+scope: FCPA, Export Controls, Hotline
+geplant_von: 2025-09-09
+geplant_bis: 2025-09-11
+durchgefuehrt_von: 2025-09-09
+durchgefuehrt_bis: 2025-09-11
+leitender_auditor: John Davis
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Findings
+1 [Empfehlung] Risikobewertung wurde seit mehr als zwölf Monaten nicht aktualisiert. (geschlossen)
+2 [Hinweis] Aufbewahrung der Untersuchungsunterlagen entspricht nicht der Zugriffsvorgabe.
+(geschlossen)
+3 [Nebenabweichung] Geschäftspartnerprüfung: Wiederholungsprüfung bei mehreren Partnern
+überfällig. (geschlossen)
+4 [Nebenabweichung] Schulungsquote Antikorruption unter dem Zielwert von 95 Prozent. (geschlossen)
+5 [Empfehlung] Genehmigung einer Einladung wurde erst nach dem Termin dokumentiert. (offen)

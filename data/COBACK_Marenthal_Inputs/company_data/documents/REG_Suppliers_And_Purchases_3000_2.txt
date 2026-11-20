@@ -1,0 +1,53 @@
+# Register of suppliers and purchases - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+Each supplier with country, group, status, number of purchase order lines, purchase value, the main materials bought and the country of origin of the goods. Contact persons are not named.
+
+| Company | Supplier | Supplier country | Group | Status | Type | Order lines | Purchase value | Main materials | Origin of goods (lines) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals Inc. | Atlantic Software Inc. | United States (US) | Dienstleistung | blocked | external | 6 | 99,993 USD | - |  6 |
+| Marenthal Chemicals Inc. | Atlantic Specialty Chemicals LLC | United States (US) | Rohstoff | blocked | external | 20 | 366,302 USD | Propylene glycol, Iron(III) oxide, Aluminium hydroxide, 2-Phenoxyethanol | US 20 |
+| Marenthal Chemicals Inc. | Black & Lawrence Facility Services Inc. | United States (US) | Dienstleistung | blocked | external | 44 | 436,383 USD | - |  44 |
+| Marenthal Chemicals Inc. | Carolina Industrial Containers Corp. | United States (US) | Verpackung | blocked | external | 67 | 4,315,223 USD | IBC container 1000 L, Plastic drum 200 L, Paper bag 25 kg, GHS label set | US 67 |
+| Marenthal Chemicals Inc. | Carolina Petrochemicals Inc. | United States (US) | Rohstoff | blocked | external | 251 | 8,519,778 USD | Calcium carbonate, 2-Phenoxyethanol, Tetrasodium EDTA, Phosphoric acid (75 %) | US 251 |
+| Marenthal Chemicals Inc. | Carroll & Weaver Chemical Trading Inc. | United States (US) | Handelsware | blocked | external | 12 | 10,909,604 USD | Phosphoric acid (75 %), technical grade, Ethyl acetate, technical grade, Ethanol, technical grade | US 10, NL 1, BE 1 |
+| Marenthal Chemicals Inc. | Clark Specialty Chemicals LLC | United States (US) | Rohstoff | blocked | external | 5 | 88,049 USD | Water (demineralised), Polydimethylsiloxane, 2-Butoxyethanol, Phosphoric acid (75 %) | US 5 |
+| Marenthal Chemicals Inc. | Collins Chemical Trading Inc. | United States (US) | Handelsware | blocked | external | 9 | 6,139,402 USD | Methanol, technical grade | US 9 |
+| Marenthal Chemicals Inc. | Edwards Energy Services LLC | United States (US) | MRO | blocked | external | 48 | 2,887,100 USD | - |  48 |
+| Marenthal Chemicals Inc. | Empire Freight Inc. | United States (US) | Logistik | blocked | external | 14 | 90,740 USD | - |  14 |
+| Marenthal Chemicals Inc. | Empire Packaging LLC | United States (US) | Verpackung | blocked | external | 2 | 115,907 USD | EUR pallet, Paper bag 25 kg | US 2 |
+| Marenthal Chemicals Inc. | Empire Software Corp. | United States (US) | Dienstleistung | blocked | external | 30 | 243,967 USD | - |  30 |
+| Marenthal Chemicals Inc. | Franklin Insurance Brokers Inc. | United States (US) | Dienstleistung | blocked | external | 45 | 356,356 USD | - |  45 |
+| Marenthal Chemicals Inc. | Great Lakes Advisory Inc. | United States (US) | Dienstleistung | blocked | external | 21 | 220,746 USD | - |  21 |
+| Marenthal Chemicals Inc. | Great Lakes Chemical Supply LLC | United States (US) | Handelsware | blocked | external | 50 | 17,946,755 USD | Sodium hydroxide (50 %), technical grade, Methyl ethyl ketone, technical grade, Isopropanol, technical grade, Ethyl acetate, technical grade | NL 24, BE 16, US 10 |
+| Marenthal Chemicals Inc. | Griffin & Grant Testing Laboratories Inc. | United States (US) | Dienstleistung | blocked | external | 49 | 526,001 USD | - |  49 |
+| Marenthal Chemicals Inc. | Gulf Coast Chemicals Inc. | United States (US) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemicals Inc. | Harris Freight Co. | United States (US) | Logistik | blocked | external | 15 | 100,832 USD | - |  15 |
+| Marenthal Chemicals Inc. | Hart Specialty Chemicals Inc. | United States (US) | Rohstoff | blocked | external | 4 | 167,332 USD | Sodium carbonate, Titanium dioxide, Aluminium hydroxide, Rosin (colophony) | US 4 |
+| Marenthal Chemicals Inc. | Hicks Engineering Corp. | United States (US) | MRO | blocked | external | 321 | 1,340,408 USD | , Filter cartridge 5 µm, Seal kit centrifugal pump, Activated carbon filter A2 |  291, US 30 |
+| Marenthal Chemicals Inc. | Johnson Energy Services Inc. | United States (US) | MRO | blocked | external | 67 | 4,199,802 USD | - |  67 |
+| Marenthal Chemicals Inc. | King IT Solutions Inc. | United States (US) | Dienstleistung | blocked | external | 10 | 119,349 USD | - |  10 |
+| Marenthal Chemicals Inc. | Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Konzern | blocked | intra-group | 54 | 46,726,035 CNY | Calcium carbonate, technical grade, Marenclean G 800 glass cleaner, Marenclean E 504 degreaser, Marenwet 237 wetting agent | CN 54 |
+| Marenthal Chemicals Inc. | Marenthal Chemie AG | Germany (DE) | Konzern | blocked | intra-group | 221 | 18,834,407 EUR | Hydrochloric acid (33 %), technical grade, Marenthix 409 thickener, Marenfoam 133 defoamer, Marenflex 906 plasticizer | DE 221 |
+| Marenthal Chemicals Inc. | Marenthal France S.A.S. | France (FR) | Konzern | blocked | intra-group | 79 | 5,992,136 EUR | Marenpaste 202 pigment preparation, Diethylenetriamine, technical grade, 2-Ethylhexyl acrylate, technical grade, Marensolv 108 thinner (solvent blend) | FR 79 |
+| Marenthal Chemicals Inc. | Marshall Chemical Trading Corp. | United States (US) | Handelsware | blocked | external | 3 | 337,023 USD | Acetic acid, technical grade, Ethanol, technical grade | NL 2, BE 1 |
+| Marenthal Chemicals Inc. | Martinez Petrochemicals Inc. | United States (US) | Rohstoff | blocked | external | 107 | 4,233,802 USD | Paraffin wax, Calcium stearate, Fatty alcohol ethoxylate (C12-14, 6 EO), Triethanolamine | US 107 |
+| Marenthal Chemicals Inc. | Matthews Freight Inc. | United States (US) | Logistik | blocked | external | 18 | 124,738 USD | - |  18 |
+| Marenthal Chemicals Inc. | Pacific Industrial Services Inc. | United States (US) | MRO | blocked | external | 258 | 1,180,057 USD | , Filter cartridge 5 µm |  257, US 1 |
+| Marenthal Chemicals Inc. | Patterson Packaging Inc. | United States (US) | Verpackung | blocked | external | 3 | 278,375 USD | EUR pallet, Tamper-evident closure, Pail 20 L with lid | US 3 |
+| Marenthal Chemicals Inc. | Peachtree Logistics LLC | United States (US) | Logistik | blocked | external | 17 | 133,943 USD | - |  17 |
+| Marenthal Chemicals Inc. | Riley Industrial Services LLC | United States (US) | MRO | blocked | external | 249 | 1,130,909 USD | - |  249 |
+| Marenthal Chemicals Inc. | Rodriguez Chemicals Corp. | United States (US) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemicals Inc. | Rogers Advisory Inc. | United States (US) | Dienstleistung | blocked | external | 17 | 196,295 USD | - |  17 |
+| Marenthal Chemicals Inc. | Ross Industrial Containers LLC | United States (US) | Verpackung | blocked | external | 0 | - | - | - |
+| Marenthal Chemicals Inc. | Sanchez Tank Transport LLC | United States (US) | Logistik | blocked | external | 16 | 120,252 USD | - |  16 |
+| Marenthal Chemicals Inc. | SoCal Systems LLC | United States (US) | Dienstleistung | blocked | external | 25 | 203,540 USD | - |  25 |
+| Marenthal Chemicals Inc. | Southeastern Chemicals LLC | United States (US) | Rohstoff | blocked | external | 34 | 657,367 USD | Hydroxyethyl cellulose, Rosin (colophony), Sodium sulfate, Sodium dodecyl sulfate | US 34 |
+| Marenthal Chemicals Inc. | Southeastern Engineering LLC | United States (US) | MRO | blocked | external | 0 | - | - | - |
+| Marenthal Chemicals Inc. | Southeastern Testing Laboratories Co. | United States (US) | Dienstleistung | blocked | external | 28 | 271,479 USD | - |  28 |
+| Marenthal Chemicals Inc. | Thompson Tank Transport Inc. | United States (US) | Logistik | blocked | external | 11 | 100,820 USD | - |  11 |
+| Marenthal Chemicals Inc. | Wallace Systems Inc. | United States (US) | Dienstleistung | blocked | external | 23 | 254,313 USD | - |  23 |
+| Marenthal Chemicals Inc. | Williams Advisory Corp. | United States (US) | Dienstleistung | blocked | external | 22 | 254,541 USD | - |  22 |
+| Marenthal Chemicals Inc. | Wilson Consulting LLC | United States (US) | Dienstleistung | blocked | external | 21 | 161,301 USD | - |  21 |
+| Marenthal Chemicals Inc. | Wood Industrial Services LLC | United States (US) | MRO | blocked | external | 0 | - | - | - |

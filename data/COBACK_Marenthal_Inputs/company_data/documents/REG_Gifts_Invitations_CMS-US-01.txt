@@ -1,0 +1,41 @@
+# Register of gifts and invitations - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). As of 2026-11-09.
+
+Requests to give or accept gifts and invitations, with value, occasion, whether a public official is involved, and the decision.
+
+| Date | Kind | Partner | Value | Currency | Occasion | Public official | Decision | Reason |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-19 | Geschenk gegeben | Gomez Building Products LLC | 16.17 | USD | Jahresabschlussgeschenk | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-12-19 | Geschenk erhalten | Snyder Textiles Co. | 46.44 | USD | Jahresabschlussgeschenk | 0 | in Prüfung | - |
+| 2025-12-08 | Geschenk gegeben | Hart Specialty Chemicals LLC | 107.27 | USD | Jahresabschlussgeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-11-18 | Geschenk erhalten | Gulf Coast Chemicals Inc. | 20.97 | USD | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-11-13 | Geschenk gegeben | Wilson Paper Corp. | 45.29 | USD | Jahresabschlussgeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-11-13 | Einladung erhalten | Simpson & Coleman Chemical Distribution LLC | 48.85 | USD | Fachveranstaltung des Branchenverbands | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-11-13 | Bewirtung | Southeastern Testing Laboratories Co. | 117.9 | USD | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-11-10 | Geschenk erhalten | Edwards Energy Services LLC | 47.04 | USD | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-10-28 | Geschenk gegeben | Pacific Water Treatment LLC | 19.26 | USD | Jubiläum des Geschäftspartners | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-09-29 | Bewirtung | Riley Industrial Services LLC | 618.52 | USD | Einladung zur Werksbesichtigung | 0 | abgelehnt | Wert (618.52 USD) übersteigt die Wertgrenze von 165.00 USD; kein ausreichender Geschäftsanlass. |
+| 2025-08-18 | Geschenk gegeben | Rogers & Kim Building Products Inc. | 22.01 | USD | Jubiläum des Geschäftspartners | 0 | abgelehnt | Geschäftsanlass nicht erkennbar; Häufung von Zuwendungen an denselben Partner. |
+| 2025-08-18 | Geschenk gegeben | Pacific Industrial Services Inc. | 49.58 | USD | Jubiläum des Geschäftspartners | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-08-15 | Geschenk erhalten | Pacific Coatings Inc. | 87.76 | USD | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-07-25 | Einladung gegeben | Kim Water Treatment Inc. | 759.77 | USD | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-06-23 | Geschenk erhalten | Gibson & Sanchez Cleaning Services LLC | 16.88 | USD | Dank für langjährige Zusammenarbeit | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-06-11 | Einladung erhalten | Rodriguez Chemicals Corp. | 177.65 | USD | Einladung zur Werksbesichtigung | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-05-06 | Bewirtung | Johnson Energy Services Inc. | 96.08 | USD | Fachveranstaltung des Branchenverbands | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-04-24 | Bewirtung | Alexander Plastics LLC | 235.94 | USD | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-27 | Geschenk gegeben | Piedmont Automotive Components Corp. | 43.86 | USD | Messegeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-27 | Geschenk erhalten | Dixon & Alexander Machinery Inc. | 29.02 | USD | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-27 | Einladung gegeben | Piedmont Electronics LLC | 164.23 | USD | Messeabend (European Coatings Show) | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-03-27 | Einladung gegeben | Hall Metal Finishing Inc. | 88.47 | USD | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-26 | Geschenk gegeben | Collins Chemical Trading Inc. | 74.43 | USD | Messegeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-26 | Geschenk erhalten | Southeastern Testing Laboratories Co. | 35.3 | USD | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-26 | Einladung gegeben | Johnson Energy Services Inc. | 464.29 | USD | Messeabend (European Coatings Show) | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-26 | Einladung erhalten | Gulf Coast Chemicals Inc. | 172.7 | USD | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-26 | Einladung erhalten | Black & Lawrence Facility Services Inc. | 89.29 | USD | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-25 | Geschenk erhalten | Midwest Paints Inc. | 39.75 | USD | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-25 | Einladung gegeben | Empire Industrial Systems LLC | 298.97 | USD | Messeabend (European Coatings Show) | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-05 | Einladung gegeben | Hicks & Harris Water Treatment Corp. | 151.91 | USD | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-05 | Einladung gegeben | Empire Packaging LLC | 202.54 | USD | Fachveranstaltung des Branchenverbands | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-01-29 | Bewirtung | Piedmont Automotive Components Corp. | 158.28 | USD | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-01-20 | Einladung gegeben | Empire Freight Inc. | 97.44 | USD | Kundenevent | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |

@@ -1,0 +1,32 @@
+
+
+Product Specification Sheet Neopentyl glycol, technical
+grade
+Spezifikationsblatt
+Document no.
+DMS-00001232
+Version
+5.1
+Valid from
+2025-10-17
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Neopentyl glycol, technical grade
+Family: Intermediates
+Applications: Polymer intermediates, Compounding
+Description: Zwischenprodukt für Synthese und Formulierung (Polyolkomponente)
+Hazardous: 0
+SDS available: 1
+Density: 1.06
+HS: 29053980
+Origin: DE
+Composition
+Neopentyl glycol: 99–100 %

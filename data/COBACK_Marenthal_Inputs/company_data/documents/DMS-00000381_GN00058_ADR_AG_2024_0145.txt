@@ -1,0 +1,30 @@
+
+
+Ausnahmegenehmigung ADR (Beladung
+Tankcontainer) – ADR-AG-2024-0145
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000381
+Version
+1.0
+Gültig ab
+2024-04-03
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-002
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Ausnahmegenehmigung ADR (Beladung Tankcontainer)
+nummer: ADR-AG-2024-0145
+behoerde: Bundesanstalt für Materialforschung und -prüfung
+erteilt_am: 2024-04-03
+gueltig_bis: 2026-04-03
+status: in Verlängerung
+auflagen: Zusätzliche Sicherungsmaßnahmen beim Beladen.

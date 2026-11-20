@@ -1,0 +1,40 @@
+
+
+Code of Conduct and Anti-Corruption (Fundamentals) –
+Training Material
+Schulungsunterlage
+Document no.
+DMS-00000169
+Version
+1.0
+Valid from
+2022-07-22
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Verhaltenskodex und Antikorruption (Grundlagen)
+thema: Compliance
+pflicht: 1
+zielgruppe: Alle Beschäftigten mit Büroarbeitsplatz
+sprachen: de,en,fr,zh
+dauer_min: 45
+intervall_monate: 24
+format: E-Learning
+status: aktiv
+Richtlinie
+nummer: KR-001
+titel: Verhaltenskodex
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-01
+master_sprache: de
+vertraulichkeit: öffentlich

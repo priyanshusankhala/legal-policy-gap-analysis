@@ -1,0 +1,28 @@
+
+
+Eichung Fahrzeugwaage – EW-BTF-1461
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000612
+Version
+1.0
+Gültig ab
+2025-02-07
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Eichung Fahrzeugwaage
+nummer: EW-BTF-1461
+behoerde: Landesbetrieb Mess- und Eichwesen
+erteilt_am: 2025-02-07
+gueltig_bis: 2027-02-09
+status: gültig

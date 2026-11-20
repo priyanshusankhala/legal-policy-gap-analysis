@@ -1,0 +1,29 @@
+
+
+Beschlussprotokoll Geschäftsführung: Beauftragung
+eines externen Audits des
+Compliance-Managementsystems
+Beschlussprotokoll
+Dokumentnummer
+DMS-00001350
+Version
+1.0
+Gültig ab
+2025-11-18
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Restricted
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Beschluss
+gremium: Geschäftsführung
+datum: 2025-11-18
+titel: Beauftragung eines externen Audits des Compliance-Managementsystems
+inhalt: Die Geschäftsführung beauftragt ein externes Audit des Compliance-Managementsystems in
+Anlehnung an IDW PS 980.
+status: umgesetzt
+bezug: Bericht BR00004

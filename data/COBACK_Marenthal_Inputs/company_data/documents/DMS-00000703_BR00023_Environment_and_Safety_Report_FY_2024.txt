@@ -1,0 +1,27 @@
+
+
+Environment and Safety Report FY 2024
+Bericht an Geschäftsleitung
+Document no.
+DMS-00000703
+Version
+1.0
+Valid from
+2025-03-28
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Bericht
+art: Umwelt- und Sicherheitsbericht
+zeitraum_von: 2024-01-01
+zeitraum_bis: 2024-12-31
+adressat: Geschäftsführung
+berichtsdatum: 2025-03-28
+status: Zur Kenntnis genommen
+kennzahlen: {"vorfaelle":9,"arbeitsunfaelle":1,"umweltvorfaelle":0,"vorfaelle_meldepflichtig":0}

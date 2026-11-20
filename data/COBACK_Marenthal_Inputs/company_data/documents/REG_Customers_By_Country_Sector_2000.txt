@@ -1,0 +1,82 @@
+# Register of customers by country and sector - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Company | Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- | --- |
+| Marenthal France S.A.S. | Austria (AT) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Belgium (BE) | Automobilzulieferer | Industrie | 1 |
+| Marenthal France S.A.S. | Belgium (BE) | Bauchemie und Baustoffe | Industrie | 3 |
+| Marenthal France S.A.S. | Belgium (BE) | Chemiehandel | Distributor | 1 |
+| Marenthal France S.A.S. | Belgium (BE) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Belgium (BE) | Gebäudereinigung und Hygiene | Endkunde | 2 |
+| Marenthal France S.A.S. | Belgium (BE) | Kunststoffverarbeitung | Industrie | 1 |
+| Marenthal France S.A.S. | Belgium (BE) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Belgium (BE) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Marenthal France S.A.S. | Belgium (BE) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Marenthal France S.A.S. | Belgium (BE) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Brazil (BR) | Automobilzulieferer | Industrie | 2 |
+| Marenthal France S.A.S. | Brazil (BR) | Chemiehandel | Distributor | 2 |
+| Marenthal France S.A.S. | Brazil (BR) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Brazil (BR) | Farben und Lacke | Industrie | 3 |
+| Marenthal France S.A.S. | Brazil (BR) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal France S.A.S. | Brazil (BR) | Kunststoffverarbeitung | Industrie | 2 |
+| Marenthal France S.A.S. | Brazil (BR) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Marenthal France S.A.S. | Brazil (BR) | Maschinen- und Anlagenbau | Industrie | 3 |
+| Marenthal France S.A.S. | Brazil (BR) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Marenthal France S.A.S. | Brazil (BR) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | China (CN) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal France S.A.S. | France (FR) | Automobilzulieferer | Industrie | 3 |
+| Marenthal France S.A.S. | France (FR) | Bauchemie und Baustoffe | Industrie | 5 |
+| Marenthal France S.A.S. | France (FR) | Chemiehandel | Distributor | 4 |
+| Marenthal France S.A.S. | France (FR) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | France (FR) | Farben und Lacke | Industrie | 6 |
+| Marenthal France S.A.S. | France (FR) | Gebäudereinigung und Hygiene | Endkunde | 5 |
+| Marenthal France S.A.S. | France (FR) | Kunststoffverarbeitung | Industrie | 5 |
+| Marenthal France S.A.S. | France (FR) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | France (FR) | Maschinen- und Anlagenbau | Industrie | 3 |
+| Marenthal France S.A.S. | France (FR) | Metall- und Oberflächentechnik | Industrie | 3 |
+| Marenthal France S.A.S. | France (FR) | Textil- und Papierindustrie | Industrie | 2 |
+| Marenthal France S.A.S. | Germany (DE) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal France S.A.S. | Germany (DE) | Farben und Lacke | Industrie | 1 |
+| Marenthal France S.A.S. | Germany (DE) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Italy (IT) | Automobilzulieferer | Industrie | 3 |
+| Marenthal France S.A.S. | Italy (IT) | Bauchemie und Baustoffe | Industrie | 2 |
+| Marenthal France S.A.S. | Italy (IT) | Chemiehandel | Distributor | 2 |
+| Marenthal France S.A.S. | Italy (IT) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal France S.A.S. | Italy (IT) | Farben und Lacke | Industrie | 4 |
+| Marenthal France S.A.S. | Italy (IT) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Marenthal France S.A.S. | Italy (IT) | Kunststoffverarbeitung | Industrie | 2 |
+| Marenthal France S.A.S. | Italy (IT) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Marenthal France S.A.S. | Kenya (KE) | Automobilzulieferer | Industrie | 2 |
+| Marenthal France S.A.S. | Kenya (KE) | Chemiehandel | Distributor | 1 |
+| Marenthal France S.A.S. | Kenya (KE) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal France S.A.S. | Kenya (KE) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Kenya (KE) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Kenya (KE) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Kenya (KE) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Luxembourg (LU) | Automobilzulieferer | Industrie | 1 |
+| Marenthal France S.A.S. | Luxembourg (LU) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal France S.A.S. | Luxembourg (LU) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Netherlands (NL) | Automobilzulieferer | Industrie | 1 |
+| Marenthal France S.A.S. | Netherlands (NL) | Chemiehandel | Distributor | 1 |
+| Marenthal France S.A.S. | Portugal (PT) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal France S.A.S. | Portugal (PT) | Chemiehandel | Distributor | 1 |
+| Marenthal France S.A.S. | Portugal (PT) | Kunststoffverarbeitung | Industrie | 3 |
+| Marenthal France S.A.S. | Portugal (PT) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Romania (RO) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal France S.A.S. | Spain (ES) | Automobilzulieferer | Industrie | 2 |
+| Marenthal France S.A.S. | Spain (ES) | Bauchemie und Baustoffe | Industrie | 2 |
+| Marenthal France S.A.S. | Spain (ES) | Chemiehandel | Distributor | 3 |
+| Marenthal France S.A.S. | Spain (ES) | Farben und Lacke | Industrie | 1 |
+| Marenthal France S.A.S. | Spain (ES) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Marenthal France S.A.S. | Spain (ES) | Kunststoffverarbeitung | Industrie | 2 |
+| Marenthal France S.A.S. | Spain (ES) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Spain (ES) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal France S.A.S. | Spain (ES) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Marenthal France S.A.S. | Spain (ES) | Textil- und Papierindustrie | Industrie | 1 |
+| Marenthal France S.A.S. | Spain (ES) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Marenthal France S.A.S. | Sweden (SE) | Farben und Lacke | Industrie | 1 |
+| Marenthal France S.A.S. | United States (US) | Chemie (Konzerngesellschaft) | Konzern | 1 |

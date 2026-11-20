@@ -1,0 +1,116 @@
+# Register of suppliers and purchases - Marenthal Chemie AG
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+Each supplier with country, group, status, number of purchase order lines, purchase value, the main materials bought and the country of origin of the goods. Contact persons are not named.
+
+| Company | Supplier | Supplier country | Group | Status | Type | Order lines | Purchase value | Main materials | Origin of goods (lines) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Alpen Chemiehandel SE | Germany (DE) | Handelsware | blocked | external | 20 | 15,056,481 EUR | Hydrochloric acid (33 %), technical grade, Propylene glycol, technical grade | DE 20 |
+| Marenthal Chemie AG | Alpen Logistik GmbH & Co. KG | Germany (DE) | Logistik | blocked | external | 10 | 59,939 EUR | - |  10 |
+| Marenthal Chemie AG | Amstel Tank Transport B.V. | Netherlands (NL) | Logistik | blocked | external | 19 | 137,900 EUR | - |  19 |
+| Marenthal Chemie AG | Atlantic Specialty Chemicals LLC | United States (US) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Bauer Verpackungen GmbH | Germany (DE) | Verpackung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Bayerische Chemikalienvertrieb GmbH | Germany (DE) | Handelsware | blocked | external | 10 | 4,098,947 EUR | Butyl acetate, technical grade | DE 10 |
+| Marenthal Chemie AG | Becker Transporte SE | Germany (DE) | Logistik | blocked | external | 21 | 94,277 EUR | - |  21 |
+| Marenthal Chemie AG | Bengtsson Petrochemicals AB | Sweden (SE) | Rohstoff | blocked | external | 2 | 43,734 EUR | 2-Butoxyethanol, Glycerol | SE 2 |
+| Marenthal Chemie AG | Born Logistik GmbH & Co. KG | Germany (DE) | Logistik | blocked | external | 22 | 177,905 EUR | - |  22 |
+| Marenthal Chemie AG | Born Spedition GmbH | Germany (DE) | Logistik | blocked | external | 13 | 52,651 EUR | - |  13 |
+| Marenthal Chemie AG | Brabantse Specialty Chemicals B.V. | Netherlands (NL) | Rohstoff | blocked | external | 33 | 567,000 EUR | Water (demineralised), 2-Butoxyethanol, d-Limonene | NL 33 |
+| Marenthal Chemie AG | Braun Fassfabrik GmbH | Germany (DE) | Verpackung | blocked | external | 4 | 239,678 EUR | Shrink hood, GHS label set, IBC container 1000 L | DE 4 |
+| Marenthal Chemie AG | Busch Prüflabor GmbH & Co. KG | Germany (DE) | Dienstleistung | blocked | external | 108 | 951,680 EUR | - |  108 |
+| Marenthal Chemie AG | Büttner IT-Systeme GmbH | Germany (DE) | Dienstleistung | blocked | external | 36 | 344,949 EUR | - |  36 |
+| Marenthal Chemie AG | De Luca Petrochemicals S.r.l. | Italy (IT) | Rohstoff | blocked | external | 100 | 2,196,770 EUR | Polydimethylsiloxane, Cocamidopropyl betaine, 2-Phenoxyethanol, Sodium dodecylbenzenesulfonate | IT 100 |
+| Marenthal Chemie AG | Delta Chemical Supply N.V. | Netherlands (NL) | Handelsware | blocked | external | 9 | 1,611,537 EUR | Ethyl acetate, technical grade | NL 9 |
+| Marenthal Chemie AG | Eckert Chemie GmbH | Germany (DE) | Rohstoff | blocked | external | 1 | 6,980 EUR | Glycerol | DE 1 |
+| Marenthal Chemie AG | Elbe Versicherungsmakler GmbH | Germany (DE) | Dienstleistung | blocked | external | 71 | 553,404 EUR | - |  71 |
+| Marenthal Chemie AG | Elster Industriegase GmbH & Co. KG | Germany (DE) | MRO | blocked | external | 72 | 3,123,458 EUR | - |  72 |
+| Marenthal Chemie AG | Elster Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Falk Verpackungen GmbH | Germany (DE) | Verpackung | blocked | external | 4 | 154,621 EUR | GHS label set, Pail 20 L with lid, Plastic drum 200 L | DE 4 |
+| Marenthal Chemie AG | Flandres Chemical Supply NV | Belgium (BE) | Handelsware | blocked | external | 9 | 816,097 EUR | Isopropanol, technical grade | BE 9 |
+| Marenthal Chemie AG | Franken Beratung GmbH | Germany (DE) | Dienstleistung | blocked | external | 40 | 405,849 EUR | - |  40 |
+| Marenthal Chemie AG | Franken Elektrotechnik GmbH | Germany (DE) | MRO | blocked | external | 241 | 999,751 EUR | - |  241 |
+| Marenthal Chemie AG | Franken Tanklogistik GmbH | Germany (DE) | Logistik | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Fuchs Chemikalienvertrieb GmbH | Germany (DE) | Handelsware | blocked | external | 10 | 4,030,304 EUR | Sulfuric acid (96 %), technical grade | DE 10 |
+| Marenthal Chemie AG | Gross Fassfabrik GmbH | Germany (DE) | Verpackung | blocked | external | 100 | 6,840,326 EUR | Plastic canister 25 L, IBC container 1000 L, EUR pallet, Plastic drum 200 L | DE 100 |
+| Marenthal Chemie AG | Gulf Coast Chemicals Inc. | United States (US) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Haas Spedition GmbH | Germany (DE) | Logistik | blocked | external | 17 | 108,328 EUR | - |  17 |
+| Marenthal Chemie AG | Hanse Rohstoffe GmbH & Co. KG | Germany (DE) | Rohstoff | blocked | external | 23 | 4,470,684 EUR | n-Butyl acrylate, Methyl methacrylate, Bisphenol-A epoxy resin, Styrene-acrylate copolymer dispersion | DE 23 |
+| Marenthal Chemie AG | Held Elektrotechnik e. K. | Germany (DE) | MRO | blocked | external | 232 | 1,056,412 EUR | , Seal kit centrifugal pump, Absorbent granules, Activated carbon filter A2 |  229, DE 3 |
+| Marenthal Chemie AG | Herrmann Rohstoffe e. K. | Germany (DE) | Rohstoff | blocked | external | 1 | 252,601 EUR | n-Butyl acrylate | DE 1 |
+| Marenthal Chemie AG | Hoffmann & Pape Prüflabor GmbH | Germany (DE) | Dienstleistung | blocked | external | 96 | 1,054,810 EUR | - |  96 |
+| Marenthal Chemie AG | Hofmann Chemie GmbH & Co. KG | Germany (DE) | Rohstoff | blocked | external | 32 | 2,305,315 EUR | Styrene-acrylate copolymer dispersion, Xanthan gum | DE 32 |
+| Marenthal Chemie AG | Jacobs Chemical Trading B.V. | Netherlands (NL) | Handelsware | blocked | external | 10 | 1,636,916 EUR | Methyl ethyl ketone, technical grade | NL 10 |
+| Marenthal Chemie AG | Jansen & Schneider Arbeitsschutz GmbH | Germany (DE) | Dienstleistung | blocked | external | 53 | 382,870 EUR | - |  53 |
+| Marenthal Chemie AG | Keil & Simon Prüflabor GmbH | Germany (DE) | Dienstleistung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Kremer Arbeitsschutz GmbH & Co. KG | Germany (DE) | Dienstleistung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Kuipers Specialty Chemicals NV | Belgium (BE) | Rohstoff | blocked | external | 16 | 170,239 EUR | Monoethanolamine, 1,2-Benzisothiazolin-3-one, Triethanolamine, Sodium laureth sulfate | BE 16 |
+| Marenthal Chemie AG | Kunz Industrieservice AG | Germany (DE) | MRO | blocked | external | 310 | 1,338,635 EUR | , GHS hazard pictogram label roll, Nitrile protective gloves (pair), Absorbent granules |  307, DE 3 |
+| Marenthal Chemie AG | Kwiatkowska Chemicals Sp. z o.o. | Poland (PL) | Rohstoff | blocked | external | 1 | 151,361 PLN | 2-Butoxyethanol | PL 1 |
+| Marenthal Chemie AG | Köhler Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 22 | 736,595 EUR | Sulfamic acid, Tetrasodium EDTA, Sodium hypochlorite solution | DE 22 |
+| Marenthal Chemie AG | Laziale Chemicals S.r.l. | Italy (IT) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Leine Industrieservice GmbH | Germany (DE) | MRO | blocked | external | 251 | 1,031,064 EUR | , Absorbent granules |  250, DE 1 |
+| Marenthal Chemie AG | Lewandowska Industrial Containers Sp. z o.o. | Poland (PL) | Verpackung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Madrileña Specialty Chemicals S.L. | Spain (ES) | Rohstoff | blocked | external | 2 | 14,264 EUR | Iron(III) oxide, Kaolin | ES 2 |
+| Marenthal Chemie AG | Main Industriegase GmbH | Germany (DE) | MRO | blocked | external | 66 | 3,582,279 EUR | - |  66 |
+| Marenthal Chemie AG | Main Ingenieurbüro GmbH & Co. KG | Germany (DE) | Dienstleistung | blocked | external | 38 | 375,321 EUR | - |  38 |
+| Marenthal Chemie AG | Main Tanklogistik GmbH | Germany (DE) | Logistik | blocked | external | 13 | 73,843 EUR | - |  13 |
+| Marenthal Chemie AG | Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Konzern | blocked | intra-group | 76 | 191,628,471 CNY | Calcium carbonate, technical grade, Glycerol, technical grade, Marenclean D 703 disinfectant cleaner, Marenclean G 800 glass cleaner | CN 76 |
+| Marenthal Chemie AG | Marenthal Chemicals Inc. | United States (US) | Konzern | blocked | intra-group | 137 | 34,241,768 USD | Sodium hydroxide (50 %), technical grade, Methanol, technical grade, Marenclean U 134 all-purpose cleaner, Marenglide 953 lubricant additive | US 137 |
+| Marenthal Chemie AG | Marenthal France S.A.S. | France (FR) | Konzern | blocked | intra-group | 99 | 23,504,425 EUR | Isophorone diisocyanate, technical grade, Acrylic acid, technical grade, Marenclean P 404 phosphoric acid cleaner, Styrene, technical grade | FR 99 |
+| Marenthal Chemie AG | Mayer Transporte AG | Germany (DE) | Logistik | blocked | external | 9 | 71,602 EUR | - |  9 |
+| Marenthal Chemie AG | Merten Chemikalienvertrieb GmbH | Germany (DE) | Handelsware | blocked | external | 9 | 4,240,372 EUR | Toluene, technical grade | DE 9 |
+| Marenthal Chemie AG | Merten Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Mohr Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 2 | 36,295 EUR | Dipropylene glycol, Isopropanol | DE 2 |
+| Marenthal Chemie AG | Mulder Freight N.V. | Netherlands (NL) | Logistik | blocked | external | 12 | 75,745 EUR | - |  12 |
+| Marenthal Chemie AG | Müller Chemikalien GmbH & Co. KG | Germany (DE) | Rohstoff | blocked | external | 1 | 10,737 EUR | Monoethanolamine | DE 1 |
+| Marenthal Chemie AG | Neckar Fassfabrik GmbH & Co. KG | Germany (DE) | Verpackung | blocked | external | 4 | 198,078 EUR | Tamper-evident closure, Plastic drum 200 L, EUR pallet | DE 4 |
+| Marenthal Chemie AG | Niedersächsische Arbeitsschutz AG | Germany (DE) | Dienstleistung | blocked | external | 76 | 616,686 EUR | - |  76 |
+| Marenthal Chemie AG | Niedersächsische Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 21 | 389,527 EUR | Sodium hypochlorite solution, Sodium metasilicate | DE 21 |
+| Marenthal Chemie AG | Nordsee Industriegase GmbH & Co. KG | Germany (DE) | MRO | blocked | external | 79 | 3,744,353 EUR | - |  79 |
+| Marenthal Chemie AG | Oswald Datentechnik AG | Germany (DE) | Dienstleistung | blocked | external | 42 | 412,963 EUR | - |  42 |
+| Marenthal Chemie AG | Otto Petrochemie GmbH | Germany (DE) | Rohstoff | blocked | external | 27 | 346,457 EUR | Benzyl alcohol, Glycerol, 2-Butoxyethanol | DE 27 |
+| Marenthal Chemie AG | Peters & Schmidt Anlagenbau GmbH | Germany (DE) | MRO | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Pohl Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Prins & Jansen Packaging B.V. | Netherlands (NL) | Verpackung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Rhein Datentechnik GmbH | Germany (DE) | Dienstleistung | blocked | external | 39 | 263,296 EUR | - |  39 |
+| Marenthal Chemie AG | Rhein Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 50 | 515,847 EUR | 1,2-Benzisothiazolin-3-one, Paraffin wax, Diethylenetriamine, Triethanolamine | DE 50 |
+| Marenthal Chemie AG | Rhein Software GmbH | Germany (DE) | Dienstleistung | blocked | external | 35 | 322,968 EUR | - |  35 |
+| Marenthal Chemie AG | Rhein Tanklogistik GmbH | Germany (DE) | Logistik | blocked | external | 33 | 210,971 EUR | - |  33 |
+| Marenthal Chemie AG | Rhein Transporte GmbH | Germany (DE) | Logistik | blocked | external | 12 | 42,128 EUR | - |  12 |
+| Marenthal Chemie AG | Rheinische Verpackungen GmbH | Germany (DE) | Verpackung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Rheinland Ingenieurbüro GmbH | Germany (DE) | Dienstleistung | blocked | external | 48 | 405,894 EUR | - |  48 |
+| Marenthal Chemie AG | Richter Chemikalien GmbH & Co. KG | Germany (DE) | Rohstoff | blocked | external | 26 | 662,881 EUR | Sodium hydroxide (50 %), Citric acid | DE 26 |
+| Marenthal Chemie AG | Rodriguez Chemicals Corp. | United States (US) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Sachsen Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 12 | 133,274 EUR | Zinc phosphate | DE 12 |
+| Marenthal Chemie AG | Schreiber Verpackungen GmbH | Germany (DE) | Verpackung | blocked | external | 1 | 22,273 EUR | Plastic canister 25 L | DE 1 |
+| Marenthal Chemie AG | Schulz Industrieservice GmbH & Co. KG | Germany (DE) | MRO | blocked | external | 265 | 929,041 EUR | , Filter cartridge 5 µm, Activated carbon filter A2, GHS hazard pictogram label roll |  215, DE 50 |
+| Marenthal Chemie AG | Sommer Chemiehandel e. K. | Germany (DE) | Handelsware | blocked | external | 19 | 7,924,136 EUR | Xylene (isomer mixture), technical grade, Acetic acid, technical grade | DE 10, NL 9 |
+| Marenthal Chemie AG | Southeastern Chemicals LLC | United States (US) | Rohstoff | blocked | external | 15 | 384,756 USD | Rosin (colophony), Methyl methacrylate, Styrene-acrylate copolymer dispersion | US 15 |
+| Marenthal Chemie AG | Stein Beratung AG | Germany (DE) | Dienstleistung | blocked | external | 16 | 103,549 EUR | - |  16 |
+| Marenthal Chemie AG | Stein Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 38 | 1,665,198 EUR | Aluminium hydroxide, Titanium dioxide, Kaolin | DE 38 |
+| Marenthal Chemie AG | Stoll Petrochemie GmbH | Austria (AT) | Rohstoff | blocked | external | 1 | 30,222 EUR | Sodium metasilicate | AT 1 |
+| Marenthal Chemie AG | Szymańska Chemicals Sp. z o.o. | Poland (PL) | Rohstoff | blocked | external | 35 | 720,147 PLN | Silicon dioxide (amorphous), Iron(III) oxide, Barium sulfate | PL 35 |
+| Marenthal Chemie AG | Utrechtse Chemicals B.V. | Netherlands (NL) | Rohstoff | blocked | external | 1 | 28,889 EUR | Sodium metasilicate | NL 1 |
+| Marenthal Chemie AG | Vasca Petrochemicals S.L. | Spain (ES) | Rohstoff | blocked | external | 49 | 1,393,835 EUR | Propylene glycol, Hydrocarbon solvent (hydrotreated heavy naphtha), Dipropylene glycol, Butyl acetate | ES 49 |
+| Marenthal Chemie AG | Verhoeven Specialty Chemicals NV | Belgium (BE) | Rohstoff | blocked | external | 16 | 198,925 EUR | Isopropanol, Water (demineralised), Propylene glycol, Methoxypropyl acetate | BE 16 |
+| Marenthal Chemie AG | Vogel Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 15 | 55,248 EUR | Talc, Barium sulfate | DE 15 |
+| Marenthal Chemie AG | Wegener & Fischer Beratung GmbH & Co. KG | Germany (DE) | Dienstleistung | blocked | external | 54 | 475,497 EUR | - |  54 |
+| Marenthal Chemie AG | Wendt Elektrotechnik GmbH | Germany (DE) | MRO | blocked | external | 262 | 1,010,366 EUR | , Absorbent granules, Seal kit centrifugal pump, GHS hazard pictogram label roll |  258, DE 4 |
+| Marenthal Chemie AG | Weser Fassfabrik KG | Germany (DE) | Verpackung | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | Wieczorek Industrial Containers Sp. z o.o. | Poland (PL) | Verpackung | blocked | external | 11 | 509,192 EUR | GHS label set, Shrink hood, Tamper-evident closure, IBC container 1000 L | PL 11 |
+| Marenthal Chemie AG | Wijnands & van Dam Chemical Supply N.V. | Netherlands (NL) | Handelsware | blocked | external | 4 | 14,849 EUR | Acetone, technical grade | NL 4 |
+| Marenthal Chemie AG | Winkler Rohstoffe GmbH & Co. KG | Germany (DE) | Rohstoff | blocked | external | 37 | 7,800,903 EUR | Neopentyl glycol, d-Limonene, Pentaerythritol, Xylene (isomer mixture) | DE 37 |
+| Marenthal Chemie AG | Wirth Fassfabrik GmbH & Co. KG | Germany (DE) | Verpackung | blocked | external | 1 | 95,159 EUR | Pail 20 L with lid | DE 1 |
+| Marenthal Chemie AG | Wolff & Sommer Datentechnik GmbH | Germany (DE) | Dienstleistung | blocked | external | 39 | 328,221 EUR | - |  39 |
+| Marenthal Chemie AG | Wolter Elektrotechnik GmbH | Germany (DE) | MRO | blocked | external | 291 | 1,225,285 EUR | , Seal kit centrifugal pump, Nitrile protective gloves (pair), Activated carbon filter A2 |  288, DE 3 |
+| Marenthal Chemie AG | Zijlstra Chemical Trading NV | Belgium (BE) | Handelsware | blocked | external | 9 | 3,058,432 EUR | Ethanol, technical grade | BE 9 |
+| Marenthal Chemie AG | Zijlstra Transports BV | Belgium (BE) | Logistik | blocked | external | 12 | 89,141 EUR | - |  12 |
+| Marenthal Chemie AG | de Groot Tank Transport BV | Belgium (BE) | Logistik | blocked | external | 13 | 86,549 EUR | - |  13 |
+| Marenthal Chemie AG | de Jong Specialty Chemicals B.V. | Netherlands (NL) | Rohstoff | blocked | external | 0 | - | - | - |
+| Marenthal Chemie AG | de Vries Petrochemicals B.V. | Netherlands (NL) | Rohstoff | blocked | external | 129 | 6,163,731 EUR | Sodium cumenesulfonate, Fatty alcohol ethoxylate (C12-14, 6 EO), Triethanolamine, Sodium laureth sulfate | NL 129 |
+| Marenthal Chemie AG | de Wit Specialty Chemicals B.V. | Netherlands (NL) | Rohstoff | blocked | external | 4 | 241,156 EUR | Styrene-acrylate copolymer dispersion, Xanthan gum | NL 4 |
+| Marenthal Chemie AG | van Dijk & Verhoeven Chimie NV | Belgium (BE) | Rohstoff | blocked | external | 6 | 179,207 EUR | Tetrasodium EDTA, Sulfamic acid, Citric acid | BE 6 |
+| Marenthal Chemie AG | van den Berg Tank Transport B.V. | Netherlands (NL) | Logistik | blocked | external | 13 | 70,325 EUR | - |  13 |
+| Marenthal Chemie AG | 北京鑫源包装制品有限公司 | China (CN) | Verpackung | blocked | external | 1 | 122,666 USD | EUR pallet | CN 1 |
+| Marenthal Chemie AG | 宁波长荣化工有限公司 | China (CN) | Rohstoff | blocked | external | 13 | 3,147 USD | Sodium chloride | CN 13 |

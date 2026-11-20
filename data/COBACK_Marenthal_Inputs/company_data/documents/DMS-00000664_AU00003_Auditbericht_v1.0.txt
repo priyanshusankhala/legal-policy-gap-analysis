@@ -1,0 +1,41 @@
+
+
+Rapport d'audit: Audit de surveillance ISO 9001 – Usine
+de Saint-Fons
+Auditbericht
+N° du document
+DMS-00000664
+Version
+1.0
+Valable depuis
+2025-03-06
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Confidential
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Audit
+titel: Audit de surveillance ISO 9001 – Usine de Saint-Fons
+art: Zertifizierung
+scope: Qualitätsmanagement
+geplant_von: 2025-02-04
+geplant_bis: 2025-02-05
+durchgefuehrt_von: 2025-02-11
+durchgefuehrt_bis: 2025-02-12
+leitender_auditor: Laurent Girard (AFNOR Certification)
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Constats
+1 [Nebenabweichung] Kalibrierstatus einer Laborwaage nicht nachweisbar. (geschlossen)
+2 [Nebenabweichung] Lenkung von Rückstellmustern: Aufbewahrungsfrist bei einer Charge
+unterschritten. (geschlossen)
+3 [Empfehlung] Reklamationsbearbeitung: Fristen zur Ursachenanalyse werden nicht einheitlich
+eingehalten. (geschlossen)
+4 [Nebenabweichung] Lieferantenbewertung wurde für zwei Schlüssellieferanten nicht aktualisiert.
+(überfällig)

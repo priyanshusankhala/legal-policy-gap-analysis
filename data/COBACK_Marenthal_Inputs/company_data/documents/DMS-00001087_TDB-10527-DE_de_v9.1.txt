@@ -1,0 +1,35 @@
+
+
+Technisches Datenblatt Marenclean E 537 Fettlöser
+Technisches Datenblatt
+Dokumentnummer
+DMS-00001087
+Version
+9.1
+Gültig ab
+2025-09-08
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenclean E 537 degreaser
+Family: Industrial Cleaners
+Applications: Cleaning of parts, Hard surface cleaning
+Description: Entfettung von Maschinen, Küchen und Werkstätten
+Hazardous: 1
+SDS available: 1
+Density: 0.974
+HS: 3402909000
+Origin: DE
+Zusammensetzung
+Water (demineralised): 71.1–86.9 %
+2-Butoxyethanol: 7.7–9.5 %
+Isopropanol: 5.9–7.3 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 2.5–3.5 %
+Monoethanolamine: 2.3–3.3 %

@@ -1,0 +1,80 @@
+
+
+Rahmenvertrag RV-2024-0119 – Alpen Bauchemie
+GmbH & Co. KG
+Rahmenvertrag
+Dokumentnummer
+DMS-00000442
+Version
+1.0
+Gültig ab
+2024-09-19
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2024-0119
+type: Framework Agreement
+status: Active
+start_date: 2024-09-19
+end_date: 2029-09-18
+auto_renew: 1
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 61.76
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-08-27
+governing_law: German law
+payment_terms: Z060
+incoterm: DAP
+Bedingungen
+Marensolv 302 degreasing spirit (solvent blend): 224.64 EUR/100 kg
+Methyl methacrylate, technical grade: 1989.16 EUR/1000 kg
+Toluene, technical grade: 916.6 EUR/1000 kg
+Account
+name: Alpen Bauchemie GmbH & Co. KG
+type: Customer
+billing_street: Ringstraße 111
+billing_city: München
+billing_postcode: 81904
+billing_country: DE
+industry: Construction chemicals and materials
+segment: Direct
+size_class: Medium
+status: Active
+website: www.alpen-bauchemie.de
+created_date: 2024-08-07
+
+last_modified_date: 2024-09-02
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-08-29
+cms_partner_ref: GP000597
+description: Bauchemie und Baustoffe. Rahmenlieferungen von Marensolv 302 Entfettungsbenzin
+(Lösemittelgemisch), Toluol, techn., Abrufe nach Produktionsplan.
+Rahmenvertragsnummer
+contract_number: RV-2024-0119
+type: Framework Agreement
+status: Active
+start_date: 2024-09-19
+end_date: 2029-09-18
+auto_renew: 1
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 61.76
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-08-27
+governing_law: German law
+payment_terms: Z060
+incoterm: DAP
+Bedingungen
+Marensolv 302 degreasing spirit (solvent blend): 224.64 EUR/100 kg
+Methyl methacrylate, technical grade: 1989.16 EUR/1000 kg
+Toluene, technical grade: 916.6 EUR/1000 kg

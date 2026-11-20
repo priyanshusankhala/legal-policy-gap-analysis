@@ -1,0 +1,34 @@
+# Risk register - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). As of 2026-11-09.
+
+Compliance, environment, health and safety, and supply chain risks, with gross and net rating, status and review dates.
+
+| Risk | Category | Site | Description | Likelihood (net) | Impact (net) | Score (net) | Status | Last review | Next review |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Arbeitsunfall durch Gefahrstoffexposition – Baytown | Arbeitsschutz | Baytown Plant | Hautkontakt oder Einatmen beim Abfüllen und Probenehmen. | 2 | 3 | 6 | offen | 2025-10-10 | 2026-10-05 |
+| Ausfall eines Einzelquellenlieferanten für Schlüsselrohstoffe | Lieferkette | - | Lieferstopp bei Monomeren oder Lösemitteln ohne qualifizierte Alternative. | 2 | 3 | 6 | akzeptiert | 2025-06-17 | 2026-06-12 |
+| Ausfall von ERP oder Prozessleitsystem | Informationssicherheit | - | Längerer Systemausfall mit Produktions- und Lieferunterbrechung. | 1 | 3 | 3 | in Behandlung | 2025-01-17 | 2026-01-12 |
+| Belieferung sanktionierter Parteien über Distributoren | Sanktionen und Exportkontrolle | - | Weiterverkauf an gelistete Endempfänger durch Vertriebspartner in Drittländern. | 2 | 5 | 10 | offen | 2025-02-03 | 2026-01-29 |
+| Bestechung bei Behördenkontakten (Genehmigungen, Zoll, Inspektionen) | Korruption | - | Zuwendungen an Amtsträger zur Beschleunigung oder Beeinflussung von Verfahren. | 2 | 4 | 8 | offen | 2025-09-12 | 2026-09-07 |
+| Boden- und Grundwasserverunreinigung – Baytown | Umwelt | Baytown Plant | Undichte Lager- oder Umfüllbereiche. | 2 | 4 | 8 | offen | 2025-03-19 | 2026-03-16 |
+| Brand im Gefahrstofflager – Charlotte | Umwelt | Charlotte Distribution Center | Brandentstehung durch Zündquellen oder Fehllagerung. | 1 | 5 | 5 | akzeptiert | 2025-11-18 | 2026-11-13 |
+| Chargenverwechslung bei Abfüllung und Etikettierung – Baytown | Qualität | Baytown Plant | Falsche Charge oder falsches Etikett gelangt in den Versand. | 3 | 3 | 9 | geschlossen | 2025-11-06 | 2026-11-03 |
+| Diskriminierung und Belästigung am Arbeitsplatz | Arbeitsschutz | - | Unzureichende Reaktion auf Beschwerden. | 2 | 3 | 6 | offen | 2025-10-21 | 2026-10-16 |
+| Explosionsfähige Atmosphäre bei Lösemittelhandhabung – Baytown | Arbeitsschutz | Baytown Plant | Zündquellen in Ex-Zonen bei Umfüll- und Reinigungsarbeiten. | 1 | 4 | 4 | offen | 2025-09-29 | 2026-09-24 |
+| Falsche Einstufung von Gemischen | Produktsicherheit | - | Summationsregeln werden falsch angewendet, H-Sätze fehlen. | 2 | 2 | 4 | akzeptiert | 2025-01-22 | 2026-01-19 |
+| Fehlende oder fehlerhafte Sicherheitsdatenblätter bei Marktzugang | Produktsicherheit | - | SDB entsprechen nicht dem Rechtsstand des Zielmarkts oder fehlen in der Landessprache. | 2 | 4 | 8 | akzeptiert | 2025-09-09 | 2026-09-04 |
+| Fehlerhafte Zolltarifnummern und Ursprungsangaben | Sanktionen und Exportkontrolle | - | Falsche Einreihung führt zu Nachzahlungen und Strafen. | 2 | 3 | 6 | in Behandlung | 2025-09-15 | 2026-09-10 |
+| Informationsaustausch mit Wettbewerbern in Verbänden | Kartellrecht | - | Preise, Mengen oder Kundenlisten werden in Verbandsgremien ausgetauscht. | 1 | 4 | 4 | offen | 2025-07-16 | 2026-07-10 |
+| Intransparente Lieferketten bei Pigmenten und Zusatzstoffen | Lieferkette | - | Herkunft und Arbeitsbedingungen der Vorlieferanten sind nicht belegt. | 3 | 3 | 9 | offen | 2025-11-20 | 2026-11-13 |
+| Lieferung genehmigungspflichtiger Dual-Use-Güter ohne Genehmigung | Sanktionen und Exportkontrolle | - | Falsche oder fehlende Klassifizierung führt zu Ausfuhr ohne Genehmigung. | 1 | 4 | 4 | akzeptiert | 2025-08-26 | 2026-08-21 |
+| Nicht gemeldete Nebentätigkeiten und Beteiligungen von Führungskräften | Interessenkonflikte | - | Verdeckte Beteiligungen an Lieferanten oder Kunden. | 2 | 2 | 4 | akzeptiert | 2025-07-25 | 2026-07-20 |
+| Transportunfall mit Gefahrgut – Charlotte | Produktsicherheit | Charlotte Distribution Center | Unfall oder Leckage während der Beförderung ab Lager oder Werk. | 2 | 5 | 10 | akzeptiert | 2025-07-02 | 2026-06-30 |
+| Unbefugter Zugriff auf Personaldaten und vertrauliche Unterlagen | Datenschutz | - | Zu weit gefasste Berechtigungen auf HR- und Hinweisgeberdaten. | 3 | 3 | 9 | offen | 2025-02-04 | 2026-01-30 |
+| Unkontrollierte Freisetzung gefährlicher Stoffe (Störfall) – Baytown | Umwelt | Baytown Plant | Leckage oder Fehlbefüllung führt zu Freisetzung in Luft, Boden oder Gewässer. | 1 | 4 | 4 | akzeptiert | 2025-02-20 | 2026-02-18 |
+| Unzulässige Zuwendungen an Einkaufsverantwortliche von Kunden und Distributoren | Korruption | - | Geschenke und Einladungen über der Wertgrenze ohne Genehmigung. | 2 | 3 | 6 | in Behandlung | 2025-10-17 | 2026-10-12 |
+| Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheit | - | Ausfall der Auftragsabwicklung und Steuerungssysteme durch Schadsoftware. | 2 | 4 | 8 | in Behandlung | 2025-11-21 | 2026-11-16 |
+| Verstöße gegen Arbeitszeitvorschriften in Produktion und Logistik | Arbeitsschutz | - | Überschreitung von Höchstarbeitszeiten im Schichtbetrieb. | 3 | 3 | 9 | akzeptiert | 2025-05-27 | 2026-05-22 |
+| Verunreinigung durch Rückstände nach Produktwechsel – Baytown | Qualität | Baytown Plant | Anlagenreinigung unvollständig; Kontamination der Folgecharge. | 2 | 3 | 6 | offen | 2025-11-17 | 2026-11-12 |
+| Zahlungen Dritter und ungewöhnliche Zahlungswege | Geldwäsche | - | Zahlungseingänge von nicht beteiligten Dritten oder aus Drittländern. | 1 | 4 | 4 | akzeptiert | 2025-10-29 | 2026-10-26 |
+| Überschreitung der Abwassergrenzwerte – Baytown | Umwelt | Baytown Plant | Einleitung von Prozessabwasser oberhalb der Genehmigungswerte. | 2 | 3 | 6 | in Behandlung | 2025-10-10 | 2026-10-05 |

@@ -1,0 +1,81 @@
+
+
+Framework Agreement RV-2024-0101 – Piedmont
+Electronics LLC
+Rahmenvertrag
+Document no.
+DMS-00000386
+Version
+1.0
+Valid from
+2024-05-24
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2024-0101
+type: Framework Agreement
+status: Active
+start_date: 2024-05-24
+end_date: 2029-05-23
+auto_renew: 1
+notice_period_days: 180
+currency: USD
+committed_volume_t: 147.89
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2024-05-13
+governing_law: State of Texas
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marenwet 237 wetting agent: 376.74 USD/100 kg
+Marenclean E 537 degreaser: 185.24 USD/100 kg
+Marenclean C 1305 CIP cleaner: 159 USD/100 kg
+Hydrochloric acid (33 %), technical grade: 152.63 USD/1000 kg
+Titanium dioxide, technical grade: 4225.27 USD/1000 kg
+Account
+name: Piedmont Electronics LLC
+type: Customer
+billing_street: 89 Commerce Drive
+billing_city: Charlotte
+billing_postcode: 28230
+billing_country: US
+industry: Electrical and electronics industry
+segment: Direct
+size_class: Large
+status: Active
+
+website: www.piedmont-electronics.com
+created_date: 2002-03-31
+last_modified_date: 2024-10-28
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Electrical and electronics industry; customer since 2002. Main products: Titanium dioxide,
+technical grade, Marenclean C 1305 CIP cleaner.
+Rahmenvertragsnummer
+contract_number: RV-2024-0101
+type: Framework Agreement
+status: Active
+start_date: 2024-05-24
+end_date: 2029-05-23
+auto_renew: 1
+notice_period_days: 180
+currency: USD
+committed_volume_t: 147.89
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2024-05-13
+governing_law: State of Texas
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marenwet 237 wetting agent: 376.74 USD/100 kg
+Marenclean E 537 degreaser: 185.24 USD/100 kg
+Marenclean C 1305 CIP cleaner: 159 USD/100 kg
+Hydrochloric acid (33 %), technical grade: 152.63 USD/1000 kg
+Titanium dioxide, technical grade: 4225.27 USD/1000 kg

@@ -1,0 +1,82 @@
+
+
+Safety Data Sheet Marenclean Z 904 citrus cleaner
+Sicherheitsdatenblatt
+Document no.
+DMS-00001102
+Version
+6.1
+Valid from
+2025-08-29
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenclean Z 904 citrus cleaner
+Product: Marenclean Z 904 Zitrusreiniger
+SDS: SDB-10618-DE
+2. Hazards identification
+H: H226 H302 H304 H315 H317 H318 H319 H410 H412
+3. Composition / information on ingredients
+Water
+(demineralised)
+7732-18-5 231-791-2 58.7–71.7 %
+d-Limonene 5989-27-5 227-813-5 17–20.8 % H226 H304 H315
+H317 H410
+Fatty alcohol
+ethoxylate
+(C12-14, 6 EO)
+68439-50-9 11.3–13.8 % H302 H318 H412
+Sodium
+cumenesulfonate
+15763-76-5 239-854-6 2.9–3.9 % H319
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 0.97
+
+Base unit: KG
+Shelf life (months): 24
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN1993
+ADR/IMDG class: 3
+Packing group: III
+HS: 34022090
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+Fatty alcohol ethoxylate (C12-14, 6 EO): TSCA – nicht erforderlich
+Sodium cumenesulfonate: IECSC – nicht erforderlich
+Sodium cumenesulfonate: REACH – registriert (01-2119930816-73-0064)
+Sodium cumenesulfonate: TSCA – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+d-Limonene: IECSC – nicht erforderlich
+16. Other information
+6.1 · 2025-08-29

@@ -1,0 +1,30 @@
+技术数据表 Marensolv 302 脱脂溶剂油（混合溶剂）
+Technisches Datenblatt
+
+文件编号: DMS-00001158
+版本: 9.2
+生效日期: 2025-09-26
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+详细信息
+Product: Marensolv 302 degreasing spirit (solvent blend)
+Family: Specialty Chemicals
+Applications: Surface treatment, Metalworking fluids
+Description: Entfettung und Reinigung technischer Oberflächen
+Hazardous: 1
+SDS available: 1
+Density: 0.761
+UN: UN1993
+Class: 3
+HS: 3814009000
+Origin: CN
+
+成分
+Hydrocarbon solvent (hydrotreated heavy naphtha): 67.3–82.3 %
+n-Heptane: 17.7–21.7 %
+d-Limonene: 5–6.1 %

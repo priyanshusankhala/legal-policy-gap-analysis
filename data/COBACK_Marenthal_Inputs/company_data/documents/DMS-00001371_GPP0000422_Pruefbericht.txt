@@ -1,0 +1,42 @@
+
+
+Prüfbericht Wiederholungsprüfung (GPP0000422)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00001371
+Version
+1.0
+Gültig ab
+2025-11-28
+Gesellschaft
+Marenthal France S.A.S.
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Wiederholungsprüfung
+pruefdatum: 2025-11-26
+anlass: Turnusmäßige Wiederholung
+risikoklasse: mittel
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: kein Treffer
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Antikorruptionsklausel im Vertrag ergänzen
+gueltig_bis: 2027-11-16
+begruendung: Keine Treffer in den Sanktionslisten. Risikoklasse mittel. Freigabe unter Auflagen.
+Geschäftspartner
+name: Rhône Distribution chimique SARL
+partner_typ: Vertriebspartner
+land: FR
+strasse: 180 chemin des Carrières
+plz: 69005
+ort: Lyon
+aktiv: 1
+risikoklasse_aktuell: mittel
+letzte_pruefung: 2025-11-26
+freigabestatus: mit Auflagen

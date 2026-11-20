@@ -1,0 +1,33 @@
+
+
+Nachweis: Explosionsschutzdokument aktualisieren –
+Baytown
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000584
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals Inc.
+Standort
+US01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Explosionsschutzdokument aktualisieren – Baytown
+beschreibung: Ex-Zonen und Zündquellenbewertung bei Umbauten und Rezepturaenderungen
+fortschreiben.
+quelle: NFPA 497 / OSHA 29 CFR 1910.307
+quelltyp: Verordnung
+land: US
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2026-01-16
+intervall_monate: 12
+status: offen
+letzte_pruefung: 2025-01-21

@@ -1,0 +1,38 @@
+
+
+Fiche technique Marenclean M 1200 nettoyant pour
+machines (poudre)
+Technisches Datenblatt
+N° du document
+DMS-00001104
+Version
+4.1
+Valable depuis
+2025-09-15
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Informations
+Product: Marenclean M 1200 machine cleaner (powder)
+Family: Industrial Cleaners
+Applications: Bottle washing, Equipment cleaning
+Description: Reinigung von Geschirr- und Industriewaschmaschinen
+Hazardous: 1
+SDS available: 1
+Density: 2.559
+UN: UN3262
+Class: 8
+HS: 3402909000
+Origin: FR
+Composition
+Sodium sulfate: 38.8–47.4 %
+Sodium metasilicate: 23.7–28.9 %
+Sodium carbonate: 18.4–22.4 %
+Sodium tripolyphosphate: 8.1–9.9 %
+Sodium dodecyl sulfate: 0.7–1.7 %

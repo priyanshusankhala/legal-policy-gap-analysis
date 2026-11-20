@@ -1,0 +1,40 @@
+
+
+Dangerous Goods (ADR/IMDG/49 CFR) – Refresher –
+Training Material
+Schulungsunterlage
+Document no.
+DMS-00000197
+Version
+1.0
+Valid from
+2022-11-18
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Gefahrgut (ADR/IMDG/49 CFR) – Auffrischung
+thema: Produkt
+pflicht: 1
+zielgruppe: Verlader, Disponenten, Gefahrgutbeauftragte
+sprachen: de,en,fr,zh
+dauer_min: 300
+intervall_monate: 24
+format: Präsenz
+status: aktiv
+Richtlinie
+nummer: KR-012
+titel: Richtlinie Gefahrgut und Logistiksicherheit
+thema: Produkt
+geltung: Konzern
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2026-08-27
+master_sprache: de
+vertraulichkeit: intern

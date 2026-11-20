@@ -1,0 +1,29 @@
+
+
+Quartalsbericht Compliance Q1 2025
+Bericht an Geschäftsleitung
+Dokumentnummer
+DMS-00000787
+Version
+1.0
+Gültig ab
+2025-04-30
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Bericht
+art: Quartalsbericht Compliance
+zeitraum_von: 2025-01-01
+zeitraum_bis: 2025-03-31
+adressat: Geschäftsführung
+berichtsdatum: 2025-04-30
+status: Zur Kenntnis genommen
+kennzahlen: {"verpflichtungen_gesamt":312,"verpflichtungen_offen":46,"verpflichtungen_ueberfaellig":
+19,"vorfaelle":8,"hinweisfaelle":5,"audits":4,"massnahmen_offen":14,"massnahmen_ueberfaellig":1,"sc
+hulungsquote_prozent":89.4}

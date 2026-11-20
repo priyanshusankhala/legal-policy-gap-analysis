@@ -1,0 +1,38 @@
+
+
+Technical Data Sheet Marenclean A 207 alkaline
+industrial cleaner
+Technisches Datenblatt
+Document no.
+DMS-00000915
+Version
+8.3
+Valid from
+2025-07-11
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean A 207 alkaline industrial cleaner
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Equipment cleaning, Cleaning of parts
+Description: Entfernung von Fetten, Ölen und Schmutz in der Industrie
+Hazardous: 1
+SDS available: 1
+Density: 1.053
+UN: UN3266
+Class: 8
+HS: 34029090
+Origin: DE
+Composition
+Water (demineralised): 74.7–91.3 %
+Sodium hydroxide (50 %): 8.1–9.9 %
+Sodium metasilicate: 2.7–3.7 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 2.3–3.3 %
+Tetrasodium EDTA: 1.5–2.5 %

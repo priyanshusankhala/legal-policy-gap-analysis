@@ -1,0 +1,28 @@
+
+
+Nachweis: Beschwerdestelle für Diskriminierung und
+Belästigung betreiben
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000823
+Version
+1.0
+Gesellschaft
+Marenthal France S.A.S.
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Beschwerdestelle für Diskriminierung und Belästigung betreiben
+beschreibung: Beschwerden entgegennehmen, prüfen und Gegenmaßnahmen dokumentieren.
+quelle: Code du travail, art. L1153-5
+quelltyp: Gesetz
+land: FR
+anwendbarkeit: anwendbar
+frist_art: laufend
+status: erfüllt
+letzte_pruefung: 2025-05-06

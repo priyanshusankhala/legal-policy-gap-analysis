@@ -1,0 +1,109 @@
+# Register of sales by destination country and product - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Company | Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | 2-Ethylhexyl acrylate, technical grade | 4020000040 | 28 | 106,050 KG | 1,792,172 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Acetic acid, technical grade | 4020000056 | 45 | 1,381,775 KG | 7,087,712 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Acrylic acid, technical grade | 4020000043 | 61 | 1,077,500 KG | 18,706,758 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Butyl acetate, technical grade | 4020000050 | 32 | 301,050 KG | 3,504,196 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Calcium carbonate, technical grade | 4020000063 | 20 | 1,058,800 KG | 951,610 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Diethylenetriamine, technical grade | 4020000046 | 39 | 597,725 KG | 10,933,483 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Ethanol, technical grade | 4020000048 | 55 | 754,825 KG | 6,730,593 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Ethyl acetate, technical grade | 4020000049 | 44 | 647,875 KG | 5,564,462 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Glycerol, technical grade | 4020000060 | 57 | 1,612,975 KG | 14,188,836 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Hydrochloric acid (33 %), technical grade | 4020000054 | 90 | 8,353,000 KG | 9,145,003 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Isophorone diisocyanate, technical grade | 4020000045 | 5 | 8,625 KG | 366,110 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Isopropanol, technical grade | 4020000047 | 35 | 1,836,500 KG | 20,027,014 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Maleic anhydride, technical grade | 4020000044 | 26 | 444,000 KG | 6,862,245 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenbase 1003 neutralising agent | 4020000009 | 7 | 4,650 KG | 238,388 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean A 238 alkaline industrial cleaner | 4020000016 | 34 | 190,025 KG | 2,363,683 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean B 1006 chlorine-based cleaner | 4020000022 | 6 | 26,900 KG | 224,413 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean C 1305 CIP cleaner | 4020000025 | 29 | 339,350 KG | 3,533,213 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean D 703 disinfectant cleaner | 4010000004 | 34 | 376,900 KG | 4,957,970 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean E 504 degreaser | 4010000003 | 50 | 845,550 KG | 9,281,376 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean E 537 degreaser | 4020000019 | 27 | 341,600 KG | 4,015,800 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean H 637 hand cleaner | 4020000020 | 33 | 1,074,075 KG | 14,386,483 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean M 1200 machine cleaner (powder) | 4020000024 | 20 | 86,500 KG | 1,115,547 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | 8 | 24,800 KG | 396,908 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean P 404 phosphoric acid cleaner | 4020000018 | 31 | 913,700 KG | 11,086,470 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean R 1402 rust remover | 4020000026 | 15 | 151,525 KG | 1,794,359 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean S 301 descaler | 4020000017 | 10 | 18,925 KG | 228,192 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclean U 101 all-purpose cleaner | 4020000015 | 26 | 178,850 KG | 1,949,255 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenclear 406 dechlorinating agent | 4020000014 | 10 | 39,600 KG | 712,309 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat AF 309 acrylic facade paint | 4020000027 | 17 | 112,225 KG | 3,156,092 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat AF 333 acrylic facade paint | 4010000006 | 57 | 277,450 KG | 10,219,732 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat AI 436 interior emulsion paint | 4010000008 | 13 | 45,500 KG | 1,449,525 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat AL 603 alkyd enamel | 4020000030 | 16 | 32,375 KG | 1,376,869 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat AL 634 alkyd enamel | 4010000009 | 29 | 68,425 KG | 3,550,595 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat DB 1333 roof coating | 4020000035 | 23 | 86,200 KG | 2,400,600 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat EP 806 2K epoxy primer (component A) | 4010000010 | 13 | 22,475 KG | 1,303,391 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat HL 509 water-based wood coating | 4020000028 | 21 | 69,175 KG | 2,263,658 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat HL 533 water-based wood coating | 4020000029 | 17 | 47,875 KG | 1,827,269 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat PH 1102 epoxy hardener (component B) | 4020000033 | 21 | 59,425 KG | 2,473,070 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat RS 703 anticorrosive primer | 4020000031 | 20 | 54,250 KG | 1,925,930 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat RS 730 anticorrosive primer | 4020000032 | 16 | 32,850 KG | 1,452,063 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat TG 1400 penetrating primer | 4020000036 | 49 | 740,100 KG | 10,884,171 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marencoat TG 1438 penetrating primer | 4020000037 | 27 | 213,500 KG | 2,800,430 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marendisp 305 dispersing agent | 4020000002 | 9 | 17,500 KG | 577,572 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marendisp 332 dispersing agent | 4020000003 | 50 | 104,400 KG | 3,117,636 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenemul 731 emulsifier | 4020000005 | 17 | 93,900 KG | 2,132,788 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenflex 906 plasticizer | 4020000007 | 8 | 7,300 KG | 281,287 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenfoam 133 defoamer | 4020000004 | 22 | 60,725 KG | 2,127,352 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenglide 953 lubricant additive | 4020000008 | 113 | 1,173,225 KG | 41,705,803 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenpaste 202 pigment preparation | 4020000011 | 9 | 16,300 KG | 559,563 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenpaste 237 pigment preparation | 4020000012 | 27 | 109,100 KG | 3,638,420 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenphos 125 phosphating solution | 4020000013 | 35 | 244,850 KG | 6,854,564 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenprotect 806 preservative | 4020000006 | 3 | 8,000 KG | 625,583 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marensolv 108 thinner (solvent blend) | 4020000010 | 46 | 137,375 KG | 2,684,734 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | 49 | 167,525 KG | 3,179,641 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenwet 206 wetting agent | 4020000001 | 112 | 1,198,850 KG | 30,813,588 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Marenwet 237 wetting agent | 4010000001 | 11 | 23,900 KG | 603,485 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Methanol, technical grade | 4020000057 | 53 | 1,831,425 KG | 6,368,102 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Methyl ethyl ketone, technical grade | 4020000051 | 20 | 279,900 KG | 4,203,256 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Phosphoric acid (75 %), technical grade | 4020000059 | 73 | 4,165,325 KG | 33,347,162 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Sodium hydroxide (50 %), technical grade | 4020000058 | 42 | 1,513,900 KG | 6,070,522 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Styrene, technical grade | 4020000042 | 57 | 1,676,700 KG | 16,714,620 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Sulfuric acid (96 %), technical grade | 4020000055 | 45 | 2,796,300 KG | 2,514,936 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Titanium dioxide, technical grade | 4020000061 | 37 | 509,950 KG | 15,757,532 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Toluene, technical grade | 4020000052 | 11 | 83,575 KG | 623,146 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Vinyl acetate, technical grade | 4020000041 | 32 | 246,200 KG | 3,207,002 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Xylene (isomer mixture), technical grade | 4020000053 | 21 | 272,300 KG | 2,279,952 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | n-Butyl acrylate, technical grade | 4020000038 | 16 | 151,975 KG | 2,277,894 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Calcium carbonate, technical grade | 4020000063 | 6 | 3,000,000 KG | 2,583,600 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Glycerol, technical grade | 4020000060 | 4 | 1,140,000 KG | 9,642,918 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marenclean D 703 disinfectant cleaner | 4010000004 | 3 | 39,000 KG | 352,626 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marenclean E 504 degreaser | 4010000003 | 5 | 625,000 KG | 5,540,088 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marenclean G 800 glass cleaner | 4010000005 | 5 | 1,380,000 KG | 9,624,286 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marencoat AF 333 acrylic facade paint | 4010000006 | 4 | 196,000 KG | 4,051,643 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marencoat AI 436 interior emulsion paint | 4010000008 | 5 | 170,000 KG | 3,387,097 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marencoat AL 634 alkyd enamel | 4010000009 | 4 | 116,000 KG | 3,413,201 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marencoat EP 806 2K epoxy primer (component A) | 4010000010 | 4 | 24,000 KG | 846,407 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | 5 | 420,000 KG | 6,438,776 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Marenwet 237 wetting agent | 4010000001 | 4 | 120,000 KG | 1,781,256 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Titanium dioxide, technical grade | 4020000061 | 5 | 395,000 KG | 10,885,766 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Calcium carbonate, technical grade | 4020000063 | 21 | 10,500,000 KG | 9,136,200 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Glycerol, technical grade | 4020000060 | 8 | 4,000,000 KG | 33,834,800 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marenclean D 703 disinfectant cleaner | 4010000004 | 6 | 690,000 KG | 6,238,773 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marenclean E 504 degreaser | 4010000003 | 4 | 752,000 KG | 6,568,645 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marenclean G 800 glass cleaner | 4010000005 | 5 | 2,500,000 KG | 17,167,500 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marencoat AF 333 acrylic facade paint | 4010000006 | 5 | 550,000 KG | 11,226,270 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marencoat AI 436 interior emulsion paint | 4010000008 | 5 | 220,000 KG | 4,392,067 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marencoat AL 634 alkyd enamel | 4010000009 | 4 | 1,028,000 KG | 29,973,447 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marencoat EP 806 2K epoxy primer (component A) | 4010000010 | 4 | 348,000 KG | 11,932,816 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | 4 | 1,624,000 KG | 24,370,231 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Marenwet 237 wetting agent | 4010000001 | 5 | 455,000 KG | 6,886,316 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Titanium dioxide, technical grade | 4020000061 | 5 | 1,085,000 KG | 29,901,406 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Calcium carbonate, technical grade | 4020000063 | 8 | 4,000,000 KG | 3,519,800 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Glycerol, technical grade | 4020000060 | 5 | 805,000 KG | 6,809,254 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marenclean E 504 degreaser | 4010000003 | 6 | 114,000 KG | 1,012,951 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marenclean G 800 glass cleaner | 4010000005 | 6 | 666,000 KG | 4,673,810 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marencoat AF 333 acrylic facade paint | 4010000006 | 5 | 305,000 KG | 6,282,604 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marencoat AL 634 alkyd enamel | 4010000009 | 4 | 108,000 KG | 3,189,658 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marencoat EP 806 2K epoxy primer (component A) | 4010000010 | 5 | 35,000 KG | 1,211,150 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | 5 | 585,000 KG | 8,859,182 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Marenwet 237 wetting agent | 4010000001 | 5 | 120,000 KG | 1,797,600 CNY |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Titanium dioxide, technical grade | 4020000061 | 5 | 340,000 KG | 9,370,026 CNY |

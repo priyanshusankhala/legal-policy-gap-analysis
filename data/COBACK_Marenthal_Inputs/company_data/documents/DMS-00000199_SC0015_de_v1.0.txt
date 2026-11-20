@@ -1,0 +1,40 @@
+
+
+Datenschutz-Vertiefung für Personal und IT –
+Schulungsunterlage
+Schulungsunterlage
+Dokumentnummer
+DMS-00000199
+Version
+1.0
+Gültig ab
+2022-11-24
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Schulung
+titel: Datenschutz-Vertiefung für Personal und IT
+thema: Datenschutz
+pflicht: 1
+zielgruppe: Personal, IT
+sprachen: de,en,fr,zh
+dauer_min: 90
+intervall_monate: 12
+format: Webinar
+status: aktiv
+Richtlinie
+nummer: KR-008
+titel: Datenschutzrichtlinie
+thema: Datenschutz
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-12-31
+master_sprache: de
+vertraulichkeit: intern

@@ -1,0 +1,23 @@
+# Register of customers by country and sector - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Company | Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemicals Inc. | China (CN) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemicals Inc. | France (FR) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemicals Inc. | Germany (DE) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemicals Inc. | United States (US) | Automobilzulieferer | Industrie | 3 |
+| Marenthal Chemicals Inc. | United States (US) | Bauchemie und Baustoffe | Industrie | 4 |
+| Marenthal Chemicals Inc. | United States (US) | Chemiehandel | Distributor | 7 |
+| Marenthal Chemicals Inc. | United States (US) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal Chemicals Inc. | United States (US) | Farben und Lacke | Industrie | 7 |
+| Marenthal Chemicals Inc. | United States (US) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemicals Inc. | United States (US) | Kunststoffverarbeitung | Industrie | 6 |
+| Marenthal Chemicals Inc. | United States (US) | Lebensmittel- und Getränkeindustrie | Industrie | 3 |
+| Marenthal Chemicals Inc. | United States (US) | Maschinen- und Anlagenbau | Industrie | 12 |
+| Marenthal Chemicals Inc. | United States (US) | Metall- und Oberflächentechnik | Industrie | 8 |
+| Marenthal Chemicals Inc. | United States (US) | Textil- und Papierindustrie | Industrie | 2 |
+| Marenthal Chemicals Inc. | United States (US) | Wasseraufbereitung und Umwelttechnik | Industrie | 5 |

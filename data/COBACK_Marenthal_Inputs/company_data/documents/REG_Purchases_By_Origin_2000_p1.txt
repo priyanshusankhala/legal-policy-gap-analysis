@@ -1,0 +1,128 @@
+# Register of raw material and goods purchases by country of origin - Marenthal France S.A.S. (part 1 of 2)
+
+Company: Marenthal France S.A.S. (FR). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal France S.A.S. | 1,2-Benzisothiazolin-3-one | MP-000005 | DE | 8 | 200 KG | 38249996 | 2025-03-07 | 2025-12-30 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | BE | 1 | 7,800 KG | 38249996 | 2025-10-10 | 2025-10-10 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | NL | 11 | 85,800 KG | 38249996 | 2025-01-24 | 2025-12-15 |
+| Marenthal France S.A.S. | 2-Butoxyethanol | MP-000017 | SE | 1 | 7,800 KG | 38249996 | 2025-06-25 | 2025-06-25 |
+| Marenthal France S.A.S. | 2-Ethylhexyl acrylate | MP-000022 | FR | 11 | 1,023,000 KG | 38249996 | 2025-02-25 | 2025-12-10 |
+| Marenthal France S.A.S. | Absorbent granules | FO-000005 | FR | 6 | 228 ST | - | 2025-02-13 | 2025-12-18 |
+| Marenthal France S.A.S. | Acetic acid, technical grade | MC-000061 | NL | 9 | 756,000 KG | 29152100 | 2025-02-14 | 2025-11-26 |
+| Marenthal France S.A.S. | Acrylic acid | MP-000025 | DE | 12 | 3,096,000 KG | 38249996 | 2025-02-17 | 2025-12-12 |
+| Marenthal France S.A.S. | Activated carbon filter A2 | FO-000003 | FR | 6 | 408 ST | - | 2025-02-17 | 2025-12-18 |
+| Marenthal France S.A.S. | Analyses en laboratoire externe | - | - | 36 | 703 ST | - | 2025-01-13 | 2025-12-17 |
+| Marenthal France S.A.S. | Big bag 1000 kg | EM-000008 | DE | 1 | 500 ST | 39231090 | 2025-06-25 | 2025-06-25 |
+| Marenthal France S.A.S. | Big bag 1000 kg | EM-000008 | FR | 7 | 3,500 ST | 39231090 | 2025-03-04 | 2026-01-02 |
+| Marenthal France S.A.S. | Butyl acetate, technical grade | MC-000055 | DE | 7 | 777,000 KG | 29153300 | 2025-03-03 | 2025-12-17 |
+| Marenthal France S.A.S. | Calcium carbonate, technical grade | MC-000068 | CN | 6 | 3,000,000 KG | 28365000 | 2025-04-15 | 2025-12-19 |
+| Marenthal France S.A.S. | Conseil en management de la qualité | - | - | 35 | 65 ST | - | 2025-02-11 | 2026-01-06 |
+| Marenthal France S.A.S. | Conseil juridique en réglementation chimique | - | - | 31 | 52 ST | - | 2025-01-27 | 2025-12-23 |
+| Marenthal France S.A.S. | Contrôle de la sécurité au travail | - | - | 41 | 61 ST | - | 2025-01-24 | 2025-12-24 |
+| Marenthal France S.A.S. | Diethylenetriamine | MP-000029 | DE | 10 | 2,680,000 KG | 38249996 | 2025-03-28 | 2025-12-02 |
+| Marenthal France S.A.S. | Dédouanement et formalités douanières | - | - | 21 | 240 ST | - | 2025-02-18 | 2025-11-26 |
+| Marenthal France S.A.S. | EUR pallet | EM-000009 | FR | 8 | 60,800 ST | 39231090 | 2025-02-20 | 2026-01-06 |
+| Marenthal France S.A.S. | Ethanol, technical grade | MC-000053 | BE | 9 | 4,257,000 KG | 22072000 | 2025-02-07 | 2025-12-04 |
+| Marenthal France S.A.S. | Ethyl acetate | MP-000007 | BE | 12 | 672,000 KG | 38249996 | 2025-02-13 | 2025-12-19 |
+| Marenthal France S.A.S. | Ethyl acetate, technical grade | MC-000054 | NL | 9 | 1,854,000 KG | 29153100 | 2025-02-11 | 2025-11-20 |
+| Marenthal France S.A.S. | Fatty alcohol ethoxylate (C12-14, 6 EO) | MP-000003 | IT | 13 | 78,000 KG | 38249996 | 2025-01-24 | 2025-12-15 |
+| Marenthal France S.A.S. | Filter cartridge 5 µm | FO-000002 | FR | 5 | 200 ST | - | 2025-03-05 | 2025-10-20 |
+| Marenthal France S.A.S. | Fourniture d'électricité du site | - | - | 56 | 118 ST | - | 2025-01-23 | 2026-01-12 |
+| Marenthal France S.A.S. | Fourniture de gaz naturel | - | - | 46 | 87 ST | - | 2025-01-09 | 2025-12-29 |
+| Marenthal France S.A.S. | GHS hazard pictogram label roll | FO-000006 | FR | 6 | 372 ST | - | 2025-03-13 | 2025-12-12 |
+| Marenthal France S.A.S. | GHS label set | EM-000010 | FR | 7 | 363,650 ST | 39231090 | 2025-03-06 | 2025-11-26 |
+| Marenthal France S.A.S. | Glycerol, technical grade | MC-000066 | CN | 4 | 1,140,000 KG | 29054500 | 2025-04-28 | 2026-01-22 |
+| Marenthal France S.A.S. | Hydrochloric acid (33 %), technical grade | MC-000059 | DE | 19 | 9,500,000 KG | 28061000 | 2025-03-04 | 2026-01-02 |
+| Marenthal France S.A.S. | Hébergement cloud de l'infrastructure | - | - | 34 | 63 ST | - | 2025-01-27 | 2025-12-17 |
+| Marenthal France S.A.S. | IBC container 1000 L | EM-000003 | DE | 1 | 2,250 ST | 39231090 | 2025-02-28 | 2025-02-28 |
+| Marenthal France S.A.S. | IBC container 1000 L | EM-000003 | FR | 6 | 13,500 ST | 39231090 | 2025-04-11 | 2025-12-09 |
+| Marenthal France S.A.S. | Iron(III) oxide | MP-000010 | DE | 1 | 18,800 KG | 38249996 | 2025-06-03 | 2025-06-03 |
+| Marenthal France S.A.S. | Iron(III) oxide | MP-000010 | FR | 10 | 188,000 KG | 38249996 | 2025-02-21 | 2026-01-09 |
+| Marenthal France S.A.S. | Iron(III) oxide | MP-000010 | IT | 1 | 18,800 KG | 38249996 | 2025-04-10 | 2025-04-10 |
+| Marenthal France S.A.S. | Isophorone diisocyanate | MP-000027 | DE | 11 | 986,000 KG | 38249996 | 2025-03-07 | 2026-01-05 |
+| Marenthal France S.A.S. | Isopropanol, technical grade | MC-000052 | BE | 9 | 403,000 KG | 29051200 | 2025-02-12 | 2026-01-19 |
+| Marenthal France S.A.S. | Jeux de joints pour agitateurs | - | - | 131 | 1,462 ST | - | 2025-01-14 | 2026-01-15 |
+| Marenthal France S.A.S. | Lubrifiants et consommables | - | - | 112 | 4,850 ST | - | 2025-01-16 | 2025-12-24 |
+| Marenthal France S.A.S. | Maintenance des licences ERP | - | - | 28 | 45 ST | - | 2025-01-27 | 2025-12-19 |
+| Marenthal France S.A.S. | Maleic anhydride | MP-000026 | FR | 14 | 4,130,000 KG | 38249996 | 2025-01-24 | 2026-01-08 |
+| Marenthal France S.A.S. | Marenbase 1003 neutralising agent | MC-000012 | DE | 8 | 184,000 KG | 38249996 | 2025-02-13 | 2026-01-09 |
+| Marenthal France S.A.S. | Marenclean A 207 alkaline industrial cleaner | MC-000017 | DE | 7 | 1,589,000 KG | 34029090 | 2025-02-28 | 2025-12-11 |
+| Marenthal France S.A.S. | Marenclean A 238 alkaline industrial cleaner | MC-000018 | DE | 8 | 768,000 KG | 34029090 | 2025-02-21 | 2025-12-24 |
+| Marenthal France S.A.S. | Marenclean B 1006 chlorine-based cleaner | MC-000028 | DE | 7 | 924,000 KG | 28289090 | 2025-03-07 | 2025-09-30 |
+| Marenthal France S.A.S. | Marenclean C 1305 CIP cleaner | MC-000030 | US | 7 | 756,000 KG | 34029090 | 2025-02-17 | 2025-12-03 |
+| Marenthal France S.A.S. | Marenclean D 703 disinfectant cleaner | MC-000025 | CN | 3 | 39,000 KG | 38089490 | 2025-06-06 | 2026-01-08 |
+| Marenthal France S.A.S. | Marenclean E 504 degreaser | MC-000021 | CN | 5 | 625,000 KG | 34029090 | 2025-04-25 | 2026-01-19 |
+| Marenthal France S.A.S. | Marenclean E 537 degreaser | MC-000022 | DE | 8 | 560,000 KG | 34029090 | 2025-02-12 | 2025-12-18 |
+| Marenthal France S.A.S. | Marenclean G 800 glass cleaner | MC-000026 | CN | 5 | 1,380,000 KG | 34022090 | 2025-06-05 | 2026-01-07 |
+| Marenthal France S.A.S. | Marenclean H 637 hand cleaner | MC-000024 | DE | 7 | 301,000 KG | 34022090 | 2025-02-25 | 2025-12-17 |
+| Marenthal France S.A.S. | Marenclean O 1100 active oxygen cleaner (powder) | MC-000029 | US | 5 | 56,000 KG | 28369990 | 2025-02-21 | 2026-01-26 |
+| Marenthal France S.A.S. | Marenclean R 1402 rust remover | MC-000031 | US | 6 | 276,000 KG | 34029090 | 2025-04-08 | 2025-12-12 |
+| Marenthal France S.A.S. | Marenclean S 301 descaler | MC-000019 | DE | 7 | 476,000 KG | 34029090 | 2025-02-13 | 2025-12-05 |
+| Marenthal France S.A.S. | Marenclean U 101 all-purpose cleaner | MC-000015 | US | 7 | 637,000 KG | 34022090 | 2025-02-21 | 2025-11-24 |
+| Marenthal France S.A.S. | Marenclean U 134 all-purpose cleaner | MC-000016 | US | 9 | 558,000 KG | 34022090 | 2025-02-11 | 2026-01-23 |
+| Marenthal France S.A.S. | Marenclean Z 904 citrus cleaner | MC-000027 | DE | 7 | 574,000 KG | 34022090 | 2025-02-24 | 2025-11-28 |
+| Marenthal France S.A.S. | Marencoat AF 309 acrylic facade paint | MC-000032 | US | 6 | 184,000 KG | 32091000 | 2025-02-12 | 2025-06-20 |
+| Marenthal France S.A.S. | Marencoat AF 333 acrylic facade paint | MC-000033 | CN | 4 | 196,000 KG | 32091000 | 2025-04-11 | 2025-09-17 |
+| Marenthal France S.A.S. | Marencoat AI 436 interior emulsion paint | MC-000034 | CN | 5 | 170,000 KG | 32091000 | 2025-04-22 | 2026-02-02 |
+| Marenthal France S.A.S. | Marencoat AL 603 alkyd enamel | MC-000037 | DE | 7 | 63,000 KG | 32089019 | 2025-02-14 | 2025-12-10 |
+| Marenthal France S.A.S. | Marencoat AL 634 alkyd enamel | MC-000038 | CN | 4 | 116,000 KG | 32089019 | 2025-04-24 | 2025-11-24 |
+| Marenthal France S.A.S. | Marencoat DB 1303 roof coating | MC-000044 | DE | 8 | 160,000 KG | 32091000 | 2025-02-28 | 2025-12-08 |
+| Marenthal France S.A.S. | Marencoat DB 1333 roof coating | MC-000045 | US | 8 | 448,000 KG | 32091000 | 2025-03-17 | 2026-01-23 |
+| Marenthal France S.A.S. | Marencoat EK 1001 2K clear epoxy coating (component A) | MC-000042 | DE | 3 | 1,400 KG | 32089091 | 2025-12-10 | 2025-12-23 |
+| Marenthal France S.A.S. | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | CN | 4 | 24,000 KG | 32089091 | 2025-04-28 | 2025-11-12 |
+| Marenthal France S.A.S. | Marencoat HL 509 water-based wood coating | MC-000035 | US | 5 | 55,000 KG | 32091000 | 2025-03-12 | 2025-10-31 |
+| Marenthal France S.A.S. | Marencoat HL 533 water-based wood coating | MC-000036 | DE | 6 | 157,000 KG | 32091000 | 2025-02-26 | 2025-08-08 |
+| Marenthal France S.A.S. | Marencoat PH 1102 epoxy hardener (component B) | MC-000043 | DE | 7 | 25,600 KG | 38249996 | 2025-03-05 | 2026-01-08 |
+| Marenthal France S.A.S. | Marencoat RS 703 anticorrosive primer | MC-000039 | DE | 6 | 348,000 KG | 32089091 | 2025-03-11 | 2025-12-03 |
+| Marenthal France S.A.S. | Marencoat RS 730 anticorrosive primer | MC-000040 | US | 4 | 33,800 KG | 32089091 | 2025-03-21 | 2025-12-19 |
+| Marenthal France S.A.S. | Marencoat TG 1400 penetrating primer | MC-000046 | US | 8 | 824,000 KG | 32091000 | 2025-02-12 | 2026-01-28 |
+| Marenthal France S.A.S. | Marencoat TG 1438 penetrating primer | MC-000047 | DE | 7 | 455,000 KG | 32091000 | 2025-02-12 | 2025-11-19 |
+| Marenthal France S.A.S. | Marendisp 305 dispersing agent | MC-000003 | US | 7 | 133,000 KG | 39069090 | 2025-02-20 | 2025-12-22 |
+| Marenthal France S.A.S. | Marendisp 332 dispersing agent | MC-000004 | DE | 8 | 736,000 KG | 39069090 | 2025-02-14 | 2025-12-22 |
+| Marenthal France S.A.S. | Marenemul 731 emulsifier | MC-000008 | DE | 5 | 3,700 KG | 34021190 | 2025-02-27 | 2025-11-28 |
+| Marenthal France S.A.S. | Marenflex 906 plasticizer | MC-000010 | DE | 6 | 150,000 KG | 38122000 | 2025-02-27 | 2025-11-05 |
+| Marenthal France S.A.S. | Marenfoam 133 defoamer | MC-000005 | DE | 6 | 162,000 KG | 39100000 | 2025-02-21 | 2025-11-13 |
+| Marenthal France S.A.S. | Marenglide 953 lubricant additive | MC-000011 | US | 8 | 272,000 KG | 34039900 | 2025-03-17 | 2026-01-08 |
+| Marenthal France S.A.S. | Marenpaste 237 pigment preparation | MC-000014 | US | 7 | 84,000 KG | 32129000 | 2025-02-13 | 2026-01-21 |
+| Marenthal France S.A.S. | Marenprotect 806 preservative | MC-000009 | DE | 6 | 18,900 KG | 38089490 | 2025-04-07 | 2025-09-24 |
+| Marenthal France S.A.S. | Marensolv 302 degreasing spirit (solvent blend) | MC-000013 | CN | 5 | 420,000 KG | 38140090 | 2025-04-23 | 2026-01-08 |
+| Marenthal France S.A.S. | Marenthix 409 thickener | MC-000006 | DE | 7 | 847,000 KG | 39123900 | 2025-02-21 | 2025-10-23 |
+| Marenthal France S.A.S. | Marenwet 206 wetting agent | MC-000001 | DE | 7 | 434,000 KG | 34021390 | 2025-02-12 | 2025-11-28 |
+| Marenthal France S.A.S. | Marenwet 237 wetting agent | MC-000002 | CN | 4 | 120,000 KG | 34021390 | 2025-04-17 | 2025-11-21 |
+| Marenthal France S.A.S. | Methanol, technical grade | MC-000063 | US | 8 | 2,560,000 KG | 29051100 | 2025-02-14 | 2025-12-31 |
+| Marenthal France S.A.S. | Methoxypropyl acetate | MP-000009 | BE | 11 | 112,200 KG | 38249996 | 2025-02-10 | 2025-12-05 |
+| Marenthal France S.A.S. | Methoxypropyl acetate | MP-000009 | SE | 1 | 10,200 KG | 38249996 | 2025-09-02 | 2025-09-02 |
+| Marenthal France S.A.S. | Methyl ethyl ketone, technical grade | MC-000056 | NL | 9 | 522,000 KG | 29141200 | 2025-02-19 | 2025-12-17 |
+| Marenthal France S.A.S. | Methyl methacrylate, technical grade | MC-000048 | DE | 3 | 1,200 KG | 29161400 | 2025-03-06 | 2025-05-30 |
+| Marenthal France S.A.S. | Neopentyl glycol, technical grade | MC-000050 | DE | 8 | 128,000 KG | 29053980 | 2025-02-20 | 2025-11-07 |
+| Marenthal France S.A.S. | Nettoyage du site industriel | - | - | 53 | 91 ST | - | 2025-01-27 | 2026-01-02 |
+| Marenthal France S.A.S. | Nitrile protective gloves (pair) | FO-000001 | FR | 6 | 264 ST | - | 2025-03-20 | 2025-12-10 |
+| Marenthal France S.A.S. | Paper bag 25 kg | EM-000007 | FR | 7 | 123,550 ST | 39231090 | 2025-03-07 | 2026-01-07 |
+| Marenthal France S.A.S. | Pentaerythritol, technical grade | MC-000051 | DE | 8 | 488,000 KG | 29054200 | 2025-02-19 | 2026-01-09 |
+| Marenthal France S.A.S. | Phosphoric acid (75 %) | MP-000013 | FR | 13 | 1,183,000 KG | 38249996 | 2025-02-05 | 2026-01-08 |
+| Marenthal France S.A.S. | Phosphoric acid (75 %), technical grade | MC-000065 | US | 8 | 624,000 KG | 28092000 | 2025-02-20 | 2026-01-30 |
+| Marenthal France S.A.S. | Pièces de rechange pour pompes centrifuges | - | - | 138 | 631 ST | - | 2025-01-22 | 2025-12-31 |
+| Marenthal France S.A.S. | Plastic canister 25 L | EM-000004 | DE | 1 | 26,200 ST | 39231090 | 2025-09-05 | 2025-09-05 |
+| Marenthal France S.A.S. | Plastic canister 25 L | EM-000004 | FR | 7 | 183,400 ST | 39231090 | 2025-03-07 | 2025-12-12 |
+| Marenthal France S.A.S. | Plastic drum 200 L | EM-000002 | DE | 1 | 1,600 ST | 39231090 | 2025-09-05 | 2025-09-05 |
+| Marenthal France S.A.S. | Plastic drum 200 L | EM-000002 | FR | 6 | 9,600 ST | 39231090 | 2025-02-12 | 2025-11-28 |
+| Marenthal France S.A.S. | Prestation d'entreposage externe | - | - | 20 | 37 ST | - | 2025-03-07 | 2025-12-19 |
+| Marenthal France S.A.S. | Propylene glycol | MP-000012 | BE | 11 | 26,400 KG | 38249996 | 2025-02-17 | 2025-12-31 |
+| Marenthal France S.A.S. | Propylene glycol, technical grade | MC-000062 | DE | 7 | 574,000 KG | 29053200 | 2025-02-28 | 2025-11-28 |
+| Marenthal France S.A.S. | Robinetterie et vannes | - | - | 138 | 882 ST | - | 2025-01-21 | 2026-01-09 |
+| Marenthal France S.A.S. | Seal kit centrifugal pump | FO-000004 | FR | 6 | 84 ST | - | 2025-02-07 | 2025-12-05 |
+| Marenthal France S.A.S. | Serveur/composant réseau 1 | - | - | 1 | 1 ST | - | 2025-01-27 | 2025-01-27 |
+| Marenthal France S.A.S. | Serveur/composant réseau 13 | - | - | 1 | 1 ST | - | 2025-04-03 | 2025-04-03 |
+| Marenthal France S.A.S. | Serveur/composant réseau 5 | - | - | 1 | 1 ST | - | 2025-06-27 | 2025-06-27 |
+| Marenthal France S.A.S. | Serveur/composant réseau 6 | - | - | 1 | 1 ST | - | 2025-10-17 | 2025-10-17 |
+| Marenthal France S.A.S. | Services de support informatique | - | - | 36 | 98 ST | - | 2025-01-27 | 2025-12-22 |
+| Marenthal France S.A.S. | Shrink hood | EM-000011 | DE | 1 | 1,350 ST | 39231090 | 2025-10-27 | 2025-10-27 |
+| Marenthal France S.A.S. | Shrink hood | EM-000011 | FR | 6 | 8,100 ST | 39231090 | 2025-03-06 | 2025-12-31 |
+| Marenthal France S.A.S. | Sodium carbonate | MP-000016 | BE | 1 | 57,000 KG | 38249996 | 2025-03-28 | 2025-03-28 |
+| Marenthal France S.A.S. | Sodium carbonate | MP-000016 | FR | 9 | 513,000 KG | 38249996 | 2025-03-07 | 2025-11-21 |
+| Marenthal France S.A.S. | Sodium dodecyl sulfate | MP-000021 | DE | 1 | 3,400 KG | 38249996 | 2025-10-10 | 2025-10-10 |
+| Marenthal France S.A.S. | Sodium dodecyl sulfate | MP-000021 | IT | 10 | 34,000 KG | 38249996 | 2025-02-21 | 2026-01-06 |

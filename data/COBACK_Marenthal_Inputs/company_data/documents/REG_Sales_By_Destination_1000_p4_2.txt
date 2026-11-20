@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal Chemie AG (part 4 of 7)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| Germany (DE) | Methyl methacrylate, technical grade | 11000035 | 49 | 397,275 KG | 783,655 EUR |
+| Germany (DE) | Neopentyl glycol, technical grade | 11000038 | 22 | 84,000 KG | 157,825 EUR |
+| Germany (DE) | Pentaerythritol, technical grade | 11000039 | 55 | 852,600 KG | 1,447,666 EUR |
+| Germany (DE) | Phosphoric acid (75 %), technical grade | 12000051 | 60 | 1,223,000 KG | 1,196,475 EUR |
+| Germany (DE) | Propylene glycol, technical grade | 12000048 | 92 | 2,344,825 KG | 3,757,592 EUR |
+| Germany (DE) | Sodium hydroxide (50 %), technical grade | 12000050 | 121 | 5,354,700 KG | 2,581,741 EUR |
+| Germany (DE) | Styrene, technical grade | 12000031 | 20 | 200,600 KG | 236,889 EUR |
+| Germany (DE) | Sulfuric acid (96 %), technical grade | 12000046 | 85 | 9,009,900 KG | 965,531 EUR |
+| Germany (DE) | Titanium dioxide, technical grade | 12000053 | 140 | 891,850 KG | 3,220,343 EUR |
+| Germany (DE) | Toluene, technical grade | 12000043 | 81 | 1,551,500 KG | 1,451,396 EUR |
+| Germany (DE) | Triethylamine, technical grade | 12000035 | 5 | 13,550 KG | 26,716 EUR |
+| Germany (DE) | Vinyl acetate, technical grade | 12000030 | 34 | 300,300 KG | 534,841 EUR |
+| Germany (DE) | Xylene (isomer mixture), technical grade | 12000044 | 69 | 2,244,250 KG | 2,078,079 EUR |
+| Germany (DE) | n-Butyl acrylate, technical grade | 11000036 | 42 | 375,600 KG | 756,721 EUR |
+| Greece (GR) | Acetic acid, technical grade | 12000047 | 8 | 147,900 KG | 107,080 EUR |
+| Greece (GR) | Diethylenetriamine, technical grade | 12000036 | 6 | 67,500 KG | 175,568 EUR |
+| Greece (GR) | Isophorone diisocyanate, technical grade | 12000034 | 29 | 334,025 KG | 1,524,267 EUR |
+| Greece (GR) | Marenclean D 703 disinfectant cleaner | 12000014 | 8 | 79,700 KG | 133,474 EUR |
+| Greece (GR) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 4 | 130,000 KG | 179,146 EUR |
+| Greece (GR) | Marenclean U 101 all-purpose cleaner | 12000010 | 21 | 407,700 KG | 511,731 EUR |
+| Greece (GR) | Marencoat AF 309 acrylic facade paint | 12000020 | 24 | 152,525 KG | 541,693 EUR |
+| Greece (GR) | Marencoat AF 333 acrylic facade paint | 12000021 | 2 | 5,300 KG | 24,311 EUR |
+| Greece (GR) | Marencoat AL 634 alkyd enamel | 12000024 | 4 | 32,000 KG | 189,610 EUR |
+| Greece (GR) | Marencoat DB 1333 roof coating | 12000027 | 5 | 3,650 KG | 13,666 EUR |
+| Greece (GR) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 6 | 1,600 KG | 12,853 EUR |
+| Greece (GR) | Marencoat HL 509 water-based wood coating | 12000023 | 11 | 28,275 KG | 116,032 EUR |
+| Greece (GR) | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | 4 | 2,625 KG | 15,026 EUR |
+| Greece (GR) | Marencoat TG 1400 penetrating primer | 12000028 | 4 | 14,200 KG | 28,466 EUR |
+| Greece (GR) | Marendisp 332 dispersing agent | 11000002 | 4 | 2,400 KG | 9,542 EUR |
+| Greece (GR) | Marenflex 906 plasticizer | 11000010 | 6 | 27,575 KG | 122,171 EUR |
+| Greece (GR) | Marenglide 953 lubricant additive | 12000003 | 12 | 34,100 KG | 141,549 EUR |
+| Greece (GR) | Marenpaste 202 pigment preparation | 12000006 | 13 | 76,825 KG | 328,427 EUR |
+| Greece (GR) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 5 | 2,150 KG | 5,139 EUR |
+| Greece (GR) | Marenwet 206 wetting agent | 11000001 | 6 | 6,400 KG | 21,190 EUR |
+| Greece (GR) | Pentaerythritol, technical grade | 11000039 | 6 | 81,500 KG | 126,931 EUR |
+| Greece (GR) | Phosphoric acid (75 %), technical grade | 12000051 | 10 | 105,900 KG | 100,521 EUR |
+| Greece (GR) | Sodium hydroxide (50 %), technical grade | 12000050 | 7 | 560,000 KG | 270,798 EUR |
+| Greece (GR) | Styrene, technical grade | 12000031 | 11 | 171,400 KG | 200,003 EUR |
+| Greece (GR) | Vinyl acetate, technical grade | 12000030 | 15 | 369,600 KG | 569,235 EUR |
+| Hungary (HU) | Acetic acid, technical grade | 12000047 | 2 | 47,000 KG | 34,028 EUR |
+| Hungary (HU) | Calcium carbonate, technical grade | 12000054 | 4 | 373,000 KG | 41,735 EUR |
+| Hungary (HU) | Ethanol, technical grade | 12000039 | 12 | 108,500 KG | 114,434 EUR |
+| Hungary (HU) | Glycerol, technical grade | 12000052 | 4 | 4,700 KG | 5,085 EUR |
+| Hungary (HU) | Hydrochloric acid (33 %), technical grade | 12000045 | 8 | 385,500 KG | 53,584 EUR |
+| Hungary (HU) | Isopropanol, technical grade | 12000038 | 4 | 32,400 KG | 43,999 EUR |
+| Hungary (HU) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 1 | 9,500 KG | 13,134 EUR |
+| Hungary (HU) | Marenclean G 800 glass cleaner | 12000015 | 2 | 2,400 KG | 3,022 EUR |
+| Hungary (HU) | Marenclean R 1402 rust remover | 12000019 | 9 | 48,200 KG | 73,842 EUR |
+| Hungary (HU) | Marencoat AF 333 acrylic facade paint | 12000021 | 4 | 11,300 KG | 53,162 EUR |
+| Hungary (HU) | Marencoat DB 1303 roof coating | 11000030 | 13 | 25,000 KG | 103,300 EUR |
+| Hungary (HU) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 10 | 6,050 KG | 48,600 EUR |
+| Hungary (HU) | Marencoat HL 533 water-based wood coating | 11000023 | 19 | 104,525 KG | 445,032 EUR |
+| Hungary (HU) | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | 4 | 800 KG | 4,310 EUR |
+| Hungary (HU) | Marencoat RS 730 anticorrosive primer | 12000025 | 12 | 15,650 KG | 89,581 EUR |
+| Hungary (HU) | Marencoat TG 1400 penetrating primer | 12000028 | 14 | 71,400 KG | 131,733 EUR |
+| Hungary (HU) | Marenemul 731 emulsifier | 11000008 | 18 | 108,500 KG | 312,513 EUR |
+| Hungary (HU) | Marenflex 906 plasticizer | 11000010 | 7 | 5,325 KG | 25,476 EUR |
+| Hungary (HU) | Marenpaste 237 pigment preparation | 12000007 | 8 | 5,625 KG | 21,988 EUR |
+| Hungary (HU) | Marenphos 125 phosphating solution | 12000008 | 14 | 30,725 KG | 106,708 EUR |
+| Hungary (HU) | Methanol, technical grade | 12000049 | 14 | 338,400 KG | 142,016 EUR |
+| Hungary (HU) | Methyl methacrylate, technical grade | 11000035 | 2 | 12,500 KG | 27,262 EUR |
+| Hungary (HU) | Phosphoric acid (75 %), technical grade | 12000051 | 2 | 13,000 KG | 13,832 EUR |
+| Hungary (HU) | Sodium hydroxide (50 %), technical grade | 12000050 | 22 | 379,100 KG | 177,317 EUR |
+| Hungary (HU) | Titanium dioxide, technical grade | 12000053 | 4 | 17,700 KG | 68,110 EUR |
+| Ireland (IE) | Butyl acetate, technical grade | 12000041 | 16 | 99,800 KG | 138,615 EUR |
+| Ireland (IE) | Diethylenetriamine, technical grade | 12000036 | 21 | 210,200 KG | 488,089 EUR |
+| Ireland (IE) | Ethyl acetate, technical grade | 12000040 | 6 | 7,975 KG | 9,284 EUR |
+| Ireland (IE) | Hydrochloric acid (33 %), technical grade | 12000045 | 7 | 195,500 KG | 27,174 EUR |
+| Ireland (IE) | Isopropanol, technical grade | 12000038 | 16 | 204,400 KG | 247,802 EUR |
+| Ireland (IE) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 10 | 29,425 KG | 41,636 EUR |
+| Ireland (IE) | Marenclean H 637 hand cleaner | 11000019 | 6 | 4,625 KG | 7,714 EUR |
+| Ireland (IE) | Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | 10 | 28,100 KG | 54,458 EUR |
+| Ireland (IE) | Marencoat AF 309 acrylic facade paint | 12000020 | 3 | 675 KG | 2,687 EUR |
+| Ireland (IE) | Marencoat AL 603 alkyd enamel | 11000024 | 9 | 10,400 KG | 54,306 EUR |
+| Ireland (IE) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 6 | 1,725 KG | 13,857 EUR |
+| Ireland (IE) | Marencoat HL 509 water-based wood coating | 12000023 | 12 | 14,550 KG | 60,918 EUR |
+| Ireland (IE) | Marencoat HL 533 water-based wood coating | 11000023 | 4 | 2,000 KG | 9,506 EUR |
+| Ireland (IE) | Marencoat TG 1438 penetrating primer | 11000031 | 12 | 57,950 KG | 91,775 EUR |
+| Ireland (IE) | Marendisp 332 dispersing agent | 11000002 | 9 | 27,400 KG | 108,942 EUR |
+| Ireland (IE) | Marenflex 906 plasticizer | 11000010 | 17 | 62,675 KG | 281,104 EUR |
+| Ireland (IE) | Marenwet 206 wetting agent | 11000001 | 21 | 87,575 KG | 258,863 EUR |
+| Ireland (IE) | Propylene glycol, technical grade | 12000048 | 16 | 66,800 KG | 129,191 EUR |
+| Ireland (IE) | Sodium hydroxide (50 %), technical grade | 12000050 | 9 | 119,800 KG | 58,212 EUR |
+| Italy (IT) | Acetic acid, technical grade | 12000047 | 1 | 2,800 KG | 2,027 EUR |
+| Italy (IT) | Acrylic acid, technical grade | 12000032 | 10 | 72,800 KG | 144,201 EUR |
+| Italy (IT) | Ethyl acetate, technical grade | 12000040 | 24 | 182,575 KG | 205,438 EUR |
+| Italy (IT) | Hydrochloric acid (33 %), technical grade | 12000045 | 3 | 36,500 KG | 5,074 EUR |
+| Italy (IT) | Isophorone diisocyanate, technical grade | 12000034 | 23 | 27,775 KG | 143,872 EUR |
+| Italy (IT) | Isopropanol, technical grade | 12000038 | 5 | 39,400 KG | 53,505 EUR |
+| Italy (IT) | Maleic anhydride, technical grade | 12000033 | 9 | 32,100 KG | 62,434 EUR |
+| Italy (IT) | Marenbase 1003 neutralising agent | 11000011 | 1 | 2,500 KG | 16,608 EUR |
+| Italy (IT) | Marenclean H 637 hand cleaner | 11000019 | 1 | 8,000 KG | 13,344 EUR |
+| Italy (IT) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 2 | 5,500 KG | 8,833 EUR |
+| Italy (IT) | Marenclean S 301 descaler | 11000015 | 1 | 10,000 KG | 15,420 EUR |
+| Italy (IT) | Marencoat DB 1333 roof coating | 12000027 | 2 | 3,300 KG | 12,355 EUR |
+| Italy (IT) | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | 2 | 1,000 KG | 8,033 EUR |
+| Italy (IT) | Marencoat HL 533 water-based wood coating | 11000023 | 18 | 59,200 KG | 273,708 EUR |
+| Italy (IT) | Marencoat RS 730 anticorrosive primer | 12000025 | 3 | 1,250 KG | 7,155 EUR |
+| Italy (IT) | Marendisp 332 dispersing agent | 11000002 | 1 | 1,200 KG | 4,771 EUR |
+| Italy (IT) | Marenemul 731 emulsifier | 11000008 | 9 | 7,150 KG | 23,073 EUR |
+| Italy (IT) | Marenflex 906 plasticizer | 11000010 | 8 | 13,850 KG | 67,296 EUR |
+| Italy (IT) | Marenpaste 202 pigment preparation | 12000006 | 20 | 70,525 KG | 282,011 EUR |
+| Italy (IT) | Marenpaste 237 pigment preparation | 12000007 | 9 | 17,625 KG | 69,204 EUR |
+| Italy (IT) | Marensolv 108 thinner (solvent blend) | 12000004 | 1 | 700 KG | 1,742 EUR |
+| Italy (IT) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 18 | 35,450 KG | 84,892 EUR |
+| Italy (IT) | Marenwet 206 wetting agent | 11000001 | 1 | 1,300 KG | 4,304 EUR |
+| Italy (IT) | Pentaerythritol, technical grade | 11000039 | 4 | 16,600 KG | 29,681 EUR |
+| Italy (IT) | Phosphoric acid (75 %), technical grade | 12000051 | 12 | 70,775 KG | 75,305 EUR |
+| Italy (IT) | Sodium hydroxide (50 %), technical grade | 12000050 | 22 | 308,200 KG | 145,846 EUR |
+| Italy (IT) | Sulfuric acid (96 %), technical grade | 12000046 | 1 | 121,000 KG | 13,165 EUR |
+| Italy (IT) | Titanium dioxide, technical grade | 12000053 | 13 | 23,975 KG | 92,256 EUR |
+| Italy (IT) | Vinyl acetate, technical grade | 12000030 | 16 | 119,325 KG | 205,972 EUR |
+| Italy (IT) | Xylene (isomer mixture), technical grade | 12000044 | 24 | 445,100 KG | 475,424 EUR |
+| Kenya (KE) | Acetic acid, technical grade | 12000047 | 4 | 144,300 KG | 102,377 USD |
+| Kenya (KE) | Acetic acid, technical grade | 12000047 | 4 | 74,500 KG | 53,938 EUR |
+| Kenya (KE) | Ethanol, technical grade | 12000039 | 14 | 297,700 KG | 329,821 USD |
+| Kenya (KE) | Hydrochloric acid (33 %), technical grade | 12000045 | 10 | 512,500 KG | 64,411 EUR |
+| Kenya (KE) | Isophorone diisocyanate, technical grade | 12000034 | 4 | 9,775 KG | 50,261 EUR |
+| Kenya (KE) | Maleic anhydride, technical grade | 12000033 | 18 | 205,600 KG | 382,282 EUR |
+| Kenya (KE) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 3 | 15,800 KG | 20,058 EUR |

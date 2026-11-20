@@ -1,0 +1,112 @@
+# Register of material batches by country of origin - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Company | Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 1,2-Benzisothiazolin-3-one | 4030000004 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 2-Butoxyethanol | 4030000010 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 2-Ethylhexyl acrylate, technical grade | 4020000040 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Acetic acid, technical grade | 4020000056 | Netherlands (NL) | 10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Acrylic acid, technical grade | 4020000043 | France (FR) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ammonia solution (25 %) | 4030000013 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ammonia solution (25 %) | 4030000013 | South Korea (KR) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Barium sulfate | 4030000026 | China (CN) | 12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Barium sulfate | 4030000026 | Germany (DE) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Benzalkonium chloride | 4030000012 | China (CN) | 12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Benzalkonium chloride | 4030000012 | Japan (JP) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Bisphenol-A epoxy resin | 4030000024 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Bisphenol-A epoxy resin | 4030000024 | Germany (DE) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Butyl acetate, technical grade | 4020000050 | Germany (DE) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Calcium carbonate | 4030000015 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Calcium carbonate, technical grade | 4020000063 | China (CN) | 11 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Diethylenetriamine, technical grade | 4020000046 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Dipropylene glycol | 4030000003 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ethanol, technical grade | 4020000048 | Belgium (BE) | 8 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ethyl acetate, technical grade | 4020000049 | Netherlands (NL) | 9 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Fatty alcohol ethoxylate (C12-14, 6 EO) | 4030000009 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Glycerol, technical grade | 4020000060 | China (CN) | 10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydrocarbon solvent (hydrotreated heavy naphtha) | 4030000005 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydrochloric acid (33 %), technical grade | 4020000054 | Germany (DE) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydroxyethyl cellulose | 4030000021 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydroxyethyl cellulose | 4030000021 | South Korea (KR) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isophorone diisocyanate, technical grade | 4020000045 | France (FR) | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isopropanol | 4030000008 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isopropanol, technical grade | 4020000047 | Belgium (BE) | 10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Linseed oil | 4030000022 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Maleic anhydride, technical grade | 4020000044 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenbase 1003 neutralising agent | 4020000009 | Germany (DE) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | Germany (DE) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean B 1006 chlorine-based cleaner | 4020000022 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean C 1305 CIP cleaner | 4020000025 | United States (US) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean D 703 disinfectant cleaner | 4010000004 | China (CN) | 225 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 504 degreaser | 4010000003 | China (CN) | 129 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | Germany (DE) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean G 800 glass cleaner | 4010000005 | China (CN) | 816 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | United States (US) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean P 404 phosphoric acid cleaner | 4020000018 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean R 1402 rust remover | 4020000026 | United States (US) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean S 301 descaler | 4020000017 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | United States (US) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclear 406 dechlorinating agent | 4020000014 | France (FR) | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | United States (US) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 333 acrylic facade paint | 4010000006 | China (CN) | 169 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AI 436 interior emulsion paint | 4010000008 | China (CN) | 39 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AL 603 alkyd enamel | 4020000030 | Germany (DE) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AL 634 alkyd enamel | 4010000009 | China (CN) | 201 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat DB 1333 roof coating | 4020000035 | United States (US) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat EP 806 2K epoxy primer (component A) | 4010000010 | China (CN) | 50 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat HL 509 water-based wood coating | 4020000028 | United States (US) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat HL 533 water-based wood coating | 4020000029 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat PH 1102 epoxy hardener (component B) | 4020000033 | Germany (DE) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat RS 703 anticorrosive primer | 4020000031 | Germany (DE) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat RS 730 anticorrosive primer | 4020000032 | United States (US) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat TG 1400 penetrating primer | 4020000036 | United States (US) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat TG 1438 penetrating primer | 4020000037 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marendisp 305 dispersing agent | 4020000002 | United States (US) | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marendisp 332 dispersing agent | 4020000003 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenemul 731 emulsifier | 4020000005 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenflex 906 plasticizer | 4020000007 | Germany (DE) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenfoam 133 defoamer | 4020000004 | Germany (DE) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenglide 953 lubricant additive | 4020000008 | United States (US) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenpaste 202 pigment preparation | 4020000011 | France (FR) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenpaste 237 pigment preparation | 4020000012 | United States (US) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenphos 125 phosphating solution | 4020000013 | France (FR) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenprotect 806 preservative | 4020000006 | Germany (DE) | 3 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marensolv 108 thinner (solvent blend) | 4020000010 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | China (CN) | 253 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenwet 206 wetting agent | 4020000001 | Germany (DE) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenwet 237 wetting agent | 4010000001 | China (CN) | 172 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Methanol, technical grade | 4020000057 | United States (US) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Methyl ethyl ketone, technical grade | 4020000051 | Netherlands (NL) | 10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Monoethanolamine | 4030000011 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Phosphoric acid (75 %), technical grade | 4020000059 | United States (US) | 7 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Polydimethylsiloxane | 4030000020 | China (CN) | 12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Polydimethylsiloxane | 4030000020 | South Korea (KR) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Propylene glycol | 4030000019 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Rosin (colophony) | 4030000023 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Sodium dodecylbenzenesulfonate | 4030000002 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Sodium hydroxide (50 %), technical grade | 4020000058 | United States (US) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Styrene, technical grade | 4020000042 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Styrene-acrylate copolymer dispersion | 4030000014 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Styrene-acrylate copolymer dispersion | 4030000014 | Germany (DE) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Sulfuric acid (96 %), technical grade | 4020000055 | Germany (DE) | 6 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Talc | 4030000017 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Talc | 4030000017 | Germany (DE) | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Titanium dioxide | 4030000016 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Titanium dioxide, technical grade | 4020000061 | Germany (DE) | 10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Toluene, technical grade | 4020000052 | Germany (DE) | 3 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Vinyl acetate, technical grade | 4020000041 | France (FR) | 5 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Water (demineralised) | 4030000001 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Xylene (isomer mixture) | 4030000025 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Xylene (isomer mixture), technical grade | 4020000053 | Germany (DE) | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Zinc oxide | 4030000018 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Zinc phosphate | 4030000028 | China (CN) | 13 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | d-Limonene | 4030000007 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | n-Butanol | 4030000027 | China (CN) | 14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | n-Butyl acrylate, technical grade | 4020000038 | Germany (DE) | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | n-Heptane | 4030000006 | China (CN) | 13 |

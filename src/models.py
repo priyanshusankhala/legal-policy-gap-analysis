@@ -1,9 +1,10 @@
 """
-Pydantic data models for Coback Compliance Analysis (NIS2 / BSIG).
+Domain models for Regulatory Compliance Analysis.
 Strictly separates:
-- Target legal requirements (Soll)
-- Actual company evidence (Ist)
-- Compliance state (met | open | evidence_missing)
+- Statutory components (Teilpflichten)
+- Component-level statuses (Supported, Shortfall, Insufficient, Conflicting)
+- Document exclusion & limitation logs
+- Aggregated duty state (met | open | evidence_missing)
 """
 from enum import Enum
 from typing import List, Optional
@@ -12,27 +13,43 @@ from pydantic import BaseModel, Field
 
 class ComplianceState(str, Enum):
     MET = "met"
-    OPEN = "open"  # Confirmed gap / shortfall backed by reviewed evidence
+    OPEN = "open"  # Confirmed shortfall backed by reviewed evidence
     EVIDENCE_MISSING = "evidence_missing"  # Unresolved, silent, or missing operational proof
 
 
-class EvidenceItem(BaseModel):
-    source_id: str = Field(..., description="Document ID or file path")
+class ComponentStatus(str, Enum):
+    SUPPORTED = "supported"
+    CONFIRMED_SHORTFALL = "confirmed_shortfall"
+    INSUFFICIENT_EVIDENCE = "insufficient_evidence"
+    CONFLICTING = "conflicting_evidence"
+
+
+class EvidenceCitation(BaseModel):
+    source_id: str
     document_title: str
+    file_path: str
     version: Optional[str] = None
     date: Optional[str] = None
     status: Optional[str] = None
-    exact_passage: str = Field(..., description="Exact verbatim quote from the evidence")
-    location: str = Field(..., description="Line number, table row, or JSON path")
-    demonstrates: str = Field(..., description="What this evidence actually demonstrates")
+    exact_passage: str
+    location: str
+    demonstrates: str
 
 
-class SupportedGap(BaseModel):
-    duty_id: str
-    duty_title: str
-    shortfall_description: str
-    basis_of_finding: str
-    evidence_citation: EvidenceItem
+class ExclusionLogItem(BaseModel):
+    source_id: str
+    file_path: str
+    disposition: str  # historical_only | limited_support | relevant
+    reason: str
+
+
+class DutyComponent(BaseModel):
+    component_id: str
+    name: str
+    status: ComponentStatus
+    rationale: str
+    citations: List[EvidenceCitation] = Field(default_factory=list)
+    limitations: List[str] = Field(default_factory=list)
 
 
 class EvidenceRequest(BaseModel):
@@ -49,19 +66,18 @@ class DutyComplianceResult(BaseModel):
     duty_title: str
     state: ComplianceState
     reason: str
-    supported_aspects: List[str] = Field(default_factory=list)
-    shortfall_or_missing_aspects: List[str] = Field(default_factory=list)
-    available_evidence: List[EvidenceItem] = Field(default_factory=list)
+    components: List[DutyComponent]
+    exclusion_log: List[ExclusionLogItem] = Field(default_factory=list)
     actionable_request: Optional[EvidenceRequest] = None
 
 
 class ComplianceAssessmentReport(BaseModel):
     assessment_entity: str
     entity_id: str
-    data_snapshot_date: str
+    as_of_date: str
     analysis_date: str
     total_duties_assessed: int
     results: List[DutyComplianceResult]
-    supported_gaps: List[SupportedGap]
+    supported_gaps: List[dict]
     evidence_requests: List[EvidenceRequest]
     sources_reviewed_summary: List[str]

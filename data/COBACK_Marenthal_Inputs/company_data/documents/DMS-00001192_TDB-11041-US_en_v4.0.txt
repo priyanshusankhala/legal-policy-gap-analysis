@@ -1,0 +1,36 @@
+
+
+Technical Data Sheet Marencoat TG 1400 penetrating
+primer
+Technisches Datenblatt
+Document no.
+DMS-00001192
+Version
+4.0
+Valid from
+2025-09-29
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat TG 1400 penetrating primer
+Family: Coatings
+Applications: Architectural paints
+Description: Verfestigende Grundierung saugender Untergründe
+Hazardous: 0
+SDS available: 1
+Density: 1.007
+HS: 3209100000
+Origin: US
+Composition
+Water (demineralised): 76.8–93.8 %
+Styrene-acrylate copolymer dispersion: 12.2–14.9 %
+Propylene glycol: 0.43–1.29 %
+2-Phenoxyethanol: 0.145–0.435 %
+1,2-Benzisothiazolin-3-one: 0.025–0.075 %

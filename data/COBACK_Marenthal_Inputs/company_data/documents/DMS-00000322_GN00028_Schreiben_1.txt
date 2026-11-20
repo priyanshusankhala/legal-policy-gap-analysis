@@ -1,0 +1,22 @@
+重大变更报告 – 消防验收 (BS-NGB-2017/109)
+Behördenkorrespondenz
+
+文件编号: DMS-00000322
+版本: 1.0
+生效日期: 2023-10-06
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-002
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 消防验收
+nummer: BS-NGB-2017/109
+behoerde: 宁波市消防救援支队
+erteilt_am: 2022-07-06
+gueltig_bis: 2027-07-19
+status: gültig
+auflagen: Lagerklassen und Mengen gemäß Bescheid; jährliche Brandschau.

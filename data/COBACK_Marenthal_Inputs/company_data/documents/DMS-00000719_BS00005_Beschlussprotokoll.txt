@@ -1,0 +1,28 @@
+
+
+Beschlussprotokoll Lokale Geschäftsführung:
+Bestellung eines Gefahrgutbeauftragten am Standort
+Duisburg
+Beschlussprotokoll
+Dokumentnummer
+DMS-00000719
+Version
+1.0
+Gültig ab
+2025-03-27
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Restricted
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Beschluss
+gremium: Lokale Geschäftsführung
+datum: 2025-03-27
+titel: Bestellung eines Gefahrgutbeauftragten am Standort Duisburg
+inhalt: Die lokale Geschäftsführung bestellt einen Gefahrgutbeauftragten für das Zentrallager Duisburg.
+status: gefasst
+bezug: Bericht BR00019

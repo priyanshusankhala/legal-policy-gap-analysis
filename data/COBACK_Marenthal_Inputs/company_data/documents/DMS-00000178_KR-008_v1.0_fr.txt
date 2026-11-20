@@ -1,0 +1,41 @@
+
+
+Politique de protection des données
+Konzernrichtlinie
+N° du document
+DMS-00000178
+Version
+1.0
+Valable depuis
+2022-08-30
+Société
+Marenthal Chemie AG
+Statut
+Superseded
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « Datenschutz » pour Marenthal Chemie AG.
+Elle s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires
+commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinie
+nummer: KR-008
+titel: Datenschutzrichtlinie
+thema: Datenschutz
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-12-31
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.0
+sprache: fr
+status: Ersetzt
+gueltig_ab: 2022-08-30
+gueltig_bis: 2024-06-17
+freigabe_datum: 2022-08-30
+aenderungsgrund: Erstfassung

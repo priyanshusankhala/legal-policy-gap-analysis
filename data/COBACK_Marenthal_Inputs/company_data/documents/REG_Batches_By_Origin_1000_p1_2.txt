@@ -1,0 +1,128 @@
+# Register of material batches by country of origin - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one | 13000004 | Belgium (BE) | 4 |
+| 1,2-Benzisothiazolin-3-one | 13000004 | Germany (DE) | 20 |
+| 2-Butoxyethanol | 13000027 | Germany (DE) | 3 |
+| 2-Butoxyethanol | 13000027 | Netherlands (NL) | 9 |
+| 2-Butoxyethanol | 13000027 | Poland (PL) | 1 |
+| 2-Butoxyethanol | 13000027 | Sweden (SE) | 1 |
+| 2-Dimethylaminoethanol | 13000021 | France (FR) | 1 |
+| 2-Dimethylaminoethanol | 13000021 | Italy (IT) | 1 |
+| 2-Dimethylaminoethanol | 13000021 | Netherlands (NL) | 11 |
+| 2-Ethylhexyl acrylate, technical grade | 12000029 | France (FR) | 8 |
+| 2-Phenoxyethanol | 13000013 | Italy (IT) | 25 |
+| 2-Phenoxyethanol | 13000013 | Netherlands (NL) | 2 |
+| Acetic acid, technical grade | 12000047 | Netherlands (NL) | 10 |
+| Acetone, technical grade | 12000037 | Netherlands (NL) | 2 |
+| Acrylic acid, technical grade | 12000032 | France (FR) | 9 |
+| Aluminium hydroxide | 13000053 | Germany (DE) | 14 |
+| Barium sulfate | 13000043 | France (FR) | 1 |
+| Barium sulfate | 13000043 | Germany (DE) | 2 |
+| Barium sulfate | 13000043 | Poland (PL) | 10 |
+| Benzyl alcohol | 13000023 | China (CN) | 1 |
+| Benzyl alcohol | 13000023 | Germany (DE) | 13 |
+| Bisphenol-A epoxy resin | 13000042 | Germany (DE) | 1 |
+| Butyl acetate | 13000046 | Spain (ES) | 1 |
+| Butyl acetate, technical grade | 12000041 | Germany (DE) | 10 |
+| Calcium carbonate, technical grade | 12000054 | China (CN) | 20 |
+| Citric acid | 13000026 | Belgium (BE) | 1 |
+| Citric acid | 13000026 | Germany (DE) | 13 |
+| Cocamidopropyl betaine | 13000017 | Germany (DE) | 1 |
+| Cocamidopropyl betaine | 13000017 | Italy (IT) | 26 |
+| Diethylenetriamine | 13000049 | Germany (DE) | 13 |
+| Diethylenetriamine, technical grade | 12000036 | France (FR) | 8 |
+| Dioctyl terephthalate | 13000019 | Germany (DE) | 1 |
+| Dioctyl terephthalate | 13000019 | Italy (IT) | 2 |
+| Dioctyl terephthalate | 13000019 | Netherlands (NL) | 11 |
+| Dipropylene glycol | 13000003 | France (FR) | 1 |
+| Dipropylene glycol | 13000003 | Germany (DE) | 1 |
+| Dipropylene glycol | 13000003 | Spain (ES) | 11 |
+| Epoxidised soybean oil | 13000020 | China (CN) | 1 |
+| Epoxidised soybean oil | 13000020 | Netherlands (NL) | 12 |
+| Ethanol, technical grade | 12000039 | Belgium (BE) | 10 |
+| Ethyl acetate, technical grade | 12000040 | Netherlands (NL) | 10 |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | France (FR) | 2 |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | Italy (IT) | 2 |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | Netherlands (NL) | 23 |
+| Glycerol | 13000031 | Germany (DE) | 13 |
+| Glycerol | 13000031 | Sweden (SE) | 1 |
+| Glycerol, technical grade | 12000052 | China (CN) | 8 |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) | 13000037 | France (FR) | 1 |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) | 13000037 | Spain (ES) | 12 |
+| Hydrochloric acid (33 %), technical grade | 12000045 | Germany (DE) | 10 |
+| Iron(III) oxide | 13000040 | Netherlands (NL) | 1 |
+| Iron(III) oxide | 13000040 | Poland (PL) | 11 |
+| Iron(III) oxide | 13000040 | Spain (ES) | 1 |
+| Isophorone diisocyanate, technical grade | 12000034 | France (FR) | 8 |
+| Isopropanol | 13000028 | Belgium (BE) | 12 |
+| Isopropanol | 13000028 | Germany (DE) | 1 |
+| Isopropanol | 13000028 | Netherlands (NL) | 1 |
+| Isopropanol, technical grade | 12000038 | Belgium (BE) | 10 |
+| Kaolin | 13000048 | France (FR) | 1 |
+| Kaolin | 13000048 | Germany (DE) | 11 |
+| Kaolin | 13000048 | Spain (ES) | 1 |
+| Linseed oil | 13000038 | China (CN) | 1 |
+| Linseed oil | 13000038 | Germany (DE) | 1 |
+| Linseed oil | 13000038 | Netherlands (NL) | 11 |
+| Maleic anhydride, technical grade | 12000033 | France (FR) | 8 |
+| Marenbase 1003 neutralising agent | 11000011 | Germany (DE) | 77 |
+| Marenclean A 207 alkaline industrial cleaner | 11000013 | Germany (DE) | 314 |
+| Marenclean A 238 alkaline industrial cleaner | 11000014 | Germany (DE) | 303 |
+| Marenclean B 1006 chlorine-based cleaner | 11000021 | Germany (DE) | 241 |
+| Marenclean C 1305 CIP cleaner | 12000018 | United States (US) | 8 |
+| Marenclean D 703 disinfectant cleaner | 12000014 | China (CN) | 6 |
+| Marenclean E 504 degreaser | 12000013 | China (CN) | 5 |
+| Marenclean E 537 degreaser | 11000017 | Germany (DE) | 249 |
+| Marenclean G 800 glass cleaner | 12000015 | China (CN) | 5 |
+| Marenclean H 602 hand cleaner | 11000018 | Germany (DE) | 1 |
+| Marenclean H 637 hand cleaner | 11000019 | Germany (DE) | 362 |
+| Marenclean M 1200 machine cleaner (powder) | 12000017 | France (FR) | 8 |
+| Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | United States (US) | 9 |
+| Marenclean P 404 phosphoric acid cleaner | 12000012 | France (FR) | 9 |
+| Marenclean R 1402 rust remover | 12000019 | United States (US) | 8 |
+| Marenclean S 301 descaler | 11000015 | Germany (DE) | 224 |
+| Marenclean S 331 descaler | 11000016 | Germany (DE) | 2 |
+| Marenclean U 101 all-purpose cleaner | 12000010 | United States (US) | 8 |
+| Marenclean U 134 all-purpose cleaner | 12000011 | United States (US) | 8 |
+| Marenclean Z 904 citrus cleaner | 11000020 | Germany (DE) | 212 |
+| Marenclear 406 dechlorinating agent | 12000009 | France (FR) | 8 |
+| Marencoat AF 309 acrylic facade paint | 12000020 | United States (US) | 9 |
+| Marencoat AF 333 acrylic facade paint | 12000021 | China (CN) | 5 |
+| Marencoat AI 436 interior emulsion paint | 12000022 | China (CN) | 6 |
+| Marencoat AL 603 alkyd enamel | 11000024 | Germany (DE) | 326 |
+| Marencoat AL 634 alkyd enamel | 12000024 | China (CN) | 4 |
+| Marencoat DB 1303 roof coating | 11000030 | Germany (DE) | 219 |
+| Marencoat DB 1333 roof coating | 12000027 | United States (US) | 8 |
+| Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | Germany (DE) | 1 |
+| Marencoat EP 806 2K epoxy primer (component A) | 12000026 | China (CN) | 5 |
+| Marencoat HL 509 water-based wood coating | 12000023 | United States (US) | 7 |
+| Marencoat HL 533 water-based wood coating | 11000023 | Germany (DE) | 342 |
+| Marencoat PH 1102 epoxy hardener (component B) | 11000028 | Germany (DE) | 79 |
+| Marencoat RS 703 anticorrosive primer | 11000025 | Germany (DE) | 67 |
+| Marencoat RS 730 anticorrosive primer | 12000025 | United States (US) | 8 |
+| Marencoat TG 1400 penetrating primer | 12000028 | United States (US) | 8 |
+| Marencoat TG 1438 penetrating primer | 11000031 | Germany (DE) | 302 |
+| Marendisp 305 dispersing agent | 12000002 | United States (US) | 8 |
+| Marendisp 332 dispersing agent | 11000002 | Germany (DE) | 147 |
+| Marenemul 702 emulsifier | 11000007 | Germany (DE) | 1 |
+| Marenemul 731 emulsifier | 11000008 | Germany (DE) | 195 |
+| Marenflex 906 plasticizer | 11000010 | Germany (DE) | 34 |
+| Marenfoam 133 defoamer | 11000003 | Germany (DE) | 90 |
+| Marenglide 953 lubricant additive | 12000003 | United States (US) | 8 |
+| Marenpaste 202 pigment preparation | 12000006 | France (FR) | 8 |
+| Marenpaste 237 pigment preparation | 12000007 | United States (US) | 8 |
+| Marenphos 125 phosphating solution | 12000008 | France (FR) | 8 |
+| Marenprotect 806 preservative | 11000009 | Germany (DE) | 50 |
+| Marensolv 108 thinner (solvent blend) | 12000004 | France (FR) | 8 |
+| Marensolv 302 degreasing spirit (solvent blend) | 12000005 | China (CN) | 5 |
+| Marenthix 409 thickener | 11000004 | Germany (DE) | 614 |
+| Marenwet 206 wetting agent | 11000001 | Germany (DE) | 326 |
+| Marenwet 237 wetting agent | 12000001 | China (CN) | 5 |
+| Methanol, technical grade | 12000049 | United States (US) | 13 |
+| Methoxypropyl acetate | 13000047 | Belgium (BE) | 1 |

@@ -1,0 +1,35 @@
+
+
+Technical Data Sheet Marenfoam 133 defoamer
+Technisches Datenblatt
+Document no.
+DMS-00000745
+Version
+7.3
+Valid from
+2025-04-15
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenfoam 133 defoamer
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Process water, Paper chemicals
+Description: Schaumkontrolle in Farben, Reinigern und Prozesswasser
+Hazardous: 1
+SDS available: 1
+Density: 1.008
+HS: 3910000000
+Origin: DE
+Composition
+Water (demineralised): 76.6–93.6 %
+Polydimethylsiloxane: 8.4–10.2 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 3.1–4.1 %
+Silicon dioxide (amorphous): 1.5–2.5 %
+1,2-Benzisothiazolin-3-one: 0.02–0.06 %

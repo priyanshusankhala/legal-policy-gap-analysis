@@ -1,0 +1,81 @@
+
+
+Framework Agreement RV-2022-0018 – Sims Industrial
+Systems Inc.
+Rahmenvertrag
+Document no.
+DMS-00000139
+Version
+1.0
+Valid from
+2022-05-16
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2022-0018
+type: Framework Agreement
+status: Active
+start_date: 2022-05-16
+end_date: 2027-05-15
+auto_renew: 0
+notice_period_days: 90
+currency: USD
+committed_volume_t: 85.77
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2022-04-15
+governing_law: State of Texas
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marencoat HL 533 water-based wood coating: 521.68 USD/100 kg
+Marencoat DB 1303 roof coating: 457.58 USD/100 kg
+Ethanol, technical grade: 1257.82 USD/1000 kg
+Toluene, technical grade: 1103.06 USD/1000 kg
+Glycerol, technical grade: 1217.21 USD/1000 kg
+Account
+name: Sims Industrial Systems Inc.
+type: Customer
+billing_street: 41 Harbor Road
+billing_city: Los Angeles
+billing_postcode: 90028
+billing_country: US
+industry: Mechanical and plant engineering
+segment: Direct
+size_class: Medium
+status: Active
+
+website: www.simsindustrial.com
+created_date: 2018-01-20
+last_modified_date: 2025-02-18
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Mechanical and plant engineering. Sources Marencoat HL 533 water-based wood coating,
+Toluene, technical grade for ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2022-0018
+type: Framework Agreement
+status: Active
+start_date: 2022-05-16
+end_date: 2027-05-15
+auto_renew: 0
+notice_period_days: 90
+currency: USD
+committed_volume_t: 85.77
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2022-04-15
+governing_law: State of Texas
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marencoat HL 533 water-based wood coating: 521.68 USD/100 kg
+Marencoat DB 1303 roof coating: 457.58 USD/100 kg
+Ethanol, technical grade: 1257.82 USD/1000 kg
+Toluene, technical grade: 1103.06 USD/1000 kg
+Glycerol, technical grade: 1217.21 USD/1000 kg

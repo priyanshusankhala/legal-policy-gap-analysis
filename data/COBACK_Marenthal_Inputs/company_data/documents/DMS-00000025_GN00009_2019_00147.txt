@@ -1,0 +1,21 @@
+危险化学品经营许可证 – 浙甬危化经字[2019]00147
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000025
+版本: 1.0
+生效日期: 2019-04-03
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-002
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 危险化学品经营许可证
+nummer: 浙甬危化经字[2019]00147
+behoerde: 宁波市应急管理局
+erteilt_am: 2019-04-03
+status: gültig
+auflagen: Auflagen zu Emissionen, Messungen und Betriebstagebuch gemäß Bescheid; jährliche Berichte an die Behörde.

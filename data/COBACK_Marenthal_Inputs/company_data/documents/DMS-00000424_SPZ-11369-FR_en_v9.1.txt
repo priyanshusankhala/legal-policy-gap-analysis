@@ -1,0 +1,34 @@
+
+
+Product Specification Sheet Diethylenetriamine,
+technical grade
+Spezifikationsblatt
+Document no.
+DMS-00000424
+Version
+9.1
+Valid from
+2024-07-19
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Diethylenetriamine, technical grade
+Family: Intermediates
+Applications: Polymer intermediates, Formulation auxiliaries
+Description: Zwischenprodukt für Synthese und Formulierung (Härterkomponente)
+Hazardous: 1
+SDS available: 1
+Density: 0.95
+UN: UN2079
+Class: 8
+HS: 2921290000
+Origin: FR
+Composition
+Diethylenetriamine: 99–100 %

@@ -1,0 +1,40 @@
+
+
+Information Security and Phishing Awareness –
+Training Material
+Schulungsunterlage
+Document no.
+DMS-00000092
+Version
+1.0
+Valid from
+2021-11-22
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Informationssicherheit und Phishing-Erkennung
+thema: Informationssicherheit
+pflicht: 1
+zielgruppe: Alle Beschäftigten mit IT-Zugang
+sprachen: de,en,fr,zh
+dauer_min: 30
+intervall_monate: 12
+format: E-Learning
+status: aktiv
+Richtlinie
+nummer: KR-009
+titel: Informationssicherheitsrichtlinie
+thema: Informationssicherheit
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2027-06-23
+master_sprache: de
+vertraulichkeit: vertraulich

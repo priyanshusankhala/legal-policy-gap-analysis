@@ -1,0 +1,74 @@
+# Register of raw material and goods purchases by country of origin - Marenthal Chemie AG (part 2 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Paraffin wax | 13000035 | DE | 13 | 16,250 KG | 38249996 | 2025-01-24 | 2025-12-29 |
+| Marenthal Chemie AG | Pentaerythritol | 13000060 | DE | 11 | 1,947,000 KG | 38249996 | 2025-02-20 | 2025-12-11 |
+| Marenthal Chemie AG | Phosphoric acid (75 %), technical grade | 12000051 | US | 8 | 2,504,000 KG | 28092000 | 2025-02-27 | 2026-01-06 |
+| Marenthal Chemie AG | Plastic canister 25 L | 14000004 | DE | 16 | 460,400 ST | 39231090 | 2025-02-21 | 2025-12-18 |
+| Marenthal Chemie AG | Plastic drum 200 L | 14000002 | DE | 15 | 36,650 ST | 39231090 | 2025-02-07 | 2025-11-19 |
+| Marenthal Chemie AG | Plastic drum 200 L | 14000002 | PL | 1 | 1,750 ST | 39231090 | 2026-01-02 | 2026-01-02 |
+| Marenthal Chemie AG | Polydimethylsiloxane | 13000008 | IT | 28 | 73,500 KG | 38249996 | 2025-01-23 | 2026-01-09 |
+| Marenthal Chemie AG | Propylene glycol | 13000006 | BE | 1 | 3,400 KG | 38249996 | 2025-02-28 | 2025-02-28 |
+| Marenthal Chemie AG | Propylene glycol | 13000006 | ES | 24 | 261,600 KG | 38249996 | 2025-01-27 | 2025-12-24 |
+| Marenthal Chemie AG | Propylene glycol, technical grade | 12000048 | DE | 10 | 5,480,000 KG | 29053200 | 2025-02-11 | 2026-01-12 |
+| Marenthal Chemie AG | Prüfung Arbeitssicherheit | - | - | 70 | 110 ST | - | 2025-01-13 | 2026-01-12 |
+| Marenthal Chemie AG | Rechtsberatung Chemikalienrecht | - | - | 65 | 92 ST | - | 2025-01-21 | 2026-01-14 |
+| Marenthal Chemie AG | Reinigung Betriebsgelände | - | - | 107 | 226 ST | - | 2025-01-22 | 2026-01-02 |
+| Marenthal Chemie AG | Rosin (colophony) | 13000039 | US | 13 | 88,400 KG | 38249996 | 2025-02-10 | 2026-01-16 |
+| Marenthal Chemie AG | Schmierstoffe und Hilfsmittel | - | - | 278 | 12,447 ST | - | 2025-01-09 | 2026-01-07 |
+| Marenthal Chemie AG | Seal kit centrifugal pump | 15000004 | DE | 11 | 474 ST | - | 2025-02-13 | 2025-12-18 |
+| Marenthal Chemie AG | Server/Netzwerkkomponente 10 | - | - | 1 | 1 ST | - | 2025-06-25 | 2025-06-25 |
+| Marenthal Chemie AG | Server/Netzwerkkomponente 2 | - | - | 2 | 2 ST | - | 2025-07-11 | 2025-11-14 |
+| Marenthal Chemie AG | Server/Netzwerkkomponente 9 | - | - | 1 | 1 ST | - | 2025-09-30 | 2025-09-30 |
+| Marenthal Chemie AG | Shrink hood | 14000011 | DE | 13 | 20,650 ST | 39231090 | 2025-02-12 | 2025-12-10 |
+| Marenthal Chemie AG | Shrink hood | 14000011 | PL | 2 | 3,300 ST | 39231090 | 2025-04-22 | 2025-11-18 |
+| Marenthal Chemie AG | Silicon dioxide (amorphous) | 13000009 | PL | 13 | 12,675 KG | 38249996 | 2025-02-05 | 2025-12-19 |
+| Marenthal Chemie AG | Sodium chloride | 13000032 | CN | 13 | 36,400 KG | 38249996 | 2025-01-27 | 2025-12-08 |
+| Marenthal Chemie AG | Sodium cumenesulfonate | 13000018 | NL | 27 | 182,000 KG | 38249996 | 2025-01-27 | 2026-01-20 |
+| Marenthal Chemie AG | Sodium dodecylbenzenesulfonate | 13000016 | IT | 14 | 462,000 KG | 38249996 | 2025-02-05 | 2026-01-02 |
+| Marenthal Chemie AG | Sodium hydroxide (50 %) | 13000015 | DE | 13 | 910,000 KG | 38249996 | 2025-01-27 | 2026-01-12 |
+| Marenthal Chemie AG | Sodium hydroxide (50 %), technical grade | 12000050 | US | 16 | 8,000,000 KG | 28151200 | 2025-03-07 | 2026-01-26 |
+| Marenthal Chemie AG | Sodium hypochlorite solution | 13000034 | DE | 12 | 396,000 KG | 38249996 | 2025-02-13 | 2025-12-31 |
+| Marenthal Chemie AG | Sodium laureth sulfate | 13000030 | BE | 1 | 17,600 KG | 38249996 | 2025-09-09 | 2025-09-09 |
+| Marenthal Chemie AG | Sodium laureth sulfate | 13000030 | NL | 12 | 211,200 KG | 38249996 | 2025-01-24 | 2025-12-02 |
+| Marenthal Chemie AG | Sodium metasilicate | 13000012 | AT | 1 | 35,000 KG | 38249996 | 2025-11-12 | 2025-11-12 |
+| Marenthal Chemie AG | Sodium metasilicate | 13000012 | DE | 10 | 350,000 KG | 38249996 | 2025-02-19 | 2025-12-09 |
+| Marenthal Chemie AG | Sodium metasilicate | 13000012 | NL | 1 | 35,000 KG | 38249996 | 2025-07-16 | 2025-07-16 |
+| Marenthal Chemie AG | Stromlieferung Werk | - | - | 98 | 202 ST | - | 2025-01-27 | 2026-01-13 |
+| Marenthal Chemie AG | Styrene, technical grade | 12000031 | FR | 8 | 1,912,000 KG | 29025000 | 2025-02-21 | 2025-11-20 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | DE | 22 | 1,458,000 KG | 38249996 | 2025-02-25 | 2026-01-14 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | NL | 2 | 128,000 KG | 38249996 | 2025-04-03 | 2025-04-22 |
+| Marenthal Chemie AG | Styrene-acrylate copolymer dispersion | 13000005 | US | 1 | 39,000 KG | 38249996 | 2025-06-04 | 2025-06-04 |
+| Marenthal Chemie AG | Sulfamic acid | 13000025 | BE | 2 | 92,000 KG | 38249996 | 2025-08-26 | 2025-12-24 |
+| Marenthal Chemie AG | Sulfamic acid | 13000025 | DE | 11 | 506,000 KG | 38249996 | 2025-02-10 | 2025-11-19 |
+| Marenthal Chemie AG | Sulfuric acid (96 %), technical grade | 12000046 | DE | 10 | 40,400,000 KG | 28070010 | 2025-02-07 | 2026-01-16 |
+| Marenthal Chemie AG | Talc | 13000024 | DE | 13 | 127,400 KG | 38249996 | 2025-02-13 | 2026-01-09 |
+| Marenthal Chemie AG | Tamper-evident closure | 14000012 | DE | 14 | 705,500 ST | 39231090 | 2025-02-11 | 2025-11-28 |
+| Marenthal Chemie AG | Tamper-evident closure | 14000012 | PL | 2 | 23,700 ST | 39231090 | 2025-07-30 | 2025-12-03 |
+| Marenthal Chemie AG | Tetrasodium EDTA | 13000014 | BE | 3 | 33,000 KG | 38249996 | 2025-07-18 | 2025-11-25 |
+| Marenthal Chemie AG | Tetrasodium EDTA | 13000014 | DE | 10 | 110,000 KG | 38249996 | 2025-01-21 | 2025-11-17 |
+| Marenthal Chemie AG | Titanium dioxide | 13000036 | DE | 13 | 455,000 KG | 38249996 | 2025-02-06 | 2026-01-06 |
+| Marenthal Chemie AG | Titanium dioxide, technical grade | 12000053 | CN | 5 | 1,085,000 KG | 32061100 | 2025-05-14 | 2026-01-30 |
+| Marenthal Chemie AG | Toluene, technical grade | 12000043 | DE | 9 | 4,725,000 KG | 29023000 | 2025-02-13 | 2025-12-24 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | BE | 1 | 8,400 KG | 38249996 | 2025-05-30 | 2025-05-30 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | DE | 3 | 12,800 KG | 38249996 | 2025-03-14 | 2025-12-05 |
+| Marenthal Chemie AG | Triethanolamine | 13000007 | NL | 21 | 108,200 KG | 38249996 | 2025-02-11 | 2025-12-24 |
+| Marenthal Chemie AG | Triethylamine, technical grade | 12000035 | FR | 5 | 17,300 KG | 29211200 | 2025-12-05 | 2025-12-24 |
+| Marenthal Chemie AG | Vinyl acetate, technical grade | 12000030 | FR | 6 | 852,000 KG | 29153200 | 2025-03-07 | 2025-11-12 |
+| Marenthal Chemie AG | Wartung ERP-Lizenzen | - | - | 71 | 109 ST | - | 2025-01-14 | 2025-12-24 |
+| Marenthal Chemie AG | Water (demineralised) | 13000001 | BE | 2 | 3,252,000 KG | 38249996 | 2025-07-29 | 2025-11-03 |
+| Marenthal Chemie AG | Water (demineralised) | 13000001 | NL | 23 | 23,034,000 KG | 38249996 | 2025-02-06 | 2025-12-24 |
+| Marenthal Chemie AG | Xanthan gum | 13000010 | DE | 11 | 61,600 KG | 38249996 | 2025-01-22 | 2025-10-22 |
+| Marenthal Chemie AG | Xanthan gum | 13000010 | NL | 2 | 11,200 KG | 38249996 | 2025-09-23 | 2025-12-12 |
+| Marenthal Chemie AG | Xylene (isomer mixture) | 13000044 | DE | 1 | 1,025 KG | 38249996 | 2025-11-20 | 2025-11-20 |
+| Marenthal Chemie AG | Xylene (isomer mixture), technical grade | 12000044 | DE | 10 | 5,860,000 KG | 29024400 | 2025-02-11 | 2026-01-16 |
+| Marenthal Chemie AG | Zinc phosphate | 13000041 | DE | 12 | 52,800 KG | 38249996 | 2025-02-17 | 2025-11-21 |
+| Marenthal Chemie AG | Zollabfertigung und Verzollung | - | - | 56 | 717 ST | - | 2025-01-27 | 2025-12-22 |
+| Marenthal Chemie AG | d-Limonene | 13000033 | DE | 12 | 360,000 KG | 38249996 | 2025-02-21 | 2026-01-12 |
+| Marenthal Chemie AG | d-Limonene | 13000033 | NL | 1 | 30,000 KG | 38249996 | 2025-05-28 | 2025-05-28 |
+| Marenthal Chemie AG | n-Butyl acrylate | 13000058 | DE | 13 | 1,781,000 KG | 38249996 | 2025-02-11 | 2026-01-09 |

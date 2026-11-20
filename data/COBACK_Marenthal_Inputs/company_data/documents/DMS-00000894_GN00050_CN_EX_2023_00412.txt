@@ -1,0 +1,22 @@
+两用物项出口许可证 – CN-EX-2023-00412
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000894
+版本: 1.0
+生效日期: 2025-06-11
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-003
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 两用物项出口许可证
+nummer: CN-EX-2023-00412
+behoerde: 商务部
+erteilt_am: 2025-06-11
+gueltig_bis: 2026-06-10
+status: läuft ab
+auflagen: Meldung von Veränderungen an die Behörde; Nachweis der Sicherheitsstandards.

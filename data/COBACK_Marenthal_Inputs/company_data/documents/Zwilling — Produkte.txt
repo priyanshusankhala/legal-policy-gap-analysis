@@ -1,0 +1,1399 @@
+# Produkte und Produktgruppen
+
+100 Produkte und Produktgruppen mit den Eigenschaften, an denen das EU-Produktrecht anknuepft: PSA-Kategorie, Elektronik, Akku, Funk.
+
+Jede Angabe traegt in eckigen Klammern ihre Herkunft: Quellenkennung, Belegstatus, Vertrauensniveau und Stichtag. `belegt` heisst, die Angabe steht so in der Quelle. `indirekt_belegt` heisst, sie ist aus einer belegten Tatsache abgeleitet und nennt nie einen Zahlenwert. `belegt_ohne_registerauszug` heisst, die Gesellschaft ist durch eine Unternehmensquelle belegt, aber es liegt kein amtlicher Registerauszug vor. `nicht_oeffentlich` heisst, die Angabe existiert, wird aber nicht veroeffentlicht. `nicht_gefunden` heisst, sie war trotz gezielter Suche nicht auffindbar. Die letzten beiden sind kein Nein: sie fuehren zu einer offenen internen Frage und niemals zu einer geschaetzten Angabe.
+
+## SC-1003 — Marenwet 206 wetting agent / Marenwet 206 Netzmittel (Artikelnummer 100013) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Dipropylene glycol (25265-71-8); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Surfactant systems, Textile finishing, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H412; Zolltarif 3402139000; Vertriebsmärkte: CN
+
+## SC-1010 — Marenwet 237 wetting agent / Marenwet 237 Netzmittel (Artikelnummer 100023) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium dodecylbenzenesulfonate (25155-30-0); Dipropylene glycol (25265-71-8); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Surfactant systems, Textile finishing, Formulation auxiliaries
+- **Markteinfuehrung:** 2014-10-19
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H412; Zolltarif 3402139000
+
+## SC-1017 — Marendisp 305 dispersing agent / Marendisp 305 Dispergiermittel (Artikelnummer 100033) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Propylene glycol (57-55-6); Triethanolamine (102-71-6); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Surfactant systems
+- **Markteinfuehrung:** 2014-08-11
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H400; Zolltarif 3906909000; Vertriebsmärkte: CN
+
+## SC-1024 — Marendisp 332 dispersing agent / Marendisp 332 Dispergiermittel (Artikelnummer 100043) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Propylene glycol (57-55-6); Triethanolamine (102-71-6); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Surfactant systems
+- **Markteinfuehrung:** 2019-08-14
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H400; Zolltarif 3906909000; Vertriebsmärkte: CN
+
+## SC-1031 — Marenfoam 106 defoamer / Marenfoam 106 Entschäumer (Artikelnummer ) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Einsatzbereich:** Formulation auxiliaries, Process water, Paper chemicals
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff
+
+## SC-1038 — Marenfoam 133 defoamer / Marenfoam 133 Entschäumer (Artikelnummer 100063) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Polydimethylsiloxane (63148-62-9); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Silicon dioxide (amorphous) (7631-86-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Process water, Paper chemicals
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H412; Zolltarif 3910000000; Vertriebsmärkte: CN
+
+## SC-1045 — Marenthix 409 thickener / Marenthix 409 Verdickungsmittel (Artikelnummer 100073) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Propylene glycol (57-55-6); Xanthan gum (11138-66-2); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Adjuvants
+- **Markteinfuehrung:** 2015-08-14
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H400; Zolltarif 39123900; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## SC-1052 — Marenstop 500 corrosion inhibitor / Marenstop 500 Korrosionsinhibitor (Artikelnummer 100083) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Triethanolamine (102-71-6); Sodium gluconate (527-07-1); Sodium metasilicate (6834-92-0); 2-Phenoxyethanol (122-99-6)
+- **Einsatzbereich:** Cooling water, Process water, Metalworking fluids
+- **Markteinfuehrung:** 2025-11-04
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H290 H302 H314 H318 H335; Zolltarif 38249996; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## SC-1059 — Marenchel 603 chelating agent solution / Marenchel 603 Komplexbildner-Lösung (Artikelnummer 100093) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Tetrasodium EDTA (64-02-8); Sodium hydroxide (50 %) (1310-73-2)
+- **Einsatzbereich:** Process water, Textile finishing, Surfactant systems
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H314 H318 H332 H373; Zolltarif 38249996
+
+## SC-1066 — Marenemul 702 emulsifier / Marenemul 702 Emulgator (Artikelnummer 100103) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium dodecylbenzenesulfonate (25155-30-0); Cocamidopropyl betaine (61789-40-0); Sodium cumenesulfonate (15763-76-5)
+- **Einsatzbereich:** Surfactant systems, Metalworking fluids, Formulation auxiliaries
+- **Markteinfuehrung:** 2025-08-06
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H318 H319 H412; Zolltarif 34021190; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## SC-1073 — Marenemul 731 emulsifier / Marenemul 731 Emulgator (Artikelnummer 100113) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium dodecylbenzenesulfonate (25155-30-0); Cocamidopropyl betaine (61789-40-0); Sodium cumenesulfonate (15763-76-5)
+- **Einsatzbereich:** Surfactant systems, Metalworking fluids, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H318 H319 H412; Zolltarif 3402119000; Vertriebsmärkte: CN
+
+## SC-1080 — Marenprotect 806 preservative / Marenprotect 806 Konservierungsmittel (Artikelnummer 100123) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Propylene glycol (57-55-6); 2-Phenoxyethanol (122-99-6); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Adjuvants
+- **Markteinfuehrung:** 2018-11-09
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H335 H400; Zolltarif 3808949000; Vertriebsmärkte: CN
+
+## SC-1087 — Marenflex 906 plasticizer / Marenflex 906 Weichmacher (Artikelnummer 100133) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Dioctyl terephthalate (6422-86-2); Epoxidised soybean oil (8013-07-8)
+- **Einsatzbereich:** Sealants and adhesives, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 3812200000; Vertriebsmärkte: CN
+
+## SC-1094 — Marenglide 953 lubricant additive / Marenglide 953 Gleitmittel (Artikelnummer 100143) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Calcium stearate (1592-23-0); Calcium carbonate (471-34-1); Paraffin wax (8002-74-2)
+- **Einsatzbereich:** Mould release, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 3403990000; Vertriebsmärkte: CN
+
+## SC-1101 — Marenbase 1003 neutralising agent / Marenbase 1003 Neutralisationsmittel (Artikelnummer 100153) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** 2-Dimethylaminoethanol (108-01-0); Water (demineralised) (7732-18-5); Triethanolamine (102-71-6)
+- **Einsatzbereich:** Formulation auxiliaries, Adjuvants
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H302 H312 H314 H332; UN UN2920, Klasse 8(3); Zolltarif 3824999600; Vertriebsmärkte: CN
+
+## SC-1108 — Marencure 410 epoxy hardener / Marencure 410 Epoxidhärter (Artikelnummer 100163) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Isophoronediamine (2855-13-2); Benzyl alcohol (100-51-6); Talc (14807-96-6); Triethanolamine (102-71-6)
+- **Einsatzbereich:** Sealants and adhesives, Formulation auxiliaries
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H312 H314 H317 H319 H332 H412; UN UN2735, Klasse 8; Zolltarif 38249996; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## SC-1115 — Marensolv 108 thinner (solvent blend) / Marensolv 108 Verdünnung (Lösemittelgemisch) (Artikelnummer 100173) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Toluene (108-88-3); Ethyl acetate (141-78-6); Solvent naphtha (aromatic) (64742-95-6); Methoxypropyl acetate (108-65-6)
+- **Einsatzbereich:** Surface treatment, Metalworking fluids
+- **Markteinfuehrung:** 2020-11-16
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H226 H304 H315 H319 H335 H336 H361d H373 H411; UN UN1993, Klasse 3; Zolltarif 3814009000; Vertriebsmärkte: CN
+
+## SC-1122 — Marensolv 302 degreasing spirit (solvent blend) / Marensolv 302 Entfettungsbenzin (Lösemittelgemisch) (Artikelnummer 100183) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hydrocarbon solvent (hydrotreated heavy naphtha) (64742-48-9); n-Heptane (142-82-5); d-Limonene (5989-27-5)
+- **Einsatzbereich:** Surface treatment, Metalworking fluids
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H226 H304 H315 H317 H336 H410 H411; UN UN1993, Klasse 3; Zolltarif 3814009000; Vertriebsmärkte: CN
+
+## SC-1129 — Marenpaste 202 pigment preparation / Marenpaste 202 Pigmentpräparation (Artikelnummer 100193) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Iron(III) oxide (1309-37-1); Styrene-acrylate copolymer dispersion (25767-47-9); Propylene glycol (57-55-6); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Surfactant systems
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H412; Zolltarif 3212900000; Vertriebsmärkte: CN
+
+## SC-1136 — Marenpaste 237 pigment preparation / Marenpaste 237 Pigmentpräparation (Artikelnummer 100203) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Carbon black (1333-86-4); Styrene-acrylate copolymer dispersion (25767-47-9); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Propylene glycol (57-55-6); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Formulation auxiliaries, Surfactant systems
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H412; Zolltarif 3212900000; Vertriebsmärkte: CN
+
+## SC-1143 — Marenphos 125 phosphating solution / Marenphos 125 Phosphatierlösung (Artikelnummer 100213) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Phosphoric acid (75 %) (7664-38-2); Zinc oxide (1314-13-2); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Surface treatment, Electroplating
+- **Markteinfuehrung:** 2016-04-14
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H314 H318 H410 H412; UN UN3264, Klasse 8; Zolltarif 3824999600; Vertriebsmärkte: CN
+
+## SC-1150 — Marenclear 406 dechlorinating agent / Marenclear 406 Entchlorungsmittel (Artikelnummer 100223) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Specialty Chemicals
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium thiosulfate (7772-98-7); Sodium carbonate (497-19-8)
+- **Einsatzbereich:** Process water, Waste water
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H319; Zolltarif 3824999600
+
+## IC-1157 — Marenclean U 101 all-purpose cleaner / Marenclean U 101 Universalreiniger (Artikelnummer 100233) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Sodium cumenesulfonate (15763-76-5); 2-Phenoxyethanol (122-99-6); Citric acid (77-92-9)
+- **Einsatzbereich:** Hard surface cleaning, Equipment cleaning
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H318 H319 H335 H412; Zolltarif 3402209000; Vertriebsmärkte: CN
+
+## IC-1164 — Marenclean U 134 all-purpose cleaner / Marenclean U 134 Universalreiniger (Artikelnummer 100243) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Sodium cumenesulfonate (15763-76-5); Citric acid (77-92-9); 2-Phenoxyethanol (122-99-6)
+- **Einsatzbereich:** Hard surface cleaning, Equipment cleaning
+- **Markteinfuehrung:** 2017-09-06
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H318 H319 H335 H412; Zolltarif 34022090
+
+## IC-1171 — Marenclean A 207 alkaline industrial cleaner / Marenclean A 207 Alkalischer Industriereiniger (Artikelnummer 100253) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium hydroxide (50 %) (1310-73-2); Sodium metasilicate (6834-92-0); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Tetrasodium EDTA (64-02-8)
+- **Einsatzbereich:** Hard surface cleaning, Equipment cleaning, Cleaning of parts
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H314 H318 H332 H335 H373 H412; UN UN3266, Klasse 8; Zolltarif 34029090; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IC-1178 — Marenclean A 238 alkaline industrial cleaner / Marenclean A 238 Alkalischer Industriereiniger (Artikelnummer 100263) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium hydroxide (50 %) (1310-73-2); Sodium metasilicate (6834-92-0); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Tetrasodium EDTA (64-02-8)
+- **Einsatzbereich:** Hard surface cleaning, Equipment cleaning, Cleaning of parts
+- **Markteinfuehrung:** 2022-06-17
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H314 H318 H332 H335 H373 H412; UN UN3266, Klasse 8; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1185 — Marenclean S 301 descaler / Marenclean S 301 Entkalker (Artikelnummer 100273) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sulfamic acid (5329-14-6); Citric acid (77-92-9); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Equipment cleaning, Facility hygiene
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H318 H319 H412; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1192 — Marenclean S 331 descaler / Marenclean S 331 Entkalker (Artikelnummer 100283) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sulfamic acid (5329-14-6); Citric acid (77-92-9); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Equipment cleaning, Facility hygiene
+- **Markteinfuehrung:** 2025-08-22
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H318 H319 H412; Zolltarif 34029090; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IC-1199 — Marenclean P 404 phosphoric acid cleaner / Marenclean P 404 Saurer Reiniger (Phosphorsäure) (Artikelnummer 100293) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Phosphoric acid (75 %) (7664-38-2); 2-Butoxyethanol (111-76-2); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Hard surface cleaning, Equipment cleaning
+- **Markteinfuehrung:** 2017-04-17
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H312 H314 H315 H318 H319 H332 H412; UN UN3264, Klasse 8; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1206 — Marenclean E 504 degreaser / Marenclean E 504 Fettlöser (Artikelnummer 100303) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Isopropanol (67-63-0); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); 2-Butoxyethanol (111-76-2); Monoethanolamine (141-43-5)
+- **Einsatzbereich:** Cleaning of parts, Hard surface cleaning
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H302 H312 H314 H315 H318 H319 H332 H335 H336 H412; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1213 — Marenclean E 537 degreaser / Marenclean E 537 Fettlöser (Artikelnummer 100313) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); 2-Butoxyethanol (111-76-2); Isopropanol (67-63-0); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Monoethanolamine (141-43-5)
+- **Einsatzbereich:** Cleaning of parts, Hard surface cleaning
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H302 H312 H314 H315 H318 H319 H332 H335 H336 H412; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1220 — Marenclean H 602 hand cleaner / Marenclean H 602 Handreiniger (Artikelnummer 100323) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium laureth sulfate (68585-34-2); Cocamidopropyl betaine (61789-40-0); Glycerol (56-81-5); Sodium chloride (7647-14-5); 2-Phenoxyethanol (122-99-6)
+- **Einsatzbereich:** Facility hygiene, Hard surface cleaning
+- **Markteinfuehrung:** 2025-09-13
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H318 H335 H412; Zolltarif 34022090; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IC-1227 — Marenclean H 637 hand cleaner / Marenclean H 637 Handreiniger (Artikelnummer 100333) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium laureth sulfate (68585-34-2); Cocamidopropyl betaine (61789-40-0); Glycerol (56-81-5); Sodium chloride (7647-14-5); 2-Phenoxyethanol (122-99-6)
+- **Einsatzbereich:** Facility hygiene, Hard surface cleaning
+- **Markteinfuehrung:** 2014-03-07
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H318 H335 H412; Zolltarif 3402209000; Vertriebsmärkte: CN
+
+## IC-1234 — Marenclean D 703 disinfectant cleaner / Marenclean D 703 Desinfektionsreiniger (Artikelnummer 100343) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Isopropanol (67-63-0); Benzalkonium chloride (63449-41-2); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Disinfectants, Facility hygiene
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H302 H312 H314 H318 H319 H336 H400 H412; UN UN1993, Klasse 3; Zolltarif 3808949000; Vertriebsmärkte: CN
+
+## IC-1241 — Marenclean G 800 glass cleaner / Marenclean G 800 Glasreiniger (Artikelnummer 100353) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Isopropanol (67-63-0); 2-Butoxyethanol (111-76-2); Ammonia solution (25 %) (1336-21-6); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Facility hygiene, Hard surface cleaning
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H302 H312 H314 H315 H318 H319 H332 H335 H336 H400 H412; Zolltarif 3402209000; Vertriebsmärkte: CN
+
+## IC-1248 — Marenclean Z 904 citrus cleaner / Marenclean Z 904 Zitrusreiniger (Artikelnummer 100363) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); d-Limonene (5989-27-5); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); Sodium cumenesulfonate (15763-76-5)
+- **Einsatzbereich:** Cleaning of parts, Hard surface cleaning
+- **Markteinfuehrung:** 2015-09-22
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H302 H304 H315 H317 H318 H319 H410 H412; UN UN1993, Klasse 3; Zolltarif 3402209000; Vertriebsmärkte: CN
+
+## IC-1255 — Marenclean B 1006 chlorine-based cleaner / Marenclean B 1006 Chlorreiniger (Artikelnummer 100373) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium hypochlorite solution (7681-52-9); Sodium laureth sulfate (68585-34-2); Sodium hydroxide (50 %) (1310-73-2)
+- **Einsatzbereich:** Hard surface cleaning, Facility hygiene, Disinfectants
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H314 H315 H318 H400 H412; UN UN1791, Klasse 8; Zolltarif 2828909000; Vertriebsmärkte: CN
+
+## IC-1262 — Marenclean O 1100 active oxygen cleaner (powder) / Marenclean O 1100 Aktivsauerstoff-Reiniger (Pulver) (Artikelnummer 100383) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Sodium sulfate (7757-82-6); Sodium percarbonate (15630-89-4); Sodium carbonate (497-19-8); Sodium dodecyl sulfate (151-21-3)
+- **Einsatzbereich:** Hard surface cleaning, Facility hygiene
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H272 H302 H315 H318 H319 H335 H412; UN UN1479, Klasse 5.1; Zolltarif 2836999000; Vertriebsmärkte: CN
+
+## IC-1269 — Marenclean M 1200 machine cleaner (powder) / Marenclean M 1200 Maschinenreiniger (Pulver) (Artikelnummer 100393) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Sodium sulfate (7757-82-6); Sodium metasilicate (6834-92-0); Sodium carbonate (497-19-8); Sodium tripolyphosphate (7758-29-4); Sodium dodecyl sulfate (151-21-3)
+- **Einsatzbereich:** Bottle washing, Equipment cleaning
+- **Markteinfuehrung:** 2017-08-28
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H314 H315 H318 H319 H335 H412; UN UN3262, Klasse 8; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1276 — Marenclean C 1305 CIP cleaner / Marenclean C 1305 CIP-Reiniger (Artikelnummer 100403) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Sodium hydroxide (50 %) (1310-73-2); Sodium gluconate (527-07-1); Tetrasodium EDTA (64-02-8)
+- **Einsatzbereich:** CIP cleaning, Equipment cleaning
+- **Markteinfuehrung:** 2021-12-08
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H314 H318 H332 H373; UN UN3266, Klasse 8; Zolltarif 3402909000; Vertriebsmärkte: CN
+
+## IC-1283 — Marenclean R 1402 rust remover / Marenclean R 1402 Rostentferner (Artikelnummer 100413) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Phosphoric acid (75 %) (7664-38-2); Oxalic acid (144-62-7); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9)
+- **Einsatzbereich:** Cleaning of parts, Hard surface cleaning
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H302 H312 H314 H318 H412; UN UN3264, Klasse 8; Zolltarif 3402909000
+
+## IC-1290 — Marenclean F 1503 floor care product / Marenclean F 1503 Bodenpflege (Artikelnummer 100423) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Industrial Cleaners
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Paraffin wax (8002-74-2); Fatty alcohol ethoxylate (C12-14, 6 EO) (68439-50-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Facility hygiene, Hard surface cleaning
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H412; Zolltarif 34022090
+
+## CT-1297 — Marencoat AF 309 acrylic facade paint / Marencoat AF 309 Fassadenfarbe (Acryl) (Artikelnummer 100433) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Calcium carbonate (471-34-1); Titanium dioxide (13463-67-7); Talc (14807-96-6); Propylene glycol (57-55-6); Zinc oxide (1314-13-2); Polydimethylsiloxane (63148-62-9); Hydroxyethyl cellulose (9004-62-0); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints
+- **Markteinfuehrung:** 2021-03-28
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H410; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## CT-1304 — Marencoat AF 333 acrylic facade paint / Marencoat AF 333 Fassadenfarbe (Acryl) (Artikelnummer 100443) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Calcium carbonate (471-34-1); Titanium dioxide (13463-67-7); Talc (14807-96-6); Zinc oxide (1314-13-2); Propylene glycol (57-55-6); Polydimethylsiloxane (63148-62-9); Hydroxyethyl cellulose (9004-62-0); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints
+- **Markteinfuehrung:** 2012-12-26
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H315 H317 H318 H400 H410; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## CT-1311 — Marencoat AI 401 interior emulsion paint / Marencoat AI 401 Innenfarbe (Dispersion) (Artikelnummer ) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Einsatzbereich:** Architectural paints
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+
+## CT-1318 — Marencoat AI 436 interior emulsion paint / Marencoat AI 436 Innenfarbe (Dispersion) (Artikelnummer 100463) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Titanium dioxide (13463-67-7); Calcium carbonate (471-34-1); Talc (14807-96-6); Propylene glycol (57-55-6); Polydimethylsiloxane (63148-62-9); Hydroxyethyl cellulose (9004-62-0); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints
+- **Markteinfuehrung:** 2023-09-14
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H400; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## CT-1325 — Marencoat HL 509 water-based wood coating / Marencoat HL 509 Holzlack (wasserbasiert) (Artikelnummer 100473) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Titanium dioxide (13463-67-7); 2-Butoxyethanol (111-76-2); Paraffin wax (8002-74-2); Polydimethylsiloxane (63148-62-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Wood coatings
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H312 H315 H317 H318 H319 H332 H400; Zolltarif 3209100000
+
+## CT-1332 — Marencoat HL 533 water-based wood coating / Marencoat HL 533 Holzlack (wasserbasiert) (Artikelnummer 100483) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Titanium dioxide (13463-67-7); 2-Butoxyethanol (111-76-2); Paraffin wax (8002-74-2); Polydimethylsiloxane (63148-62-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Wood coatings
+- **Markteinfuehrung:** 2019-04-22
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H312 H315 H317 H318 H319 H332 H400; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## CT-1339 — Marencoat AL 603 alkyd enamel / Marencoat AL 603 Alkydharzlack (Artikelnummer 100493) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hydrocarbon solvent (hydrotreated heavy naphtha) (64742-48-9); Linseed oil (8001-26-1); Titanium dioxide (13463-67-7); Rosin (colophony) (8050-09-7); Talc (14807-96-6)
+- **Einsatzbereich:** Industrial coatings, Wood coatings
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H304 H317 H336 H411; UN UN1263, Klasse 3; Zolltarif 3208901900; Vertriebsmärkte: CN
+
+## CT-1346 — Marencoat AL 634 alkyd enamel / Marencoat AL 634 Alkydharzlack (Artikelnummer 100503) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hydrocarbon solvent (hydrotreated heavy naphtha) (64742-48-9); Linseed oil (8001-26-1); Titanium dioxide (13463-67-7); Talc (14807-96-6); Rosin (colophony) (8050-09-7)
+- **Einsatzbereich:** Industrial coatings, Wood coatings
+- **Markteinfuehrung:** 2019-12-25
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H304 H317 H336 H411; UN UN1263, Klasse 3; Zolltarif 3208901900; Vertriebsmärkte: CN
+
+## CT-1353 — Marencoat RS 703 anticorrosive primer / Marencoat RS 703 Rostschutzgrund (Artikelnummer 100513) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hydrocarbon solvent (hydrotreated heavy naphtha) (64742-48-9); Iron(III) oxide (1309-37-1); Linseed oil (8001-26-1); Zinc phosphate (7779-90-0); Talc (14807-96-6); Rosin (colophony) (8050-09-7)
+- **Einsatzbereich:** Industrial coatings, OEM coatings
+- **Markteinfuehrung:** 2012-10-12
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H304 H317 H336 H410 H411; UN UN1263, Klasse 3; Zolltarif 3208909100; Vertriebsmärkte: CN
+
+## CT-1360 — Marencoat RS 730 anticorrosive primer / Marencoat RS 730 Rostschutzgrund (Artikelnummer 100523) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hydrocarbon solvent (hydrotreated heavy naphtha) (64742-48-9); Linseed oil (8001-26-1); Iron(III) oxide (1309-37-1); Zinc phosphate (7779-90-0); Talc (14807-96-6); Rosin (colophony) (8050-09-7)
+- **Einsatzbereich:** Industrial coatings, OEM coatings
+- **Markteinfuehrung:** 2022-05-20
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H304 H317 H336 H410 H411; UN UN1263, Klasse 3; Zolltarif 3208909100; Vertriebsmärkte: CN
+
+## CT-1367 — Marencoat EP 806 2K epoxy primer (component A) / Marencoat EP 806 Epoxidgrundierung 2K (Komponente A) (Artikelnummer 100533) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Bisphenol-A epoxy resin (25068-38-6); Xylene (isomer mixture) (1330-20-7); Talc (14807-96-6); Barium sulfate (7727-43-7); n-Butanol (71-36-3); Titanium dioxide (13463-67-7); Zinc phosphate (7779-90-0)
+- **Einsatzbereich:** Floor systems, Industrial coatings
+- **Markteinfuehrung:** 2017-11-08
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H302 H304 H312 H315 H317 H318 H319 H332 H335 H336 H373 H410 H411; UN UN1263, Klasse 3; Zolltarif 3208909100; Vertriebsmärkte: CN
+
+## CT-1374 — Marencoat EP 839 2K epoxy primer (component A) / Marencoat EP 839 Epoxidgrundierung 2K (Komponente A) (Artikelnummer 100543) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Bisphenol-A epoxy resin (25068-38-6); Talc (14807-96-6); Barium sulfate (7727-43-7); Xylene (isomer mixture) (1330-20-7); Zinc phosphate (7779-90-0); n-Butanol (71-36-3); Titanium dioxide (13463-67-7)
+- **Einsatzbereich:** Floor systems, Industrial coatings
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H302 H304 H312 H315 H317 H318 H319 H332 H335 H336 H373 H410 H411; UN UN3082, Klasse 9; Zolltarif 32089091; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## CT-1381 — Marencoat EB 905 2K epoxy floor coating (component A) / Marencoat EB 905 Epoxid-Bodenbeschichtung 2K (Komponente A) (Artikelnummer ) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Einsatzbereich:** Floor systems, Industrial coatings
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff
+
+## CT-1388 — Marencoat EK 1001 2K clear epoxy coating (component A) / Marencoat EK 1001 Epoxid-Klarlack 2K (Komponente A) (Artikelnummer 100563) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Bisphenol-A epoxy resin (25068-38-6); Xylene (isomer mixture) (1330-20-7); Butyl acetate (123-86-4); Methoxypropyl acetate (108-65-6); Polydimethylsiloxane (63148-62-9)
+- **Einsatzbereich:** Floor systems, Industrial coatings
+- **Markteinfuehrung:** 2025-09-29
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H304 H312 H315 H317 H319 H332 H335 H336 H373 H411; UN UN1263, Klasse 3; Zolltarif 32089091; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## CT-1395 — Marencoat PH 1102 epoxy hardener (component B) / Marencoat PH 1102 Epoxidhärter (Komponente B) (Artikelnummer 100573) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Kaolin (1332-58-7); Diethylenetriamine (111-40-0); Benzyl alcohol (100-51-6); Talc (14807-96-6); Triethanolamine (102-71-6)
+- **Einsatzbereich:** Floor systems, Industrial coatings
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H311 H314 H317 H319 H332 H412; UN UN2735, Klasse 8; Zolltarif 3824999600; Vertriebsmärkte: CN
+
+## CT-1402 — Marencoat SM 1208 road marking paint / Marencoat SM 1208 Straßenmarkierungsfarbe (Artikelnummer 100583) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Calcium carbonate (471-34-1); Titanium dioxide (13463-67-7); Butyl acetate (123-86-4); Xylene (isomer mixture) (1330-20-7); Toluene (108-88-3); Rosin (colophony) (8050-09-7); Aluminium oxide (1344-28-1)
+- **Einsatzbereich:** Industrial coatings, Floor systems
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H226 H304 H312 H315 H317 H319 H332 H335 H336 H361d H373; UN UN1263, Klasse 3; Zolltarif 32100090; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## CT-1409 — Marencoat DB 1303 roof coating / Marencoat DB 1303 Dachbeschichtung (Artikelnummer 100593) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Styrene-acrylate copolymer dispersion (25767-47-9); Water (demineralised) (7732-18-5); Titanium dioxide (13463-67-7); Aluminium hydroxide (21645-51-2); Barium sulfate (7727-43-7); Propylene glycol (57-55-6); Polydimethylsiloxane (63148-62-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints, Sealants and adhesives
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H400; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## CT-1416 — Marencoat DB 1333 roof coating / Marencoat DB 1333 Dachbeschichtung (Artikelnummer 100603) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Styrene-acrylate copolymer dispersion (25767-47-9); Water (demineralised) (7732-18-5); Titanium dioxide (13463-67-7); Aluminium hydroxide (21645-51-2); Barium sulfate (7727-43-7); Propylene glycol (57-55-6); Polydimethylsiloxane (63148-62-9); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints, Sealants and adhesives
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H400; Zolltarif 3209100000
+
+## CT-1423 — Marencoat TG 1400 penetrating primer / Marencoat TG 1400 Tiefgrund (Artikelnummer 100613) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Propylene glycol (57-55-6); 2-Phenoxyethanol (122-99-6); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints
+- **Markteinfuehrung:** 2018-07-10
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H335 H400; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## CT-1430 — Marencoat TG 1438 penetrating primer / Marencoat TG 1438 Tiefgrund (Artikelnummer 100623) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Coatings
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Water (demineralised) (7732-18-5); Styrene-acrylate copolymer dispersion (25767-47-9); Propylene glycol (57-55-6); 2-Phenoxyethanol (122-99-6); 1,2-Benzisothiazolin-3-one (2634-33-5)
+- **Einsatzbereich:** Architectural paints
+- **Markteinfuehrung:** 2023-09-14
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Einstufung H302 H315 H317 H318 H335 H400; Zolltarif 3209100000; Vertriebsmärkte: CN
+
+## IM-1437 — 3-Aminopropyltriethoxysilane, technical grade / 3-Aminopropyltriethoxysilan, techn. (Artikelnummer 100633) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** 3-Aminopropyltriethoxysilane (919-30-2)
+- **Einsatzbereich:** Polymer intermediates, Formulation auxiliaries
+- **Markteinfuehrung:** 2024-02-21
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H314 H317; UN UN2735, Klasse 8; Zolltarif 29310095; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1444 — 3-Glycidyloxypropyltrimethoxysilane, technical grade / 3-Glycidyloxypropyltrimethoxysilan, techn. (Artikelnummer 100643) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** 3-Glycidyloxypropyltrimethoxysilane (2530-83-8)
+- **Einsatzbereich:** Polymer intermediates, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H317 H318; Zolltarif 29310095; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1451 — Tetraethyl orthosilicate, technical grade / Tetraethylorthosilicat, techn. (Artikelnummer 100653) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Tetraethyl orthosilicate (78-10-4)
+- **Einsatzbereich:** Polymer intermediates, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H319 H332 H335; UN UN1292, Klasse 3; Zolltarif 29209085; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1458 — Methyl methacrylate, technical grade / Methylmethacrylat, techn. (Artikelnummer 100663) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Methyl methacrylate (80-62-6)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2014-12-26
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H315 H317 H335; UN UN1247, Klasse 3; Zolltarif 29161400
+
+## IM-1465 — n-Butyl acrylate, technical grade / n-Butylacrylat, techn. (Artikelnummer 100673) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** n-Butyl acrylate (141-32-2)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2016-04-29
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H315 H317 H335 H411; UN UN2348, Klasse 3; Zolltarif 2916120000; Vertriebsmärkte: CN
+
+## IM-1472 — Bisphenol-A epoxy resin, technical grade / Bisphenol-A-Epoxidharz, techn. (Artikelnummer 100683) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Bisphenol-A epoxy resin (25068-38-6)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H315 H317 H319 H411; UN UN3082, Klasse 9; Zolltarif 39073000; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1479 — Neopentyl glycol, technical grade / Neopentylglykol, techn. (Artikelnummer 100693) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Neopentyl glycol (126-30-7)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2014-07-18
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 29053980; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1486 — Pentaerythritol, technical grade / Pentaerythrit, techn. (Artikelnummer 100703) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Pentaerythritol (115-77-5)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 2905420000; Vertriebsmärkte: CN
+
+## IM-1493 — Hexamethylene diisocyanate, technical grade / Hexamethylendiisocyanat, techn. (Artikelnummer 100713) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hexamethylene diisocyanate (822-06-0)
+- **Einsatzbereich:** Polymer intermediates
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H315 H317 H319 H330 H334 H335; UN UN2281, Klasse 6.1; Zolltarif 29291000
+
+## IM-1500 — Isophoronediamine, technical grade / Isophorondiamin, techn. (Artikelnummer 100723) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Isophoronediamine (2855-13-2)
+- **Einsatzbereich:** Polymer intermediates, Formulation auxiliaries
+- **Markteinfuehrung:** 2025-12-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H312 H314 H317 H412; UN UN2289, Klasse 8; Zolltarif 29213099; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1507 — 2-Ethylhexyl acrylate, technical grade / 2-Ethylhexylacrylat, techn. (Artikelnummer 100733) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** 2-Ethylhexyl acrylate (103-11-7)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2020-09-19
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H315 H317 H335 H411; UN UN3082, Klasse 9; Zolltarif 2916120000; Vertriebsmärkte: CN
+
+## IM-1514 — Vinyl acetate, technical grade / Vinylacetat, techn. (Artikelnummer 100743) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Vinyl acetate (108-05-4)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H332 H335 H351; UN UN1301, Klasse 3; Zolltarif 2915320000; Vertriebsmärkte: CN
+
+## IM-1521 — Styrene, technical grade / Styrol, techn. (Artikelnummer 100753) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Styrene (100-42-5)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H315 H319 H332 H361d H372; UN UN2055, Klasse 3; Zolltarif 2902500000; Vertriebsmärkte: CN
+
+## IM-1528 — Acrylic acid, technical grade / Acrylsäure, techn. (Artikelnummer 100763) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Acrylic acid (79-10-7)
+- **Einsatzbereich:** Polymer intermediates, Compounding
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H302 H311 H314 H331 H400; UN UN2218, Klasse 8(3); Zolltarif 2916110000; Vertriebsmärkte: CN
+
+## IM-1535 — Maleic anhydride, technical grade / Maleinsäureanhydrid, techn. (Artikelnummer 100773) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Maleic anhydride (108-31-6)
+- **Einsatzbereich:** Polymer intermediates, Surfactant systems
+- **Markteinfuehrung:** 2019-08-07
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H314 H317 H334 H372; UN UN2215, Klasse 8; Zolltarif 2917140000; Vertriebsmärkte: CN
+
+## IM-1542 — Isophorone diisocyanate, technical grade / Isophorondiisocyanat, techn. (Artikelnummer 100783) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Isophorone diisocyanate (4098-71-9)
+- **Einsatzbereich:** Polymer intermediates
+- **Markteinfuehrung:** 2013-05-02
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H315 H317 H330 H334 H335 H411; UN UN2290, Klasse 6.1; Zolltarif 2929100000; Vertriebsmärkte: CN
+
+## IM-1549 — Triethylamine, technical grade / Triethylamin, techn. (Artikelnummer 100793) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Triethylamine (121-44-8)
+- **Einsatzbereich:** Polymer intermediates, Formulation auxiliaries
+- **Markteinfuehrung:** 2025-10-05
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H302 H311 H314 H331 H335; UN UN1296, Klasse 3(8); Zolltarif 29211200; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## IM-1556 — Diethylenetriamine, technical grade / Diethylentriamin, techn. (Artikelnummer 100803) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Intermediates
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Diethylenetriamine (111-40-0)
+- **Einsatzbereich:** Polymer intermediates, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H302 H311 H314 H317 H412; UN UN2079, Klasse 8; Zolltarif 2921290000; Vertriebsmärkte: CN
+
+## TG-1563 — Acetone, technical grade / Aceton, techn. (Artikelnummer 100813) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Acetone (67-64-1)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2025-09-19
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H319 H336; UN UN1090, Klasse 3; Zolltarif 29141100; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## TG-1570 — Isopropanol, technical grade / Isopropanol, techn. (Artikelnummer 100823) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Isopropanol (67-63-0)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H319 H336; UN UN1219, Klasse 3; Zolltarif 2905120000; Vertriebsmärkte: CN
+
+## TG-1577 — Ethanol, technical grade / Ethanol, techn. (Artikelnummer 100833) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Ethanol (64-17-5)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2017-02-15
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H319; UN UN1170, Klasse 3; Zolltarif 2207200000; Vertriebsmärkte: CN
+
+## TG-1584 — Ethyl acetate, technical grade / Ethylacetat, techn. (Artikelnummer 100843) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Ethyl acetate (141-78-6)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2019-09-19
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H319 H336; UN UN1173, Klasse 3; Zolltarif 2915310000; Vertriebsmärkte: CN
+
+## TG-1591 — Butyl acetate, technical grade / Butylacetat, techn. (Artikelnummer 100853) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Butyl acetate (123-86-4)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H336; UN UN1123, Klasse 3; Zolltarif 2915330000; Vertriebsmärkte: CN
+
+## TG-1598 — Methyl ethyl ketone, technical grade / Methylethylketon, techn. (Artikelnummer 100863) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Methyl ethyl ketone (78-93-3)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H319 H336; UN UN1193, Klasse 3; Zolltarif 2914120000; Vertriebsmärkte: CN
+
+## TG-1605 — Toluene, technical grade / Toluol, techn. (Artikelnummer 100873) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Toluene (108-88-3)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H304 H315 H336 H361d H373; UN UN1294, Klasse 3; Zolltarif 2902300000; Vertriebsmärkte: CN
+
+## TG-1612 — Xylene (isomer mixture), technical grade / Xylol (Isomerengemisch), techn. (Artikelnummer 100883) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Xylene (isomer mixture) (1330-20-7)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H304 H312 H315 H319 H332 H335 H373; UN UN1307, Klasse 3; Zolltarif 2902440000
+
+## TG-1619 — Hydrochloric acid (33 %), technical grade / Salzsäure (33 %), techn. (Artikelnummer 100893) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Hydrochloric acid (33 %) (7647-01-0)
+- **Einsatzbereich:** Surface treatment, Process water, Hard surface cleaning
+- **Markteinfuehrung:** 2020-11-26
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H314 H335; UN UN1789, Klasse 8; Zolltarif 2806100000; Vertriebsmärkte: CN
+
+## TG-1626 — Sulfuric acid (96 %), technical grade / Schwefelsäure (96 %), techn. (Artikelnummer 100903) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Sulfuric acid (96 %) (7664-93-9)
+- **Einsatzbereich:** Surface treatment, Process water, Hard surface cleaning
+- **Markteinfuehrung:** 2016-10-17
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H314; UN UN1830, Klasse 8; Zolltarif 2807001000; Vertriebsmärkte: CN
+
+## TG-1633 — Acetic acid, technical grade / Essigsäure, techn. (Artikelnummer 100913) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Acetic acid (64-19-7)
+- **Einsatzbereich:** Surface treatment, Process water, Hard surface cleaning
+- **Markteinfuehrung:** 2012-07-06
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H226 H314; UN UN2789, Klasse 8(3); Zolltarif 2915210000
+
+## TG-1640 — Propylene glycol, technical grade / Propylenglykol, techn. (Artikelnummer 100923) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Propylene glycol (57-55-6)
+- **Einsatzbereich:** Formulation auxiliaries, Cooling water
+- **Markteinfuehrung:** 2023-11-05
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 29053200; Vertriebsmärkte: AT, BG, BR, CN, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, KE, LT, LV, MT, NL, PL, PT, RO, SE, SI, SK, US
+
+## TG-1647 — Methanol, technical grade / Methanol, techn. (Artikelnummer 100933) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Methanol (67-56-1)
+- **Einsatzbereich:** Cleaning of parts, Industrial coatings, Formulation auxiliaries
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H225 H301 H311 H331 H370; UN UN1230, Klasse 3(6.1); Zolltarif 2905110000; Vertriebsmärkte: CN
+
+## TG-1654 — Sodium hydroxide (50 %), technical grade / Natronlauge (50 %), techn. (Artikelnummer 100943) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Sodium hydroxide (50 %) (1310-73-2)
+- **Einsatzbereich:** Hard surface cleaning, Formulation auxiliaries
+- **Markteinfuehrung:** 2013-03-12
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H314; UN UN1824, Klasse 8; Zolltarif 2815120000; Vertriebsmärkte: CN
+
+## TG-1661 — Phosphoric acid (75 %), technical grade / Phosphorsäure (75 %), techn. (Artikelnummer 100953) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Phosphoric acid (75 %) (7664-38-2)
+- **Einsatzbereich:** Surface treatment, Process water, Hard surface cleaning
+- **Markteinfuehrung:** 2021-09-14
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff; Einstufung H290 H314; UN UN1805, Klasse 8; Zolltarif 2809200000; Vertriebsmärkte: CN
+
+## TG-1668 — Hydrogen peroxide (35 %), technical grade / Wasserstoffperoxid (35 %), techn. (Artikelnummer ) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Einsatzbereich:** Facility hygiene, Textile finishing, Process water
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff
+
+## TG-1675 — Glycerol, technical grade / Glycerin, techn. (Artikelnummer 100973) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Glycerol (56-81-5)
+- **Einsatzbereich:** Formulation auxiliaries, Cooling water
+- **Markteinfuehrung:** 2015-06-21
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 2905450000; Vertriebsmärkte: CN
+
+## TG-1682 — Titanium dioxide, technical grade / Titandioxid, techn. (Artikelnummer 100983) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Titanium dioxide (13463-67-7)
+- **Einsatzbereich:** Architectural paints, Industrial coatings
+- **Markteinfuehrung:** 2019-02-13
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 3206110000; Vertriebsmärkte: CN
+
+## TG-1689 — Sodium carbonate, technical grade / Soda (Natriumcarbonat), techn. (Artikelnummer ) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Einsatzbereich:** Hard surface cleaning, Formulation auxiliaries
+- **Markteinfuehrung:** 2025-11-16
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Gefahrstoff
+
+## TG-1696 — Calcium carbonate, technical grade / Calciumcarbonat, techn. (Artikelnummer 101003) [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Produktgruppe:** Trade Goods
+- **Designer oder Hersteller:** Marenthal-Gruppe
+- **Materialien:** Calcium carbonate (471-34-1)
+- **Einsatzbereich:** Compounding, Architectural paints
+- **Markteinfuehrung:** 2012-03-01
+- **Enthaelt Elektronik:** nein
+- **Enthaelt Akku:** nein
+- **Enthaelt Funk:** nein
+- **Gesellschaft:** CMS-DE-01
+- **Belegstelle:** Produktstamm CRM/ERP
+- **Kommentar:** Zolltarif 2836500000; Vertriebsmärkte: CN

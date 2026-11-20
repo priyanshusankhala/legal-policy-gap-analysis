@@ -1,0 +1,48 @@
+
+
+Non-Disclosure Agreement NDA-2023-0002 – Piedmont
+Plastics Inc.
+Geheimhaltungsvereinbarung
+Document no.
+DMS-00000245
+Version
+1.0
+Valid from
+2023-05-30
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: NDA-2023-0002
+type: NDA
+status: Active
+start_date: 2023-05-30
+end_date: 2026-05-29
+auto_renew: 0
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2023-05-16
+governing_law: State of Texas
+Account
+name: Piedmont Plastics Inc.
+type: Customer
+billing_street: 34 Business Park Road
+billing_city: Charlotte
+billing_postcode: 28225
+billing_country: US
+industry: Plastics processing
+segment: Direct
+size_class: Small
+status: Prospect
+website: www.piedmontplastics.com
+created_date: 2023-03-21
+last_modified_date: 2025-10-03
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Plastics processing. Potential demand for specialty chemicals; first contact through
+campaign response.

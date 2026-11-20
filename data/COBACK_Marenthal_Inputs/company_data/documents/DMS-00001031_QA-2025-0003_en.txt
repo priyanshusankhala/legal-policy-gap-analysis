@@ -1,0 +1,53 @@
+
+
+Quality Agreement QA-2025-0003 – Pietrzak Materiały
+budowlane S.A.
+Qualitätssicherungsvereinbarung
+Document no.
+DMS-00001031
+Version
+1.0
+Valid from
+2025-09-29
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: QA-2025-0003
+type: Quality Agreement
+status: Active
+start_date: 2025-09-29
+end_date: 2028-09-28
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal Chemie AG
+signed_date: 2025-09-04
+governing_law: German law
+Account
+name: Pietrzak Materiały budowlane S.A.
+type: Customer
+billing_street: ul. Długa 12
+billing_city: Wrocław
+billing_postcode: 50-481
+billing_country: PL
+industry: Construction chemicals and materials
+segment: Direct
+size_class: Large
+status: Active
+website: www.pietrzak-materialy.pl
+created_date: 2025-02-03
+last_modified_date: 2025-07-12
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved with conditions
+compliance_checked_on: 2025-02-20
+cms_partner_ref: GP000621
+description: Construction chemicals and materials. Sources Marensolv 302 degreasing spirit (solvent
+blend), Marenglide 953 lubricant additive for ongoing production.

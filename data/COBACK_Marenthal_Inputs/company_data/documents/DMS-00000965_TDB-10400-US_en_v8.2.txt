@@ -1,0 +1,36 @@
+
+
+Technical Data Sheet Marenclean U 101 all-purpose
+cleaner
+Technisches Datenblatt
+Document no.
+DMS-00000965
+Version
+8.2
+Valid from
+2025-07-18
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean U 101 all-purpose cleaner
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Equipment cleaning
+Description: Neutrale Reinigung von Böden und Flächen
+Hazardous: 1
+SDS available: 1
+Density: 1.007
+HS: 3402209000
+Origin: US
+Composition
+Water (demineralised): 81.6–99.8 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 4.1–5.1 %
+Sodium cumenesulfonate: 3.5–4.5 %
+2-Phenoxyethanol: 0.18–0.54 %
+Citric acid: 0.16–0.48 %

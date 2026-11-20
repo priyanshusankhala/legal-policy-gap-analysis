@@ -1,0 +1,84 @@
+
+
+Sicherheitsdatenblatt Marencoat EK 1001
+Epoxid-Klarlack 2K (Komponente A)
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00001301
+Version
+1.1
+Gültig ab
+2025-11-07
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marencoat EK 1001 Epoxid-Klarlack 2K (Komponente A)
+Marencoat EK 1001 Epoxid-Klarlack 2K (Komponente A)
+SDS: SDB-10956-DE
+2. Mögliche Gefahren
+H: H226 H304 H312 H315 H317 H319 H332 H335 H336 H373 H411
+3. Zusammensetzung / Angaben zu Bestandteilen
+Bisphenol-A-Epoxidharz 25068-38-6 500-033-5 59.4–72.6 % H315 H317
+H319 H411
+Xylol
+(Isomerengemisch)
+1330-20-7 215-535-7 12.9–15.8 % H226 H304
+H312 H315
+H319 H332
+H335 H373
+Butylacetat 123-86-4 204-658-1 12.5–15.3 % H226 H336
+Methoxypropylacetat 108-65-6 203-603-9 5–6.1 % H226
+Polydimethylsiloxan 63148-62-9 0.11–0.33 %
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+
+9. Physikalische und chemische Eigenschaften
+Density: 1.051
+Base unit: KG
+Shelf life (months): 24
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN1263
+ADR/IMDG class: 3
+Packing group: III
+HS: 32089091
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Bisphenol-A epoxy resin: IECSC – nicht erforderlich
+Bisphenol-A epoxy resin: REACH – nicht erforderlich
+Bisphenol-A epoxy resin: TSCA – nicht erforderlich
+Butyl acetate: IECSC – nicht erforderlich
+Butyl acetate: REACH – nicht erforderlich
+Butyl acetate: TSCA – nicht erforderlich
+Methoxypropyl acetate: IECSC – nicht erforderlich
+Methoxypropyl acetate: REACH – nicht erforderlich
+16. Sonstige Angaben
+1.1 · 2025-11-07

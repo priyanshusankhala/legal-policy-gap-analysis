@@ -1,0 +1,29 @@
+
+
+Arrêté Seveso seuil haut – SEV-SFO-2018/320
+Genehmigung oder Zertifikat
+N° du document
+DMS-00000305
+Version
+1.0
+Valable depuis
+2023-09-01
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Internal
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Genehmigung
+art: Arrêté Seveso seuil haut
+nummer: SEV-SFO-2018/320
+behoerde: DREAL Auvergne-Rhône-Alpes
+erteilt_am: 2023-09-01
+gueltig_bis: 2028-09-18
+status: gültig
+auflagen: Sicherheitsbericht und Alarmpläne aktuell halten; Übungen nachweisen.

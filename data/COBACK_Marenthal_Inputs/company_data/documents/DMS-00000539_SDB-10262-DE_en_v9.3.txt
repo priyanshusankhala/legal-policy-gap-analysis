@@ -1,0 +1,74 @@
+
+
+Safety Data Sheet Marenbase 1003 neutralising agent
+Sicherheitsdatenblatt
+Document no.
+DMS-00000539
+Version
+9.3
+Valid from
+2024-12-27
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenbase 1003 neutralising agent
+Product: Marenbase 1003 Neutralisationsmittel
+SDS: SDB-10262-DE
+2. Hazards identification
+H: H226 H302 H312 H314 H332
+3. Composition / information on ingredients
+2-Dimethylaminoethanol 108-01-0 203-542-8 52.4–64 % H226 H302
+H312 H314
+H332
+Water (demineralised) 7732-18-5 231-791-2 27.7–33.9 %
+Triethanolamine 102-71-6 203-049-8 9.9–12.1 %
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 0.943
+Base unit: KG
+Shelf life (months): 24
+10. Stability and reactivity
+
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN2920
+ADR/IMDG class: 8(3)
+Packing group: II
+HS: 38249996
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+2-Dimethylaminoethanol: IECSC – nicht erforderlich
+2-Dimethylaminoethanol: REACH – nicht erforderlich
+2-Dimethylaminoethanol: TSCA – nicht erforderlich
+Triethanolamine: IECSC – nicht erforderlich
+Triethanolamine: REACH – registriert (01-2119431944-40-0096)
+Triethanolamine: TSCA – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+16. Other information
+9.3 · 2024-12-27

@@ -1,0 +1,80 @@
+# Register of import permits - Marenthal Chemie AG (part 3 of 3)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Status of each substance regarding import permits in the target market, with the role of the company, registration number and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sodium percarbonate (CAS 15630-89-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium percarbonate (CAS 15630-89-4) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium persulfate (CAS 7775-27-1) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Sodium persulfate (CAS 7775-27-1) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium silicate (water glass) (CAS 1344-09-8) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium silicate (water glass) (CAS 1344-09-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium sulfate (CAS 7757-82-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium sulfate (CAS 7757-82-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium thiosulfate (CAS 7772-98-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium thiosulfate (CAS 7772-98-7) | KE | Händler | erteilt | IL-KE-450345 | - | 2025-01-21 | 2027-01-21 | - |
+| Sodium tripolyphosphate (CAS 7758-29-4) | BR | Händler | erteilt | LI-BR-27025707 | - | 2025-09-23 | 2027-09-23 | - |
+| Sodium tripolyphosphate (CAS 7758-29-4) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Stearic acid (CAS 57-11-4) | BR | Händler | erteilt | LI-BR-25479362 | - | 2025-02-25 | 2027-02-25 | - |
+| Stearic acid (CAS 57-11-4) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Styrene (CAS 100-42-5) | BR | Händler | erteilt | LI-BR-65090553 | - | 2025-06-27 | 2027-06-27 | - |
+| Styrene (CAS 100-42-5) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | KE | Händler | erteilt | IL-KE-386020 | - | 2025-07-10 | 2027-07-10 | - |
+| Sulfamic acid (CAS 5329-14-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sulfamic acid (CAS 5329-14-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sulfuric acid (96 %) (CAS 7664-93-9) | BR | Händler | abgelaufen | LI-BR-60043050 | - | 2023-11-13 | 2024-11-12 | Importlizenz des Importeurs abgelaufen |
+| Sulfuric acid (96 %) (CAS 7664-93-9) | KE | Händler | erteilt | IL-KE-943482 | - | 2025-03-23 | 2027-03-23 | - |
+| Talc (CAS 14807-96-6) | BR | Händler | erteilt | LI-BR-17137527 | - | 2025-06-25 | 2027-06-25 | - |
+| Talc (CAS 14807-96-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Tartaric acid (CAS 87-69-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Tartaric acid (CAS 87-69-4) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Tetraethyl orthosilicate (CAS 78-10-4) | BR | Händler | erteilt | LI-BR-41949426 | - | 2025-07-09 | 2027-07-09 | - |
+| Tetraethyl orthosilicate (CAS 78-10-4) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Tetrahydrofuran (CAS 109-99-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Tetrahydrofuran (CAS 109-99-9) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Tetrasodium EDTA (CAS 64-02-8) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Tetrasodium EDTA (CAS 64-02-8) | KE | Händler | erteilt | IL-KE-119626 | - | 2025-01-21 | 2027-01-21 | - |
+| Titanium dioxide (CAS 13463-67-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Titanium dioxide (CAS 13463-67-7) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Toluene (CAS 108-88-3) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Toluene (CAS 108-88-3) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Triethanolamine (CAS 102-71-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Triethanolamine (CAS 102-71-6) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Triethylamine (CAS 121-44-8) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Triethylamine (CAS 121-44-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Trisodium citrate (CAS 68-04-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Trisodium citrate (CAS 68-04-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Trisodium phosphate (CAS 7601-54-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Trisodium phosphate (CAS 7601-54-9) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Urea (CAS 57-13-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Urea (CAS 57-13-6) | KE | Händler | erteilt | IL-KE-554968 | - | 2025-04-22 | 2027-04-22 | - |
+| Vinyl acetate (CAS 108-05-4) | BR | Händler | erteilt | LI-BR-88074074 | - | 2025-05-20 | 2027-05-20 | - |
+| Vinyl acetate (CAS 108-05-4) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Xanthan gum (CAS 11138-66-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Xanthan gum (CAS 11138-66-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Xylene (isomer mixture) (CAS 1330-20-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Xylene (isomer mixture) (CAS 1330-20-7) | KE | Händler | abgelaufen | IL-KE-972563 | - | 2023-12-13 | 2024-12-12 | Importlizenz des Importeurs abgelaufen |
+| Zinc oxide (CAS 1314-13-2) | BR | Händler | erteilt | LI-BR-83049012 | - | 2025-09-05 | 2027-09-05 | - |
+| Zinc oxide (CAS 1314-13-2) | KE | Händler | erteilt | IL-KE-532546 | - | 2025-01-05 | 2027-01-05 | - |
+| Zinc phosphate (CAS 7779-90-0) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Zinc phosphate (CAS 7779-90-0) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Zinc stearate (CAS 557-05-1) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Zinc stearate (CAS 557-05-1) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| d-Limonene (CAS 5989-27-5) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| d-Limonene (CAS 5989-27-5) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Butanol (CAS 71-36-3) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Butanol (CAS 71-36-3) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Butyl acrylate (CAS 141-32-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Butyl acrylate (CAS 141-32-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Heptane (CAS 142-82-5) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| n-Heptane (CAS 142-82-5) | KE | Händler | abgelaufen | IL-KE-166271 | - | 2023-03-17 | 2024-03-16 | Importlizenz des Importeurs abgelaufen |
+| n-Hexane (CAS 110-54-3) | BR | Händler | erteilt | LI-BR-80725932 | - | 2025-08-02 | 2027-08-02 | - |
+| n-Hexane (CAS 110-54-3) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |

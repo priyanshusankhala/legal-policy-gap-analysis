@@ -1,0 +1,16 @@
+# Quellenregister
+
+1 Quellen mit Herausgeber, Typ, Prioritaetsstufe, Abrufdatum und Format. Jede Quellenkennung in den uebrigen Dokumenten ist hier aufloesbar.
+
+Jede Angabe traegt in eckigen Klammern ihre Herkunft: Quellenkennung, Belegstatus, Vertrauensniveau und Stichtag. `belegt` heisst, die Angabe steht so in der Quelle. `indirekt_belegt` heisst, sie ist aus einer belegten Tatsache abgeleitet und nennt nie einen Zahlenwert. `belegt_ohne_registerauszug` heisst, die Gesellschaft ist durch eine Unternehmensquelle belegt, aber es liegt kein amtlicher Registerauszug vor. `nicht_oeffentlich` heisst, die Angabe existiert, wird aber nicht veroeffentlicht. `nicht_gefunden` heisst, sie war trotz gezielter Suche nicht auffindbar. Die letzten beiden sind kein Nein: sie fuehren zu einer offenen internen Frage und niemals zu einer geschaetzten Angabe.
+
+## Q001 — Interne Stammdaten Marenthal (ERP, CRM, Compliance, DMS) [Q001 · Stichtag 2026-11-09]
+
+- **Herausgeber:** Marenthal-Gruppe
+- **Quellentyp:** Unternehmensinterne Daten
+- **Prioritaetsstufe:** 1
+- **Abrufdatum:** 2026-11-09
+- **Format:** csv
+- **Sprache:** de
+- **Gesellschaftsbezug:** alle
+- **Snapshot vorhanden:** ja

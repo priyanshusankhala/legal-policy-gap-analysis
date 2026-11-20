@@ -1,0 +1,82 @@
+
+
+Framework Agreement RV-2023-0061 – Romana
+Chimica per l'edilizia S.r.l.
+Rahmenvertrag
+Document no.
+DMS-00000271
+Version
+1.0
+Valid from
+2023-07-21
+Company
+Marenthal Chemie AG
+Status
+Archived
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2023-0061
+type: Framework Agreement
+status: Expired
+start_date: 2023-07-21
+end_date: 2025-07-20
+auto_renew: 0
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 209.57
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-06-19
+compliance_review_ref: GPP0000504
+governing_law: German law
+payment_terms: Z090
+incoterm: DAP
+Terms
+Marenpaste 202 pigment preparation: 380.89 EUR/100 kg
+Marencoat HL 533 water-based wood coating: 423.48 EUR/100 kg
+Xylene (isomer mixture), technical grade: 997 EUR/1000 kg
+Account
+name: Romana Chimica per l'edilizia S.r.l.
+type: Customer
+billing_street: Zona Industriale 78
+billing_city: Roma
+billing_postcode: 00154
+billing_country: IT
+industry: Construction chemicals and materials
+segment: Direct
+size_class: Large
+status: Active
+website: www.romana-chimica.it
+
+created_date: 2007-08-25
+last_modified_date: 2024-03-31
+language: it
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-02-07
+cms_partner_ref: GP000186
+description: Construction chemicals and materials. Regular call-offs of Xylene (isomer mixture),
+technical grade, Marencoat HL 533 water-based wood coating according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2023-0061
+type: Framework Agreement
+status: Expired
+start_date: 2023-07-21
+end_date: 2025-07-20
+auto_renew: 0
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 209.57
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-06-19
+compliance_review_ref: GPP0000504
+governing_law: German law
+payment_terms: Z090
+incoterm: DAP
+Terms
+Marenpaste 202 pigment preparation: 380.89 EUR/100 kg
+Marencoat HL 533 water-based wood coating: 423.48 EUR/100 kg
+Xylene (isomer mixture), technical grade: 997 EUR/1000 kg

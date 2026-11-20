@@ -1,0 +1,34 @@
+
+
+Product Specification Sheet Vinyl acetate, technical
+grade
+Spezifikationsblatt
+Document no.
+DMS-00000896
+Version
+9.3
+Valid from
+2025-06-30
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Vinyl acetate, technical grade
+Family: Intermediates
+Applications: Polymer intermediates, Compounding
+Description: Zwischenprodukt für Synthese und Formulierung (Monomer)
+Hazardous: 1
+SDS available: 1
+Density: 0.93
+UN: UN1301
+Class: 3
+HS: 2915320000
+Origin: FR
+Composition
+Vinyl acetate: 99–100 %

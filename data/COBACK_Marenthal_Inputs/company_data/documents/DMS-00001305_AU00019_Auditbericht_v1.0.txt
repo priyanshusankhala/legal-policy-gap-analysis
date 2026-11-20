@@ -1,0 +1,32 @@
+审计报告: 内部合规审计 – Marenthal Chemicals (Shanghai)
+Auditbericht
+
+文件编号: DMS-00001305
+版本: 1.0
+生效日期: 2025-11-03
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-003
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Audit
+titel: 内部合规审计 – Marenthal Chemicals (Shanghai)
+art: intern
+scope: Antikorruption, Exportkontrolle, Datenschutz
+geplant_von: 2025-10-14
+geplant_bis: 2025-10-16
+durchgefuehrt_von: 2025-10-14
+durchgefuehrt_bis: 2025-10-16
+leitender_auditor: Binjie Wang
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+
+审核发现
+1 [Nebenabweichung] Geschäftspartnerprüfung: Wiederholungsprüfung bei mehreren Partnern überfällig. (überfällig)
+2 [Nebenabweichung] Lokale Ergänzung zur Konzernrichtlinie basiert auf einer älteren Fassung. (geschlossen)
+3 [Hinweis] Positiv: Hinweisgeber-Fristen (Bestätigung, Rückmeldung) werden eingehalten. (geschlossen)
+4 [Nebenabweichung] Risikobewertung wurde seit mehr als zwölf Monaten nicht aktualisiert. (in Bearbeitung)
+5 [Nebenabweichung] Genehmigung einer Einladung wurde erst nach dem Termin dokumentiert. (geschlossen)

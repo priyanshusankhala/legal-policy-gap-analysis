@@ -1,0 +1,36 @@
+
+
+Audit Report: ISO 45001 Surveillance Audit – Baytown
+Plant
+Auditbericht
+Document no.
+DMS-00001130
+Version
+1.0
+Valid from
+2025-09-05
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Audit
+titel: ISO 45001 Surveillance Audit – Baytown Plant
+art: Zertifizierung
+scope: Arbeitsschutzmanagement
+geplant_von: 2025-08-05
+geplant_bis: 2025-08-06
+durchgefuehrt_von: 2025-08-05
+durchgefuehrt_bis: 2025-08-06
+leitender_auditor: Michael Thornton (DNV)
+status: abgeschlossen
+gesamtbewertung: wesentliche Abweichungen
+Findings
+1 [Hauptabweichung] Gefährdungsbeurteilung für die neue Abfülllinie wurde nicht aktualisiert.
+(geschlossen)

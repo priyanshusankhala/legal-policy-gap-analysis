@@ -1,0 +1,44 @@
+
+
+Prüfbericht Anlassbezogen (GPP0001369)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000373
+Version
+1.0
+Gültig ab
+2024-04-02
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Anlassbezogen
+pruefdatum: 2024-03-29
+anlass: Negativmeldung in der Presse
+risikoklasse: mittel
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: kein Treffer
+adverse_media: Hinweis bewertet
+ergebnis: freigegeben mit Auflagen
+auflagen: Presseberichte ausgewertet; Stellungnahme des Partners eingeholt, engmaschige
+Überwachung für 12 Monate
+gueltig_bis: 2027-03-17
+begruendung: Sanktions- und Embargolisten ohne Treffer abgeglichen. Negative
+Presseberichterstattung ausgewertet. Risikoklasse mittel. Freigabe unter Auflagen.
+Geschäftspartner
+name: Lange Leiterplatten GmbH
+partner_typ: Kunde
+land: DE
+strasse: Hauptstraße 77
+plz: 22509
+ort: Hamburg
+aktiv: 1
+risikoklasse_aktuell: mittel
+letzte_pruefung: 2024-03-29
+freigabestatus: mit Auflagen

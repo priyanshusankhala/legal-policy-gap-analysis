@@ -1,0 +1,37 @@
+
+
+Technisches Datenblatt Marenclean H 637
+Handreiniger
+Technisches Datenblatt
+Dokumentnummer
+DMS-00000716
+Version
+8.0
+Gültig ab
+2025-04-09
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenclean H 637 hand cleaner
+Family: Industrial Cleaners
+Applications: Facility hygiene, Hard surface cleaning
+Description: Reinigung stark verschmutzter Hände
+Hazardous: 1
+SDS available: 1
+Density: 1.026
+HS: 3402209000
+Origin: DE
+Zusammensetzung
+Water (demineralised): 71.1–87 %
+Sodium laureth sulfate: 7.8–9.6 %
+Cocamidopropyl betaine: 5.1–6.3 %
+Glycerol: 4–5 %
+Sodium chloride: 1.2–2.2 %
+2-Phenoxyethanol: 0.175–0.525 %

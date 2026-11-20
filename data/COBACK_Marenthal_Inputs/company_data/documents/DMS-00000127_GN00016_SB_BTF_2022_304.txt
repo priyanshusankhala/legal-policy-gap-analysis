@@ -1,0 +1,30 @@
+
+
+Anzeige des Betriebsbereichs (Störfall-Verordnung) –
+SB-BTF-2022/304
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000127
+Version
+1.0
+Gültig ab
+2022-01-25
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Anzeige des Betriebsbereichs (Störfall-Verordnung)
+nummer: SB-BTF-2022/304
+behoerde: Landesverwaltungsamt Sachsen-Anhalt
+erteilt_am: 2022-01-25
+gueltig_bis: 2027-01-25
+status: gültig
+auflagen: Sicherheitsbericht und Alarmpläne aktuell halten; Übungen nachweisen.

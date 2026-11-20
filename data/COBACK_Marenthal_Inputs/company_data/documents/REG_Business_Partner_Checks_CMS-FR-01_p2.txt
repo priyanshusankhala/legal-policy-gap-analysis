@@ -1,0 +1,49 @@
+# Register of business partner checks - Marenthal France S.A.S. (part 2 of 2)
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Each business partner with the latest check: risk class, approval status, sanctions list screening, PEP check and adverse media result.
+
+| Partner | Type | Country | Risk class | Approval | Checks | Last check | Result | Sanctions screening | PEP | Adverse media |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Moura Plásticos Lda. | Kunde | PT | niedrig | freigegeben | 2 | 2025-04-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Sartori Elettronica S.p.A. | Kunde | IT | niedrig | freigegeben | 2 | 2025-04-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Castellana Alimentación S.A. | Kunde | ES | niedrig | mit Auflagen | 2 | 2025-06-03 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Scholten Bouwmaterialen NV | Kunde | BE | mittel | freigegeben | 2 | 2024-07-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Smits Boissons NV | Kunde | BE | mittel | freigegeben | 2 | 2024-08-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Parisienne Maintenance industrielle SAS | Dienstleister | FR | niedrig | freigegeben | 1 | 2023-01-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| González Ingeniería industrial S.L. | Kunde | ES | niedrig | freigegeben | 1 | 2023-02-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Fernández Limpieza industrial S.L. | Kunde | ES | niedrig | freigegeben | 1 | 2023-03-06 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Garnier Électricité industrielle SARL | Dienstleister | FR | mittel | gesperrt | 2 | 2025-03-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Coastal Beverages Ltd | Kunde | KE | hoch | mit Auflagen | 3 | 2025-04-17 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Atlântica Plásticos Lda. | Kunde | PT | niedrig | freigegeben | 1 | 2023-08-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Gomez & Mercier Plasturgie SAS | Kunde | FR | niedrig | mit Auflagen | 1 | 2023-08-04 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Nicolas Logistique SAS | Dienstleister | FR | niedrig | freigegeben | 1 | 2023-11-21 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Schwaben Beschichtungen GmbH | Kunde | DE | hoch | freigegeben | 3 | 2025-12-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Berger Fabrique de fûts SAS | Lieferant | FR | niedrig | freigegeben | 1 | 2024-04-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Charrier Peintures SARL | Kunde | FR | mittel | freigegeben | 1 | 2024-04-15 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Prins Kunststoffen BV | Kunde | BE | mittel | freigegeben | 2 | 2025-04-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Nord Systèmes d'information SARL | Dienstleister | FR | niedrig | freigegeben | 1 | 2024-07-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Martin Électricité industrielle SARL | Dienstleister | FR | niedrig | freigegeben | 1 | 2024-08-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Larsson Paints AB | Kunde | SE | niedrig | freigegeben | 1 | 2024-10-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Molina Química de la construcción S.L. | Kunde | ES | niedrig | freigegeben | 1 | 2024-10-15 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Lyonnaise Hygiène SARL | Kunde | FR | hoch | abgelaufen | 1 | 2024-10-28 | freigegeben mit Auflagen | kein Treffer | Treffer - bewertet | kein Treffer |
+| Fabbri Materie plastiche S.r.l. | Kunde | IT | niedrig | freigegeben | 1 | 2024-11-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Benelux Metaalbewerking BV | Kunde | BE | niedrig | freigegeben | 2 | 2025-12-25 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Padana Igiene S.p.A. | Kunde | IT | niedrig | freigegeben | 1 | 2025-02-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Romana Vernici S.r.l. | Kunde | IT | niedrig | freigegeben | 1 | 2025-02-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Emiliana Metalli S.r.l. | Kunde | IT | mittel | freigegeben | 1 | 2025-02-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Dijkstra Bouwmaterialen BV | Kunde | BE | hoch | mit Auflagen | 1 | 2025-02-20 | freigegeben mit Auflagen | kein Treffer | Treffer - bewertet | kein Treffer |
+| Levante Plásticos S.L. | Kunde | ES | mittel | freigegeben | 1 | 2025-04-08 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Paulista Componentes automóveis S.A. | Kunde | BR | hoch | mit Auflagen | 1 | 2025-05-26 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| Brun Nettoyage industriel SAS | Kunde | FR | niedrig | freigegeben | 1 | 2025-06-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Nunes Equipamentos industriais S.A. | Kunde | BR | mittel | freigegeben | 1 | 2025-07-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Prins Électronique BV | Kunde | BE | niedrig | freigegeben | 1 | 2025-06-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Paulista Bebidas S.A. | Kunde | BR | hoch | freigegeben | 1 | 2025-07-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Leroy Peintures SAS | Kunde | FR | niedrig | freigegeben | 1 | 2025-07-07 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Ricciardi Colori S.r.l. | Kunde | IT | niedrig | freigegeben | 1 | 2025-07-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Aubert Chimie du bâtiment SAS | Kunde | FR | niedrig | freigegeben | 1 | 2025-08-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Gillet & Millet Traitement de surface SARL | Kunde | FR | niedrig | freigegeben | 1 | 2025-10-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Wekesa Electronics Ltd | Kunde | KE | hoch | freigegeben | 1 | 2025-10-24 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| Mutua Paper Ltd | Kunde | KE | hoch | gesperrt | 1 | 2025-10-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| Meijer Chemicals NV | Lieferant | BE | hoch | gesperrt | 1 | 2025-12-04 | freigegeben mit Auflagen | Treffer - geprüft | kein Treffer | kein Treffer |

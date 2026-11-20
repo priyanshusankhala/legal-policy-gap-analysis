@@ -1,0 +1,39 @@
+# Register of gifts and invitations - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Requests to give or accept gifts and invitations, with value, occasion, whether a public official is involved, and the decision.
+
+| Date | Kind | Partner | Value | Currency | Occasion | Public official | Decision | Reason |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-22 | Geschenk erhalten | Paranaense Comércio de produtos químicos Ltda. | 91.46 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-12-18 | Geschenk gegeben | Prins Électronique BV | 49.95 | EUR | Jahresabschlussgeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-12-10 | Einladung gegeben | Carioca Vernizes S.A. | 80.94 | EUR | Fachveranstaltung des Branchenverbands | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-12-05 | Geschenk erhalten | Mora Química de la construcción S.L. | 15.73 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-12-02 | Geschenk erhalten | Medeiros Tintas Ltda. | 65 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-12-01 | Geschenk gegeben | Muller Plasturgie SAS | 145.77 | EUR | Jubiläum des Geschäftspartners | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-11-19 | Geschenk erhalten | Nord Emballages SARL | 15.32 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-11-12 | Einladung erhalten | Brun Nettoyage industriel SAS | 480.86 | EUR | Abendessen im Rahmen der Jahresverhandlung | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-11-04 | Geschenk erhalten | Medeiros Tintas Ltda. | 24.7 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-10-24 | Geschenk erhalten | González Ingeniería industrial S.L. | 62.81 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-10-09 | Bewirtung | Smits Boissons NV | 71.94 | EUR | Kundenevent | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-10-07 | Geschenk gegeben | Kok Chemiehandel B.V. | 64.97 | EUR | Dank für langjährige Zusammenarbeit | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-10-07 | Einladung gegeben | Paulista Plásticos S.A. | 295.04 | EUR | Kundenevent | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-09-25 | Geschenk gegeben | Santos Componentes automóveis Ltda. | 18.73 | EUR | Jubiläum des Geschäftspartners | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-08-12 | Einladung gegeben | Laurent Chimie du bâtiment SAS | 95.2 | EUR | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-07-24 | Bewirtung | Legrand Textiles SA | 195.23 | EUR | Einladung zur Werksbesichtigung | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-07-17 | Geschenk erhalten | Nord Nettoyage industriel SA | 18.73 | EUR | Jubiläum des Geschäftspartners | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-27 | Einladung gegeben | Silva Bebidas S.A. | 181.89 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-27 | Einladung gegeben | Paulista Eletrónica S.A. | 109.83 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-26 | Geschenk gegeben | Rhône Traitement de surface SAS | 17.94 | EUR | Messegeschenk | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-03-26 | Geschenk gegeben | Levante Tratamiento de aguas S.A. | 36.42 | EUR | Messegeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-26 | Einladung gegeben | Medeiros Tintas Ltda. | 299.11 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-26 | Einladung erhalten | Berger Fabrique de fûts SAS | 59.56 | EUR | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-25 | Geschenk gegeben | Schwaben Beschichtungen GmbH | 85.31 | EUR | Messegeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-25 | Geschenk gegeben | Poirier Équipements automobiles SAS | 31.47 | EUR | Messegeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-25 | Geschenk gegeben | Emiliana Metalli S.r.l. | 61.13 | EUR | Messegeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-25 | Einladung gegeben | Barbosa Limpeza industrial S.A. | 172.03 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-25 | Bewirtung | Paulista Equipamentos industriais Ltda. | 104.01 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-02-24 | Bewirtung | Nord Emballages SARL | 161.55 | EUR | Kundenevent | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-01-23 | Einladung gegeben | Joly Boissons SA | 83.46 | EUR | Fachveranstaltung des Branchenverbands | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-01-17 | Einladung gegeben | Garnier Vernis SA | 196.13 | EUR | Einladung zur Werksbesichtigung | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |

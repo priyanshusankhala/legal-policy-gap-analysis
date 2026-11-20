@@ -1,0 +1,112 @@
+# Register of sales by destination country and product - Marenthal Chemie AG (part 7 of 7)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| Slovakia (SK) | Marendisp 332 dispersing agent | 11000002 | 7 | 6,625 KG | 26,341 EUR |
+| Slovakia (SK) | Marenpaste 202 pigment preparation | 12000006 | 3 | 1,850 KG | 7,491 EUR |
+| Slovakia (SK) | Marensolv 108 thinner (solvent blend) | 12000004 | 14 | 57,925 KG | 129,388 EUR |
+| Slovakia (SK) | Marenwet 206 wetting agent | 11000001 | 10 | 15,225 KG | 50,410 EUR |
+| Slovakia (SK) | Methyl ethyl ketone, technical grade | 12000042 | 10 | 48,900 KG | 93,790 EUR |
+| Slovenia (SI) | Acrylic acid, technical grade | 12000032 | 7 | 34,600 KG | 68,990 EUR |
+| Slovenia (SI) | Glycerol, technical grade | 12000052 | 13 | 123,800 KG | 125,253 EUR |
+| Slovenia (SI) | Marenclean G 800 glass cleaner | 12000015 | 10 | 71,000 KG | 81,288 EUR |
+| Slovenia (SI) | Marendisp 305 dispersing agent | 12000002 | 7 | 17,675 KG | 66,997 EUR |
+| Slovenia (SI) | Marendisp 332 dispersing agent | 11000002 | 17 | 22,050 KG | 82,240 EUR |
+| Slovenia (SI) | Marenflex 906 plasticizer | 11000010 | 7 | 12,200 KG | 58,795 EUR |
+| Slovenia (SI) | Marenfoam 133 defoamer | 11000003 | 10 | 22,425 KG | 96,212 EUR |
+| Slovenia (SI) | Marenphos 125 phosphating solution | 12000008 | 17 | 63,425 KG | 225,146 EUR |
+| Slovenia (SI) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 12 | 34,400 KG | 78,140 EUR |
+| Slovenia (SI) | Propylene glycol, technical grade | 12000048 | 3 | 10,900 KG | 21,081 EUR |
+| Slovenia (SI) | Sulfuric acid (96 %), technical grade | 12000046 | 6 | 307,500 KG | 33,648 EUR |
+| Spain (ES) | 2-Ethylhexyl acrylate, technical grade | 12000029 | 8 | 31,925 KG | 70,842 EUR |
+| Spain (ES) | Ethanol, technical grade | 12000039 | 7 | 37,200 KG | 42,631 EUR |
+| Spain (ES) | Glycerol, technical grade | 12000052 | 7 | 44,100 KG | 48,191 EUR |
+| Spain (ES) | Marenclean U 101 all-purpose cleaner | 12000010 | 5 | 15,475 KG | 22,377 EUR |
+| Spain (ES) | Marencoat TG 1400 penetrating primer | 12000028 | 6 | 12,700 KG | 25,489 EUR |
+| Spain (ES) | Marenglide 953 lubricant additive | 12000003 | 5 | 4,150 KG | 18,696 EUR |
+| Spain (ES) | Marenpaste 237 pigment preparation | 12000007 | 4 | 3,025 KG | 12,563 EUR |
+| Spain (ES) | Sulfuric acid (96 %), technical grade | 12000046 | 8 | 681,000 KG | 74,944 EUR |
+| Spain (ES) | Xylene (isomer mixture), technical grade | 12000044 | 8 | 49,700 KG | 55,614 EUR |
+| Sweden (SE) | Butyl acetate, technical grade | 12000041 | 8 | 34,000 KG | 570,007 SEK |
+| Sweden (SE) | Diethylenetriamine, technical grade | 12000036 | 4 | 21,100 KG | 599,374 SEK |
+| Sweden (SE) | Ethanol, technical grade | 12000039 | 7 | 66,900 KG | 76,667 EUR |
+| Sweden (SE) | Ethyl acetate, technical grade | 12000040 | 8 | 25,400 KG | 30,607 EUR |
+| Sweden (SE) | Hydrochloric acid (33 %), technical grade | 12000045 | 13 | 664,700 KG | 92,393 EUR |
+| Sweden (SE) | Maleic anhydride, technical grade | 12000033 | 1 | 1,200 KG | 25,441 SEK |
+| Sweden (SE) | Marenclean C 1305 CIP cleaner | 12000018 | 5 | 10,100 KG | 161,626 SEK |
+| Sweden (SE) | Marenclean P 404 phosphoric acid cleaner | 12000012 | 4 | 5,375 KG | 89,130 SEK |
+| Sweden (SE) | Marenclean U 101 all-purpose cleaner | 12000010 | 6 | 14,900 KG | 21,545 EUR |
+| Sweden (SE) | Marencoat AF 309 acrylic facade paint | 12000020 | 8 | 18,500 KG | 783,025 SEK |
+| Sweden (SE) | Marencoat AL 603 alkyd enamel | 11000024 | 2 | 2,000 KG | 126,845 SEK |
+| Sweden (SE) | Marencoat AL 634 alkyd enamel | 12000024 | 8 | 6,025 KG | 40,482 EUR |
+| Sweden (SE) | Marencoat HL 509 water-based wood coating | 12000023 | 4 | 9,750 KG | 477,244 SEK |
+| Sweden (SE) | Marencoat RS 703 anticorrosive primer | 11000025 | 1 | 100 KG | 5,393 SEK |
+| Sweden (SE) | Marencoat RS 730 anticorrosive primer | 12000025 | 12 | 16,750 KG | 1,057,137 SEK |
+| Sweden (SE) | Marencoat TG 1400 penetrating primer | 12000028 | 7 | 24,900 KG | 551,293 SEK |
+| Sweden (SE) | Marencoat TG 1438 penetrating primer | 11000031 | 19 | 178,900 KG | 3,119,173 SEK |
+| Sweden (SE) | Marendisp 305 dispersing agent | 12000002 | 9 | 12,425 KG | 49,292 EUR |
+| Sweden (SE) | Marendisp 305 dispersing agent | 12000002 | 9 | 16,675 KG | 722,890 SEK |
+| Sweden (SE) | Marendisp 332 dispersing agent | 11000002 | 16 | 46,275 KG | 2,046,248 SEK |
+| Sweden (SE) | Marenflex 906 plasticizer | 11000010 | 13 | 20,350 KG | 1,099,590 SEK |
+| Sweden (SE) | Marenphos 125 phosphating solution | 12000008 | 1 | 1,200 KG | 49,548 SEK |
+| Sweden (SE) | Marenphos 125 phosphating solution | 12000008 | 7 | 9,825 KG | 37,251 EUR |
+| Sweden (SE) | Marensolv 108 thinner (solvent blend) | 12000004 | 26 | 93,100 KG | 2,583,216 SEK |
+| Sweden (SE) | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | 10 | 35,600 KG | 85,703 EUR |
+| Sweden (SE) | Marenthix 409 thickener | 11000004 | 8 | 52,900 KG | 1,525,181 SEK |
+| Sweden (SE) | Marenwet 206 wetting agent | 11000001 | 3 | 5,850 KG | 213,576 SEK |
+| Sweden (SE) | Methanol, technical grade | 12000049 | 15 | 569,700 KG | 2,597,918 SEK |
+| Sweden (SE) | Methyl methacrylate, technical grade | 11000035 | 2 | 1,700 KG | 40,255 SEK |
+| Sweden (SE) | Propylene glycol, technical grade | 12000048 | 2 | 9,500 KG | 207,422 SEK |
+| Sweden (SE) | Styrene, technical grade | 12000031 | 2 | 2,900 KG | 42,445 SEK |
+| Sweden (SE) | Sulfuric acid (96 %), technical grade | 12000046 | 5 | 340,000 KG | 412,717 SEK |
+| Sweden (SE) | Titanium dioxide, technical grade | 12000053 | 4 | 2,950 KG | 126,157 SEK |
+| Sweden (SE) | Vinyl acetate, technical grade | 12000030 | 1 | 700 KG | 13,855 SEK |
+| Sweden (SE) | Xylene (isomer mixture), technical grade | 12000044 | 2 | 45,500 KG | 562,913 SEK |
+| Sweden (SE) | Xylene (isomer mixture), technical grade | 12000044 | 12 | 169,300 KG | 189,447 EUR |
+| United States (US) | Butyl acetate, technical grade | 12000041 | 16 | 390,500 KG | 525,110 EUR |
+| United States (US) | Calcium carbonate, technical grade | 12000054 | 5 | 91,000 KG | 10,451 EUR |
+| United States (US) | Ethyl acetate, technical grade | 12000040 | 12 | 110,000 KG | 150,912 USD |
+| United States (US) | Hydrochloric acid (33 %), technical grade | 12000045 | 12 | 6,000,000 KG | 747,600 EUR |
+| United States (US) | Isopropanol, technical grade | 12000038 | 5 | 19,700 KG | 26,753 EUR |
+| United States (US) | Marenbase 1003 neutralising agent | 11000011 | 7 | 49,000 KG | 151,568 EUR |
+| United States (US) | Marenclean A 207 alkaline industrial cleaner | 11000013 | 8 | 216,000 KG | 196,844 EUR |
+| United States (US) | Marenclean A 238 alkaline industrial cleaner | 11000014 | 7 | 2,450,000 KG | 2,290,750 EUR |
+| United States (US) | Marenclean B 1006 chlorine-based cleaner | 11000021 | 5 | 123,000 KG | 93,033 EUR |
+| United States (US) | Marenclean E 537 degreaser | 11000017 | 8 | 688,000 KG | 743,934 EUR |
+| United States (US) | Marenclean G 800 glass cleaner | 12000015 | 7 | 38,000 KG | 43,153 EUR |
+| United States (US) | Marenclean H 637 hand cleaner | 11000019 | 7 | 73,000 KG | 76,927 EUR |
+| United States (US) | Marenclean M 1200 machine cleaner (powder) | 12000017 | 18 | 54,800 KG | 88,009 EUR |
+| United States (US) | Marenclean R 1402 rust remover | 12000019 | 10 | 63,300 KG | 111,785 USD |
+| United States (US) | Marenclean S 301 descaler | 11000015 | 6 | 7,025 KG | 12,607 USD |
+| United States (US) | Marenclean S 301 descaler | 11000015 | 8 | 2,264,000 KG | 2,204,004 EUR |
+| United States (US) | Marenclean U 134 all-purpose cleaner | 12000011 | 20 | 183,050 KG | 233,591 EUR |
+| United States (US) | Marenclean Z 904 citrus cleaner | 11000020 | 7 | 742,000 KG | 1,325,509 EUR |
+| United States (US) | Marenclean Z 904 citrus cleaner | 11000020 | 11 | 24,600 KG | 73,871 USD |
+| United States (US) | Marencoat AF 309 acrylic facade paint | 12000020 | 6 | 4,900 KG | 21,876 USD |
+| United States (US) | Marencoat AL 603 alkyd enamel | 11000024 | 7 | 385,000 KG | 1,328,520 EUR |
+| United States (US) | Marencoat DB 1303 roof coating | 11000030 | 8 | 192,000 KG | 498,643 EUR |
+| United States (US) | Marencoat HL 533 water-based wood coating | 11000023 | 7 | 126,000 KG | 303,673 EUR |
+| United States (US) | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | 7 | 70,000 KG | 237,006 EUR |
+| United States (US) | Marencoat RS 703 anticorrosive primer | 11000025 | 3 | 7,800 KG | 24,583 EUR |
+| United States (US) | Marencoat TG 1438 penetrating primer | 11000031 | 6 | 168,000 KG | 196,134 EUR |
+| United States (US) | Marendisp 332 dispersing agent | 11000002 | 6 | 68,000 KG | 141,821 EUR |
+| United States (US) | Marenemul 731 emulsifier | 11000008 | 7 | 148,000 KG | 278,225 EUR |
+| United States (US) | Marenflex 906 plasticizer | 11000010 | 8 | 143,000 KG | 425,860 EUR |
+| United States (US) | Marenfoam 133 defoamer | 11000003 | 8 | 232,000 KG | 535,630 EUR |
+| United States (US) | Marenglide 953 lubricant additive | 12000003 | 8 | 15,675 KG | 72,267 EUR |
+| United States (US) | Marenthix 409 thickener | 11000004 | 9 | 432,000 KG | 715,176 EUR |
+| United States (US) | Marenwet 206 wetting agent | 11000001 | 6 | 9,250 KG | 35,704 USD |
+| United States (US) | Marenwet 206 wetting agent | 11000001 | 8 | 216,000 KG | 422,453 EUR |
+| United States (US) | Methyl methacrylate, technical grade | 11000035 | 6 | 35,000 KG | 63,487 EUR |
+| United States (US) | Neopentyl glycol, technical grade | 11000038 | 8 | 215,000 KG | 398,030 EUR |
+| United States (US) | Pentaerythritol, technical grade | 11000039 | 8 | 312,000 KG | 464,350 EUR |
+| United States (US) | Propylene glycol, technical grade | 12000048 | 8 | 693,000 KG | 1,218,596 EUR |
+| United States (US) | Sulfuric acid (96 %), technical grade | 12000046 | 18 | 2,371,500 KG | 241,314 EUR |
+| United States (US) | Titanium dioxide, technical grade | 12000053 | 12 | 29,650 KG | 103,242 EUR |
+| United States (US) | Toluene, technical grade | 12000043 | 8 | 1,640,000 KG | 1,565,052 EUR |
+| United States (US) | Xylene (isomer mixture), technical grade | 12000044 | 7 | 784,000 KG | 741,821 EUR |
+| United States (US) | n-Butyl acrylate, technical grade | 11000036 | 8 | 488,000 KG | 820,230 EUR |

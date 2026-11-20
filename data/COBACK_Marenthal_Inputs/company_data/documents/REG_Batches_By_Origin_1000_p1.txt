@@ -1,0 +1,128 @@
+# Register of material batches by country of origin - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Company | Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | 1,2-Benzisothiazolin-3-one | 13000004 | Belgium (BE) | 4 |
+| Marenthal Chemie AG | 1,2-Benzisothiazolin-3-one | 13000004 | Germany (DE) | 20 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | Germany (DE) | 3 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | Netherlands (NL) | 9 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | Poland (PL) | 1 |
+| Marenthal Chemie AG | 2-Butoxyethanol | 13000027 | Sweden (SE) | 1 |
+| Marenthal Chemie AG | 2-Dimethylaminoethanol | 13000021 | France (FR) | 1 |
+| Marenthal Chemie AG | 2-Dimethylaminoethanol | 13000021 | Italy (IT) | 1 |
+| Marenthal Chemie AG | 2-Dimethylaminoethanol | 13000021 | Netherlands (NL) | 11 |
+| Marenthal Chemie AG | 2-Ethylhexyl acrylate, technical grade | 12000029 | France (FR) | 8 |
+| Marenthal Chemie AG | 2-Phenoxyethanol | 13000013 | Italy (IT) | 25 |
+| Marenthal Chemie AG | 2-Phenoxyethanol | 13000013 | Netherlands (NL) | 2 |
+| Marenthal Chemie AG | Acetic acid, technical grade | 12000047 | Netherlands (NL) | 10 |
+| Marenthal Chemie AG | Acetone, technical grade | 12000037 | Netherlands (NL) | 2 |
+| Marenthal Chemie AG | Acrylic acid, technical grade | 12000032 | France (FR) | 9 |
+| Marenthal Chemie AG | Aluminium hydroxide | 13000053 | Germany (DE) | 14 |
+| Marenthal Chemie AG | Barium sulfate | 13000043 | France (FR) | 1 |
+| Marenthal Chemie AG | Barium sulfate | 13000043 | Germany (DE) | 2 |
+| Marenthal Chemie AG | Barium sulfate | 13000043 | Poland (PL) | 10 |
+| Marenthal Chemie AG | Benzyl alcohol | 13000023 | China (CN) | 1 |
+| Marenthal Chemie AG | Benzyl alcohol | 13000023 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Bisphenol-A epoxy resin | 13000042 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Butyl acetate | 13000046 | Spain (ES) | 1 |
+| Marenthal Chemie AG | Butyl acetate, technical grade | 12000041 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Calcium carbonate, technical grade | 12000054 | China (CN) | 20 |
+| Marenthal Chemie AG | Citric acid | 13000026 | Belgium (BE) | 1 |
+| Marenthal Chemie AG | Citric acid | 13000026 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Cocamidopropyl betaine | 13000017 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Cocamidopropyl betaine | 13000017 | Italy (IT) | 26 |
+| Marenthal Chemie AG | Diethylenetriamine | 13000049 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Diethylenetriamine, technical grade | 12000036 | France (FR) | 8 |
+| Marenthal Chemie AG | Dioctyl terephthalate | 13000019 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Dioctyl terephthalate | 13000019 | Italy (IT) | 2 |
+| Marenthal Chemie AG | Dioctyl terephthalate | 13000019 | Netherlands (NL) | 11 |
+| Marenthal Chemie AG | Dipropylene glycol | 13000003 | France (FR) | 1 |
+| Marenthal Chemie AG | Dipropylene glycol | 13000003 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Dipropylene glycol | 13000003 | Spain (ES) | 11 |
+| Marenthal Chemie AG | Epoxidised soybean oil | 13000020 | China (CN) | 1 |
+| Marenthal Chemie AG | Epoxidised soybean oil | 13000020 | Netherlands (NL) | 12 |
+| Marenthal Chemie AG | Ethanol, technical grade | 12000039 | Belgium (BE) | 10 |
+| Marenthal Chemie AG | Ethyl acetate, technical grade | 12000040 | Netherlands (NL) | 10 |
+| Marenthal Chemie AG | Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | France (FR) | 2 |
+| Marenthal Chemie AG | Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | Italy (IT) | 2 |
+| Marenthal Chemie AG | Fatty alcohol ethoxylate (C12-14, 6 EO) | 13000002 | Netherlands (NL) | 23 |
+| Marenthal Chemie AG | Glycerol | 13000031 | Germany (DE) | 13 |
+| Marenthal Chemie AG | Glycerol | 13000031 | Sweden (SE) | 1 |
+| Marenthal Chemie AG | Glycerol, technical grade | 12000052 | China (CN) | 8 |
+| Marenthal Chemie AG | Hydrocarbon solvent (hydrotreated heavy naphtha) | 13000037 | France (FR) | 1 |
+| Marenthal Chemie AG | Hydrocarbon solvent (hydrotreated heavy naphtha) | 13000037 | Spain (ES) | 12 |
+| Marenthal Chemie AG | Hydrochloric acid (33 %), technical grade | 12000045 | Germany (DE) | 10 |
+| Marenthal Chemie AG | Iron(III) oxide | 13000040 | Netherlands (NL) | 1 |
+| Marenthal Chemie AG | Iron(III) oxide | 13000040 | Poland (PL) | 11 |
+| Marenthal Chemie AG | Iron(III) oxide | 13000040 | Spain (ES) | 1 |
+| Marenthal Chemie AG | Isophorone diisocyanate, technical grade | 12000034 | France (FR) | 8 |
+| Marenthal Chemie AG | Isopropanol | 13000028 | Belgium (BE) | 12 |
+| Marenthal Chemie AG | Isopropanol | 13000028 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Isopropanol | 13000028 | Netherlands (NL) | 1 |
+| Marenthal Chemie AG | Isopropanol, technical grade | 12000038 | Belgium (BE) | 10 |
+| Marenthal Chemie AG | Kaolin | 13000048 | France (FR) | 1 |
+| Marenthal Chemie AG | Kaolin | 13000048 | Germany (DE) | 11 |
+| Marenthal Chemie AG | Kaolin | 13000048 | Spain (ES) | 1 |
+| Marenthal Chemie AG | Linseed oil | 13000038 | China (CN) | 1 |
+| Marenthal Chemie AG | Linseed oil | 13000038 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Linseed oil | 13000038 | Netherlands (NL) | 11 |
+| Marenthal Chemie AG | Maleic anhydride, technical grade | 12000033 | France (FR) | 8 |
+| Marenthal Chemie AG | Marenbase 1003 neutralising agent | 11000011 | Germany (DE) | 77 |
+| Marenthal Chemie AG | Marenclean A 207 alkaline industrial cleaner | 11000013 | Germany (DE) | 314 |
+| Marenthal Chemie AG | Marenclean A 238 alkaline industrial cleaner | 11000014 | Germany (DE) | 303 |
+| Marenthal Chemie AG | Marenclean B 1006 chlorine-based cleaner | 11000021 | Germany (DE) | 241 |
+| Marenthal Chemie AG | Marenclean C 1305 CIP cleaner | 12000018 | United States (US) | 8 |
+| Marenthal Chemie AG | Marenclean D 703 disinfectant cleaner | 12000014 | China (CN) | 6 |
+| Marenthal Chemie AG | Marenclean E 504 degreaser | 12000013 | China (CN) | 5 |
+| Marenthal Chemie AG | Marenclean E 537 degreaser | 11000017 | Germany (DE) | 249 |
+| Marenthal Chemie AG | Marenclean G 800 glass cleaner | 12000015 | China (CN) | 5 |
+| Marenthal Chemie AG | Marenclean H 602 hand cleaner | 11000018 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Marenclean H 637 hand cleaner | 11000019 | Germany (DE) | 362 |
+| Marenthal Chemie AG | Marenclean M 1200 machine cleaner (powder) | 12000017 | France (FR) | 8 |
+| Marenthal Chemie AG | Marenclean O 1100 active oxygen cleaner (powder) | 12000016 | United States (US) | 9 |
+| Marenthal Chemie AG | Marenclean P 404 phosphoric acid cleaner | 12000012 | France (FR) | 9 |
+| Marenthal Chemie AG | Marenclean R 1402 rust remover | 12000019 | United States (US) | 8 |
+| Marenthal Chemie AG | Marenclean S 301 descaler | 11000015 | Germany (DE) | 224 |
+| Marenthal Chemie AG | Marenclean S 331 descaler | 11000016 | Germany (DE) | 2 |
+| Marenthal Chemie AG | Marenclean U 101 all-purpose cleaner | 12000010 | United States (US) | 8 |
+| Marenthal Chemie AG | Marenclean U 134 all-purpose cleaner | 12000011 | United States (US) | 8 |
+| Marenthal Chemie AG | Marenclean Z 904 citrus cleaner | 11000020 | Germany (DE) | 212 |
+| Marenthal Chemie AG | Marenclear 406 dechlorinating agent | 12000009 | France (FR) | 8 |
+| Marenthal Chemie AG | Marencoat AF 309 acrylic facade paint | 12000020 | United States (US) | 9 |
+| Marenthal Chemie AG | Marencoat AF 333 acrylic facade paint | 12000021 | China (CN) | 5 |
+| Marenthal Chemie AG | Marencoat AI 436 interior emulsion paint | 12000022 | China (CN) | 6 |
+| Marenthal Chemie AG | Marencoat AL 603 alkyd enamel | 11000024 | Germany (DE) | 326 |
+| Marenthal Chemie AG | Marencoat AL 634 alkyd enamel | 12000024 | China (CN) | 4 |
+| Marenthal Chemie AG | Marencoat DB 1303 roof coating | 11000030 | Germany (DE) | 219 |
+| Marenthal Chemie AG | Marencoat DB 1333 roof coating | 12000027 | United States (US) | 8 |
+| Marenthal Chemie AG | Marencoat EK 1001 2K clear epoxy coating (component A) | 11000027 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Marencoat EP 806 2K epoxy primer (component A) | 12000026 | China (CN) | 5 |
+| Marenthal Chemie AG | Marencoat HL 509 water-based wood coating | 12000023 | United States (US) | 7 |
+| Marenthal Chemie AG | Marencoat HL 533 water-based wood coating | 11000023 | Germany (DE) | 342 |
+| Marenthal Chemie AG | Marencoat PH 1102 epoxy hardener (component B) | 11000028 | Germany (DE) | 79 |
+| Marenthal Chemie AG | Marencoat RS 703 anticorrosive primer | 11000025 | Germany (DE) | 67 |
+| Marenthal Chemie AG | Marencoat RS 730 anticorrosive primer | 12000025 | United States (US) | 8 |
+| Marenthal Chemie AG | Marencoat TG 1400 penetrating primer | 12000028 | United States (US) | 8 |
+| Marenthal Chemie AG | Marencoat TG 1438 penetrating primer | 11000031 | Germany (DE) | 302 |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | United States (US) | 8 |
+| Marenthal Chemie AG | Marendisp 332 dispersing agent | 11000002 | Germany (DE) | 147 |
+| Marenthal Chemie AG | Marenemul 702 emulsifier | 11000007 | Germany (DE) | 1 |
+| Marenthal Chemie AG | Marenemul 731 emulsifier | 11000008 | Germany (DE) | 195 |
+| Marenthal Chemie AG | Marenflex 906 plasticizer | 11000010 | Germany (DE) | 34 |
+| Marenthal Chemie AG | Marenfoam 133 defoamer | 11000003 | Germany (DE) | 90 |
+| Marenthal Chemie AG | Marenglide 953 lubricant additive | 12000003 | United States (US) | 8 |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | France (FR) | 8 |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | United States (US) | 8 |
+| Marenthal Chemie AG | Marenphos 125 phosphating solution | 12000008 | France (FR) | 8 |
+| Marenthal Chemie AG | Marenprotect 806 preservative | 11000009 | Germany (DE) | 50 |
+| Marenthal Chemie AG | Marensolv 108 thinner (solvent blend) | 12000004 | France (FR) | 8 |
+| Marenthal Chemie AG | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | China (CN) | 5 |
+| Marenthal Chemie AG | Marenthix 409 thickener | 11000004 | Germany (DE) | 614 |
+| Marenthal Chemie AG | Marenwet 206 wetting agent | 11000001 | Germany (DE) | 326 |
+| Marenthal Chemie AG | Marenwet 237 wetting agent | 12000001 | China (CN) | 5 |
+| Marenthal Chemie AG | Methanol, technical grade | 12000049 | United States (US) | 13 |
+| Marenthal Chemie AG | Methoxypropyl acetate | 13000047 | Belgium (BE) | 1 |

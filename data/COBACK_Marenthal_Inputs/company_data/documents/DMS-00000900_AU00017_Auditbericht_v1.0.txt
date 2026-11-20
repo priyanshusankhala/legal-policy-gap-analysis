@@ -1,0 +1,46 @@
+
+
+Rapport d'audit : audit interne du système de
+management de la conformité – Marenthal France
+S.A.S.
+Auditbericht
+N° du document
+DMS-00000900
+Version
+1.0
+Valable depuis
+2025-06-16
+Société
+Marenthal France S.A.S.
+Site
+FR01-001
+Statut
+Approved
+Confidentialité
+Confidential
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Audit
+titel: Interne Prüfung Compliance-Management – Marenthal France S.A.S.
+art: intern
+scope: Sapin II, Hinweisgebersystem
+geplant_von: 2025-05-13
+geplant_bis: 2025-05-15
+durchgefuehrt_von: 2025-05-14
+durchgefuehrt_bis: 2025-05-16
+leitender_auditor: Stéphane Hamon
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Constats
+1 [Hinweis] Schulungsquote Antikorruption unter dem Zielwert von 95 Prozent. (geschlossen)
+2 [Empfehlung] Risikobewertung wurde seit mehr als zwölf Monaten nicht aktualisiert. (geschlossen)
+3 [Hinweis] Genehmigung einer Einladung wurde erst nach dem Termin dokumentiert. (geschlossen)
+4 [Nebenabweichung] Geschäftspartnerprüfung: Wiederholungsprüfung bei mehreren Partnern
+überfällig. (überfällig)
+5 [Nebenabweichung] Aufbewahrung der Untersuchungsunterlagen entspricht nicht der
+Zugriffsvorgabe. (geschlossen)
+6 [Nebenabweichung] Lokale Ergänzung zur Konzernrichtlinie basiert auf einer älteren Fassung.
+(geschlossen)
+7 [Hinweis] Positiv: Hinweisgeber-Fristen (Bestätigung, Rückmeldung) werden eingehalten.
+(geschlossen)

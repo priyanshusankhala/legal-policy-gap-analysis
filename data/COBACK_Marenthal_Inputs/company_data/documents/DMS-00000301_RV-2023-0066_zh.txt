@@ -1,0 +1,74 @@
+供货合同 RV-2023-0066 – 常州兴盛涂料有限公司
+Liefervertrag
+
+文件编号: DMS-00000301
+版本: 1.0
+生效日期: 2023-09-20
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Vertrag
+contract_number: RV-2023-0066
+type: Supply Agreement
+status: Active
+start_date: 2023-09-20
+end_date: 2026-09-19
+auto_renew: 1
+notice_period_days: 60
+currency: CNY
+committed_volume_t: 94.63
+selling_entity: Marenthal Chemicals (Shanghai)
+signed_date: 2023-08-29
+governing_law: PRC law
+payment_terms: Z090
+incoterm: EXW
+
+条款
+Marenwet 206 wetting agent: 2416.82 CNY/100 kg
+Marendisp 332 dispersing agent: 2902.23 CNY/100 kg
+Methanol, technical grade: 3328.52 CNY/1000 kg
+Glycerol, technical grade: 8095.01 CNY/1000 kg
+
+Account
+name: 常州兴盛涂料有限公司
+type: Customer
+billing_street: 高新区创新路258号
+billing_city: Changzhou
+billing_postcode: 213017
+billing_country: CN
+industry: Paints and coatings
+segment: Direct
+size_class: Medium
+status: Active
+website: www.xingsheng-coatings.com.cn
+created_date: 2016-12-15
+last_modified_date: 2024-12-09
+language: zh-CN
+selling_entity: Marenthal Chemicals (Shanghai)
+description: 涂料。采购Marendisp 332 分散剂、甘油（工业级）用于日常生产。
+
+Rahmenvertragsnummer
+contract_number: RV-2023-0066
+type: Supply Agreement
+status: Active
+start_date: 2023-09-20
+end_date: 2026-09-19
+auto_renew: 1
+notice_period_days: 60
+currency: CNY
+committed_volume_t: 94.63
+selling_entity: Marenthal Chemicals (Shanghai)
+signed_date: 2023-08-29
+governing_law: PRC law
+payment_terms: Z090
+incoterm: EXW
+
+条款
+Marenwet 206 wetting agent: 2416.82 CNY/100 kg
+Marendisp 332 dispersing agent: 2902.23 CNY/100 kg
+Methanol, technical grade: 3328.52 CNY/1000 kg
+Glycerol, technical grade: 8095.01 CNY/1000 kg

@@ -1,0 +1,68 @@
+
+
+Safety Data Sheet Methyl ethyl ketone, technical grade
+Sicherheitsdatenblatt
+Document no.
+DMS-00001145
+Version
+9.1
+Valid from
+2025-09-19
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Methyl ethyl ketone, technical grade
+Product: Methylethylketon, techn.
+SDS: SDB-11468-DE
+2. Hazards identification
+H: H225 H319 H336
+3. Composition / information on ingredients
+Methyl ethyl
+ketone
+78-93-3 201-159-0 99–100 % H225 H319 H336
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 0.805
+Base unit: KG
+Shelf life (months): 24
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN1193
+ADR/IMDG class: 3
+Packing group: II
+HS: 29141200
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Methyl ethyl ketone: IECSC – nicht erforderlich
+Methyl ethyl ketone: REACH – nicht erforderlich
+Methyl ethyl ketone: TSCA – nicht erforderlich
+16. Other information
+9.1 · 2025-09-19

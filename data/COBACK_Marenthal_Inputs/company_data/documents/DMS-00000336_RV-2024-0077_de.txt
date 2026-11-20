@@ -1,0 +1,86 @@
+
+
+Rahmenvertrag RV-2024-0077 – Heinrich
+Hygieneservice GmbH
+Rahmenvertrag
+Dokumentnummer
+DMS-00000336
+Version
+1.0
+Gültig ab
+2024-01-17
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2024-0077
+type: Framework Agreement
+status: Active
+start_date: 2024-01-17
+end_date: 2026-01-16
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 475.15
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-12-21
+compliance_review_ref: GPP0000711
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Bedingungen
+Marenclean U 101 all-purpose cleaner: 134.19 EUR/100 kg
+Marenclean A 207 alkaline industrial cleaner: 131.68 EUR/100 kg
+Marenclean S 301 descaler: 143.09 EUR/100 kg
+Marenclean E 537 degreaser: 156.55 EUR/100 kg
+Marenclean M 1200 machine cleaner (powder): 149.03 EUR/100 kg
+Account
+name: Heinrich Hygieneservice GmbH
+type: Customer
+billing_street: Gewerbepark 25
+billing_city: Stuttgart
+billing_postcode: 70567
+billing_country: DE
+industry: Facility cleaning and hygiene
+segment: Direct
+size_class: Small
+
+status: Active
+website: www.heinrich-hygieneservice.de
+created_date: 2010-09-05
+last_modified_date: 2025-10-27
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-11-14
+cms_partner_ref: GP000257
+description: Gebäudereinigung und Hygiene; Stammkunde seit 2010. Hauptprodukte: Marenclean U
+101 Universalreiniger, Marenclean S 301 Entkalker.
+Rahmenvertragsnummer
+contract_number: RV-2024-0077
+type: Framework Agreement
+status: Active
+start_date: 2024-01-17
+end_date: 2026-01-16
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 475.15
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-12-21
+compliance_review_ref: GPP0000711
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Bedingungen
+Marenclean U 101 all-purpose cleaner: 134.19 EUR/100 kg
+Marenclean A 207 alkaline industrial cleaner: 131.68 EUR/100 kg
+Marenclean S 301 descaler: 143.09 EUR/100 kg
+Marenclean E 537 degreaser: 156.55 EUR/100 kg
+Marenclean M 1200 machine cleaner (powder): 149.03 EUR/100 kg

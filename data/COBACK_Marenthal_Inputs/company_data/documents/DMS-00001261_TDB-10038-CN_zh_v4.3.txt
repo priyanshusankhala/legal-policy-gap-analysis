@@ -1,0 +1,29 @@
+技术数据表 Marenwet 237 润湿剂
+Technisches Datenblatt
+
+文件编号: DMS-00001261
+版本: 4.3
+生效日期: 2025-11-03
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+详细信息
+Product: Marenwet 237 wetting agent
+Family: Specialty Chemicals
+Applications: Surfactant systems, Textile finishing, Formulation auxiliaries
+Description: Benetzung von Pigmenten und Untergründen in wässrigen Systemen
+Hazardous: 1
+SDS available: 1
+Density: 1.001
+HS: 3402139000
+Origin: CN
+
+成分
+Water (demineralised): 56.1–68.5 %
+Sodium dodecylbenzenesulfonate: 30–36.6 %
+Dipropylene glycol: 3.6–4.6 %
+1,2-Benzisothiazolin-3-one: 0.155–0.465 %

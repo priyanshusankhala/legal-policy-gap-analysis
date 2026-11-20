@@ -1,0 +1,40 @@
+
+
+Informationssicherheit und Phishing-Erkennung –
+Schulungsunterlage
+Schulungsunterlage
+Dokumentnummer
+DMS-00000087
+Version
+1.0
+Gültig ab
+2021-11-04
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Schulung
+titel: Informationssicherheit und Phishing-Erkennung
+thema: Informationssicherheit
+pflicht: 1
+zielgruppe: Alle Beschäftigten mit IT-Zugang
+sprachen: de,en,fr,zh
+dauer_min: 30
+intervall_monate: 12
+format: E-Learning
+status: aktiv
+Richtlinie
+nummer: KR-009
+titel: Informationssicherheitsrichtlinie
+thema: Informationssicherheit
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2027-06-23
+master_sprache: de
+vertraulichkeit: vertraulich

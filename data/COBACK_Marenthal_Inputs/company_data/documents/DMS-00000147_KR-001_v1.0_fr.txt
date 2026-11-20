@@ -1,0 +1,40 @@
+
+
+Code de conduite
+Konzernrichtlinie
+N° du document
+DMS-00000147
+Version
+1.0
+Valable depuis
+2022-05-05
+Société
+Marenthal Chemie AG
+Statut
+Superseded
+Confidentialité
+Public
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « Compliance » pour Marenthal Chemie AG. Elle
+s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinie
+nummer: KR-001
+titel: Verhaltenskodex
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-01
+master_sprache: de
+vertraulichkeit: öffentlich
+Richtlinienversion
+version: 1.0
+sprache: fr
+status: Ersetzt
+gueltig_ab: 2022-05-05
+gueltig_bis: 2023-04-05
+freigabe_datum: 2022-05-05
+aenderungsgrund: Erstfassung

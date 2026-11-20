@@ -1,0 +1,34 @@
+
+
+Rapport d'audit: Inspection ICPE – Usine de Saint-Fons
+Auditbericht
+N° du document
+DMS-00001283
+Version
+1.0
+Valable depuis
+2025-10-24
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Confidential
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Audit
+titel: Inspection ICPE – Usine de Saint-Fons
+art: Behörde
+scope: Seveso-Betriebsbereich, Auflagen des Präfekturerlasses
+geplant_von: 2025-09-23
+geplant_bis: 2025-09-23
+durchgefuehrt_von: 2025-09-24
+durchgefuehrt_bis: 2025-09-24
+leitender_auditor: DREAL Auvergne-Rhône-Alpes
+status: abgeschlossen
+gesamtbewertung: wesentliche Abweichungen
+Constats
+1 [Hauptabweichung] Messbericht zur Abluft wurde verspätet übermittelt. (in Bearbeitung)

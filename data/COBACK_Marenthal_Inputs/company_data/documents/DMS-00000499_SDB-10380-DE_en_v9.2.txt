@@ -1,0 +1,76 @@
+
+
+Safety Data Sheet Marenclear 406 dechlorinating
+agent
+Sicherheitsdatenblatt
+Document no.
+DMS-00000499
+Version
+9.2
+Valid from
+2024-11-08
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenclear 406 dechlorinating agent
+Product: Marenclear 406 Entchlorungsmittel
+SDS: SDB-10380-DE
+2. Hazards identification
+H: H319
+3. Composition / information on ingredients
+Water
+(demineralised)
+7732-18-5 231-791-2 69.9–85.5 %
+Sodium
+thiosulfate
+7772-98-7 231-867-5 18–22 %
+Sodium
+carbonate
+497-19-8 207-838-8 1.8–2.8 % H319
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.104
+Base unit: KG
+
+Shelf life (months): 36
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 38249996
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Sodium carbonate: IECSC – nicht erforderlich
+Sodium carbonate: REACH – nicht erforderlich
+Sodium carbonate: TSCA – nicht erforderlich
+Sodium thiosulfate: IECSC – nicht erforderlich
+Sodium thiosulfate: REACH – nicht erforderlich
+Sodium thiosulfate: TSCA – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+16. Other information
+9.2 · 2024-11-08

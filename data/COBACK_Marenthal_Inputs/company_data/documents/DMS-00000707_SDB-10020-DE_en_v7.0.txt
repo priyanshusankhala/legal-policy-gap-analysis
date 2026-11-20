@@ -1,0 +1,78 @@
+
+
+Safety Data Sheet Marenwet 206 wetting agent
+Sicherheitsdatenblatt
+Document no.
+DMS-00000707
+Version
+7.0
+Valid from
+2025-04-04
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenwet 206 wetting agent
+Product: Marenwet 206 Netzmittel
+SDS: SDB-10020-DE
+2. Hazards identification
+H: H302 H315 H317 H318 H400 H412
+3. Composition / information on ingredients
+Water (demineralised) 7732-18-5 231-791-2 54.4–66.5 %
+Fatty alcohol ethoxylate
+(C12-14, 6 EO)
+68439-50-9 29.3–35.8 % H302 H318
+H412
+Dipropylene glycol 25265-71-8 246-770-3 6–7.4 %
+1,2-Benzisothiazolin-3-on
+e
+2634-33-5 220-120-9 0.16–0.48 % H302 H315
+H317 H318
+H400
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.001
+Base unit: KG
+
+Shelf life (months): 36
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 34021390
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+1,2-Benzisothiazolin-3-one: IECSC – nicht erforderlich
+1,2-Benzisothiazolin-3-one: REACH – nicht erforderlich
+1,2-Benzisothiazolin-3-one: TSCA – nicht erforderlich
+Dipropylene glycol: IECSC – nicht erforderlich
+Dipropylene glycol: REACH – nicht erforderlich
+Dipropylene glycol: TSCA – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+16. Other information
+7.0 · 2025-04-04

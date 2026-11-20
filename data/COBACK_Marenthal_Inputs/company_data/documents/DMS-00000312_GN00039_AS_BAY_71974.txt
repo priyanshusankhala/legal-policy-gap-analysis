@@ -1,0 +1,30 @@
+
+
+Occupational Health and Safety Certificate ISO
+45001:2018 – AS-BAY-71974
+Genehmigung oder Zertifikat
+Document no.
+DMS-00000312
+Version
+1.0
+Valid from
+2023-09-12
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: Zertifikat Arbeitsschutzmanagement ISO 45001:2018
+nummer: AS-BAY-71974
+behoerde: DNV
+erteilt_am: 2023-09-12
+gueltig_bis: 2026-09-10
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

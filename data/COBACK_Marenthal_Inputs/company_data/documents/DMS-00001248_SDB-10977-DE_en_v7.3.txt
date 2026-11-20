@@ -1,0 +1,77 @@
+
+
+Safety Data Sheet Marencoat PH 1102 epoxy hardener
+(component B)
+Sicherheitsdatenblatt
+Document no.
+DMS-00001248
+Version
+7.3
+Valid from
+2025-10-17
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marencoat PH 1102 epoxy hardener (component B)
+Product: Marencoat PH 1102 Epoxidhärter (Komponente B)
+SDS: SDB-10977-DE
+2. Hazards identification
+H: H302 H311 H314 H317 H319 H332 H412
+3. Composition / information on ingredients
+Kaolin 1332-58-7 310-194-1 36.5–44.6 %
+Diethylenetriamine 111-40-0 203-865-4 26.1–31.9 % H302 H311 H314
+H317 H412
+Benzyl alcohol 100-51-6 202-859-9 14.4–17.6 % H302 H319 H332
+Talc 14807-96-6 238-877-9 7–8.6 %
+Triethanolamine 102-71-6 203-049-8 6–7.4 %
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.421
+
+Base unit: KG
+Shelf life (months): 12
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN2735
+ADR/IMDG class: 8
+Packing group: II
+HS: 38249996
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Benzyl alcohol: IECSC – nicht erforderlich
+Benzyl alcohol: REACH – nicht erforderlich
+Benzyl alcohol: TSCA – nicht erforderlich
+Diethylenetriamine: IECSC – nicht erforderlich
+Diethylenetriamine: REACH – nicht erforderlich
+Diethylenetriamine: TSCA – nicht erforderlich
+Kaolin: IECSC – nicht erforderlich
+Kaolin: REACH – nicht erforderlich
+16. Other information
+7.3 · 2025-10-17

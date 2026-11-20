@@ -1,0 +1,128 @@
+# Register of raw material and goods purchases by country of origin - Marenthal Chemicals (Shanghai) Co., Ltd. (part 1 of 2)
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 1,2-Benzisothiazolin-3-one | 4030000004 | CN | 13 | 3,575 KG | 38249996 | 2025-01-27 | 2025-12-04 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 2-Butoxyethanol | 4030000010 | CN | 13 | 228,800 KG | 38249996 | 2025-02-07 | 2025-11-28 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 2-Ethylhexyl acrylate, technical grade | 4020000040 | FR | 4 | 88,000 KG | 2916120000 | 2025-05-09 | 2025-12-19 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Absorbent granules | 4050000005 | CN | 5 | 300 ST | - | 2025-03-14 | 2025-12-03 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Acetic acid, technical grade | 4020000056 | NL | 9 | 1,368,000 KG | 2915210000 | 2025-03-12 | 2025-12-10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Acrylic acid, technical grade | 4020000043 | FR | 6 | 1,308,000 KG | 2916110000 | 2025-04-17 | 2026-01-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Activated carbon filter A2 | 4050000003 | CN | 5 | 360 ST | - | 2025-03-07 | 2025-11-07 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ammonia solution (25 %) | 4030000013 | CN | 13 | 33,800 KG | 38249996 | 2025-02-14 | 2025-11-28 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Barium sulfate | 4030000026 | CN | 12 | 40,800 KG | 38249996 | 2025-03-03 | 2025-12-15 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Benzalkonium chloride | 4030000012 | CN | 13 | 33,800 KG | 38249996 | 2025-02-18 | 2026-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Bisphenol-A epoxy resin | 4030000024 | CN | 13 | 221,000 KG | 38249996 | 2025-03-04 | 2025-12-17 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Butyl acetate, technical grade | 4020000050 | DE | 4 | 236,000 KG | 2915330000 | 2025-04-17 | 2026-01-20 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Calcium carbonate | 4030000015 | CN | 13 | 338,000 KG | 38249996 | 2025-02-12 | 2025-12-11 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Calcium carbonate, technical grade | 4020000063 | CN | 10 | 20,310,000 KG | 2836500000 | 2025-02-26 | 2025-12-17 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Diethylenetriamine, technical grade | 4020000046 | FR | 5 | 610,000 KG | 2921290000 | 2025-04-22 | 2026-01-02 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Dipropylene glycol | 4030000003 | CN | 13 | 33,800 KG | 38249996 | 2025-02-06 | 2025-12-04 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | ERP许可证维护 | - | - | 18 | 28 ST | - | 2025-02-06 | 2025-12-10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | EUR pallet | 4040000009 | CN | 8 | 31,600 ST | 39231090 | 2025-03-05 | 2025-12-03 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ethanol, technical grade | 4020000048 | BE | 8 | 665,000 KG | 2207200000 | 2025-04-14 | 2026-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Ethyl acetate, technical grade | 4020000049 | NL | 9 | 621,000 KG | 2915310000 | 2025-03-21 | 2026-01-02 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Fatty alcohol ethoxylate (C12-14, 6 EO) | 4030000009 | CN | 13 | 192,400 KG | 38249996 | 2025-02-17 | 2025-12-05 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Filter cartridge 5 µm | 4050000002 | CN | 5 | 120 ST | - | 2025-03-12 | 2025-09-30 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | GHS hazard pictogram label roll | 4050000006 | CN | 6 | 420 ST | - | 2025-03-12 | 2025-12-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | GHS label set | 4040000010 | CN | 8 | 977,200 ST | 39231090 | 2025-02-21 | 2025-11-28 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Glycerol, technical grade | 4020000060 | CN | 9 | 7,443,000 KG | 2905450000 | 2025-02-21 | 2025-12-01 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydrocarbon solvent (hydrotreated heavy naphtha) | 4030000005 | CN | 14 | 2,940,000 KG | 38249996 | 2025-02-28 | 2025-12-05 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydrochloric acid (33 %), technical grade | 4020000054 | DE | 13 | 6,500,000 KG | 2806100000 | 2025-04-25 | 2026-01-22 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Hydroxyethyl cellulose | 4030000021 | CN | 13 | 7,150 KG | 38249996 | 2025-02-24 | 2025-12-11 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | IBC container 1000 L | 4040000003 | CN | 6 | 900 ST | 39231090 | 2025-02-21 | 2025-12-02 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | IT支持服务 | - | - | 22 | 66 ST | - | 2025-02-05 | 2025-12-04 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isophorone diisocyanate, technical grade | 4020000045 | FR | 1 | 1,800 KG | 2929100000 | 2025-09-23 | 2025-09-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isopropanol | 4030000008 | CN | 13 | 676,000 KG | 38249996 | 2025-02-12 | 2025-12-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Isopropanol, technical grade | 4020000047 | BE | 9 | 1,710,000 KG | 2905120000 | 2025-03-10 | 2025-12-19 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Linseed oil | 4030000022 | CN | 13 | 377,000 KG | 38249996 | 2025-03-14 | 2025-11-19 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Maleic anhydride, technical grade | 4020000044 | FR | 5 | 460,000 KG | 2917140000 | 2025-04-24 | 2026-01-21 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenbase 1003 neutralising agent | 4020000009 | DE | 3 | 3,800 KG | 3824999600 | 2025-05-30 | 2025-09-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean A 238 alkaline industrial cleaner | 4020000016 | DE | 6 | 228,000 KG | 3402909000 | 2025-04-11 | 2026-02-04 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean B 1006 chlorine-based cleaner | 4020000022 | DE | 4 | 29,000 KG | 2828909000 | 2025-04-01 | 2025-07-15 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean C 1305 CIP cleaner | 4020000025 | US | 4 | 268,000 KG | 3402909000 | 2025-05-14 | 2026-02-04 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean E 537 degreaser | 4020000019 | DE | 5 | 355,000 KG | 3402909000 | 2025-04-17 | 2025-12-08 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean H 637 hand cleaner | 4020000020 | DE | 4 | 872,000 KG | 3402209000 | 2025-04-03 | 2025-12-17 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean M 1200 machine cleaner (powder) | 4020000024 | FR | 5 | 90,000 KG | 3402909000 | 2025-04-22 | 2026-01-26 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | US | 4 | 26,400 KG | 2836999000 | 2025-06-26 | 2026-01-30 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean P 404 phosphoric acid cleaner | 4020000018 | FR | 5 | 940,000 KG | 3402909000 | 2025-05-14 | 2026-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean R 1402 rust remover | 4020000026 | US | 6 | 174,000 KG | 3402909000 | 2025-05-12 | 2026-01-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean S 301 descaler | 4020000017 | DE | 4 | 16,700 KG | 3402909000 | 2025-06-12 | 2025-10-31 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclean U 101 all-purpose cleaner | 4020000015 | US | 4 | 144,000 KG | 3402209000 | 2025-04-30 | 2026-01-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenclear 406 dechlorinating agent | 4020000014 | FR | 1 | 9,000 KG | 3824999600 | 2025-10-23 | 2025-10-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AF 309 acrylic facade paint | 4020000027 | US | 4 | 109,000 KG | 3209100000 | 2025-04-15 | 2025-11-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat AL 603 alkyd enamel | 4020000030 | DE | 3 | 21,000 KG | 3208901900 | 2025-06-10 | 2025-11-26 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat DB 1333 roof coating | 4020000035 | US | 5 | 90,000 KG | 3209100000 | 2025-03-31 | 2025-11-20 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat HL 509 water-based wood coating | 4020000028 | US | 4 | 60,000 KG | 3209100000 | 2025-04-15 | 2025-11-28 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat HL 533 water-based wood coating | 4020000029 | DE | 4 | 43,000 KG | 3209100000 | 2025-04-17 | 2025-12-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat PH 1102 epoxy hardener (component B) | 4020000033 | DE | 6 | 101,000 KG | 3824999600 | 2025-04-29 | 2026-01-28 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat RS 703 anticorrosive primer | 4020000031 | DE | 3 | 36,000 KG | 3208909100 | 2025-04-28 | 2025-11-28 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat RS 730 anticorrosive primer | 4020000032 | US | 4 | 28,000 KG | 3208909100 | 2025-05-12 | 2026-01-09 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat TG 1400 penetrating primer | 4020000036 | US | 5 | 755,000 KG | 3209100000 | 2025-04-17 | 2025-12-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marencoat TG 1438 penetrating primer | 4020000037 | DE | 4 | 172,000 KG | 3209100000 | 2025-05-07 | 2025-11-24 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marendisp 305 dispersing agent | 4020000002 | US | 2 | 7,200 KG | 3906909000 | 2025-10-31 | 2026-01-14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marendisp 332 dispersing agent | 4020000003 | DE | 4 | 84,000 KG | 3906909000 | 2025-04-01 | 2025-11-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenemul 731 emulsifier | 4020000005 | DE | 4 | 76,000 KG | 3402119000 | 2025-04-09 | 2025-12-11 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenflex 906 plasticizer | 4020000007 | DE | 5 | 7,500 KG | 3812200000 | 2025-04-24 | 2025-12-05 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenfoam 133 defoamer | 4020000004 | DE | 5 | 55,000 KG | 3910000000 | 2025-04-17 | 2025-12-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenglide 953 lubricant additive | 4020000008 | US | 5 | 1,175,000 KG | 3403990000 | 2025-04-17 | 2025-12-29 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenpaste 202 pigment preparation | 4020000011 | FR | 4 | 20,200 KG | 3212900000 | 2025-04-01 | 2026-01-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenpaste 237 pigment preparation | 4020000012 | US | 3 | 69,000 KG | 3212900000 | 2025-06-25 | 2025-12-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenphos 125 phosphating solution | 4020000013 | FR | 5 | 255,000 KG | 3824999600 | 2025-05-13 | 2025-12-15 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenprotect 806 preservative | 4020000006 | DE | 3 | 9,000 KG | 3808949000 | 2025-12-11 | 2025-12-24 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marensolv 108 thinner (solvent blend) | 4020000010 | FR | 6 | 162,000 KG | 3814009000 | 2025-03-31 | 2026-01-29 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Marenwet 206 wetting agent | 4020000001 | DE | 4 | 976,000 KG | 3402139000 | 2025-04-30 | 2025-12-05 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Methanol, technical grade | 4020000057 | US | 5 | 1,840,000 KG | 2905110000 | 2025-04-29 | 2026-01-23 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Methyl ethyl ketone, technical grade | 4020000051 | NL | 12 | 502,000 KG | 2914120000 | 2025-03-17 | 2026-01-30 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Monoethanolamine | 4030000011 | CN | 12 | 36,000 KG | 38249996 | 2025-02-21 | 2025-11-20 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Nitrile protective gloves (pair) | 4050000001 | CN | 5 | 180 ST | - | 2025-03-04 | 2025-10-20 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Pail 20 L with lid | 4040000006 | CN | 9 | 88,650 ST | 39231090 | 2025-02-14 | 2026-01-15 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Phosphoric acid (75 %), technical grade | 4020000059 | US | 7 | 3,500,000 KG | 2809200000 | 2025-05-16 | 2026-02-02 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Plastic canister 10 L | 4040000005 | CN | 8 | 871,200 ST | 39231090 | 2025-02-07 | 2025-11-21 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Plastic drum 200 L | 4040000002 | CN | 9 | 30,150 ST | 39231090 | 2025-03-05 | 2025-12-04 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Polydimethylsiloxane | 4030000020 | CN | 13 | 7,800 KG | 38249996 | 2025-02-18 | 2026-01-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Propylene glycol | 4030000019 | CN | 14 | 19,600 KG | 38249996 | 2025-02-10 | 2025-12-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Rosin (colophony) | 4030000023 | CN | 13 | 59,800 KG | 38249996 | 2025-03-18 | 2025-11-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Seal kit centrifugal pump | 4050000004 | CN | 5 | 150 ST | - | 2025-03-18 | 2025-11-14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Shrink hood | 4040000011 | CN | 9 | 26,100 ST | 39231090 | 2025-02-07 | 2026-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Sodium dodecylbenzenesulfonate | 4030000002 | CN | 13 | 273,000 KG | 38249996 | 2025-01-27 | 2025-12-05 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Sodium hydroxide (50 %), technical grade | 4020000058 | US | 3 | 936,000 KG | 2815120000 | 2025-06-11 | 2025-11-14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Styrene, technical grade | 4020000042 | FR | 5 | 1,720,000 KG | 2902500000 | 2025-03-31 | 2026-01-29 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Styrene-acrylate copolymer dispersion | 4030000014 | CN | 13 | 416,000 KG | 38249996 | 2025-02-20 | 2025-12-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Sulfuric acid (96 %), technical grade | 4020000055 | DE | 5 | 2,500,000 KG | 2807001000 | 2025-04-17 | 2025-12-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Talc | 4030000017 | CN | 13 | 202,800 KG | 38249996 | 2025-02-14 | 2025-11-24 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Tamper-evident closure | 4040000012 | CN | 8 | 977,600 ST | 39231090 | 2025-02-14 | 2025-11-25 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Titanium dioxide | 4030000016 | CN | 14 | 700,000 KG | 38249996 | 2025-02-14 | 2026-01-19 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Titanium dioxide, technical grade | 4020000061 | DE | 9 | 2,304,000 KG | 3206110000 | 2025-03-18 | 2025-12-18 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Toluene, technical grade | 4020000052 | DE | 3 | 54,000 KG | 2902300000 | 2025-05-14 | 2026-01-30 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Vinyl acetate, technical grade | 4020000041 | FR | 4 | 196,000 KG | 2915320000 | 2025-05-14 | 2025-10-30 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Water (demineralised) | 4030000001 | CN | 13 | 8,502,000 KG | 38249996 | 2025-02-19 | 2026-01-19 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Xylene (isomer mixture) | 4030000025 | CN | 12 | 50,400 KG | 38249996 | 2025-03-03 | 2025-12-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Xylene (isomer mixture), technical grade | 4020000053 | DE | 3 | 168,000 KG | 2902440000 | 2025-05-07 | 2025-09-17 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Zinc oxide | 4030000018 | CN | 14 | 14,350 KG | 38249996 | 2025-02-12 | 2026-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Zinc phosphate | 4030000028 | CN | 12 | 28,800 KG | 38249996 | 2025-02-28 | 2025-10-30 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | d-Limonene | 4030000007 | CN | 14 | 170,800 KG | 38249996 | 2025-02-28 | 2025-12-05 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | n-Butanol | 4030000027 | CN | 13 | 33,800 KG | 38249996 | 2025-03-03 | 2025-12-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | n-Butyl acrylate, technical grade | 4020000038 | DE | 2 | 62,000 KG | 2916120000 | 2025-07-29 | 2026-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | n-Heptane | 4030000006 | CN | 13 | 572,000 KG | 38249996 | 2025-03-04 | 2025-11-14 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 个人防护装备 | - | - | 84 | 7,782 ST | - | 2025-02-05 | 2025-12-24 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 云托管基础设施 | - | - | 17 | 35 ST | - | 2025-04-15 | 2025-12-29 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 公路货运服务 | - | - | 22 | 152 ST | - | 2025-01-27 | 2025-12-08 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 化学品法规法律咨询 | - | - | 18 | 28 ST | - | 2025-02-14 | 2026-01-08 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 危险品罐车运输 | - | - | 14 | 75 ST | - | 2025-02-10 | 2025-12-08 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 厂区清洁服务 | - | - | 34 | 77 ST | - | 2025-01-23 | 2026-01-06 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 外部实验室分析 | - | - | 25 | 563 ST | - | 2025-02-05 | 2025-12-08 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 天然气供应 | - | - | 57 | 117 ST | - | 2025-01-21 | 2025-12-24 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 工厂供电 | - | - | 47 | 92 ST | - | 2025-01-20 | 2025-12-09 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 工艺过滤元件 | - | - | 104 | 3,498 ST | - | 2025-01-13 | 2026-01-02 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 搅拌器密封件套装 | - | - | 95 | 933 ST | - | 2025-01-14 | 2026-01-08 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 服务器/网络设备 1 | - | - | 1 | 1 ST | - | 2025-03-07 | 2025-03-07 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 服务器/网络设备 2 | - | - | 1 | 1 ST | - | 2025-01-16 | 2025-01-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 服务器/网络设备 5 | - | - | 1 | 1 ST | - | 2025-08-01 | 2025-08-01 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 测量仪器校准 | - | - | 20 | 216 ST | - | 2025-02-14 | 2025-10-27 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 润滑油及耗材 | - | - | 118 | 5,306 ST | - | 2025-01-15 | 2026-01-12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 清关服务 | - | - | 13 | 174 ST | - | 2025-01-17 | 2026-01-13 |

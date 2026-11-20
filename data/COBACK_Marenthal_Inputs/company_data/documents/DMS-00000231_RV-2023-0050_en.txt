@@ -1,0 +1,79 @@
+
+
+Supply Agreement RV-2023-0050 – Medeiros Tintas
+Ltda.
+Liefervertrag
+Document no.
+DMS-00000231
+Version
+1.0
+Valid from
+2023-04-17
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2023-0050
+type: Supply Agreement
+status: Active
+start_date: 2023-04-17
+end_date: 2028-04-16
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 67.09
+selling_entity: Marenthal France S.A.S.
+signed_date: 2023-03-31
+governing_law: French law
+payment_terms: Z045
+incoterm: DAP
+Terms
+Marendisp 305 dispersing agent: 377.95 EUR/100 kg
+Marenpaste 202 pigment preparation: 393.12 EUR/100 kg
+Pentaerythritol, technical grade: 1644.21 EUR/1000 kg
+Butyl acetate, technical grade: 1403.28 EUR/1000 kg
+Account
+name: Medeiros Tintas Ltda.
+type: Customer
+billing_street: Rua das Flores 154
+billing_city: Curitiba
+billing_postcode: 80563-547
+billing_country: BR
+industry: Paints and coatings
+segment: Direct
+size_class: Medium
+status: Active
+website: www.medeiros-tintas.com.br
+
+created_date: 2020-06-24
+last_modified_date: 2024-09-08
+language: pt
+selling_entity: Marenthal France S.A.S.
+description: Paints and coatings; customer since 2020. Main products: Pentaerythritol, technical grade,
+Butyl acetate, technical grade.
+Rahmenvertragsnummer
+contract_number: RV-2023-0050
+type: Supply Agreement
+status: Active
+start_date: 2023-04-17
+end_date: 2028-04-16
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 67.09
+selling_entity: Marenthal France S.A.S.
+signed_date: 2023-03-31
+governing_law: French law
+payment_terms: Z045
+incoterm: DAP
+Terms
+Marendisp 305 dispersing agent: 377.95 EUR/100 kg
+Marenpaste 202 pigment preparation: 393.12 EUR/100 kg
+Pentaerythritol, technical grade: 1644.21 EUR/1000 kg
+Butyl acetate, technical grade: 1403.28 EUR/1000 kg

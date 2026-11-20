@@ -1,0 +1,30 @@
+
+
+Zertifikat Informationssicherheit ISO/IEC 27001:2022 –
+IS-FRA-48211
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000276
+Version
+1.0
+Gültig ab
+2023-06-14
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Zertifikat Informationssicherheit ISO/IEC 27001:2022
+nummer: IS-FRA-48211
+behoerde: TÜV Rheinland
+erteilt_am: 2023-06-14
+gueltig_bis: 2026-06-16
+status: läuft ab
+auflagen: Geltungsbereich: Rechenzentrum und Entwicklungssysteme Frankfurt.

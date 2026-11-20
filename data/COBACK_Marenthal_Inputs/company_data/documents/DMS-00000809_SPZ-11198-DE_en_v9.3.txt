@@ -1,0 +1,32 @@
+
+
+Product Specification Sheet Pentaerythritol, technical
+grade
+Spezifikationsblatt
+Document no.
+DMS-00000809
+Version
+9.3
+Valid from
+2025-05-12
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Pentaerythritol, technical grade
+Family: Intermediates
+Applications: Polymer intermediates, Compounding
+Description: Zwischenprodukt für Synthese und Formulierung (Polyolkomponente)
+Hazardous: 0
+SDS available: 1
+Density: 1.4
+HS: 2905420000
+Origin: DE
+Composition
+Pentaerythritol: 99–100 %

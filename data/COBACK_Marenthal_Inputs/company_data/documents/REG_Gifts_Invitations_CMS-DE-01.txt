@@ -1,0 +1,55 @@
+# Register of gifts and invitations - Marenthal Chemie AG
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Requests to give or accept gifts and invitations, with value, occasion, whether a public official is involved, and the decision.
+
+| Date | Kind | Partner | Value | Currency | Occasion | Public official | Decision | Reason |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-16 | Einladung gegeben | Rheinische Hygieneservice GmbH & Co. KG | 144.46 | EUR | Einladung zur Werksbesichtigung | 0 | abgelehnt | Geschäftsanlass nicht erkennbar; Häufung von Zuwendungen an denselben Partner. |
+| 2025-12-12 | Geschenk gegeben | Antoniou Industrial Systems E.P.E. | 130.23 | EUR | Jahresabschlussgeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-12-08 | Geschenk erhalten | Prins & Jansen Packaging B.V. | 133.04 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-12-04 | Geschenk gegeben | Wijnands & van Dam Chemical Supply N.V. | 49.55 | EUR | Jahresabschlussgeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-12-01 | Geschenk erhalten | Pohl Rohstoffe GmbH | 40.62 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-11-18 | Einladung gegeben | Oswald Datentechnik AG | 108.71 | EUR | Einladung zur Werksbesichtigung | 1 | abgelehnt | Amtsträger beteiligt; Zuwendung nicht zulässig. |
+| 2025-11-17 | Geschenk gegeben | Cunningham & Weaver Surface Technologies Ltd | 59.88 | EUR | Jahresabschlussgeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-11-17 | Einladung gegeben | Carpathian Surface Technologies S.A. | 20.51 | EUR | Abendessen im Rahmen der Jahresverhandlung | 0 | zurückgezogen | - |
+| 2025-11-17 | Bewirtung | Braun Fassfabrik GmbH | 120.59 | EUR | Abendessen im Rahmen der Jahresverhandlung | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-10-31 | Geschenk erhalten | Ferrari Materie plastiche S.r.l. | 18.01 | EUR | Jahresabschlussgeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-10-16 | Geschenk erhalten | Elster Beschichtungen GmbH | 77.82 | EUR | Dank für langjährige Zusammenarbeit | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-10-09 | Geschenk gegeben | Baltic Electronics AS | 70.16 | EUR | Dank für langjährige Zusammenarbeit | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-10-09 | Geschenk erhalten | Keller Lacke GmbH | 62.03 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-10-08 | Geschenk erhalten | Castro Pinturas S.L. | 40.9 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-10-03 | Einladung gegeben | Horáková Plastics s.r.o. | 23.8 | EUR | Fachveranstaltung des Branchenverbands | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-09-29 | Geschenk gegeben | Main Maschinenbau GmbH & Co. KG | 149.93 | EUR | Jubiläum des Geschäftspartners | 0 | abgelehnt | Wert (149.93 EUR) übersteigt die Wertgrenze von 50.00 EUR; kein ausreichender Geschäftsanlass. |
+| 2025-09-15 | Geschenk erhalten | Bauer Verpackungen GmbH | 32.03 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-09-12 | Geschenk erhalten | Nordic Water Treatment Oyj | 49.33 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-09-02 | Einladung gegeben | Carioca Limpeza industrial Ltda. | 146.45 | EUR | Einladung zur Werksbesichtigung | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-07-25 | Geschenk erhalten | Alpen Logistik GmbH & Co. KG | 134.86 | EUR | Jubiläum des Geschäftspartners | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-07-25 | Einladung erhalten | Wendt Automotive GmbH | 161.92 | EUR | Abendessen im Rahmen der Jahresverhandlung | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-07-21 | Einladung gegeben | Krause Wassertechnik GmbH & Co. KG | 150.69 | EUR | Kundenevent | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-07-10 | Einladung erhalten | Vogel Chemikalien GmbH | 56.87 | EUR | Kundenevent | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-06-17 | Einladung erhalten | Emiliana Colori S.p.A. | 297.09 | EUR | Kundenevent | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-06-03 | Einladung gegeben | Pegnitz Beschichtungen GmbH | 103.71 | EUR | Einladung zur Werksbesichtigung | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-04-15 | Einladung gegeben | Main Lacke GmbH | 24.84 | EUR | Kundenevent | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-04-15 | Einladung gegeben | Krause Maschinenbau GmbH | 381.86 | EUR | Kundenevent | 0 | abgelehnt | Wert (381.86 EUR) übersteigt die Wertgrenze von 150.00 EUR; kein ausreichender Geschäftsanlass. |
+| 2025-03-27 | Geschenk gegeben | Rhein-Main Automotive GmbH | 47.86 | EUR | Messegeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-27 | Einladung gegeben | Carpathian Beverages S.R.L. | 64.55 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-27 | Einladung erhalten | Kraus Fahrzeugteile GmbH | 152.62 | EUR | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-27 | Bewirtung | Otieno Building Products Ltd | 256.68 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-26 | Geschenk gegeben | Fink Hygieneservice KG | 108.74 | EUR | Messegeschenk | 0 | genehmigt | Ausnahmegenehmigung: Geschäftsanlass dokumentiert, Freigabe durch den Local Compliance Officer. |
+| 2025-03-26 | Geschenk erhalten | Krause Maschinenbau GmbH | 42.84 | EUR | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-26 | Einladung erhalten | Jabłońska Handel chemiczny S.A. | 372.1 | EUR | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-26 | Einladung erhalten | Jabłońska Handel chemiczny S.A. | 117.94 | EUR | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-26 | Bewirtung | Kazlauskienė & Paulauskas Building Products UAB | 52.44 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-25 | Geschenk gegeben | Danube Paints s.r.o. | 15.29 | EUR | Messegeschenk | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-25 | Geschenk erhalten | Merten Chemikalienvertrieb GmbH | 104.29 | EUR | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-25 | Geschenk erhalten | De Luca Petrochemicals S.r.l. | 92.09 | EUR | Messegeschenk | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-25 | Einladung gegeben | Gulf Coast Foods Inc. | 77.64 | EUR | Messeabend (European Coatings Show) | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-03-25 | Einladung erhalten | Rhein Tanklogistik GmbH | 191.91 | EUR | Messeabend (European Coatings Show) | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-03-06 | Einladung erhalten | Pohl Rohstoffe GmbH | 135.53 | EUR | Einladung zur Werksbesichtigung | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-03-06 | Bewirtung | Köhler Chemikalien GmbH | 413.02 | EUR | Einladung zur Werksbesichtigung | 0 | nachträglich gemeldet | Nachträglich angezeigt; Wertgrenze überschritten, Zuwendung an Compliance zur Verwendung übergeben. |
+| 2025-02-06 | Geschenk erhalten | van Dijk & Verhoeven Chimie NV | 48.56 | EUR | Dank für langjährige Zusammenarbeit | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-01-30 | Einladung erhalten | Stahl Umwelttechnik GmbH & Co. KG | 125.01 | EUR | Kundenevent | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |
+| 2025-01-24 | Geschenk gegeben | Marin Hygiene Solutions S.R.L. | 41.58 | EUR | Jubiläum des Geschäftspartners | 0 | genehmigt | Angemessen und transparent; Geschäftsanlass dokumentiert. |
+| 2025-01-15 | Einladung erhalten | Perkins Electronics Inc. | 135.06 | EUR | Fachveranstaltung des Branchenverbands | 0 | nachträglich gemeldet | Nachträglich angezeigt; unterhalb der Wertgrenze, keine Beanstandung. |

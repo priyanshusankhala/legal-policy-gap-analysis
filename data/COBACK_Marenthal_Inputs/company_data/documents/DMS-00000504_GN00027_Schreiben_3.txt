@@ -1,0 +1,30 @@
+
+
+Application for Renewal – Fire Department Hazmat
+Permit (BS-CLT-2023/905)
+Behördenkorrespondenz
+Document no.
+DMS-00000504
+Version
+1.0
+Valid from
+2024-11-01
+Company
+Marenthal Chemicals Inc.
+Site
+US01-002
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: Fire Department Hazmat Permit
+nummer: BS-CLT-2023/905
+behoerde: Charlotte Fire Department
+erteilt_am: 2023-06-08
+gueltig_bis: 2028-06-08
+status: gültig
+auflagen: Lagerklassen und Mengen gemäß Bescheid; jährliche Brandschau.

@@ -1,0 +1,34 @@
+
+
+Supplier Technical Data Sheet Isopropanol, technical
+grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00001019
+Version
+7.1
+Valid from
+2025-08-08
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Isopropanol, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.785
+UN: UN1219
+Class: 3
+HS: 2905120000
+Origin: BE
+Composition
+Isopropanol: 99–100 %

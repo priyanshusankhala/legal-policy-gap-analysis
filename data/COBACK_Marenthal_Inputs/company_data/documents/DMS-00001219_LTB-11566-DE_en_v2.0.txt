@@ -1,0 +1,32 @@
+
+
+Supplier Technical Data Sheet Propylene glycol,
+technical grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00001219
+Version
+2.0
+Valid from
+2025-10-08
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Propylene glycol, technical grade
+Family: Trade Goods
+Applications: Formulation auxiliaries, Cooling water
+Description: Handelsware: Feuchthaltemittel
+Hazardous: 0
+SDS available: 1
+Density: 1.04
+HS: 29053200
+Origin: DE
+Composition
+Propylene glycol: 99–100 %

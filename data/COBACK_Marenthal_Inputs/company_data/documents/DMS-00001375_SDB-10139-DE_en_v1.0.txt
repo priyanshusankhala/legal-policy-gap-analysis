@@ -1,0 +1,76 @@
+
+
+Safety Data Sheet Marenstop 500 corrosion inhibitor
+Sicherheitsdatenblatt
+Document no.
+DMS-00001375
+Version
+1.0
+Valid from
+2025-12-19
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenstop 500 corrosion inhibitor
+Product: Marenstop 500 Korrosionsinhibitor
+SDS: SDB-10139-DE
+2. Hazards identification
+H: H290 H302 H314 H318 H335
+3. Composition / information on ingredients
+Water
+(demineralised)
+7732-18-5 231-791-2 71.6–87.6 %
+Triethanolamine 102-71-6 203-049-8 14.8–18 %
+Sodium gluconate 527-07-1 208-407-7 2.6–3.6 %
+Sodium
+metasilicate
+6834-92-0 229-912-9 0.275–0.825 % H290 H314 H335
+2-Phenoxyethanol 122-99-6 204-589-7 0.175–0.525 % H302 H318 H335
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.036
+Base unit: KG
+
+Shelf life (months): 12
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 38249996
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+2-Phenoxyethanol: IECSC – nicht erforderlich
+2-Phenoxyethanol: REACH – nicht erforderlich
+2-Phenoxyethanol: TSCA – nicht erforderlich
+Sodium gluconate: IECSC – nicht erforderlich
+Sodium gluconate: REACH – registriert (01-2119859443-54-0015)
+Sodium gluconate: TSCA – nicht erforderlich
+Sodium metasilicate: IECSC – nicht erforderlich
+Sodium metasilicate: REACH – nicht erforderlich
+16. Other information
+1.0 · 2025-12-19

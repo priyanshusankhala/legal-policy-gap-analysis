@@ -1,0 +1,41 @@
+
+
+Auditbericht: Interne Prüfung IT-Sicherheit (ISMS) –
+Konzern
+Auditbericht
+Dokumentnummer
+DMS-00001370
+Version
+1.0
+Gültig ab
+2025-11-27
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Interne Prüfung IT-Sicherheit (ISMS) – Konzern
+art: intern
+scope: Zugriffsmanagement, Patchmanagement, Datensicherung
+geplant_von: 2025-11-04
+geplant_bis: 2025-11-06
+durchgefuehrt_von: 2025-11-04
+durchgefuehrt_bis: 2025-11-06
+leitender_auditor: Florian Müller
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Passwortvorgaben der Fertigungssteuerung entsprechen nicht der Richtlinie. (in
+Bearbeitung)
+2 [Empfehlung] Berechtigungen ausgeschiedener Mitarbeiter wurden mit Verzögerung entzogen.
+(offen)
+3 [Nebenabweichung] Wiederherstellungstest der Datensicherung wurde nicht dokumentiert.
+(geschlossen)
+4 [Hinweis] Patchstände von zwei Servern liegen über der Vorgabe von 30 Tagen. (geschlossen)

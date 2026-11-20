@@ -1,0 +1,29 @@
+
+
+Customs Bond (Continuous) – CB-3000-2231
+Genehmigung oder Zertifikat
+Document no.
+DMS-00000944
+Version
+1.0
+Valid from
+2025-06-30
+Company
+Marenthal Chemicals Inc.
+Site
+US01-003
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: Customs Bond (Continuous)
+nummer: CB-3000-2231
+behoerde: U.S. Customs and Border Protection
+erteilt_am: 2025-06-30
+gueltig_bis: 2026-07-10
+status: gültig
+auflagen: Meldung von Veränderungen an die Behörde; Nachweis der Sicherheitsstandards.

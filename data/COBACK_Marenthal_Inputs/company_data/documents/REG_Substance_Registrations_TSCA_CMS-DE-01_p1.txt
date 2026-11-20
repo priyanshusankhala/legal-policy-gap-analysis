@@ -1,0 +1,128 @@
+# Register of substance registrations: TSCA - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Status of each substance under TSCA for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one (CAS 2634-33-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 1-Methoxy-2-propanol (CAS 107-98-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 2-Butoxyethanol (CAS 111-76-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 2-Dimethylaminoethanol (CAS 108-01-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 2-Ethylhexanol (CAS 104-76-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 2-Ethylhexyl acrylate (CAS 103-11-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 2-Methyl-2H-isothiazol-3-one (CAS 2682-20-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 2-Phenoxyethanol (CAS 122-99-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 3-Aminopropyltriethoxysilane (CAS 919-30-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| 3-Glycidyloxypropyltrimethoxysilane (CAS 2530-83-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Acetic acid (CAS 64-19-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Acetone (CAS 67-64-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Acetonitrile (CAS 75-05-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Acrylic acid (CAS 79-10-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Adipic acid (CAS 124-04-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Alkyl polyglucoside (C8-10) (CAS 68515-73-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Aluminium hydroxide (CAS 21645-51-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Aluminium oxide (CAS 1344-28-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Aluminium sulfate (CAS 10043-01-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Ammonia solution (25 %) (CAS 1336-21-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Ammonium chloride (CAS 12125-02-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Barium sulfate (CAS 7727-43-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Benzalkonium chloride (CAS 63449-41-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Benzyl alcohol (CAS 100-51-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Bisphenol A (CAS 80-05-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Bisphenol-A epoxy resin (CAS 25068-38-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Butyl acetate (CAS 123-86-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Calcium carbonate (CAS 471-34-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Calcium chloride (CAS 10043-52-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Calcium hydroxide (CAS 1305-62-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Calcium oxide (CAS 1305-78-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Calcium stearate (CAS 1592-23-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Carbon black (CAS 1333-86-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Citric acid (CAS 77-92-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Cocamidopropyl betaine (CAS 61789-40-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Copper(II) sulfate (CAS 7758-98-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Cyclohexane (CAS 110-82-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Cyclohexanone (CAS 108-94-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Diacetone alcohol (CAS 123-42-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Diethanolamine (CAS 111-42-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Diethylene glycol (CAS 111-46-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Diethylenetriamine (CAS 111-40-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Dimethyl carbonate (CAS 616-38-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Dimethyl sulfoxide (CAS 67-68-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Dimethylformamide (CAS 68-12-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Dioctyl terephthalate (CAS 6422-86-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Dipropylene glycol (CAS 25265-71-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Epichlorohydrin (CAS 106-89-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Epoxidised soybean oil (CAS 8013-07-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Ethanol (CAS 64-17-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Ethyl acetate (CAS 141-78-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Ethylene glycol (CAS 107-21-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) (CAS 68439-50-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Formaldehyde solution (37 %) (CAS 50-00-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Formic acid (CAS 64-18-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Glycerol (CAS 56-81-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Glycolic acid (70 %) (CAS 79-14-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Hexamethylene diisocyanate (CAS 822-06-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) (CAS 64742-48-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Hydrochloric acid (33 %) (CAS 7647-01-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Hydrogen peroxide (35 %) (CAS 7722-84-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Hydroxyethyl cellulose (CAS 9004-62-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Iron(III) oxide (CAS 1309-37-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Isobutanol (CAS 78-83-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Isophorone diisocyanate (CAS 4098-71-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Isophoronediamine (CAS 2855-13-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Isopropanol (CAS 67-63-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Isopropyl acetate (CAS 108-21-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Kaolin (CAS 1332-58-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Lactic acid (80 %) (CAS 50-21-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Lauric acid (CAS 143-07-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Linseed oil (CAS 8001-26-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Magnesium oxide (CAS 1309-48-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Magnesium sulfate (CAS 7487-88-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Maleic anhydride (CAS 108-31-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methanesulfonic acid (CAS 75-75-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methanol (CAS 67-56-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methoxypropyl acetate (CAS 108-65-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methyl acetate (CAS 79-20-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methyl ethyl ketone (CAS 78-93-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methyl isobutyl ketone (CAS 108-10-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methyl methacrylate (CAS 80-62-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Methylene diphenyl diisocyanate (CAS 101-68-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Monoethanolamine (CAS 141-43-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| N-Methyl-2-pyrrolidone (CAS 872-50-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Neopentyl glycol (CAS 126-30-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Nitric acid (60 %) (CAS 7697-37-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Oleic acid (CAS 112-80-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Oxalic acid (CAS 144-62-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Paraffin wax (CAS 8002-74-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Pentaerythritol (CAS 115-77-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Peracetic acid (15 %) (CAS 79-21-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Phenol (CAS 108-95-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Phosphoric acid (75 %) (CAS 7664-38-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Phthalic anhydride (CAS 85-44-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Polydimethylsiloxane (CAS 63148-62-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Polyethylene glycol (CAS 25322-68-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Polyvinyl alcohol (CAS 9002-89-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Potassium carbonate (CAS 584-08-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Potassium hydroxide (CAS 1310-58-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Potassium permanganate (CAS 7722-64-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Propylene carbonate (CAS 108-32-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Propylene glycol (CAS 57-55-6) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Rosin (colophony) (CAS 8050-09-7) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Silicon dioxide (amorphous) (CAS 7631-86-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium acetate (CAS 127-09-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium bicarbonate (CAS 144-55-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium bisulfite (CAS 7631-90-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium carbonate (CAS 497-19-8) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium carboxymethylcellulose (CAS 9004-32-4) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium chloride (CAS 7647-14-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium cumenesulfonate (CAS 15763-76-5) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium dodecyl sulfate (CAS 151-21-3) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium dodecylbenzenesulfonate (CAS 25155-30-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium gluconate (CAS 527-07-1) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium hydroxide (50 %) (CAS 1310-73-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium hypochlorite solution (CAS 7681-52-9) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium laureth sulfate (CAS 68585-34-2) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium metasilicate (CAS 6834-92-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |
+| Sodium nitrite (CAS 7632-00-0) | US | Händler | nicht erforderlich | - | - | - | - | Einfuhrzertifizierung bei jeder Einfuhr |

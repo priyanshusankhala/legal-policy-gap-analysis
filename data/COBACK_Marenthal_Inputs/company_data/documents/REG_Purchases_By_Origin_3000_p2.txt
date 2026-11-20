@@ -1,0 +1,22 @@
+# Register of raw material and goods purchases by country of origin - Marenthal Chemicals Inc. (part 2 of 2)
+
+Company: Marenthal Chemicals Inc. (US). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals Inc. | Tamper-evident closure | PK-000012 | US | 8 | 668,400 ST | 39231090 | 2025-02-07 | 2025-11-26 |
+| Marenthal Chemicals Inc. | Tetrasodium EDTA | RM-000020 | US | 13 | 101,400 KG | 38249996 | 2025-02-10 | 2025-12-04 |
+| Marenthal Chemicals Inc. | Third-party warehousing | - | - | 24 | 51 ST | - | 2025-03-04 | 2025-12-31 |
+| Marenthal Chemicals Inc. | Titanium dioxide | RM-000023 | US | 13 | 533,000 KG | 38249996 | 2025-01-27 | 2025-12-12 |
+| Marenthal Chemicals Inc. | Titanium dioxide, technical grade | TG-000061 | CN | 5 | 340,000 KG | 3206110000 | 2025-05-30 | 2026-01-16 |
+| Marenthal Chemicals Inc. | Toluene, technical grade | TG-000050 | DE | 8 | 1,640,000 KG | 2902300000 | 2025-02-25 | 2026-01-23 |
+| Marenthal Chemicals Inc. | Triethanolamine | RM-000004 | US | 12 | 57,600 KG | 38249996 | 2025-02-14 | 2025-12-17 |
+| Marenthal Chemicals Inc. | Valves and fittings | - | - | 132 | 914 ST | - | 2025-01-13 | 2025-12-31 |
+| Marenthal Chemicals Inc. | Vinyl acetate, technical grade | TG-000039 | FR | 7 | 179,000 KG | 2915320000 | 2025-03-07 | 2026-01-29 |
+| Marenthal Chemicals Inc. | Water (demineralised) | RM-000001 | US | 13 | 14,378,000 KG | 38249996 | 2025-02-11 | 2025-12-18 |
+| Marenthal Chemicals Inc. | Xylene (isomer mixture), technical grade | TG-000051 | DE | 7 | 784,000 KG | 2902440000 | 2025-03-07 | 2025-10-17 |
+| Marenthal Chemicals Inc. | Zinc oxide | RM-000025 | US | 13 | 22,100 KG | 38249996 | 2025-02-12 | 2025-11-05 |
+| Marenthal Chemicals Inc. | Zinc phosphate | RM-000032 | US | 11 | 33,000 KG | 38249996 | 2025-02-07 | 2025-12-05 |
+| Marenthal Chemicals Inc. | n-Butyl acrylate, technical grade | TG-000035 | DE | 8 | 488,000 KG | 2916120000 | 2025-02-25 | 2026-01-02 |

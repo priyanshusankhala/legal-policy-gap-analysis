@@ -1,0 +1,38 @@
+
+
+Auditbericht: Überwachungsaudit ISO 9001, ISO 14001
+und ISO 45001 – Werk Marl
+Auditbericht
+Dokumentnummer
+DMS-00000723
+Version
+1.0
+Gültig ab
+2025-03-29
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Überwachungsaudit ISO 9001, ISO 14001 und ISO 45001 – Werk Marl
+art: Zertifizierung
+scope: Qualitäts-, Umwelt- und Arbeitsschutzmanagement
+geplant_von: 2025-03-11
+geplant_bis: 2025-03-13
+durchgefuehrt_von: 2025-03-11
+durchgefuehrt_bis: 2025-03-13
+leitender_auditor: Dr. Stefan Brandt (TÜV Rheinland)
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Unterweisungsnachweise einzelner Schichtmitarbeiter fehlen oder sind älter als
+zwölf Monate. (überfällig)
+2 [Nebenabweichung] Gefährdungsbeurteilung für die neue Abfülllinie wurde nicht aktualisiert.
+(geschlossen)

@@ -1,0 +1,23 @@
+# Register of customers by country and sector - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- |
+| China (CN) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| France (FR) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Germany (DE) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| United States (US) | Automobilzulieferer | Industrie | 3 |
+| United States (US) | Bauchemie und Baustoffe | Industrie | 4 |
+| United States (US) | Chemiehandel | Distributor | 7 |
+| United States (US) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| United States (US) | Farben und Lacke | Industrie | 7 |
+| United States (US) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| United States (US) | Kunststoffverarbeitung | Industrie | 6 |
+| United States (US) | Lebensmittel- und Getränkeindustrie | Industrie | 3 |
+| United States (US) | Maschinen- und Anlagenbau | Industrie | 12 |
+| United States (US) | Metall- und Oberflächentechnik | Industrie | 8 |
+| United States (US) | Textil- und Papierindustrie | Industrie | 2 |
+| United States (US) | Wasseraufbereitung und Umwelttechnik | Industrie | 5 |

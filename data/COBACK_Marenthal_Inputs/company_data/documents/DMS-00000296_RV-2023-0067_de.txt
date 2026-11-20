@@ -1,0 +1,91 @@
+
+
+Liefervertrag RV-2023-0067 – Hanse Chemiehandel AG
+Liefervertrag
+Dokumentnummer
+DMS-00000296
+Version
+1.0
+Gültig ab
+2023-09-25
+Gesellschaft
+Marenthal Chemie AG
+Status
+Archived
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2023-0067
+type: Supply Agreement
+status: Expired
+start_date: 2023-09-25
+end_date: 2025-09-24
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 261.14
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-08-31
+compliance_review_ref: GPP0000016
+governing_law: German law
+payment_terms: Z090
+incoterm: DAP
+Bedingungen
+Marendisp 332 dispersing agent: 359.62 EUR/100 kg
+Marensolv 302 degreasing spirit (solvent blend): 222.77 EUR/100 kg
+Marencoat RS 730 anticorrosive primer: 517.73 EUR/100 kg
+Marencoat DB 1303 roof coating: 377.08 EUR/100 kg
+Ethanol, technical grade: 1036.54 EUR/1000 kg
+Sulfuric acid (96 %), technical grade: 101.3 EUR/1000 kg
+Acetic acid, technical grade: 654.85 EUR/1000 kg
+Propylene glycol, technical grade: 1749.27 EUR/1000 kg
+Account
+name: Hanse Chemiehandel AG
+type: Distributor
+billing_street: Gartenstraße 77
+billing_city: Bremen
+billing_postcode: 28269
+billing_country: DE
+industry: Chemical trading
+
+segment: Distribution
+size_class: Key Account
+status: Active
+website: www.hanse-chemiehandel.de
+created_date: 1995-01-01
+last_modified_date: 2025-07-03
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-09-15
+cms_partner_ref: GP000004
+description: Vertriebspartner (Chemiehandel), Schwerpunkt Marencoat DB 1303 Dachbeschichtung,
+Ethanol, techn.; eigene Lagerlogistik in Deutschland.
+Rahmenvertragsnummer
+contract_number: RV-2023-0067
+type: Supply Agreement
+status: Expired
+start_date: 2023-09-25
+end_date: 2025-09-24
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 261.14
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-08-31
+compliance_review_ref: GPP0000016
+governing_law: German law
+payment_terms: Z090
+incoterm: DAP
+Bedingungen
+Marendisp 332 dispersing agent: 359.62 EUR/100 kg
+Marensolv 302 degreasing spirit (solvent blend): 222.77 EUR/100 kg
+Marencoat RS 730 anticorrosive primer: 517.73 EUR/100 kg
+Marencoat DB 1303 roof coating: 377.08 EUR/100 kg
+Ethanol, technical grade: 1036.54 EUR/1000 kg
+Sulfuric acid (96 %), technical grade: 101.3 EUR/1000 kg
+Acetic acid, technical grade: 654.85 EUR/1000 kg
+Propylene glycol, technical grade: 1749.27 EUR/1000 kg

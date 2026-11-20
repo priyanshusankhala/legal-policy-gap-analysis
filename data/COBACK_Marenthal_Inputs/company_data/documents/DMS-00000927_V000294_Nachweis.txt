@@ -1,0 +1,32 @@
+
+
+Nachweis: Brandschutzordnung und Flucht- und
+Rettungspläne aktuell halten – Frankfurt am Main
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000927
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Brandschutzordnung und Flucht- und Rettungspläne aktuell halten – Frankfurt am Main
+beschreibung: Pläne aushängen, Anpassung bei Umbauten.
+quelle: ASR A2.3; DIN 14096
+quelltyp: Norm
+land: DE
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2026-06-19
+intervall_monate: 12
+status: erfüllt
+letzte_pruefung: 2025-06-24

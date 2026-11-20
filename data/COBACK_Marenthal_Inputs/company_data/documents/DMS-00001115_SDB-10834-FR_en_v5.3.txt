@@ -1,0 +1,77 @@
+
+
+Safety Data Sheet Marencoat AL 603 alkyd enamel
+Sicherheitsdatenblatt
+Document no.
+DMS-00001115
+Version
+5.3
+Valid from
+2025-09-12
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marencoat AL 603 alkyd enamel
+Product: Marencoat AL 603 laque alkyde
+SDS: SDB-10834-FR
+2. Hazards identification
+H: H226 H304 H317 H336 H411
+3. Composition / information on ingredients
+Hydrocarbon
+solvent
+(hydrotreated
+heavy naphtha)
+64742-48-9 265-150-3 40.1–49.1 % H226 H304 H336
+H411
+Linseed oil 8001-26-1 232-278-6 24.7–30.1 %
+Titanium dioxide 13463-67-7 236-675-5 15.6–19 %
+Rosin (colophony) 8050-09-7 232-475-7 5.4–6.6 % H317
+Talc 14807-96-6 238-877-9 4.2–5.2 %
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.019
+
+Base unit: KG
+Shelf life (months): 18
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN1263
+ADR/IMDG class: 3
+Packing group: III
+HS: 32089019
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Hydrocarbon solvent (hydrotreated heavy naphtha): REACH – nicht erforderlich
+Linseed oil: REACH – ausgenommen
+Rosin (colophony): REACH – nicht erforderlich
+Talc: REACH – nicht erforderlich
+Titanium dioxide: REACH – nicht erforderlich
+16. Other information
+5.3 · 2025-09-12

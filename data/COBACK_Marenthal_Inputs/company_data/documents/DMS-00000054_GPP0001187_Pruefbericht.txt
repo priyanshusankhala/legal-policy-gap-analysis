@@ -1,0 +1,43 @@
+
+
+Prüfbericht Erstprüfung (GPP0001187)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000054
+Version
+1.0
+Gültig ab
+2021-04-09
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Erstprüfung
+pruefdatum: 2021-04-07
+anlass: Erstprüfung des Bestands bei Einführung des Systems
+risikoklasse: niedrig
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: kein Treffer
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Nachweis der Handelsregistereintragung nachreichen
+gueltig_bis: 2024-03-22
+begruendung: Sanktions- und Embargolisten ohne Treffer abgeglichen. Risikoklasse niedrig. Freigabe
+unter Auflagen.
+Geschäftspartner
+name: Delta Chemical Supply N.V.
+partner_typ: Lieferant
+land: NL
+strasse: Bedrijvenpark 130
+plz: 3058 HT
+ort: Rotterdam
+aktiv: 1
+risikoklasse_aktuell: niedrig
+letzte_pruefung: 2024-03-22
+freigabestatus: freigegeben

@@ -1,0 +1,29 @@
+
+
+Autorisation de rejet (ICPE) – AR-SFO-2016/971
+Genehmigung oder Zertifikat
+N° du document
+DMS-00000011
+Version
+1.0
+Valable depuis
+2016-12-15
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Internal
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Genehmigung
+art: Autorisation de rejet (ICPE)
+nummer: AR-SFO-2016/971
+behoerde: DREAL Auvergne-Rhône-Alpes
+erteilt_am: 2016-12-15
+gueltig_bis: 2026-12-15
+status: gültig
+auflagen: Grenzwerte für pH, CSB und Schwermetalle; monatliche Selbstüberwachung.

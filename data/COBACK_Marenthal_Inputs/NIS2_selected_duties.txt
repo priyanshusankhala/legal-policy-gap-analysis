@@ -1,0 +1,106 @@
+COBACK | Four selected information-security duties for policy mapping and gap analysis
+Extract from the existing analysis dated 12 October 2026.
+The original German text in columns A-D and source links in column I are retained.
+This is a structured analysis, not a reproduction of the complete statutory text.
+Read multipart rows together. Supporting definitions are reference material.
+
+04-P02-1 · §30 Abs.2 Nr.1 BSIG · Risikoanalyse und IT-Sicherheitskonzept
+Source: NIS2_Gesamtanalyse.xlsx, Gesamtanalyse, row 285
+Addressees:
+Besonders wichtige/wichtige Einrichtungen, soweit der Pflichtzweig nicht ausgenommen ist
+Criteria and factual questions:
+Gefahrenübergreifender Ansatz; Stand der Technik soll eingehalten, europäische/internationale Normen sollen berücksichtigt werden.
+Duties / evaluation guidance:
+Mindestbereich Risikoanalyse und IT-Sicherheitskonzept muss durch konkret umgesetzte Maßnahmen abgedeckt sein. Für von DVO 2024/2690 erfasste digitale Anbieter gilt deren technische Konkretisierung vorrangig.
+Nachweisfrage: Welche freigegebene Risikoanalyse und welches IT-Sicherheitskonzept liegen vor, wann wurden sie überprüft?
+Antwort/Nachweis: Dokumentversion, Freigabe, Risikoliste, Prüfdatum; Unbekannt möglich.
+Source links (original cell):
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu
+
+04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung
+Source: NIS2_Gesamtanalyse.xlsx, Gesamtanalyse, row 286
+Addressees:
+Besonders wichtige/wichtige Einrichtungen, soweit der Pflichtzweig nicht ausgenommen ist
+Criteria and factual questions:
+Gefahrenübergreifender Ansatz; Stand der Technik soll eingehalten, europäische/internationale Normen sollen berücksichtigt werden.
+Duties / evaluation guidance:
+Mindestbereich Vorfallbewältigung muss durch konkret umgesetzte Maßnahmen abgedeckt sein. Für von DVO 2024/2690 erfasste digitale Anbieter gilt deren technische Konkretisierung vorrangig.
+Nachweisfrage: Welche Erkennungs-, Eskalations-, Eindämmungs- und Wiederherstellungsabläufe wurden zuletzt praktisch getestet?
+Antwort/Nachweis: Ablaufplan, Einsatz-/Testprotokoll, Verantwortliche; Unbekannt möglich.
+Source links (original cell):
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu
+
+04-P02-3 · §30 Abs.2 Nr.3 BSIG · Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement
+Source: NIS2_Gesamtanalyse.xlsx, Gesamtanalyse, row 287
+Addressees:
+Besonders wichtige/wichtige Einrichtungen, soweit der Pflichtzweig nicht ausgenommen ist
+Criteria and factual questions:
+Gefahrenübergreifender Ansatz; Stand der Technik soll eingehalten, europäische/internationale Normen sollen berücksichtigt werden.
+Duties / evaluation guidance:
+Mindestbereich Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement muss durch konkret umgesetzte Maßnahmen abgedeckt sein. Für von DVO 2024/2690 erfasste digitale Anbieter gilt deren technische Konkretisierung vorrangig.
+Nachweisfrage: Wann wurden Sicherungskopien zuletzt tatsächlich zurückgespielt und welche Wiederherstellungszeit wurde gemessen?
+Antwort/Nachweis: Backupplan, Restoreprotokoll, Krisenplan, Messwerte; Unbekannt möglich.
+Source links (original cell):
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu
+
+04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewertung
+Source: NIS2_Gesamtanalyse.xlsx, Gesamtanalyse, row 290
+Addressees:
+Besonders wichtige/wichtige Einrichtungen, soweit der Pflichtzweig nicht ausgenommen ist
+Criteria and factual questions:
+Gefahrenübergreifender Ansatz; Stand der Technik soll eingehalten, europäische/internationale Normen sollen berücksichtigt werden.
+Duties / evaluation guidance:
+Mindestbereich Wirksamkeitsbewertung muss durch konkret umgesetzte Maßnahmen abgedeckt sein. Für von DVO 2024/2690 erfasste digitale Anbieter gilt deren technische Konkretisierung vorrangig.
+Nachweisfrage: Welche Sicherheitsmaßnahmen wurden wann, mit welcher Methode und welchem Ergebnis auf Wirksamkeit geprüft?
+Antwort/Nachweis: Mess-/Prüfplan, Ergebnisse, Nachbesserungen; Unbekannt möglich.
+Source links (original cell):
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu
+
+04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßnahmen
+Source: NIS2_Gesamtanalyse.xlsx, Gesamtanalyse, row 284
+Addressees:
+Besonders wichtige/wichtige Einrichtungen, soweit der Pflichtzweig nicht ausgenommen ist
+Criteria and factual questions:
+Erfasste Einrichtung nutzt IT-Systeme, Komponenten/Prozesse zur Erbringung ihrer Dienste.
+Duties / evaluation guidance:
+Geeignete, verhältnismäßige und wirksame technische/organisatorische Maßnahmen umsetzen und Erfüllung dokumentieren. Risikoexposition, Größe, Kosten, Wahrscheinlichkeit/Schwere sowie gesellschaftliche/wirtschaftliche Auswirkungen berücksichtigen.
+Nachweisfrage: Welche konkreten Risiken, beschlossenen Maßnahmen, Verantwortlichen und Wirksamkeitsprüfungen sind dokumentiert?
+Antwort/Nachweis: Risikoregister, Maßnahmenplan, Umsetzungstickets, Wirksamkeitsbelege; Unbekannt möglich.
+Auslegung konkretisiert (17-AUS-17): Geeignet: Maßnahme adressiert den bezeichneten Angriffs-/Ausfallpfad. Wirksam: ihre Funktion ist tatsächlich umgesetzt und anhand eines geeigneten Tests, Betriebsnachweises oder belastbaren Vergleichs überprüft. Verhältnismäßig: verbleibendes Risiko, Exposition, Unternehmensgröße, Kosten, Eintrittswahrscheinlichkeit sowie wirtschaftliche/gesellschaftliche Folgen sind nachvollziehbar gegeneinander abgewogen. Eine pauschale ISO-Zertifizierung ersetzt diesen Objektbezug nicht.
+Regel: Pflichtanforderung, risikogerechte Eignung, tatsächliche Umsetzung und Wirksamkeit getrennt bewerten. Geeigneter positiver Nachweis → ausschließlich das konkret geprüfte Kontrollmerkmal belegt. Fehlender Wirksamkeitsnachweis → Wirksamkeit nicht nachgewiesen; nur nachgewiesenes Scheitern → unwirksam. Maßnahme nur geplant → Umsetzung fehlt. Nachweisart muss zur Einzelpflicht passen: Ein vorgeschriebener dokumentierter Review wird durch Review-/Entscheidungsbelege geprüft; nicht jede organisatorische Pflicht verlangt einen technischen Funktionstest. Ein Einzeltest belegt keine Gesamtcompliance. Hohe Kosten oder Risikofreigabe heilen keine zwingende Pflichtverletzung.
+Source links (original cell):
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/dir/2022/2555/oj/deu
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj/deu · Art. 2, Anhang Nr. 2 und 7
+
+17-AUS-17 · Geeignet, verhältnismäßig und wirksam
+Source: NIS2_Gesamtanalyse.xlsx, Gesamtanalyse, row 45
+Addressees:
+Je betroffener Rechtsträger / konkrete Tätigkeit oder Kontrolle
+Criteria and factual questions:
+§ 30 Abs. 1–3 BSIG; DVO Art. 2 und jeweils konkrete Anhangsanforderung.
+Einzelne Tatsachenfragen (je Objekt, Datum und Beleg; Unbekannt separat):
+Q-AUS-17-01: Welches System, welcher Dienst und welches konkrete Risikoszenario werden bewertet?
+Q-AUS-17-02: Welche Eintrittswege und Folgen sind dokumentiert?
+Q-AUS-17-03: Welche konkrete Schutzmaßnahme wurde umgesetzt?
+Q-AUS-17-04: Welches Test-/Betriebsergebnis zeigt ihre Wirkung?
+Q-AUS-17-05: Welche technisch geeigneten Alternativen wurden verglichen?
+Q-AUS-17-06: Welche Kosten, verbleibenden Risiken und Auswirkungen tragen die Auswahl?
+Q-AUS-17-07: Welche zwingenden Einzelanforderungen gelten unabhängig von dieser Abwägung?
+Duties / evaluation guidance:
+Definition / gewählte Auslegung:
+Geeignet: Maßnahme adressiert den bezeichneten Angriffs-/Ausfallpfad. Wirksam: ihre Funktion ist tatsächlich umgesetzt und anhand eines geeigneten Tests, Betriebsnachweises oder belastbaren Vergleichs überprüft. Verhältnismäßig: verbleibendes Risiko, Exposition, Unternehmensgröße, Kosten, Eintrittswahrscheinlichkeit sowie wirtschaftliche/gesellschaftliche Folgen sind nachvollziehbar gegeneinander abgewogen. Eine pauschale ISO-Zertifizierung ersetzt diesen Objektbezug nicht.
+Entscheidungsregel:
+Pflichtanforderung, risikogerechte Eignung, tatsächliche Umsetzung und Wirksamkeit getrennt bewerten. Geeigneter positiver Nachweis → ausschließlich das konkret geprüfte Kontrollmerkmal belegt. Fehlender Wirksamkeitsnachweis → Wirksamkeit nicht nachgewiesen; nur nachgewiesenes Scheitern → unwirksam. Maßnahme nur geplant → Umsetzung fehlt. Nachweisart muss zur Einzelpflicht passen: Ein vorgeschriebener dokumentierter Review wird durch Review-/Entscheidungsbelege geprüft; nicht jede organisatorische Pflicht verlangt einen technischen Funktionstest. Ein Einzeltest belegt keine Gesamtcompliance. Hohe Kosten oder Risikofreigabe heilen keine zwingende Pflichtverletzung.
+Begründung und verworfene Abkürzung:
+Die Kriterien stammen aus § 30 Abs. 1 und Art. 2; die Verbindung zu überprüfbaren Objekten, Alternativen und Tests ist unsere Operationalisierung. Ein allgemeiner Punktescore oder eine beliebige „80%-Compliance“ würde den gesetzlichen Maßstab verfälschen.
+Beispiele:
+Backupdokument existiert, Restore scheitert: Wirksamkeit nicht belegt. Geprüfte isolierte Wiederherstellung im begründeten Zeit-/Datenverlustziel: positiver Wirkungsnachweis, vorbehaltlich übriger Einzelanforderungen.
+Source links (original cell):
+https://www.gesetze-im-internet.de/bsig_2025/__30.html
+https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj/deu · Art. 2, Anhang Nr. 2 und 7

@@ -1,0 +1,31 @@
+
+
+Nachweis: Notfall- und Wiederanlaufübung der IT
+durchführen
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00001406
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Notfall- und Wiederanlaufübung der IT durchführen
+beschreibung: Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse
+dokumentieren.
+quelle: Konzernrichtlinie Informationssicherheit
+quelltyp: Konzernrichtlinie
+land: DE
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2026-12-18
+intervall_monate: 12
+status: erfüllt
+letzte_pruefung: 2025-12-23

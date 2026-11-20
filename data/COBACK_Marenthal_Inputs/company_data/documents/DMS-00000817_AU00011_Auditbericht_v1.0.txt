@@ -1,0 +1,35 @@
+
+
+Auditbericht: Kundenaudit Automobilzulieferer – Werk
+Bitterfeld
+Auditbericht
+Dokumentnummer
+DMS-00000817
+Version
+1.0
+Gültig ab
+2025-05-08
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Kundenaudit Automobilzulieferer – Werk Bitterfeld
+art: Kundenaudit
+scope: Qualitätssicherung Beschichtungen
+geplant_von: 2025-04-08
+geplant_bis: 2025-04-08
+durchgefuehrt_von: 2025-04-08
+durchgefuehrt_bis: 2025-04-08
+leitender_auditor: Auditteam des Kunden
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Verpackungsanweisung weicht von der Kundenspezifikation ab. (geschlossen)

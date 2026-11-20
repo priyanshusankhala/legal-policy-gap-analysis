@@ -1,0 +1,28 @@
+
+
+Étalonnage du pont-bascule – EW-SFO-3168
+Genehmigung oder Zertifikat
+N° du document
+DMS-00001409
+Version
+1.0
+Valable depuis
+2025-12-30
+Société
+Marenthal France S.A.S.
+Site
+FR01-002
+Statut
+Approved
+Confidentialité
+Internal
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Genehmigung
+art: Eichung Fahrzeugwaage
+nummer: EW-SFO-3168
+behoerde: Direction régionale de la métrologie légale
+erteilt_am: 2025-12-30
+gueltig_bis: 2028-01-11
+status: gültig

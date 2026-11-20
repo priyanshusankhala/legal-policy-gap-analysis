@@ -1,0 +1,14 @@
+# Register of declared conflicts of interest - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Declared conflicts of interest with the assessment and the decision. Persons are not named.
+
+| Declared | Kind | Description | Partner | Assessment | Decision | Status | Decided on |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-08-04 | Geschäftsbeziehung zu Partner | Persönliche Freundschaft zu einem Geschäftsführer eines Lieferanten. | Provence Chimie SAS | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Provence Chimie SAS, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2025-08-11 |
+| 2024-08-28 | Beteiligung | Gesellschafteranteil an einem Dienstleister, der für die Gesellschaft tätig ist. | Rousset Conseil SAS | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Rousset Conseil SAS, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2024-09-17 |
+| 2024-02-12 | Familiäre Beziehung | Ehepartner ist bei einem Kunden im Einkauf tätig. | Smit Environnement NV | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Smit Environnement NV, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2024-02-27 |
+| 2023-11-02 | Nebentätigkeit | Selbständige Tätigkeit als Gutachter für Prüfinstitute neben dem Beruf. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2023-11-23 |
+| 2023-04-03 | Beteiligung | Gesellschafteranteil an einem Dienstleister, der für die Gesellschaft tätig ist. | Parisienne Analyses SA | kein Konflikt | Keine Einwände; Tätigkeit zulässig. | abgeschlossen | 2023-04-12 |
+| 2023-01-18 | Nebentätigkeit | Beratertätigkeit für ein Unternehmen außerhalb der Branche, keine Überschneidung mit Lieferanten oder Kunden. | - | kein Konflikt | Keine Einwände; Tätigkeit zulässig. | abgeschlossen | 2023-02-07 |

@@ -1,0 +1,37 @@
+
+
+Technical Data Sheet Marenclean O 1100 active oxygen
+cleaner (powder)
+Technisches Datenblatt
+Document no.
+DMS-00000335
+Version
+7.1
+Valid from
+2023-12-04
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean O 1100 active oxygen cleaner (powder)
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Facility hygiene
+Description: Reinigung und Bleiche mit Percarbonat
+Hazardous: 1
+SDS available: 1
+Density: 2.397
+UN: UN1479
+Class: 5.1
+HS: 2836999000
+Origin: US
+Composition
+Sodium sulfate: 45.7–55.9 %
+Sodium percarbonate: 28.2–34.4 %
+Sodium carbonate: 14.7–17.9 %
+Sodium dodecyl sulfate: 1.1–2.1 %

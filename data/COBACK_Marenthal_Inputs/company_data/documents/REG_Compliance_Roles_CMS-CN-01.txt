@@ -1,0 +1,18 @@
+# Register of compliance roles and responsibilities - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Compliance roles in the company, the area covered, the site if any, validity period and whether a deputy is appointed. Role holders are not named.
+
+| Role | Area | Site | Valid from | Valid until | Deputy appointed |
+| --- | --- | --- | --- | --- | --- |
+| Datenschutzbeauftragter | Datenschutz | - | 2021-11-09 | - | yes |
+| Exportkontrollbeauftragter | Außenwirtschaft und Exportkontrolle | - | 2021-04-27 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | 宁波仓库 | 2021-12-16 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | 常州工厂 | 2022-01-19 | - | yes |
+| Informationssicherheitsbeauftragter | Informationssicherheit | - | 2022-02-10 | - | yes |
+| Local Compliance Officer | Compliance-Management der Gesellschaft | - | 2021-12-27 | - | yes |
+| Qualitätsbeauftragter | Qualitätsmanagement | 常州工厂 | 2021-03-19 | - | yes |
+| Sicherheitsfachkraft | Arbeitssicherheit | 宁波仓库 | 2024-05-17 | - | no |
+| Sicherheitsfachkraft | Arbeitssicherheit | 常州工厂 | 2023-11-14 | - | no |
+| Umweltschutzbeauftragter | Immissionsschutz, Abfall | 常州工厂 | 2021-03-16 | - | yes |

@@ -1,0 +1,128 @@
+# Register of raw material and goods purchases by country of origin - Marenthal Chemicals Inc. (part 1 of 2)
+
+Company: Marenthal Chemicals Inc. (US). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals Inc. | 1,2-Benzisothiazolin-3-one | RM-000005 | US | 12 | 5,700 KG | 38249996 | 2025-02-13 | 2025-12-03 |
+| Marenthal Chemicals Inc. | 2-Butoxyethanol | RM-000028 | US | 11 | 24,200 KG | 38249996 | 2025-02-17 | 2025-11-04 |
+| Marenthal Chemicals Inc. | 2-Ethylhexyl acrylate, technical grade | TG-000038 | FR | 8 | 400,000 KG | 2916120000 | 2025-02-28 | 2026-01-15 |
+| Marenthal Chemicals Inc. | 2-Phenoxyethanol | RM-000012 | US | 13 | 21,125 KG | 38249996 | 2025-01-22 | 2025-12-11 |
+| Marenthal Chemicals Inc. | Absorbent granules | MS-000005 | US | 5 | 80 ST | - | 2025-02-28 | 2025-11-04 |
+| Marenthal Chemicals Inc. | Acetic acid, technical grade | TG-000054 | NL | 9 | 990,000 KG | 2915210000 | 2025-02-20 | 2025-12-15 |
+| Marenthal Chemicals Inc. | Acrylic acid, technical grade | TG-000041 | FR | 5 | 540,000 KG | 2916110000 | 2025-03-21 | 2025-12-18 |
+| Marenthal Chemicals Inc. | Activated carbon filter A2 | MS-000003 | US | 5 | 180 ST | - | 2025-03-06 | 2025-10-31 |
+| Marenthal Chemicals Inc. | Agitator seal kits | - | - | 138 | 1,461 ST | - | 2025-01-16 | 2026-01-12 |
+| Marenthal Chemicals Inc. | Aluminium hydroxide | RM-000038 | US | 13 | 124,800 KG | 38249996 | 2025-02-06 | 2025-10-24 |
+| Marenthal Chemicals Inc. | Barium sulfate | RM-000035 | US | 13 | 85,800 KG | 38249996 | 2025-02-07 | 2025-12-18 |
+| Marenthal Chemicals Inc. | Butyl acetate, technical grade | TG-000048 | DE | 7 | 357,000 KG | 2915330000 | 2025-02-28 | 2025-12-19 |
+| Marenthal Chemicals Inc. | Calcium carbonate | RM-000007 | US | 13 | 1,300,000 KG | 38249996 | 2025-02-10 | 2025-12-09 |
+| Marenthal Chemicals Inc. | Calcium carbonate, technical grade | TG-000062 | CN | 8 | 4,000,000 KG | 2836500000 | 2025-05-09 | 2026-01-21 |
+| Marenthal Chemicals Inc. | Calcium stearate | RM-000006 | US | 13 | 949,000 KG | 38249996 | 2025-03-07 | 2025-12-17 |
+| Marenthal Chemicals Inc. | Carbon black | RM-000009 | US | 12 | 112,800 KG | 38249996 | 2025-01-24 | 2025-12-10 |
+| Marenthal Chemicals Inc. | Centrifugal pump spare parts | - | - | 129 | 594 ST | - | 2025-01-20 | 2025-12-30 |
+| Marenthal Chemicals Inc. | Citric acid | RM-000013 | US | 13 | 16,250 KG | 38249996 | 2025-02-12 | 2025-11-26 |
+| Marenthal Chemicals Inc. | Cloud hosting infrastructure | - | - | 32 | 66 ST | - | 2025-02-11 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Company car 1 | - | - | 1 | 1 ST | - | 2025-07-17 | 2025-07-17 |
+| Marenthal Chemicals Inc. | Customs clearance services | - | - | 19 | 293 ST | - | 2025-02-06 | 2025-12-11 |
+| Marenthal Chemicals Inc. | Diethylenetriamine, technical grade | TG-000044 | FR | 8 | 192,000 KG | 2921290000 | 2025-02-27 | 2026-01-16 |
+| Marenthal Chemicals Inc. | ERP license maintenance | - | - | 29 | 40 ST | - | 2025-01-23 | 2025-12-24 |
+| Marenthal Chemicals Inc. | EUR pallet | PK-000009 | US | 7 | 42,700 ST | 39231090 | 2025-03-07 | 2025-11-18 |
+| Marenthal Chemicals Inc. | Electricity supply to plant | - | - | 66 | 139 ST | - | 2025-01-20 | 2026-01-07 |
+| Marenthal Chemicals Inc. | Ethanol, technical grade | TG-000046 | BE | 9 | 1,353,000 KG | 2207200000 | 2025-02-05 | 2025-12-12 |
+| Marenthal Chemicals Inc. | Ethyl acetate, technical grade | TG-000047 | NL | 9 | 2,115,000 KG | 2915310000 | 2025-02-21 | 2025-11-24 |
+| Marenthal Chemicals Inc. | External laboratory analysis | - | - | 41 | 827 ST | - | 2025-02-10 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Fatty alcohol ethoxylate (C12-14, 6 EO) | RM-000010 | US | 13 | 200,200 KG | 38249996 | 2025-02-12 | 2025-12-04 |
+| Marenthal Chemicals Inc. | Filter cartridge 5 µm | MS-000002 | US | 6 | 312 ST | - | 2025-02-19 | 2025-12-04 |
+| Marenthal Chemicals Inc. | GHS hazard pictogram label roll | MS-000006 | US | 5 | 90 ST | - | 2025-03-12 | 2025-12-12 |
+| Marenthal Chemicals Inc. | GHS label set | PK-000010 | US | 7 | 585,200 ST | 39231090 | 2025-03-05 | 2025-11-21 |
+| Marenthal Chemicals Inc. | Glycerol, technical grade | TG-000060 | CN | 5 | 805,000 KG | 2905450000 | 2025-04-09 | 2025-12-19 |
+| Marenthal Chemicals Inc. | Hazmat tanker transport | - | - | 17 | 95 ST | - | 2025-01-15 | 2025-12-29 |
+| Marenthal Chemicals Inc. | Hydrocarbon solvent (hydrotreated heavy naphtha) | RM-000029 | US | 11 | 136,400 KG | 38249996 | 2025-02-05 | 2025-12-02 |
+| Marenthal Chemicals Inc. | Hydrochloric acid (33 %), technical grade | TG-000052 | DE | 12 | 6,000,000 KG | 2806100000 | 2025-03-27 | 2026-01-30 |
+| Marenthal Chemicals Inc. | Hydroxyethyl cellulose | RM-000027 | US | 12 | 4,800 KG | 38249996 | 2025-02-13 | 2025-10-31 |
+| Marenthal Chemicals Inc. | IBC container 1000 L | PK-000003 | US | 8 | 9,200 ST | 39231090 | 2025-02-07 | 2025-12-02 |
+| Marenthal Chemicals Inc. | IT support services | - | - | 33 | 85 ST | - | 2025-01-10 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Instrument calibration | - | - | 36 | 338 ST | - | 2025-02-05 | 2026-01-07 |
+| Marenthal Chemicals Inc. | Iron(III) oxide | RM-000031 | US | 11 | 48,400 KG | 38249996 | 2025-02-05 | 2025-12-05 |
+| Marenthal Chemicals Inc. | Isophorone diisocyanate, technical grade | TG-000043 | FR | 5 | 86,000 KG | 2929100000 | 2025-03-26 | 2025-12-17 |
+| Marenthal Chemicals Inc. | Isopropanol, technical grade | TG-000045 | BE | 9 | 1,215,000 KG | 2905120000 | 2025-03-21 | 2025-12-23 |
+| Marenthal Chemicals Inc. | Legal advice on chemicals regulation | - | - | 31 | 49 ST | - | 2025-01-13 | 2025-11-05 |
+| Marenthal Chemicals Inc. | Linseed oil | RM-000030 | US | 11 | 55,000 KG | 38249996 | 2025-01-27 | 2025-12-03 |
+| Marenthal Chemicals Inc. | Lubricants and consumables | - | - | 126 | 5,280 ST | - | 2025-01-13 | 2026-01-14 |
+| Marenthal Chemicals Inc. | Maleic anhydride, technical grade | TG-000042 | FR | 6 | 666,000 KG | 2917140000 | 2025-03-21 | 2025-12-30 |
+| Marenthal Chemicals Inc. | Marenbase 1003 neutralising agent | TG-000008 | DE | 7 | 49,000 KG | 3824999600 | 2025-02-24 | 2026-01-19 |
+| Marenthal Chemicals Inc. | Marenclean A 207 alkaline industrial cleaner | TG-000014 | DE | 8 | 216,000 KG | 3402909000 | 2025-02-19 | 2026-01-16 |
+| Marenthal Chemicals Inc. | Marenclean A 238 alkaline industrial cleaner | TG-000015 | DE | 7 | 2,450,000 KG | 3402909000 | 2025-02-25 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Marenclean B 1006 chlorine-based cleaner | TG-000023 | DE | 5 | 123,000 KG | 2828909000 | 2025-02-24 | 2025-11-19 |
+| Marenthal Chemicals Inc. | Marenclean E 504 degreaser | TG-000018 | CN | 6 | 114,000 KG | 3402909000 | 2025-04-17 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Marenclean E 537 degreaser | TG-000019 | DE | 8 | 688,000 KG | 3402909000 | 2025-02-28 | 2026-01-28 |
+| Marenthal Chemicals Inc. | Marenclean G 800 glass cleaner | TG-000021 | CN | 6 | 666,000 KG | 3402209000 | 2025-04-17 | 2026-01-14 |
+| Marenthal Chemicals Inc. | Marenclean H 637 hand cleaner | TG-000020 | DE | 7 | 73,000 KG | 3402209000 | 2025-03-21 | 2025-10-24 |
+| Marenthal Chemicals Inc. | Marenclean P 404 phosphoric acid cleaner | TG-000017 | FR | 7 | 378,000 KG | 3402909000 | 2025-03-31 | 2026-01-16 |
+| Marenthal Chemicals Inc. | Marenclean S 301 descaler | TG-000016 | DE | 8 | 2,264,000 KG | 3402909000 | 2025-02-14 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Marenclean Z 904 citrus cleaner | TG-000022 | DE | 7 | 742,000 KG | 3402209000 | 2025-02-19 | 2025-11-21 |
+| Marenthal Chemicals Inc. | Marenclear 406 dechlorinating agent | TG-000013 | FR | 7 | 95,000 KG | 3824999600 | 2025-04-08 | 2025-10-22 |
+| Marenthal Chemicals Inc. | Marencoat AF 333 acrylic facade paint | TG-000025 | CN | 5 | 305,000 KG | 3209100000 | 2025-05-23 | 2026-01-30 |
+| Marenthal Chemicals Inc. | Marencoat AL 603 alkyd enamel | TG-000027 | DE | 7 | 385,000 KG | 3208901900 | 2025-02-26 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Marencoat AL 634 alkyd enamel | TG-000028 | CN | 4 | 108,000 KG | 3208901900 | 2025-06-20 | 2026-01-16 |
+| Marenthal Chemicals Inc. | Marencoat DB 1303 roof coating | TG-000032 | DE | 8 | 192,000 KG | 3209100000 | 2025-03-20 | 2026-01-02 |
+| Marenthal Chemicals Inc. | Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | CN | 5 | 35,000 KG | 3208909100 | 2025-04-11 | 2026-01-29 |
+| Marenthal Chemicals Inc. | Marencoat HL 533 water-based wood coating | TG-000026 | DE | 7 | 126,000 KG | 3209100000 | 2025-03-07 | 2025-11-14 |
+| Marenthal Chemicals Inc. | Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | DE | 7 | 70,000 KG | 3824999600 | 2025-02-25 | 2025-12-03 |
+| Marenthal Chemicals Inc. | Marencoat RS 703 anticorrosive primer | TG-000029 | DE | 3 | 7,800 KG | 3208909100 | 2025-06-06 | 2026-01-16 |
+| Marenthal Chemicals Inc. | Marencoat TG 1438 penetrating primer | TG-000033 | DE | 6 | 168,000 KG | 3209100000 | 2025-03-10 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Marendisp 332 dispersing agent | TG-000003 | DE | 6 | 68,000 KG | 3906909000 | 2025-02-14 | 2026-01-05 |
+| Marenthal Chemicals Inc. | Marenemul 731 emulsifier | TG-000006 | DE | 7 | 148,000 KG | 3402119000 | 2025-02-27 | 2025-11-26 |
+| Marenthal Chemicals Inc. | Marenflex 906 plasticizer | TG-000007 | DE | 8 | 143,000 KG | 3812200000 | 2025-02-14 | 2026-01-29 |
+| Marenthal Chemicals Inc. | Marenfoam 133 defoamer | TG-000004 | DE | 8 | 232,000 KG | 3910000000 | 2025-02-12 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Marenpaste 202 pigment preparation | TG-000011 | FR | 8 | 104,000 KG | 3212900000 | 2025-02-14 | 2025-12-23 |
+| Marenthal Chemicals Inc. | Marenphos 125 phosphating solution | TG-000012 | FR | 4 | 18,300 KG | 3824999600 | 2025-03-19 | 2025-09-26 |
+| Marenthal Chemicals Inc. | Marensolv 108 thinner (solvent blend) | TG-000009 | FR | 8 | 661,000 KG | 3814009000 | 2025-02-18 | 2026-01-21 |
+| Marenthal Chemicals Inc. | Marensolv 302 degreasing spirit (solvent blend) | TG-000010 | CN | 5 | 585,000 KG | 3814009000 | 2025-05-09 | 2026-01-09 |
+| Marenthal Chemicals Inc. | Marenthix 409 thickener | TG-000005 | DE | 9 | 432,000 KG | 3912390000 | 2025-02-26 | 2026-01-12 |
+| Marenthal Chemicals Inc. | Marenwet 206 wetting agent | TG-000001 | DE | 8 | 216,000 KG | 3402139000 | 2025-02-26 | 2026-01-19 |
+| Marenthal Chemicals Inc. | Marenwet 237 wetting agent | TG-000002 | CN | 5 | 120,000 KG | 3402139000 | 2025-03-28 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Methanol, technical grade | TG-000056 | US | 9 | 12,897,000 KG | 2905110000 | 2025-02-13 | 2025-12-22 |
+| Marenthal Chemicals Inc. | Methyl ethyl ketone, technical grade | TG-000049 | NL | 9 | 738,000 KG | 2914120000 | 2025-01-24 | 2025-12-23 |
+| Marenthal Chemicals Inc. | Methyl methacrylate, technical grade | TG-000034 | DE | 6 | 35,000 KG | 2916140000 | 2025-05-16 | 2025-10-16 |
+| Marenthal Chemicals Inc. | Natural gas supply | - | - | 49 | 102 ST | - | 2025-01-15 | 2025-12-30 |
+| Marenthal Chemicals Inc. | Neopentyl glycol, technical grade | TG-000036 | DE | 8 | 215,000 KG | 2905398000 | 2025-03-03 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Nitrile protective gloves (pair) | MS-000001 | US | 5 | 350 ST | - | 2025-03-13 | 2025-12-03 |
+| Marenthal Chemicals Inc. | Occupational safety inspection | - | - | 24 | 33 ST | - | 2025-01-14 | 2025-12-16 |
+| Marenthal Chemicals Inc. | Oxalic acid | RM-000022 | US | 13 | 88,400 KG | 38249996 | 2025-02-18 | 2026-01-09 |
+| Marenthal Chemicals Inc. | Pail 20 L with lid | PK-000006 | US | 7 | 256,550 ST | 39231090 | 2025-03-03 | 2025-10-28 |
+| Marenthal Chemicals Inc. | Paper bag 25 kg | PK-000007 | US | 8 | 127,600 ST | 39231090 | 2025-02-14 | 2025-12-05 |
+| Marenthal Chemicals Inc. | Paraffin wax | RM-000008 | US | 13 | 507,000 KG | 38249996 | 2025-01-24 | 2025-12-19 |
+| Marenthal Chemicals Inc. | Pentaerythritol, technical grade | TG-000037 | DE | 8 | 312,000 KG | 2905420000 | 2025-03-26 | 2026-01-16 |
+| Marenthal Chemicals Inc. | Personal protective equipment | - | - | 143 | 15,092 ST | - | 2025-01-13 | 2026-01-14 |
+| Marenthal Chemicals Inc. | Phosphoric acid (75 %) | RM-000021 | US | 13 | 481,000 KG | 38249996 | 2025-02-07 | 2025-12-01 |
+| Marenthal Chemicals Inc. | Phosphoric acid (75 %), technical grade | TG-000058 | US | 10 | 9,750,000 KG | 2809200000 | 2025-02-21 | 2026-01-30 |
+| Marenthal Chemicals Inc. | Plastic canister 10 L | PK-000005 | US | 7 | 184,100 ST | 39231090 | 2025-03-21 | 2025-11-24 |
+| Marenthal Chemicals Inc. | Plastic canister 25 L | PK-000004 | US | 6 | 10,500 ST | 39231090 | 2025-04-11 | 2025-12-08 |
+| Marenthal Chemicals Inc. | Plastic drum 200 L | PK-000002 | US | 7 | 14,000 ST | 39231090 | 2025-02-21 | 2025-11-13 |
+| Marenthal Chemicals Inc. | Polydimethylsiloxane | RM-000026 | US | 13 | 15,275 KG | 38249996 | 2025-02-06 | 2025-11-05 |
+| Marenthal Chemicals Inc. | Process filter elements | - | - | 128 | 4,175 ST | - | 2025-01-24 | 2026-01-09 |
+| Marenthal Chemicals Inc. | Propylene glycol | RM-000003 | US | 12 | 144,000 KG | 38249996 | 2025-02-21 | 2025-12-23 |
+| Marenthal Chemicals Inc. | Propylene glycol, technical grade | TG-000055 | DE | 8 | 693,000 KG | 2905320000 | 2025-02-14 | 2026-01-26 |
+| Marenthal Chemicals Inc. | Quality management consulting | - | - | 26 | 51 ST | - | 2025-01-27 | 2025-12-22 |
+| Marenthal Chemicals Inc. | Road freight services | - | - | 31 | 196 ST | - | 2025-01-15 | 2025-12-15 |
+| Marenthal Chemicals Inc. | Rosin (colophony) | RM-000033 | US | 11 | 11,275 KG | 38249996 | 2025-01-27 | 2025-12-02 |
+| Marenthal Chemicals Inc. | Seal kit centrifugal pump | MS-000004 | US | 5 | 260 ST | - | 2025-02-28 | 2025-11-04 |
+| Marenthal Chemicals Inc. | Shrink hood | PK-000011 | US | 7 | 11,900 ST | 39231090 | 2025-03-10 | 2025-12-12 |
+| Marenthal Chemicals Inc. | Site cleaning services | - | - | 41 | 82 ST | - | 2025-01-14 | 2025-12-29 |
+| Marenthal Chemicals Inc. | Sodium carbonate | RM-000016 | US | 11 | 140,800 KG | 38249996 | 2025-02-11 | 2025-12-02 |
+| Marenthal Chemicals Inc. | Sodium cumenesulfonate | RM-000011 | US | 13 | 130,000 KG | 38249996 | 2025-02-13 | 2025-11-28 |
+| Marenthal Chemicals Inc. | Sodium dodecyl sulfate | RM-000017 | US | 9 | 11,250 KG | 38249996 | 2025-02-17 | 2025-12-02 |
+| Marenthal Chemicals Inc. | Sodium gluconate | RM-000019 | US | 11 | 134,200 KG | 38249996 | 2025-02-28 | 2025-11-21 |
+| Marenthal Chemicals Inc. | Sodium hydroxide (50 %) | RM-000018 | US | 12 | 1,188,000 KG | 38249996 | 2025-02-28 | 2025-12-05 |
+| Marenthal Chemicals Inc. | Sodium hydroxide (50 %), technical grade | TG-000057 | US | 10 | 21,120,000 KG | 2815120000 | 2025-02-14 | 2026-01-05 |
+| Marenthal Chemicals Inc. | Sodium percarbonate | RM-000015 | US | 11 | 275,000 KG | 38249996 | 2025-02-13 | 2025-12-04 |
+| Marenthal Chemicals Inc. | Sodium sulfate | RM-000014 | US | 9 | 360,000 KG | 38249996 | 2025-02-21 | 2025-11-26 |
+| Marenthal Chemicals Inc. | Special waste disposal | - | - | 48 | 265 ST | - | 2025-01-16 | 2026-01-12 |
+| Marenthal Chemicals Inc. | Styrene, technical grade | TG-000040 | FR | 6 | 43,700 KG | 2902500000 | 2025-02-28 | 2026-01-19 |
+| Marenthal Chemicals Inc. | Styrene-acrylate copolymer dispersion | RM-000002 | US | 12 | 2,400,000 KG | 38249996 | 2025-02-20 | 2025-12-15 |
+| Marenthal Chemicals Inc. | Sulfuric acid (96 %), technical grade | TG-000053 | DE | 8 | 1,480,000 KG | 2807001000 | 2025-03-05 | 2025-12-24 |
+| Marenthal Chemicals Inc. | Talc | RM-000024 | US | 12 | 115,200 KG | 38249996 | 2025-02-11 | 2025-11-06 |

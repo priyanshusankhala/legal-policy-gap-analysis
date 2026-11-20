@@ -1,0 +1,60 @@
+
+
+Entwurf Rahmenvertrag 2026 – Rhein-Main
+Wassertechnik GmbH
+Vertragsentwurf
+Dokumentnummer
+DMS-00001372
+Version
+0.2
+Gesellschaft
+Marenthal Chemie AG
+Status
+Draft
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Account
+name: Rhein-Main Wassertechnik GmbH
+type: Customer
+billing_street: Am Hafen 4
+billing_city: Frankfurt am Main
+billing_postcode: 60521
+billing_country: DE
+industry: Water and environmental technology
+segment: Direct
+size_class: Medium
+status: On Hold
+website: www.rhein-main-wassertechnik.de
+created_date: 2021-11-26
+last_modified_date: 2025-05-28
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Blocked
+compliance_checked_on: 2025-06-30
+cms_partner_ref: GP000524
+description: Wasseraufbereitung und Umwelttechnik. Bezieht Marenclean U 134 Universalreiniger,
+Essigsäure, techn. für die laufende Produktion.
+Vertrag
+contract_number: RV-2022-0022
+type: Framework Agreement
+status: Active
+start_date: 2022-06-20
+end_date: 2027-06-19
+auto_renew: 1
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 873.53
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-06-08
+compliance_review_ref: GPP0001428
+
+governing_law: German law
+payment_terms: Z045
+incoterm: FCA
+Bedingungen
+Marendisp 332 dispersing agent: 356.52 EUR/100 kg
+Marenclean U 134 all-purpose cleaner: 124.01 EUR/100 kg
+Acetic acid, technical grade: 649.19 EUR/1000 kg

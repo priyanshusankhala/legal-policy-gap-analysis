@@ -1,0 +1,35 @@
+
+
+Dossier HF00007 (confidentiel)
+Fallakte Meldestelle
+N° du document
+DMS-00000925
+Version
+1.0
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Restricted
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Hinweisfall
+eingang_datum: 2025-06-20
+kanal: Brief
+kategorie: Diskriminierung oder Belästigung
+sprache: fr
+schweregrad: niedrig
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 1
+kurzbeschreibung: Ein Hinweisgeber hat über die Meldestelle eine Beschwerde eingereicht. Ein
+Vorgesetzter soll gegenüber Teammitgliedern herabsetzende Bemerkungen gemacht haben. Der Vorfall
+wird der Kategorie Diskriminierung oder Belästigung zugeordnet und mit einem niedrigen Schweregrad
+eingestuft. Betroffen ist die Gesellschaft FR. Die Meldung wird geprüft, der Sachverhalt wird aufgeklärt
+und es werden angemessene arbeitsrechtliche sowie präventive Maßnahmen geprüft.
+bestaetigung_am: 2025-06-23
+rueckmeldung_am: 2025-09-05
+abschluss_datum: 2025-10-09
+ergebnis: teilweise bestätigt

@@ -1,0 +1,77 @@
+
+
+Framework Agreement RV-2025-0134 – Peachtree
+Automotive Components Co.
+Rahmenvertrag
+Document no.
+DMS-00000557
+Version
+1.0
+Valid from
+2025-01-27
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2025-0134
+type: Framework Agreement
+status: Active
+start_date: 2025-01-27
+end_date: 2027-01-26
+auto_renew: 1
+notice_period_days: 60
+currency: USD
+committed_volume_t: 130.31
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2025-01-20
+governing_law: State of Texas
+payment_terms: Z030
+incoterm: CPT
+Terms
+Marenfoam 133 defoamer: 520.46 USD/100 kg
+Marenemul 731 emulsifier: 361.03 USD/100 kg
+Ethanol, technical grade: 1282.12 USD/1000 kg
+Account
+name: Peachtree Automotive Components Co.
+type: Customer
+billing_street: 44 Station Road
+billing_city: Atlanta
+billing_postcode: 30341
+billing_country: US
+industry: Automotive supplier
+segment: Direct
+size_class: Medium
+status: Active
+website: www.peachtreeautomotive.com
+created_date: 2006-09-10
+
+last_modified_date: 2025-01-15
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Automotive supplier. Sources Ethanol, technical grade, Marenfoam 133 defoamer for
+ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2025-0134
+type: Framework Agreement
+status: Active
+start_date: 2025-01-27
+end_date: 2027-01-26
+auto_renew: 1
+notice_period_days: 60
+currency: USD
+committed_volume_t: 130.31
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2025-01-20
+governing_law: State of Texas
+payment_terms: Z030
+incoterm: CPT
+Terms
+Marenfoam 133 defoamer: 520.46 USD/100 kg
+Marenemul 731 emulsifier: 361.03 USD/100 kg
+Ethanol, technical grade: 1282.12 USD/1000 kg

@@ -1,0 +1,64 @@
+
+
+Richtlinie Hinweisgebersystem
+Konzernrichtlinie
+Dokumentnummer
+DMS-00000058
+Version
+1.0
+Gültig ab
+2021-06-18
+Gesellschaft
+Marenthal Chemie AG
+Status
+Superseded
+Vertraulichkeit
+Public
+Zweck und Geltungsbereich
+Diese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Compliance“ fest. Sie
+gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für Geschäftspartner.
+Verstöße können arbeits- und strafrechtliche Folgen haben.
+Pflichten und Zuständigkeiten
+Verhaltenskodex einführen und Kenntnisnahme bestätigen lassen – Alle Beschäftigten bestätigen den
+Verhaltenskodex bei Eintritt und im festgelegten Turnus.
+Geschäftspartner vor Aufnahme und wiederkehrend prüfen – Identität, Sanktionslisten, PEP und
+Negativmeldungen prüfen; Ergebnis im Compliance-System dokumentieren.
+Geschenke- und Einladungsregister führen – Zuwendungen über der Wertgrenze vorab genehmigen
+lassen und im Register erfassen.
+Jährliche Erklärung zu Interessenkonflikten der Führungskräfte einholen – Führungskräfte melden
+Nebentätigkeiten, Beteiligungen und familiäre Beziehungen zu Geschäftspartnern.
+Urspungsnachweise und Präferenzkalkulation prüfen – Lieferantenerklärungen einholen und
+Präferenzberechtigung für Lieferungen dokumentieren.
+Notfall- und Wiederanlaufübung der IT durchführen – Wiederherstellung kritischer Systeme (ERP,
+Prozessleitsystem) üben und Ergebnisse dokumentieren.
+Importeurpflichten in Kenia und Brasilien über Distributoren überwachen – Importlizenzen und
+Registrierungen der Importeure vor Lieferung prüfen; Ablaufdaten nachhalten.
+Produktfreigabe je Markt vor Erstlieferung dokumentieren – Marktfreigabe nur bei gültigem Stoffstatus,
+SDB und Kennzeichnung erteilen.
+Rezeptur- und Prozessänderungen regulatorisch bewerten – Änderungen an Zusammensetzung oder
+Lieferant vor Umsetzung auf Stoffrecht, Einstufung und SDB prüfen.
+Jährliche Statistik- und Chemikalienmeldungen an Behörden abgeben – Mengenmeldungen,
+Chemikalienstatistik und Betriebsbericht fristgerecht einreichen.
+Alarmierung der Behörden und Notfallkontakte rund um die Uhr prüfen – Erreichbarkeit und
+Alarmketten halbjährlich testen.
+Lieferantenkodex von Schlüssellieferanten unterzeichnen lassen – Unterschriebene Kodizes und
+Selbstauskunft der Lieferanten einholen.
+Richtlinie
+nummer: KR-007
+titel: Richtlinie Hinweisgebersystem
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-04-08
+master_sprache: de
+vertraulichkeit: öffentlich
+
+Richtlinienversion
+version: 1.0
+sprache: de
+status: Ersetzt
+gueltig_ab: 2021-06-18
+gueltig_bis: 2022-07-25
+freigabe_datum: 2021-06-16
+aenderungsgrund: Erstfassung

@@ -1,0 +1,55 @@
+
+
+Rebate Agreement RB-2019-0014 – Svea Chemical
+Supply AB
+Bonusvereinbarung
+Document no.
+DMS-00000038
+Version
+1.0
+Valid from
+2019-11-12
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RB-2019-0014
+type: Rebate Agreement
+status: Active
+start_date: 2019-11-12
+end_date: 2026-11-11
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 309.96
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-11-02
+governing_law: German law
+Account
+name: Svea Chemical Supply AB
+type: Distributor
+billing_street: Industrigatan 245
+billing_city: Göteborg
+billing_postcode: 424 06
+billing_country: SE
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.svea-chemical.se
+created_date: 2017-02-09
+last_modified_date: 2025-04-23
+language: en
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-07-22
+cms_partner_ref: GP000404
+
+description: Distribution partner (Chemical trading), focus on Sulfuric acid (96 %), technical grade,
+Methyl methacrylate, technical grade; own warehouse logistics in Sweden.

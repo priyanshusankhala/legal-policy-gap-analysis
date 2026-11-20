@@ -1,0 +1,86 @@
+
+
+Rahmenvertrag RV-2022-0036 – Isar Textilveredelung
+GmbH
+Rahmenvertrag
+Dokumentnummer
+DMS-00000196
+Version
+1.0
+Gültig ab
+2022-12-13
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2022-0036
+type: Framework Agreement
+status: Active
+start_date: 2022-12-13
+end_date: 2027-12-12
+auto_renew: 0
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 58.93
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-12-03
+governing_law: German law
+payment_terms: Z030
+incoterm: EXW
+Bedingungen
+Marenclean S 301 descaler: 138.37 EUR/100 kg
+Marenclean C 1305 CIP cleaner: 129.93 EUR/100 kg
+Isophorone diisocyanate, technical grade: 4743.24 EUR/1000 kg
+Butyl acetate, technical grade: 1369.31 EUR/1000 kg
+Methyl ethyl ketone, technical grade: 1721.06 EUR/1000 kg
+Sodium hydroxide (50 %), technical grade: 454.04 EUR/1000 kg
+Account
+name: Isar Textilveredelung GmbH
+type: Customer
+billing_street: Gartenstraße 157
+billing_city: München
+billing_postcode: 80947
+billing_country: DE
+industry: Textile and paper industry
+segment: Direct
+size_class: Large
+
+status: Active
+website: www.isar-textilveredelung.de
+created_date: 2022-10-30
+last_modified_date: 2025-03-13
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-11-27
+cms_partner_ref: GP000545
+description: Textil- und Papierindustrie; Stammkunde seit 2022. Hauptprodukte: Butylacetat, techn.,
+Natronlauge (50 %), techn.
+Rahmenvertragsnummer
+contract_number: RV-2022-0036
+type: Framework Agreement
+status: Active
+start_date: 2022-12-13
+end_date: 2027-12-12
+auto_renew: 0
+notice_period_days: 180
+currency: EUR
+committed_volume_t: 58.93
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-12-03
+governing_law: German law
+payment_terms: Z030
+incoterm: EXW
+Bedingungen
+Marenclean S 301 descaler: 138.37 EUR/100 kg
+Marenclean C 1305 CIP cleaner: 129.93 EUR/100 kg
+Isophorone diisocyanate, technical grade: 4743.24 EUR/1000 kg
+Butyl acetate, technical grade: 1369.31 EUR/1000 kg
+Methyl ethyl ketone, technical grade: 1721.06 EUR/1000 kg
+Sodium hydroxide (50 %), technical grade: 454.04 EUR/1000 kg

@@ -1,0 +1,35 @@
+举报系统：中国补充规定
+Lokale Ergänzung zur Richtlinie
+
+文件编号: DMS-00000395
+版本: 1.0
+生效日期: 2024-05-29
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Internal
+
+目的和适用范围
+本制度规定了Marenthal Chemicals (Shanghai) Co., Ltd.在“Compliance”方面的约束性规则，适用于全体员工、管理人员，并在合同约定的范围内适用于商业伙伴。
+
+义务和责任
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Richtlinienergänzung
+land: CN
+titel: Hinweisgebersystem: Ergänzung China
+inhalt_kurz: Ergänzt die Konzernrichtlinie „Richtlinie Hinweisgebersystem“ (Fassung 2.0) um die Anforderungen für China; regelt lokale Zuständigkeiten und Meldewege.
+basiert_auf_version: 2.0
+gueltig_ab: 2024-05-29
+status: gültig
+freigabe_datum: 2024-05-29
+
+Richtlinie
+nummer: KR-007
+titel: Richtlinie Hinweisgebersystem
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-04-08
+master_sprache: de
+vertraulichkeit: öffentlich

@@ -1,0 +1,30 @@
+
+
+Zertifikat Qualitätsmanagement ISO 9001:2015 –
+QM-BTF-61242
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000439
+Version
+1.0
+Gültig ab
+2024-07-23
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Zertifikat Qualitätsmanagement ISO 9001:2015
+nummer: QM-BTF-61242
+behoerde: DEKRA Certification
+erteilt_am: 2024-07-23
+gueltig_bis: 2027-07-23
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

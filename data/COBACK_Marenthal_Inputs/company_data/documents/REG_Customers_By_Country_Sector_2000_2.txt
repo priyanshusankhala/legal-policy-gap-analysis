@@ -1,0 +1,82 @@
+# Register of customers by country and sector - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- |
+| Austria (AT) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Belgium (BE) | Automobilzulieferer | Industrie | 1 |
+| Belgium (BE) | Bauchemie und Baustoffe | Industrie | 3 |
+| Belgium (BE) | Chemiehandel | Distributor | 1 |
+| Belgium (BE) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Belgium (BE) | Gebäudereinigung und Hygiene | Endkunde | 2 |
+| Belgium (BE) | Kunststoffverarbeitung | Industrie | 1 |
+| Belgium (BE) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Belgium (BE) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Belgium (BE) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Belgium (BE) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Brazil (BR) | Automobilzulieferer | Industrie | 2 |
+| Brazil (BR) | Chemiehandel | Distributor | 2 |
+| Brazil (BR) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Brazil (BR) | Farben und Lacke | Industrie | 3 |
+| Brazil (BR) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Brazil (BR) | Kunststoffverarbeitung | Industrie | 2 |
+| Brazil (BR) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Brazil (BR) | Maschinen- und Anlagenbau | Industrie | 3 |
+| Brazil (BR) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Brazil (BR) | Textil- und Papierindustrie | Industrie | 1 |
+| China (CN) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| France (FR) | Automobilzulieferer | Industrie | 3 |
+| France (FR) | Bauchemie und Baustoffe | Industrie | 5 |
+| France (FR) | Chemiehandel | Distributor | 4 |
+| France (FR) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| France (FR) | Farben und Lacke | Industrie | 6 |
+| France (FR) | Gebäudereinigung und Hygiene | Endkunde | 5 |
+| France (FR) | Kunststoffverarbeitung | Industrie | 5 |
+| France (FR) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| France (FR) | Maschinen- und Anlagenbau | Industrie | 3 |
+| France (FR) | Metall- und Oberflächentechnik | Industrie | 3 |
+| France (FR) | Textil- und Papierindustrie | Industrie | 2 |
+| Germany (DE) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Germany (DE) | Farben und Lacke | Industrie | 1 |
+| Germany (DE) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Italy (IT) | Automobilzulieferer | Industrie | 3 |
+| Italy (IT) | Bauchemie und Baustoffe | Industrie | 2 |
+| Italy (IT) | Chemiehandel | Distributor | 2 |
+| Italy (IT) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Italy (IT) | Farben und Lacke | Industrie | 4 |
+| Italy (IT) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Italy (IT) | Kunststoffverarbeitung | Industrie | 2 |
+| Italy (IT) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Kenya (KE) | Automobilzulieferer | Industrie | 2 |
+| Kenya (KE) | Chemiehandel | Distributor | 1 |
+| Kenya (KE) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Kenya (KE) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Kenya (KE) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Kenya (KE) | Textil- und Papierindustrie | Industrie | 1 |
+| Kenya (KE) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Luxembourg (LU) | Automobilzulieferer | Industrie | 1 |
+| Luxembourg (LU) | Bauchemie und Baustoffe | Industrie | 1 |
+| Luxembourg (LU) | Textil- und Papierindustrie | Industrie | 1 |
+| Netherlands (NL) | Automobilzulieferer | Industrie | 1 |
+| Netherlands (NL) | Chemiehandel | Distributor | 1 |
+| Portugal (PT) | Bauchemie und Baustoffe | Industrie | 1 |
+| Portugal (PT) | Chemiehandel | Distributor | 1 |
+| Portugal (PT) | Kunststoffverarbeitung | Industrie | 3 |
+| Portugal (PT) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Romania (RO) | Bauchemie und Baustoffe | Industrie | 1 |
+| Spain (ES) | Automobilzulieferer | Industrie | 2 |
+| Spain (ES) | Bauchemie und Baustoffe | Industrie | 2 |
+| Spain (ES) | Chemiehandel | Distributor | 3 |
+| Spain (ES) | Farben und Lacke | Industrie | 1 |
+| Spain (ES) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Spain (ES) | Kunststoffverarbeitung | Industrie | 2 |
+| Spain (ES) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Spain (ES) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Spain (ES) | Metall- und Oberflächentechnik | Industrie | 2 |
+| Spain (ES) | Textil- und Papierindustrie | Industrie | 1 |
+| Spain (ES) | Wasseraufbereitung und Umwelttechnik | Industrie | 1 |
+| Sweden (SE) | Farben und Lacke | Industrie | 1 |
+| United States (US) | Chemie (Konzerngesellschaft) | Konzern | 1 |

@@ -1,0 +1,40 @@
+
+
+Charte informatique
+Lokale Richtlinie
+N° du document
+DMS-00000326
+Version
+1.1
+Valable depuis
+2023-11-13
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « Informationssicherheit » pour Marenthal
+France S.A.S.. Elle s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux
+partenaires commerciaux.
+Obligations et responsabilités
+Verzeichnis der Verarbeitungstätigkeiten aktuell halten – Neue und geänderte Verarbeitungen erfassen
+und jährlich auf Vollständigkeit prüfen.
+Richtlinie
+nummer: LK-108
+titel: Charte informatique
+thema: Informationssicherheit
+geltung: Lokal
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2026-10-08
+master_sprache: fr
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.1
+sprache: fr
+status: Gültig
+gueltig_ab: 2023-11-13
+freigabe_datum: 2023-11-09
+aenderungsgrund: Ergebnis des internen Audits eingearbeitet

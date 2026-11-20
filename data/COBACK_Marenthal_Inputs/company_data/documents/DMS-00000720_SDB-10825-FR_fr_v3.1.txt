@@ -1,0 +1,81 @@
+
+
+Fiche de données de sécurité Marencoat HL 533 vernis
+bois en phase aqueuse
+Sicherheitsdatenblatt
+N° du document
+DMS-00000720
+Version
+3.1
+Valable depuis
+2025-04-23
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+1. Identification de la substance/du mélange et de la société
+Fiche de données de sécurité Marencoat HL 533 vernis bois en phase aqueuse
+Marencoat HL 533 vernis bois en phase aqueuse
+SDS: SDB-10825-FR
+2. Identification des dangers
+H: H302 H312 H315 H317 H318 H319 H332 H400
+3. Composition / informations sur les composants
+Water (demineralised) 7732-18-5 231-791-2 46.5–56.8 %
+Styrene-acrylate
+copolymer dispersion
+25767-47-9 34.5–42.1 %
+Titanium dioxide 13463-67-7 236-675-5 4.6–5.6 %
+2-Butoxyethanol 111-76-2 203-905-0 2.6–3.6 % H302 H312
+H315 H319
+H332
+Paraffin wax 8002-74-2 232-315-6 1–2 %
+Polydimethylsiloxane 63148-62-9 0.145–0.435 %
+1,2-Benzisothiazolin-3-on
+e
+2634-33-5 220-120-9 0.015–0.045 % H302 H315
+H317 H318
+H400
+4. Premiers secours
+Après contact avec la peau, laver à l’eau et au savon. Après contact avec les yeux, rincer plusieurs
+minutes à l’eau. Consulter un médecin en cas de symptômes.
+5. Mesures de lutte contre l’incendie
+Moyens d’extinction : mousse, poudre, dioxyde de carbone, eau pulvérisée. Porter un appareil
+respiratoire autonome.
+6. Mesures à prendre en cas de dispersion accidentelle
+Porter un équipement de protection, éliminer les sources d’ignition, absorber avec un matériau inerte.
+Ne pas rejeter à l’égout.
+7. Manipulation et stockage
+Conserver le récipient bien fermé dans un endroit ventilé, à l’écart des sources d’ignition et des
+produits incompatibles.
+
+8. Contrôle de l’exposition / protection individuelle
+Utiliser des gants, des lunettes de protection et, si nécessaire, une protection respiratoire. Assurer une
+ventilation suffisante.
+9. Propriétés physiques et chimiques
+Density: 1.055
+Base unit: KG
+Shelf life (months): 18
+10. Stabilité et réactivité
+Stable dans les conditions normales d’utilisation et de stockage. Éviter les oxydants forts, les acides et
+les bases.
+11. Informations toxicologiques
+Informations basées sur les composants de la section 3 et la classification du mélange.
+12. Informations écologiques
+Ne pas laisser pénétrer dans les eaux ou le sol.
+13. Considérations relatives à l’élimination
+Éliminer conformément à la réglementation locale (ICPE) par une entreprise agréée.
+14. Informations relatives au transport
+HS: 32091000
+15. Informations réglementaires
+Classification et étiquetage selon le règlement (CE) n° 1272/2008 (CLP) et REACH (CE) n° 1907/2006.
+1,2-Benzisothiazolin-3-one: REACH – nicht erforderlich
+2-Butoxyethanol: REACH – nicht erforderlich
+Paraffin wax: REACH – nicht erforderlich
+Polydimethylsiloxane: REACH – ausgenommen
+Styrene-acrylate copolymer dispersion: REACH – ausgenommen
+Titanium dioxide: REACH – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+16. Autres informations
+3.1 · 2025-04-23

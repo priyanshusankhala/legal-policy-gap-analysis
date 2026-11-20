@@ -1,0 +1,128 @@
+# Register of product composition (substances per product) - Marenthal Chemicals Inc. (part 2 of 3)
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+For every product or raw material: its substances with CAS number, typical share, function, hazard statements, SVHC flag and REACH status, plus UN number, hazard class and customs code of the product.
+
+| Product | Material no. | UN no. | Hazard class | HS code | Substance | CAS | Typical share | Function | H statements | SVHC | REACH status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marencoat AL 634 alkyd enamel | TG-000028 | UN1263 | 3 | 3208901900 | Linseed oil | 8001-26-1 | 27 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat AL 634 alkyd enamel | TG-000028 | UN1263 | 3 | 3208901900 | Rosin (colophony) | 8050-09-7 | 4.3 % | Harz | H317 | 0 | Lieferant |
+| Marencoat AL 634 alkyd enamel | TG-000028 | UN1263 | 3 | 3208901900 | Talc | 14807-96-6 | 5.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat AL 634 alkyd enamel | TG-000028 | UN1263 | 3 | 3208901900 | Titanium dioxide | 13463-67-7 | 20.9 % | Pigment | - | 0 | registriert |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.08 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Aluminium hydroxide | 21645-51-2 | 12.4 % | Flammschutzfüllstoff | - | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Barium sulfate | 7727-43-7 | 6.1 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.36 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 1.3 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 35.5 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 13.4 % | Pigment | - | 0 | registriert |
+| Marencoat DB 1303 roof coating | TG-000032 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 30.86 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Aluminium hydroxide | 21645-51-2 | 10.8 % | Flammschutzfüllstoff | - | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Barium sulfate | 7727-43-7 | 7.4 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.36 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 0.89 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 35 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 12.4 % | Pigment | - | 0 | registriert |
+| Marencoat DB 1333 roof coating | FG-000013 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 33.12 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat EB 905 2K epoxy floor coating (component A) | FG-000012 | UN3082 | 9 | 3208909100 | Barium sulfate | 7727-43-7 | 16.96 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EB 905 2K epoxy floor coating (component A) | FG-000012 | UN3082 | 9 | 3208909100 | Benzyl alcohol | 100-51-6 | 2.8 % | Lösemittel | H302 H319 H332 | 0 | Lieferant |
+| Marencoat EB 905 2K epoxy floor coating (component A) | FG-000012 | UN3082 | 9 | 3208909100 | Bisphenol-A epoxy resin | 25068-38-6 | 56.8 % | Bindemittel | H315 H317 H319 H411 | 0 | Lieferant |
+| Marencoat EB 905 2K epoxy floor coating (component A) | FG-000012 | UN3082 | 9 | 3208909100 | Kaolin | 1332-58-7 | 11.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EB 905 2K epoxy floor coating (component A) | FG-000012 | UN3082 | 9 | 3208909100 | Polydimethylsiloxane | 63148-62-9 | 0.34 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat EB 905 2K epoxy floor coating (component A) | FG-000012 | UN3082 | 9 | 3208909100 | Titanium dioxide | 13463-67-7 | 11.6 % | Pigment | - | 0 | registriert |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | Barium sulfate | 7727-43-7 | 9.3 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | Bisphenol-A epoxy resin | 25068-38-6 | 47.6 % | Bindemittel | H315 H317 H319 H411 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | Talc | 14807-96-6 | 10.8 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | Titanium dioxide | 13463-67-7 | 7 % | Pigment | - | 0 | registriert |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | Xylene (isomer mixture) | 1330-20-7 | 11.4 % | Lösemittel | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | Zinc phosphate | 7779-90-0 | 6.6 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat EP 806 2K epoxy primer (component A) | TG-000030 | UN1263 | 3 | 3208909100 | n-Butanol | 71-36-3 | 7.3 % | Lösemittel | H226 H302 H315 H318 H335 H336 | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.07 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | 2-Butoxyethanol | 111-76-2 | 3.3 % | Filmbildehilfsmittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | Paraffin wax | 8002-74-2 | 0.95 % | Wachs | - | 0 | Lieferant |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.29 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 42.7 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 9.1 % | Pigment | - | 0 | registriert |
+| Marencoat HL 509 water-based wood coating | FG-000010 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 43.59 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | 2-Butoxyethanol | 111-76-2 | 3.1 % | Filmbildehilfsmittel | H302 H312 H315 H319 H332 | 0 | Lieferant |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | Paraffin wax | 8002-74-2 | 1.5 % | Wachs | - | 0 | Lieferant |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | Polydimethylsiloxane | 63148-62-9 | 0.29 % | Entschäumer | - | 0 | ausgenommen |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 38.3 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | Titanium dioxide | 13463-67-7 | 5.1 % | Pigment | - | 0 | registriert |
+| Marencoat HL 533 water-based wood coating | TG-000026 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 51.68 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | UN2735 | 8 | 3824999600 | Benzyl alcohol | 100-51-6 | 16 % | Lösemittel | H302 H319 H332 | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | UN2735 | 8 | 3824999600 | Diethylenetriamine | 111-40-0 | 29 % | Härter | H302 H311 H314 H317 H412 | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | UN2735 | 8 | 3824999600 | Kaolin | 1332-58-7 | 40.5 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | UN2735 | 8 | 3824999600 | Talc | 14807-96-6 | 7.8 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat PH 1102 epoxy hardener (component B) | TG-000031 | UN2735 | 8 | 3824999600 | Triethanolamine | 102-71-6 | 6.7 % | Beschleuniger | - | 0 | registriert |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | UN1263 | 3 | 3208909100 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 46 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | UN1263 | 3 | 3208909100 | Iron(III) oxide | 1309-37-1 | 18.1 % | Pigment | - | 0 | Lieferant |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | UN1263 | 3 | 3208909100 | Linseed oil | 8001-26-1 | 15.8 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | UN1263 | 3 | 3208909100 | Rosin (colophony) | 8050-09-7 | 3.5 % | Harz | H317 | 0 | Lieferant |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | UN1263 | 3 | 3208909100 | Talc | 14807-96-6 | 7.1 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat RS 703 anticorrosive primer | TG-000029 | UN1263 | 3 | 3208909100 | Zinc phosphate | 7779-90-0 | 9.5 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | UN1263 | 3 | 3208909100 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 45 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | UN1263 | 3 | 3208909100 | Iron(III) oxide | 1309-37-1 | 15.9 % | Pigment | - | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | UN1263 | 3 | 3208909100 | Linseed oil | 8001-26-1 | 17.9 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | UN1263 | 3 | 3208909100 | Rosin (colophony) | 8050-09-7 | 3.7 % | Harz | H317 | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | UN1263 | 3 | 3208909100 | Talc | 14807-96-6 | 6.8 % | Füllstoff | - | 0 | Lieferant |
+| Marencoat RS 730 anticorrosive primer | FG-000011 | UN1263 | 3 | 3208909100 | Zinc phosphate | 7779-90-0 | 10.7 % | Korrosionsschutzpigment | H410 | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | FG-000014 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.05 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | FG-000014 | - | - | 3209100000 | 2-Phenoxyethanol | 122-99-6 | 0.29 % | Filmbildehilfsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | FG-000014 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 0.86 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat TG 1400 penetrating primer | FG-000014 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 13.5 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat TG 1400 penetrating primer | FG-000014 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 85.3 % | Lösemittel | - | 0 | ausgenommen |
+| Marencoat TG 1438 penetrating primer | TG-000033 | - | - | 3209100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marencoat TG 1438 penetrating primer | TG-000033 | - | - | 3209100000 | 2-Phenoxyethanol | 122-99-6 | 0.32 % | Filmbildehilfsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marencoat TG 1438 penetrating primer | TG-000033 | - | - | 3209100000 | Propylene glycol | 57-55-6 | 0.89 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marencoat TG 1438 penetrating primer | TG-000033 | - | - | 3209100000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 8.1 % | Bindemittel | - | 0 | ausgenommen |
+| Marencoat TG 1438 penetrating primer | TG-000033 | - | - | 3209100000 | Water (demineralised) | 7732-18-5 | 90.66 % | Lösemittel | - | 0 | ausgenommen |
+| Marendisp 305 dispersing agent | FG-000001 | - | - | 3906909000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.08 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marendisp 305 dispersing agent | FG-000001 | - | - | 3906909000 | Propylene glycol | 57-55-6 | 3.1 % | Frostschutz | - | 0 | Lieferant |
+| Marendisp 305 dispersing agent | FG-000001 | - | - | 3906909000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 31.7 % | Polymer | - | 0 | ausgenommen |
+| Marendisp 305 dispersing agent | FG-000001 | - | - | 3906909000 | Triethanolamine | 102-71-6 | 2.5 % | Neutralisationsmittel | - | 0 | registriert |
+| Marendisp 305 dispersing agent | FG-000001 | - | - | 3906909000 | Water (demineralised) | 7732-18-5 | 62.62 % | Trägermedium | - | 0 | ausgenommen |
+| Marendisp 332 dispersing agent | TG-000003 | - | - | 3906909000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.09 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marendisp 332 dispersing agent | TG-000003 | - | - | 3906909000 | Propylene glycol | 57-55-6 | 4 % | Frostschutz | - | 0 | Lieferant |
+| Marendisp 332 dispersing agent | TG-000003 | - | - | 3906909000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 34.5 % | Polymer | - | 0 | ausgenommen |
+| Marendisp 332 dispersing agent | TG-000003 | - | - | 3906909000 | Triethanolamine | 102-71-6 | 2.3 % | Neutralisationsmittel | - | 0 | registriert |
+| Marendisp 332 dispersing agent | TG-000003 | - | - | 3906909000 | Water (demineralised) | 7732-18-5 | 59.11 % | Trägermedium | - | 0 | ausgenommen |
+| Marenemul 731 emulsifier | TG-000006 | - | - | 3402119000 | Cocamidopropyl betaine | 61789-40-0 | 7.3 % | Co-Tensid | H318 H412 | 0 | registriert |
+| Marenemul 731 emulsifier | TG-000006 | - | - | 3402119000 | Sodium cumenesulfonate | 15763-76-5 | 5.7 % | Lösevermittler | H319 | 0 | registriert |
+| Marenemul 731 emulsifier | TG-000006 | - | - | 3402119000 | Sodium dodecylbenzenesulfonate | 25155-30-0 | 22.1 % | Tensid | H302 H315 H318 H412 | 0 | Lieferant |
+| Marenemul 731 emulsifier | TG-000006 | - | - | 3402119000 | Water (demineralised) | 7732-18-5 | 64.9 % | Trägermedium | - | 0 | ausgenommen |
+| Marenflex 906 plasticizer | TG-000007 | - | - | 3812200000 | Dioctyl terephthalate | 6422-86-2 | 86.6 % | Weichmacher | - | 0 | Lieferant |
+| Marenflex 906 plasticizer | TG-000007 | - | - | 3812200000 | Epoxidised soybean oil | 8013-07-8 | 13.4 % | Stabilisator | - | 0 | Lieferant |
+| Marenfoam 133 defoamer | TG-000004 | - | - | 3910000000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.04 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenfoam 133 defoamer | TG-000004 | - | - | 3910000000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 3.6 % | Emulgator | H302 H318 H412 | 0 | registriert |
+| Marenfoam 133 defoamer | TG-000004 | - | - | 3910000000 | Polydimethylsiloxane | 63148-62-9 | 9.3 % | Wirkstoff | - | 0 | ausgenommen |
+| Marenfoam 133 defoamer | TG-000004 | - | - | 3910000000 | Silicon dioxide (amorphous) | 7631-86-9 | 2 % | Füllstoff | - | 0 | Lieferant |
+| Marenfoam 133 defoamer | TG-000004 | - | - | 3910000000 | Water (demineralised) | 7732-18-5 | 85.06 % | Trägermedium | - | 0 | ausgenommen |
+| Marenglide 953 lubricant additive | FG-000002 | - | - | 3403990000 | Calcium carbonate | 471-34-1 | 35.6 % | Füllstoff | - | 0 | Lieferant |
+| Marenglide 953 lubricant additive | FG-000002 | - | - | 3403990000 | Calcium stearate | 1592-23-0 | 42.5 % | Gleitmittel | - | 0 | ausgenommen |
+| Marenglide 953 lubricant additive | FG-000002 | - | - | 3403990000 | Paraffin wax | 8002-74-2 | 21.9 % | Wachs | - | 0 | Lieferant |
+| Marenpaste 202 pigment preparation | TG-000011 | - | - | 3212900000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenpaste 202 pigment preparation | TG-000011 | - | - | 3212900000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 2.5 % | Netzmittel | H302 H318 H412 | 0 | registriert |
+| Marenpaste 202 pigment preparation | TG-000011 | - | - | 3212900000 | Iron(III) oxide | 1309-37-1 | 29.7 % | Pigment | - | 0 | Lieferant |
+| Marenpaste 202 pigment preparation | TG-000011 | - | - | 3212900000 | Propylene glycol | 57-55-6 | 3.6 % | Lösemittel | - | 0 | Lieferant |
+| Marenpaste 202 pigment preparation | TG-000011 | - | - | 3212900000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 9.8 % | Bindemittel | - | 0 | ausgenommen |
+| Marenpaste 202 pigment preparation | TG-000011 | - | - | 3212900000 | Water (demineralised) | 7732-18-5 | 54.37 % | Trägermedium | - | 0 | ausgenommen |
+| Marenpaste 237 pigment preparation | FG-000003 | - | - | 3212900000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.04 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenpaste 237 pigment preparation | FG-000003 | - | - | 3212900000 | Carbon black | 1333-86-4 | 30.9 % | Pigment | - | 0 | Lieferant |
+| Marenpaste 237 pigment preparation | FG-000003 | - | - | 3212900000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 3.9 % | Netzmittel | H302 H318 H412 | 0 | registriert |
+| Marenpaste 237 pigment preparation | FG-000003 | - | - | 3212900000 | Propylene glycol | 57-55-6 | 3.4 % | Lösemittel | - | 0 | Lieferant |
+| Marenpaste 237 pigment preparation | FG-000003 | - | - | 3212900000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 6.5 % | Bindemittel | - | 0 | ausgenommen |
+| Marenpaste 237 pigment preparation | FG-000003 | - | - | 3212900000 | Water (demineralised) | 7732-18-5 | 55.26 % | Trägermedium | - | 0 | ausgenommen |
+| Marenphos 125 phosphating solution | TG-000012 | UN3264 | 8 | 3824999600 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 1.1 % | Netzmittel | H302 H318 H412 | 0 | registriert |
+| Marenphos 125 phosphating solution | TG-000012 | UN3264 | 8 | 3824999600 | Phosphoric acid (75 %) | 7664-38-2 | 28.8 % | Phosphatierung | H290 H314 | 0 | Lieferant |
+| Marenphos 125 phosphating solution | TG-000012 | UN3264 | 8 | 3824999600 | Water (demineralised) | 7732-18-5 | 65 % | Trägermedium | - | 0 | ausgenommen |
+| Marenphos 125 phosphating solution | TG-000012 | UN3264 | 8 | 3824999600 | Zinc oxide | 1314-13-2 | 5.1 % | Zinkquelle | H410 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | TG-000009 | UN1993 | 3 | 3814009000 | Ethyl acetate | 141-78-6 | 33.7 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | TG-000009 | UN1993 | 3 | 3814009000 | Methoxypropyl acetate | 108-65-6 | 6 % | Lösemittel | H226 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | TG-000009 | UN1993 | 3 | 3814009000 | Solvent naphtha (aromatic) | 64742-95-6 | 21.5 % | Lösemittel | H226 H304 H335 H336 H411 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | TG-000009 | UN1993 | 3 | 3814009000 | Toluene | 108-88-3 | 38.8 % | Lösemittel | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Marensolv 302 degreasing spirit (solvent blend) | TG-000010 | UN1993 | 3 | 3814009000 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 74.8 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marensolv 302 degreasing spirit (solvent blend) | TG-000010 | UN1993 | 3 | 3814009000 | d-Limonene | 5989-27-5 | 5.5 % | Lösemittel | H226 H304 H315 H317 H410 | 0 | registriert |

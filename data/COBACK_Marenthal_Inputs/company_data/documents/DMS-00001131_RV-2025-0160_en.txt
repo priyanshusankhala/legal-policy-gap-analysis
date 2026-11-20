@@ -1,0 +1,77 @@
+
+
+Framework Agreement RV-2025-0160 – Mutua Paper
+Ltd
+Rahmenvertrag
+Document no.
+DMS-00001131
+Version
+1.0
+Valid from
+2025-11-17
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2025-0160
+type: Framework Agreement
+status: Active
+start_date: 2025-11-17
+end_date: 2028-11-16
+auto_renew: 0
+notice_period_days: 60
+currency: USD
+committed_volume_t: 60.12
+selling_entity: Marenthal France S.A.S.
+signed_date: 2025-10-17
+governing_law: French law
+payment_terms: Z060
+incoterm: FOB
+Terms
+Marendisp 332 dispersing agent: 442.54 USD/100 kg
+Marenemul 731 emulsifier: 359.17 USD/100 kg
+Marenclean M 1200 machine cleaner (powder): 178.75 USD/100 kg
+Account
+name: Mutua Paper Ltd
+type: Customer
+billing_street: 166 Station Road
+billing_city: Kisumu
+billing_postcode: 40100
+billing_country: KE
+industry: Textile and paper industry
+segment: Direct
+size_class: Small
+status: On Hold
+website: www.mutua-paper.co.ke
+created_date: 2025-10-05
+
+last_modified_date: 2025-11-21
+language: en
+selling_entity: Marenthal France S.A.S.
+description: Textile and paper industry. Regular call-offs of Marenclean M 1200 machine cleaner
+(powder), Marendisp 332 dispersing agent according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2025-0160
+type: Framework Agreement
+status: Active
+start_date: 2025-11-17
+end_date: 2028-11-16
+auto_renew: 0
+notice_period_days: 60
+currency: USD
+committed_volume_t: 60.12
+selling_entity: Marenthal France S.A.S.
+signed_date: 2025-10-17
+governing_law: French law
+payment_terms: Z060
+incoterm: FOB
+Terms
+Marendisp 332 dispersing agent: 442.54 USD/100 kg
+Marenemul 731 emulsifier: 359.17 USD/100 kg
+Marenclean M 1200 machine cleaner (powder): 178.75 USD/100 kg

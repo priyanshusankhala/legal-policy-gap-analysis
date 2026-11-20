@@ -1,0 +1,35 @@
+
+
+Technical Data Sheet Marendisp 332 dispersing agent
+Technisches Datenblatt
+Document no.
+DMS-00001016
+Version
+2.2
+Valid from
+2025-08-07
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marendisp 332 dispersing agent
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Surfactant systems
+Description: Dispergierung von Pigmenten und Füllstoffen in wässrigen Beschichtungen
+Hazardous: 0
+SDS available: 1
+Density: 1.021
+HS: 3906909000
+Origin: DE
+Composition
+Water (demineralised): 53.2–65 %
+Styrene-acrylate copolymer dispersion: 31.1–38 %
+Propylene glycol: 3.5–4.5 %
+Triethanolamine: 1.8–2.8 %
+1,2-Benzisothiazolin-3-one: 0.045–0.135 %

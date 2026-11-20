@@ -1,0 +1,45 @@
+# Register of substance registrations: REACH - Marenthal France S.A.S. (part 2 of 2)
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Status of each substance under REACH for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sodium percarbonate (CAS 15630-89-4) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Sodium persulfate (CAS 7775-27-1) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Sodium silicate (water glass) (CAS 1344-09-8) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Sodium sulfate (CAS 7757-82-6) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Sodium thiosulfate (CAS 7772-98-7) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Sodium tripolyphosphate (CAS 7758-29-4) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Stearic acid (CAS 57-11-4) | EU | Nachgeschalteter Anwender | ausgenommen | - | - | - | - | - |
+| Styrene (CAS 100-42-5) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | EU | Nachgeschalteter Anwender | ausgenommen | - | - | - | - | - |
+| Sulfamic acid (CAS 5329-14-6) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Sulfuric acid (96 %) (CAS 7664-93-9) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Talc (CAS 14807-96-6) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Tartaric acid (CAS 87-69-4) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Tetraethyl orthosilicate (CAS 78-10-4) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Tetrahydrofuran (CAS 109-99-9) | EU | Importeur | registriert | 01-2119435406-78-0064 | 10-100 t/a | 2017-09-10 | - | - |
+| Tetrasodium EDTA (CAS 64-02-8) | EU | Registrant | registriert | 01-2119112541-47-0032 | 1-10 t/a | 2018-05-14 | - | - |
+| Titanium dioxide (CAS 13463-67-7) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Toluene (CAS 108-88-3) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Triethanolamine (CAS 102-71-6) | EU | Importeur | registriert | 01-2119806760-18-0061 | 1-10 t/a | 2017-09-07 | - | - |
+| Triethylamine (CAS 121-44-8) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Trisodium citrate (CAS 68-04-2) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Trisodium phosphate (CAS 7601-54-9) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Urea (CAS 57-13-6) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Vinyl acetate (CAS 108-05-4) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Water (demineralised) (CAS 7732-18-5) | EU | Nachgeschalteter Anwender | ausgenommen | - | - | - | - | - |
+| Xanthan gum (CAS 11138-66-2) | EU | Nachgeschalteter Anwender | ausgenommen | - | - | - | - | - |
+| Xylene (isomer mixture) (CAS 1330-20-7) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Zinc oxide (CAS 1314-13-2) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Zinc phosphate (CAS 7779-90-0) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| Zinc stearate (CAS 557-05-1) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| d-Limonene (CAS 5989-27-5) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| n-Butanol (CAS 71-36-3) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| n-Butyl acrylate (CAS 141-32-2) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| n-Heptane (CAS 142-82-5) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |
+| n-Hexane (CAS 110-54-3) | EU | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Registrierung durch den Lieferanten |

@@ -1,0 +1,30 @@
+
+
+Nachweis: Kartellrechtsschulung für Vertrieb und
+Einkauf durchführen
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00001408
+Version
+1.0
+Gesellschaft
+Marenthal France S.A.S.
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Kartellrechtsschulung für Vertrieb und Einkauf durchführen
+beschreibung: Zielgruppen in Preis-, Gebiets- und Informationsaustauschverboten schulen.
+quelle: Code de commerce, art. L420-1
+quelltyp: Gesetz
+land: FR
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2027-12-15
+intervall_monate: 24
+status: erfüllt
+letzte_pruefung: 2025-12-25

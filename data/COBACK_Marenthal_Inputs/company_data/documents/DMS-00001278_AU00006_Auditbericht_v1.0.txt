@@ -1,0 +1,40 @@
+
+
+Auditbericht: Responsible Care Management Systems
+Audit – Werk Marl
+Auditbericht
+Dokumentnummer
+DMS-00001278
+Version
+1.0
+Gültig ab
+2025-10-22
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Responsible Care Management Systems Audit – Werk Marl
+art: extern
+scope: Responsible Care Managementsystem
+geplant_von: 2025-10-07
+geplant_bis: 2025-10-08
+durchgefuehrt_von: 2025-10-07
+durchgefuehrt_bis: 2025-10-08
+leitender_auditor: Dr. Stefan Brandt (TÜV Rheinland)
+status: abgeschlossen
+gesamtbewertung: wesentliche Abweichungen
+Feststellungen
+1 [Hauptabweichung] Gefährdungsbeurteilung für die neue Abfülllinie wurde nicht aktualisiert. (in
+Bearbeitung)
+2 [Empfehlung] Unterweisungsnachweise einzelner Schichtmitarbeiter fehlen oder sind älter als zwölf
+Monate. (geschlossen)
+3 [Nebenabweichung] Auffänge im Fasslager sind nicht durchgängig gekennzeichnet;
+Füllstandskontrolle nicht dokumentiert. (geschlossen)

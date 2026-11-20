@@ -1,0 +1,76 @@
+
+
+Safety Data Sheet Marensolv 302 degreasing spirit
+(solvent blend)
+Sicherheitsdatenblatt
+Document no.
+DMS-00000306
+Version
+7.0
+Valid from
+2023-09-19
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marensolv 302 degreasing spirit (solvent blend)
+Product: Marensolv 302 degreasing spirit (solvent blend)
+SDS: SDB-10307-US
+2. Hazards identification
+H: H225 H226 H304 H315 H317 H336 H410 H411
+3. Composition / information on ingredients
+Hydrocarbon
+solvent
+(hydrotreated
+heavy naphtha)
+64742-48-9 265-150-3 67.3–82.3 % H226 H304 H336
+H411
+n-Heptane 142-82-5 205-563-8 17.7–21.7 % H225 H304 H315
+H336 H410
+d-Limonene 5989-27-5 227-813-5 5–6.1 % H226 H304 H315
+H317 H410
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 0.761
+
+Base unit: KG
+Shelf life (months): 12
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN1993
+ADR/IMDG class: 3
+Packing group: III
+HS: 3814009000
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Hydrocarbon solvent (hydrotreated heavy naphtha): TSCA – nicht erforderlich
+d-Limonene: TSCA – Inventar aktiv
+n-Heptane: TSCA – nicht erforderlich
+16. Other information
+7.0 · 2023-09-19

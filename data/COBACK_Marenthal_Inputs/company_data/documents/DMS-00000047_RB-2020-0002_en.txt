@@ -1,0 +1,55 @@
+
+
+Rebate Agreement RB-2020-0002 – Mora Comercio de
+productos químicos S.L.
+Bonusvereinbarung
+Document no.
+DMS-00000047
+Version
+1.0
+Valid from
+2020-11-30
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RB-2020-0002
+type: Rebate Agreement
+status: Active
+start_date: 2020-11-30
+end_date: 2026-11-29
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 261.36
+selling_entity: Marenthal France S.A.S.
+signed_date: 2020-11-10
+governing_law: French law
+Account
+name: Mora Comercio de productos químicos S.L.
+type: Distributor
+billing_street: Calle Mayor 90
+billing_city: Barcelona
+billing_postcode: 08028
+billing_country: ES
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.mora-comercio.es
+created_date: 2020-05-13
+last_modified_date: 2025-05-09
+language: es
+selling_entity: Marenthal France S.A.S.
+compliance_status: Approved
+compliance_checked_on: 2024-04-24
+cms_partner_ref: GP000482
+
+description: Distribution partner (Chemical trading), focus on Marencoat PH 1102 epoxy hardener
+(component B), Marenemul 731 emulsifier; own warehouse logistics in Spain.

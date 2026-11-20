@@ -1,0 +1,39 @@
+
+
+Sanctions List Screening in Sales – Training Material
+Schulungsunterlage
+Document no.
+DMS-00000141
+Version
+1.0
+Valid from
+2022-03-21
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Sanktionslistenprüfung im Verkauf
+thema: Außenwirtschaft
+pflicht: 1
+zielgruppe: Vertrieb, Kundenservice
+sprachen: de,en,fr,zh
+dauer_min: 25
+intervall_monate: 12
+format: E-Learning
+status: aktiv
+Richtlinie
+nummer: KR-005
+titel: Richtlinie Sanktionen und Exportkontrolle
+thema: Außenwirtschaft
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-10-21
+master_sprache: de
+vertraulichkeit: intern

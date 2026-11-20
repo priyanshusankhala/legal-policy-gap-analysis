@@ -1,0 +1,35 @@
+# Risk register - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Compliance, environment, health and safety, and supply chain risks, with gross and net rating, status and review dates.
+
+| Risk | Category | Site | Description | Likelihood (net) | Impact (net) | Score (net) | Status | Last review | Next review |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Arbeitsunfall durch Gefahrstoffexposition – Saint-Fons | Arbeitsschutz | Usine de Saint-Fons | Hautkontakt oder Einatmen beim Abfüllen und Probenehmen. | 3 | 3 | 9 | in Behandlung | 2025-03-31 | 2026-03-26 |
+| Ausfall eines Einzelquellenlieferanten für Schlüsselrohstoffe | Lieferkette | - | Lieferstopp bei Monomeren oder Lösemitteln ohne qualifizierte Alternative. | 3 | 3 | 9 | offen | 2025-09-05 | 2026-08-31 |
+| Ausfall von ERP oder Prozessleitsystem | Informationssicherheit | - | Längerer Systemausfall mit Produktions- und Lieferunterbrechung. | 2 | 3 | 6 | offen | 2025-09-23 | 2026-09-18 |
+| Belieferung sanktionierter Parteien über Distributoren | Sanktionen und Exportkontrolle | - | Weiterverkauf an gelistete Endempfänger durch Vertriebspartner in Drittländern. | 2 | 5 | 10 | in Behandlung | 2025-08-20 | 2026-08-13 |
+| Bestechung bei Behördenkontakten (Genehmigungen, Zoll, Inspektionen) | Korruption | - | Zuwendungen an Amtsträger zur Beschleunigung oder Beeinflussung von Verfahren. | 1 | 4 | 4 | offen | 2025-07-11 | 2026-07-06 |
+| Boden- und Grundwasserverunreinigung – Saint-Fons | Umwelt | Usine de Saint-Fons | Undichte Lager- oder Umfüllbereiche. | 1 | 3 | 3 | offen | 2025-05-14 | 2026-05-11 |
+| Brand im Gefahrstofflager – Vienne | Umwelt | Entrepôt de Vienne | Brandentstehung durch Zündquellen oder Fehllagerung. | 1 | 4 | 4 | offen | 2025-02-27 | 2026-02-24 |
+| Chargenverwechslung bei Abfüllung und Etikettierung – Saint-Fons | Qualität | Usine de Saint-Fons | Falsche Charge oder falsches Etikett gelangt in den Versand. | 2 | 3 | 6 | in Behandlung | 2025-02-04 | 2026-01-30 |
+| Diskriminierung und Belästigung am Arbeitsplatz | Arbeitsschutz | - | Unzureichende Reaktion auf Beschwerden. | 2 | 3 | 6 | in Behandlung | 2025-04-28 | 2026-04-23 |
+| Explosionsfähige Atmosphäre bei Lösemittelhandhabung – Saint-Fons | Arbeitsschutz | Usine de Saint-Fons | Zündquellen in Ex-Zonen bei Umfüll- und Reinigungsarbeiten. | 1 | 5 | 5 | akzeptiert | 2025-03-27 | 2026-03-24 |
+| Falsche Einstufung von Gemischen | Produktsicherheit | - | Summationsregeln werden falsch angewendet, H-Sätze fehlen. | 2 | 3 | 6 | in Behandlung | 2025-06-30 | 2026-06-25 |
+| Fehlende oder fehlerhafte Sicherheitsdatenblätter bei Marktzugang | Produktsicherheit | - | SDB entsprechen nicht dem Rechtsstand des Zielmarkts oder fehlen in der Landessprache. | 2 | 3 | 6 | in Behandlung | 2025-02-21 | 2026-02-16 |
+| Fehlerhafte Zolltarifnummern und Ursprungsangaben | Sanktionen und Exportkontrolle | - | Falsche Einreihung führt zu Nachzahlungen und Strafen. | 2 | 2 | 4 | akzeptiert | 2025-06-27 | 2026-06-22 |
+| Informationsaustausch mit Wettbewerbern in Verbänden | Kartellrecht | - | Preise, Mengen oder Kundenlisten werden in Verbandsgremien ausgetauscht. | 1 | 5 | 5 | in Behandlung | 2025-06-02 | 2026-05-28 |
+| Intransparente Lieferketten bei Pigmenten und Zusatzstoffen | Lieferkette | - | Herkunft und Arbeitsbedingungen der Vorlieferanten sind nicht belegt. | 3 | 3 | 9 | offen | 2025-05-30 | 2026-05-25 |
+| Lieferung genehmigungspflichtiger Dual-Use-Güter ohne Genehmigung | Sanktionen und Exportkontrolle | - | Falsche oder fehlende Klassifizierung führt zu Ausfuhr ohne Genehmigung. | 1 | 5 | 5 | in Behandlung | 2025-04-03 | 2026-03-30 |
+| Nicht gemeldete Nebentätigkeiten und Beteiligungen von Führungskräften | Interessenkonflikte | - | Verdeckte Beteiligungen an Lieferanten oder Kunden. | 2 | 2 | 4 | offen | 2025-02-17 | 2026-02-12 |
+| Transportunfall mit Gefahrgut – Vienne | Produktsicherheit | Entrepôt de Vienne | Unfall oder Leckage während der Beförderung ab Lager oder Werk. | 2 | 4 | 8 | akzeptiert | 2025-10-30 | 2026-10-28 |
+| Unbefugter Zugriff auf Personaldaten und vertrauliche Unterlagen | Datenschutz | - | Zu weit gefasste Berechtigungen auf HR- und Hinweisgeberdaten. | 2 | 2 | 4 | offen | 2025-10-29 | 2026-10-26 |
+| Unkontrollierte Freisetzung gefährlicher Stoffe (Störfall) – Saint-Fons | Umwelt | Usine de Saint-Fons | Leckage oder Fehlbefüllung führt zu Freisetzung in Luft, Boden oder Gewässer. | 2 | 3 | 6 | offen | 2025-02-12 | 2026-02-10 |
+| Unzulässige Zuwendungen an Einkaufsverantwortliche von Kunden und Distributoren | Korruption | - | Geschenke und Einladungen über der Wertgrenze ohne Genehmigung. | 2 | 2 | 4 | akzeptiert | 2025-11-06 | 2026-11-03 |
+| Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheit | - | Ausfall der Auftragsabwicklung und Steuerungssysteme durch Schadsoftware. | 3 | 5 | 15 | in Behandlung | 2025-11-10 | 2026-05-11 |
+| Verstoss gegen Stoffbeschränkungen (SVHC, Beschränkungen, Zulassung) | Produktsicherheit | - | Verwendung oder Inverkehrbringen von Stoffen entgegen Beschränkung. | 2 | 4 | 8 | offen | 2025-08-25 | 2026-08-20 |
+| Verstöße gegen Arbeitszeitvorschriften in Produktion und Logistik | Arbeitsschutz | - | Überschreitung von Höchstarbeitszeiten im Schichtbetrieb. | 2 | 3 | 6 | offen | 2025-11-07 | 2026-11-02 |
+| Verunreinigung durch Rückstände nach Produktwechsel – Saint-Fons | Qualität | Usine de Saint-Fons | Anlagenreinigung unvollständig; Kontamination der Folgecharge. | 3 | 3 | 9 | akzeptiert | 2025-02-21 | 2026-02-16 |
+| Zahlungen Dritter und ungewöhnliche Zahlungswege | Geldwäsche | - | Zahlungseingänge von nicht beteiligten Dritten oder aus Drittländern. | 1 | 4 | 4 | akzeptiert | 2025-06-27 | 2026-06-22 |
+| Überschreitung der Abwassergrenzwerte – Saint-Fons | Umwelt | Usine de Saint-Fons | Einleitung von Prozessabwasser oberhalb der Genehmigungswerte. | 2 | 3 | 6 | in Behandlung | 2025-12-02 | 2026-11-27 |

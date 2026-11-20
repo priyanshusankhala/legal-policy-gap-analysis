@@ -1,0 +1,37 @@
+
+
+Technical Data Sheet Marencoat AL 634 alkyd enamel
+Technisches Datenblatt
+Document no.
+DMS-00000770
+Version
+3.0
+Valid from
+2025-04-23
+Company
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marencoat AL 634 alkyd enamel
+Family: Coatings
+Applications: Industrial coatings, Wood coatings
+Description: Deckanstrich für Stahl und Holz im Innen- und Außenbereich
+Hazardous: 1
+SDS available: 1
+Density: 1.061
+UN: UN1263
+Class: 3
+HS: 3208901900
+Origin: CN
+Composition
+Hydrocarbon solvent (hydrotreated heavy naphtha): 38.1–46.5 %
+Linseed oil: 24.3–29.7 %
+Titanium dioxide: 18.8–23 %
+Talc: 5–6.1 %
+Rosin (colophony): 3.8–4.8 %

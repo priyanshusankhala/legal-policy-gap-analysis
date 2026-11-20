@@ -1,0 +1,36 @@
+
+
+Auditbericht: Lieferantenaudit Pigmentlieferant
+Auditbericht
+Dokumentnummer
+DMS-00000990
+Version
+1.0
+Gültig ab
+2025-07-21
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Lieferantenaudit Pigmentlieferant
+art: Lieferantenaudit
+scope: Qualität, Lieferkette, Arbeitsbedingungen
+geplant_von: 2025-06-24
+geplant_bis: 2025-06-25
+durchgefuehrt_von: 2025-06-24
+durchgefuehrt_bis: 2025-06-25
+leitender_auditor: Externer Auditor
+status: abgeschlossen
+gesamtbewertung: wesentliche Abweichungen
+Feststellungen
+1 [Hauptabweichung] Qualitätsvereinbarung ist nicht unterzeichnet. (überfällig)
+2 [Hinweis] Positiv: Rückverfolgbarkeit der Pigmentchargen bis zum Vorlieferanten nachgewiesen.
+(geschlossen)

@@ -1,0 +1,69 @@
+安全技术说明书 Marenbase 1003 中和剂
+Sicherheitsdatenblatt
+
+文件编号: DMS-00000967
+版本: 9.1
+生效日期: 2025-07-30
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+1. 化学品及企业标识
+安全技术说明书 Marenbase 1003 中和剂
+Marenbase 1003 中和剂
+SDS: SDB-10262-CN
+
+2. 危险性概述
+H: H226 H302 H312 H314 H332
+
+3. 成分/组成信息
+2-Dimethylaminoethanol | 108-01-0 | 203-542-8 | 52.4–64 % | H226 H302 H312 H314 H332
+Water (demineralised) | 7732-18-5 | 231-791-2 | 27.7–33.9 % | 
+Triethanolamine | 102-71-6 | 203-049-8 | 9.9–12.1 % | 
+
+4. 急救措施
+皮肤接触：用肥皂和清水冲洗。眼睛接触：用大量清水冲洗数分钟。如有不适请就医。
+
+5. 消防措施
+灭火剂：泡沫、干粉、二氧化碳、水雾。消防人员须佩戴正压自给式呼吸器。
+
+6. 泄漏应急处理
+佩戴个人防护装备，消除一切火源，用惰性材料吸收并妥善处置。防止进入下水道。
+
+7. 操作处置与储存
+容器保持密闭，储存于通风良好处，远离火源和不相容物质。
+
+8. 接触控制/个体防护
+佩戴防护手套、护目镜，必要时佩戴呼吸防护用品。保证良好的局部通风。
+
+9. 理化特性
+Density: 0.943
+Base unit: KG
+Shelf life (months): 24
+
+10. 稳定性和反应性
+在正常使用和储存条件下稳定。避免接触强氧化剂、酸和碱。
+
+11. 毒理学信息
+本信息基于第3部分所列成分及混合物分类。
+
+12. 生态学信息
+防止进入水体和土壤。
+
+13. 废弃处置
+按当地法规委托有资质的单位处置，空容器须清空后交回。
+
+14. 运输信息
+UN: UN2920
+ADR/IMDG class: 8(3)
+Packing group: II
+HS: 3824999600
+
+15. 法规信息
+依据《危险化学品安全管理条例》、GB/T 16483 和 GB 13690 进行分类和标签。
+2-Dimethylaminoethanol: IECSC – Inventar aktiv
+Triethanolamine: IECSC – Inventar aktiv
+Water (demineralised): IECSC – Inventar aktiv
+
+16. 其他信息
+9.1 · 2025-07-30

@@ -1,0 +1,51 @@
+# Register of suppliers and purchases - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+Each supplier with country, group, status, number of purchase order lines, purchase value, the main materials bought and the country of origin of the goods. Contact persons are not named.
+
+| Supplier | Supplier country | Group | Status | Type | Order lines | Purchase value | Main materials | Origin of goods (lines) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bengtsson Petrochemicals AB | Sweden (SE) | Rohstoff | blocked | external | 2 | 40,323 EUR | 2-Butoxyethanol, Methoxypropyl acetate | SE 2 |
+| Berger Fabrique de fûts SAS | France (FR) | Verpackung | blocked | external | 3 | 142,643 EUR | Shrink hood, Steel drum 200 L | FR 3 |
+| Bernard Produits chimiques SAS | France (FR) | Rohstoff | blocked | external | 0 | - | - | - |
+| Brabantse Specialty Chemicals B.V. | Netherlands (NL) | Rohstoff | blocked | external | 37 | 1,002,493 EUR | Solvent naphtha (aromatic), Water (demineralised), 2-Butoxyethanol, Vinyl acetate | NL 37 |
+| De Luca Petrochemicals S.r.l. | Italy (IT) | Rohstoff | blocked | external | 24 | 231,705 EUR | Fatty alcohol ethoxylate (C12-14, 6 EO), Sodium dodecyl sulfate, Iron(III) oxide | IT 24 |
+| Delmas & Blanc Conseil SAS | France (FR) | Dienstleistung | blocked | external | 48 | 517,141 EUR | - |  48 |
+| Flandres Chemical Supply NV | Belgium (BE) | Handelsware | blocked | external | 45 | 7,823,391 EUR | Acetic acid, technical grade, Isopropanol, technical grade, Ethanol, technical grade, Ethyl acetate, technical grade | NL 27, BE 18 |
+| Garnier Électricité industrielle SARL | France (FR) | MRO | blocked | external | 0 | - | - | - |
+| Garonne Transports SAS | France (FR) | Logistik | blocked | external | 13 | 58,049 EUR | - |  13 |
+| Herrmann Rohstoffe e. K. | Germany (DE) | Rohstoff | blocked | external | 37 | 16,687,787 EUR | Styrene, Acrylic acid, Isophorone diisocyanate | DE 37 |
+| Kuipers Specialty Chemicals NV | Belgium (BE) | Rohstoff | blocked | external | 0 | - | - | - |
+| Lefebvre Services aux bâtiments SARL | France (FR) | Dienstleistung | blocked | external | 39 | 285,139 EUR | - |  39 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Konzern | blocked | intra-group | 54 | 58,547,664 CNY | Calcium carbonate, technical grade, Marenclean E 504 degreaser, Marencoat AI 436 interior emulsion paint, Marensolv 302 degreasing spirit (solvent blend) | CN 54 |
+| Marenthal Chemicals Inc. | United States (US) | Konzern | blocked | intra-group | 118 | 12,824,595 USD | Sodium hydroxide (50 %), technical grade, Marenclean U 134 all-purpose cleaner, Methanol, technical grade, Marencoat TG 1400 penetrating primer | US 118 |
+| Marenthal Chemie AG | Germany (DE) | Konzern | blocked | intra-group | 255 | 20,857,002 EUR | Sulfuric acid (96 %), technical grade, Hydrochloric acid (33 %), technical grade, Xylene (isomer mixture), technical grade, Marenclean E 537 degreaser | DE 255 |
+| Martin Électricité industrielle SARL | France (FR) | MRO | blocked | external | 415 | 1,676,326 EUR | , Nitrile protective gloves (pair), Seal kit centrifugal pump, Activated carbon filter A2 |  385, FR 30 |
+| Meijer Chemicals NV | Belgium (BE) | Rohstoff | blocked | external | 0 | - | - | - |
+| Mohr Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 0 | - | - | - |
+| Muller Produits chimiques SARL | France (FR) | Rohstoff | blocked | external | 1 | 61,258 EUR | Triethylamine | FR 1 |
+| Méditerranée Fabrique de fûts SARL | France (FR) | Verpackung | blocked | external | 62 | 4,959,546 EUR | EUR pallet, GHS label set, Tamper-evident closure, Plastic canister 25 L | FR 62 |
+| Méditerranée Gaz industriels SARL | France (FR) | MRO | blocked | external | 102 | 4,814,603 EUR | - |  102 |
+| Méditerranée Logistique SARL | France (FR) | Logistik | blocked | external | 15 | 56,054 EUR | - |  15 |
+| Méditerranée Maintenance industrielle SARL | France (FR) | MRO | blocked | external | 0 | - | - | - |
+| Nicolas Logistique SAS | France (FR) | Logistik | blocked | external | 23 | 197,070 EUR | - |  23 |
+| Nord Emballages SARL | France (FR) | Verpackung | blocked | external | 4 | 158,689 EUR | Steel drum 200 L, Shrink hood, Paper bag 25 kg, Big bag 1000 kg | FR 4 |
+| Nord Systèmes d'information SARL | France (FR) | Dienstleistung | blocked | external | 50 | 452,388 EUR | - |  50 |
+| Parisienne Analyses SA | France (FR) | Dienstleistung | blocked | external | 80 | 703,072 EUR | - |  80 |
+| Parisienne Maintenance industrielle SAS | France (FR) | MRO | blocked | external | 381 | 1,541,061 EUR | , Absorbent granules, Activated carbon filter A2, GHS hazard pictogram label roll |  376, FR 5 |
+| Parisienne Produits chimiques SARL | France (FR) | Rohstoff | blocked | external | 35 | 7,945,573 EUR | Maleic anhydride, Sodium carbonate, Sodium tripolyphosphate, Sodium metasilicate | FR 35 |
+| Provence Chimie SAS | France (FR) | Rohstoff | blocked | external | 101 | 6,405,601 EUR | Phosphoric acid (75 %), Styrene-acrylate copolymer dispersion, Sodium thiosulfate, Zinc oxide | FR 101 |
+| Rey Transports SARL | France (FR) | Logistik | blocked | external | 14 | 79,124 EUR | - |  14 |
+| Rhein Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 19 | 7,010,591 EUR | Diethylenetriamine, 1,2-Benzisothiazolin-3-one, Sodium dodecyl sulfate | DE 19 |
+| Rheinische Verpackungen GmbH | Germany (DE) | Verpackung | blocked | external | 3 | 471,331 EUR | IBC container 1000 L, Plastic drum 200 L, Plastic canister 25 L | DE 3 |
+| Rolland Systèmes d'information SA | France (FR) | Dienstleistung | blocked | external | 48 | 464,993 EUR | - |  48 |
+| Rousset Conseil SAS | France (FR) | Dienstleistung | blocked | external | 59 | 513,169 EUR | - |  59 |
+| Sachsen Chemikalien GmbH | Germany (DE) | Rohstoff | blocked | external | 1 | 173,862 EUR | Vinyl acetate | DE 1 |
+| Schreiber Verpackungen GmbH | Germany (DE) | Verpackung | blocked | external | 3 | 16,242 EUR | Tamper-evident closure, Big bag 1000 kg, Shrink hood | DE 3 |
+| Seine Logistique SARL | France (FR) | Logistik | blocked | external | 26 | 152,718 EUR | - |  26 |
+| Seine Services aux bâtiments SARL | France (FR) | Dienstleistung | blocked | external | 59 | 327,479 EUR | - |  59 |
+| Stein Rohstoffe GmbH | Germany (DE) | Rohstoff | blocked | external | 1 | 20,159 EUR | Iron(III) oxide | DE 1 |
+| Stoll Petrochemie GmbH | Austria (AT) | Rohstoff | blocked | external | 1 | 10,882 EUR | Zinc oxide | AT 1 |
+| Verhoeven Specialty Chemicals NV | Belgium (BE) | Rohstoff | blocked | external | 48 | 1,782,530 EUR | Toluene, Ethyl acetate, Methoxypropyl acetate, Propylene glycol | BE 48 |
+| van Dijk & Verhoeven Chimie NV | Belgium (BE) | Rohstoff | blocked | external | 4 | 111,095 EUR | Sodium carbonate, Sodium metasilicate, Sodium thiosulfate, Sodium tripolyphosphate | BE 4 |

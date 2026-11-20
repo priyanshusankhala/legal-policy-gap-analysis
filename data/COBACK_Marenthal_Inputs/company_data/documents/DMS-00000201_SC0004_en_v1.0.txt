@@ -1,0 +1,39 @@
+
+
+Data Protection in Everyday Work – Training Material
+Schulungsunterlage
+Document no.
+DMS-00000201
+Version
+1.0
+Valid from
+2022-12-05
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Datenschutz im Arbeitsalltag
+thema: Datenschutz
+pflicht: 1
+zielgruppe: Alle Beschäftigten mit Büroarbeitsplatz
+sprachen: de,en,fr,zh
+dauer_min: 40
+intervall_monate: 24
+format: E-Learning
+status: aktiv
+Richtlinie
+nummer: KR-008
+titel: Datenschutzrichtlinie
+thema: Datenschutz
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-12-31
+master_sprache: de
+vertraulichkeit: intern

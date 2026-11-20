@@ -1,0 +1,84 @@
+
+
+Rahmenvertrag RV-2023-0051 – Noack
+Textilveredelung GmbH
+Rahmenvertrag
+Dokumentnummer
+DMS-00000217
+Version
+1.0
+Gültig ab
+2023-04-18
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Vertrag
+contract_number: RV-2023-0051
+type: Framework Agreement
+status: Active
+start_date: 2023-04-18
+end_date: 2028-04-17
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 129.23
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-03-19
+compliance_review_ref: GPP0000026
+governing_law: German law
+payment_terms: Z060
+incoterm: EXW
+Bedingungen
+Marenwet 206 wetting agent: 300.5 EUR/100 kg
+Marencoat DB 1333 roof coating: 339.8 EUR/100 kg
+Glycerol, technical grade: 1006.52 EUR/1000 kg
+Titanium dioxide, technical grade: 3492.4 EUR/1000 kg
+Account
+name: Noack Textilveredelung GmbH
+type: Customer
+billing_street: Bergstraße 167
+billing_city: Köln
+billing_postcode: 50749
+billing_country: DE
+industry: Textile and paper industry
+segment: Direct
+size_class: Medium
+status: Active
+
+website: www.noack-textilveredelung.de
+created_date: 1996-06-11
+last_modified_date: 2025-10-21
+language: de
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-12-31
+cms_partner_ref: GP000006
+description: Textil- und Papierindustrie; Stammkunde seit 1996. Hauptprodukte: Titandioxid, techn.,
+Glycerin, techn.
+Rahmenvertragsnummer
+contract_number: RV-2023-0051
+type: Framework Agreement
+status: Active
+start_date: 2023-04-18
+end_date: 2028-04-17
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 129.23
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-03-19
+compliance_review_ref: GPP0000026
+governing_law: German law
+payment_terms: Z060
+incoterm: EXW
+Bedingungen
+Marenwet 206 wetting agent: 300.5 EUR/100 kg
+Marencoat DB 1333 roof coating: 339.8 EUR/100 kg
+Glycerol, technical grade: 1006.52 EUR/1000 kg
+Titanium dioxide, technical grade: 3492.4 EUR/1000 kg

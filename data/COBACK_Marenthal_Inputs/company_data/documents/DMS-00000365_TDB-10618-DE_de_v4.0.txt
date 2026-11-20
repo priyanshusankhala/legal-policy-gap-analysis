@@ -1,0 +1,37 @@
+
+
+Technisches Datenblatt Marenclean Z 904
+Zitrusreiniger
+Technisches Datenblatt
+Dokumentnummer
+DMS-00000365
+Version
+4.0
+Gültig ab
+2024-03-27
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenclean Z 904 citrus cleaner
+Family: Industrial Cleaners
+Applications: Cleaning of parts, Hard surface cleaning
+Description: Reinigung ölig-fettiger Verschmutzungen mit Zitrusterpenen
+Hazardous: 1
+SDS available: 1
+Density: 0.97
+UN: UN1993
+Class: 3
+HS: 3402209000
+Origin: DE
+Zusammensetzung
+Water (demineralised): 58.7–71.7 %
+d-Limonene: 17–20.8 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 11.3–13.8 %
+Sodium cumenesulfonate: 2.9–3.9 %

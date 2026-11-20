@@ -1,0 +1,45 @@
+经销协议 DA-2019-0010 – 北京兴盛化工贸易有限公司
+Vertriebsvertrag
+
+文件编号: DMS-00000026
+版本: 1.0
+生效日期: 2019-05-10
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Vertrag
+contract_number: DA-2019-0010
+type: Distribution Agreement
+status: Active
+start_date: 2019-05-10
+end_date: 2026-05-09
+auto_renew: 1
+notice_period_days: 90
+currency: CNY
+selling_entity: Marenthal Chemicals (Shanghai)
+signed_date: 2019-04-20
+governing_law: PRC law
+payment_terms: Z060
+incoterm: FCA
+
+Account
+name: 北京兴盛化工贸易有限公司
+type: Distributor
+billing_street: 化工路14号
+billing_city: Beijing
+billing_postcode: 100043
+billing_country: CN
+industry: Chemical trading
+segment: Distribution
+size_class: Key Account
+status: Active
+website: www.xingsheng-chemtrade.cn
+created_date: 2012-12-10
+last_modified_date: 2024-05-10
+language: zh-CN
+selling_entity: Marenthal Chemicals (Shanghai)
+description: 分销合作伙伴（化工贸易），主打Marenglide 953 润滑添加剂、磷酸（75%）（工业级），在中国设有自己的仓储物流。

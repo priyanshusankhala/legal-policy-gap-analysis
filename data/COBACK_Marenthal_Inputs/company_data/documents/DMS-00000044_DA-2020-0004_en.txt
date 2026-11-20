@@ -1,0 +1,56 @@
+
+
+Distribution Agreement DA-2020-0004 – Bohemia
+Chemical Distribution s.r.o.
+Vertriebsvertrag
+Document no.
+DMS-00000044
+Version
+1.0
+Valid from
+2020-01-31
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: DA-2020-0004
+type: Distribution Agreement
+status: Active
+start_date: 2020-01-31
+end_date: 2026-01-30
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal Chemie AG
+signed_date: 2020-01-21
+governing_law: German law
+payment_terms: Z030
+incoterm: EXW
+Account
+name: Bohemia Chemical Distribution s.r.o.
+type: Distributor
+billing_street: Tovární 110
+billing_city: Plzeň
+billing_postcode: 301 45
+billing_country: CZ
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.bohemia-chemical.cz
+created_date: 2013-09-21
+last_modified_date: 2024-07-29
+language: en
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved with conditions
+compliance_checked_on: 2025-03-31
+cms_partner_ref: GP000322
+
+description: Distribution partner (Chemical trading), focus on Ethanol, technical grade, Ethyl acetate,
+technical grade; own warehouse logistics in Czechia.

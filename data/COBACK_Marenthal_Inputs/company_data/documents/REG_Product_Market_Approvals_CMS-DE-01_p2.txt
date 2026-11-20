@@ -1,0 +1,128 @@
+# Register of product approvals per market - Marenthal Chemie AG (part 2 of 3)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Shows for each product in which market it is approved to be placed, the status, the validity and any condition.
+
+| Product | Market | Status | Requested | Approved | Valid until | Condition |
+| --- | --- | --- | --- | --- | --- | --- |
+| Marencoat DB 1333 roof coating (PS-2021-0160) | BR | freigegeben mit Auflagen | 2021-05-28 | 2021-06-03 | 2026-06-03 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat DB 1333 roof coating (PS-2021-0160) | EU | freigegeben | 2021-05-28 | 2021-05-31 | - | - |
+| Marencoat DB 1333 roof coating (PS-2021-0160) | KE | freigegeben mit Auflagen | 2021-05-28 | 2021-05-31 | 2026-05-29 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat EB 905 2K epoxy floor coating (component A) (PS-2025-0155) | EU | in Prüfung | 2025-12-02 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat EK 1001 2K clear epoxy coating (component A) (PS-2025-0156) | BR | in Prüfung | 2025-06-27 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat EK 1001 2K clear epoxy coating (component A) (PS-2025-0156) | EU | freigegeben | 2025-10-16 | 2025-12-03 | - | - |
+| Marencoat EK 1001 2K clear epoxy coating (component A) (PS-2025-0156) | KE | in Prüfung | 2025-09-25 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat EP 806 2K epoxy primer (component A) (PS-2021-0153) | BR | freigegeben mit Auflagen | 2021-04-22 | 2021-04-27 | 2026-04-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat EP 806 2K epoxy primer (component A) (PS-2021-0153) | EU | freigegeben | 2021-04-22 | 2021-05-11 | - | - |
+| Marencoat EP 806 2K epoxy primer (component A) (PS-2021-0153) | KE | in Prüfung | 2025-09-19 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat EP 839 2K epoxy primer (component A) (PS-2025-0154) | BR | gesperrt | 2025-11-12 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat EP 839 2K epoxy primer (component A) (PS-2025-0154) | EU | gesperrt | 2025-10-29 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat EP 839 2K epoxy primer (component A) (PS-2025-0154) | KE | gesperrt | 2025-10-29 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat HL 509 water-based wood coating (PS-2021-0147) | BR | freigegeben mit Auflagen | 2021-06-15 | 2021-06-22 | 2026-06-22 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat HL 509 water-based wood coating (PS-2021-0147) | EU | freigegeben | 2021-06-15 | 2021-06-22 | - | - |
+| Marencoat HL 509 water-based wood coating (PS-2021-0147) | KE | freigegeben mit Auflagen | 2021-06-15 | 2021-06-24 | 2026-06-24 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat HL 533 water-based wood coating (PS-2021-0148) | BR | freigegeben mit Auflagen | 2021-06-23 | 2021-07-13 | 2026-07-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat HL 533 water-based wood coating (PS-2021-0148) | EU | freigegeben | 2021-06-23 | 2021-07-06 | - | - |
+| Marencoat HL 533 water-based wood coating (PS-2021-0148) | KE | freigegeben mit Auflagen | 2021-06-23 | 2021-06-28 | 2026-06-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat PH 1102 epoxy hardener (component B) (PS-2021-0157) | BR | in Prüfung | 2025-08-18 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat PH 1102 epoxy hardener (component B) (PS-2021-0157) | EU | freigegeben | 2021-06-09 | 2021-06-14 | - | - |
+| Marencoat PH 1102 epoxy hardener (component B) (PS-2021-0157) | KE | in Prüfung | 2025-06-11 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat RS 703 anticorrosive primer (PS-2021-0151) | BR | freigegeben mit Auflagen | 2021-06-25 | 2021-07-06 | 2026-07-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat RS 703 anticorrosive primer (PS-2021-0151) | EU | freigegeben | 2021-06-25 | 2021-07-06 | - | - |
+| Marencoat RS 703 anticorrosive primer (PS-2021-0151) | KE | in Prüfung | 2025-05-26 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat RS 730 anticorrosive primer (PS-2021-0152) | BR | in Prüfung | 2025-07-29 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat RS 730 anticorrosive primer (PS-2021-0152) | EU | freigegeben | 2022-09-07 | 2022-10-21 | - | - |
+| Marencoat RS 730 anticorrosive primer (PS-2021-0152) | KE | in Prüfung | 2025-09-10 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat SM 1208 road marking paint (PS-2025-0158) | BR | gesperrt | 2025-12-01 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat SM 1208 road marking paint (PS-2025-0158) | EU | gesperrt | 2025-11-26 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat SM 1208 road marking paint (PS-2025-0158) | KE | gesperrt | 2025-11-26 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencoat TG 1400 penetrating primer (PS-2021-0161) | BR | freigegeben mit Auflagen | 2021-08-20 | 2021-09-07 | 2026-09-07 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat TG 1400 penetrating primer (PS-2021-0161) | EU | freigegeben | 2021-08-20 | 2021-08-26 | - | - |
+| Marencoat TG 1400 penetrating primer (PS-2021-0161) | KE | freigegeben mit Auflagen | 2021-08-20 | 2021-08-24 | 2026-08-24 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat TG 1438 penetrating primer (PS-2023-0162) | BR | freigegeben mit Auflagen | 2023-09-28 | 2023-11-03 | 2028-11-03 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat TG 1438 penetrating primer (PS-2023-0162) | EU | freigegeben | 2023-08-17 | 2023-11-01 | - | - |
+| Marencoat TG 1438 penetrating primer (PS-2023-0162) | KE | freigegeben mit Auflagen | 2023-08-04 | 2023-11-03 | 2028-11-03 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencure 410 epoxy hardener (PS-2025-0116) | BR | gesperrt | 2025-10-27 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencure 410 epoxy hardener (PS-2025-0116) | EU | gesperrt | 2025-10-09 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marencure 410 epoxy hardener (PS-2025-0116) | KE | gesperrt | 2025-10-29 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marendisp 305 dispersing agent (PS-2021-0103) | BR | freigegeben mit Auflagen | 2021-07-16 | 2021-07-27 | 2026-07-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marendisp 305 dispersing agent (PS-2021-0103) | EU | freigegeben | 2021-07-16 | 2021-08-04 | - | - |
+| Marendisp 305 dispersing agent (PS-2021-0103) | KE | freigegeben mit Auflagen | 2021-07-16 | 2021-07-26 | 2026-07-24 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marendisp 332 dispersing agent (PS-2021-0104) | BR | freigegeben mit Auflagen | 2021-08-25 | 2021-09-14 | 2026-09-14 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marendisp 332 dispersing agent (PS-2021-0104) | EU | freigegeben | 2021-08-25 | 2021-08-27 | - | - |
+| Marendisp 332 dispersing agent (PS-2021-0104) | KE | freigegeben mit Auflagen | 2021-08-25 | 2021-09-10 | 2026-09-10 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenemul 702 emulsifier (PS-2024-0110) | BR | freigegeben mit Auflagen | 2025-09-03 | 2025-10-02 | 2030-10-02 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenemul 702 emulsifier (PS-2024-0110) | EU | freigegeben | 2025-08-05 | 2025-10-02 | - | - |
+| Marenemul 702 emulsifier (PS-2024-0110) | KE | in Prüfung | 2025-07-11 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenemul 731 emulsifier (PS-2021-0111) | BR | freigegeben mit Auflagen | 2021-06-29 | 2021-07-07 | 2026-07-07 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenemul 731 emulsifier (PS-2021-0111) | EU | freigegeben | 2021-06-29 | 2021-07-14 | - | - |
+| Marenemul 731 emulsifier (PS-2021-0111) | KE | freigegeben mit Auflagen | 2021-06-29 | 2021-07-06 | 2026-07-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenflex 906 plasticizer (PS-2021-0113) | BR | in Prüfung | 2025-09-08 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenflex 906 plasticizer (PS-2021-0113) | EU | freigegeben | 2021-07-07 | 2021-07-27 | - | - |
+| Marenflex 906 plasticizer (PS-2021-0113) | KE | freigegeben mit Auflagen | 2021-07-07 | 2021-07-19 | 2026-07-20 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenfoam 133 defoamer (PS-2021-0106) | BR | freigegeben mit Auflagen | 2021-04-30 | 2021-05-05 | 2026-05-05 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenfoam 133 defoamer (PS-2021-0106) | EU | freigegeben | 2021-04-30 | 2021-05-18 | - | - |
+| Marenfoam 133 defoamer (PS-2021-0106) | KE | freigegeben mit Auflagen | 2021-04-30 | 2021-05-07 | 2026-05-07 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenglide 953 lubricant additive (PS-2021-0114) | BR | in Prüfung | 2025-10-01 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenglide 953 lubricant additive (PS-2021-0114) | EU | freigegeben | 2021-04-20 | 2021-05-10 | - | - |
+| Marenglide 953 lubricant additive (PS-2021-0114) | KE | in Prüfung | 2025-06-13 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenpaste 237 pigment preparation (PS-2021-0120) | BR | freigegeben mit Auflagen | 2021-04-01 | 2021-04-08 | 2026-04-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenpaste 237 pigment preparation (PS-2021-0120) | EU | freigegeben | 2021-04-01 | 2021-04-12 | - | - |
+| Marenpaste 237 pigment preparation (PS-2021-0120) | KE | freigegeben mit Auflagen | 2021-04-01 | 2021-04-20 | 2026-04-20 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenprotect 806 preservative (PS-2021-0112) | BR | freigegeben mit Auflagen | 2021-03-25 | 2021-04-13 | 2026-04-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenprotect 806 preservative (PS-2021-0112) | EU | freigegeben | 2021-03-25 | 2021-04-06 | - | - |
+| Marenprotect 806 preservative (PS-2021-0112) | KE | freigegeben mit Auflagen | 2021-03-25 | 2021-03-29 | 2026-03-30 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marensolv 302 degreasing spirit (solvent blend) (PS-2021-0118) | BR | in Prüfung | 2025-07-24 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marensolv 302 degreasing spirit (solvent blend) (PS-2021-0118) | EU | freigegeben | 2021-09-21 | 2021-09-27 | - | - |
+| Marensolv 302 degreasing spirit (solvent blend) (PS-2021-0118) | KE | in Prüfung | 2025-09-22 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenstop 500 corrosion inhibitor (PS-2025-0108) | BR | in Prüfung | 2025-11-14 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenstop 500 corrosion inhibitor (PS-2025-0108) | EU | in Prüfung | 2025-11-07 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenstop 500 corrosion inhibitor (PS-2025-0108) | KE | in Prüfung | 2025-09-02 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenthix 409 thickener (PS-2021-0107) | BR | freigegeben mit Auflagen | 2021-05-21 | 2021-05-27 | 2026-05-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenthix 409 thickener (PS-2021-0107) | EU | freigegeben | 2021-05-21 | 2021-05-31 | - | - |
+| Marenthix 409 thickener (PS-2021-0107) | KE | freigegeben mit Auflagen | 2021-05-21 | 2021-05-27 | 2026-05-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenwet 206 wetting agent (PS-2021-0101) | BR | freigegeben mit Auflagen | 2021-06-02 | 2021-06-09 | 2026-06-09 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenwet 206 wetting agent (PS-2021-0101) | EU | freigegeben | 2021-06-02 | 2021-06-18 | - | - |
+| Marenwet 206 wetting agent (PS-2021-0101) | KE | freigegeben mit Auflagen | 2021-06-02 | 2021-06-18 | 2026-06-18 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenwet 237 wetting agent (PS-2021-0102) | BR | freigegeben mit Auflagen | 2021-06-01 | 2021-06-07 | 2026-06-10 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenwet 237 wetting agent (PS-2021-0102) | EU | freigegeben | 2021-06-01 | 2021-06-04 | - | - |
+| Marenwet 237 wetting agent (PS-2021-0102) | KE | freigegeben mit Auflagen | 2021-06-01 | 2021-06-08 | 2026-06-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Methanol, technical grade (PS-2021-0193) | BR | freigegeben mit Auflagen | 2021-09-22 | 2021-10-06 | 2026-10-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Methanol, technical grade (PS-2021-0193) | EU | freigegeben | 2021-09-22 | 2021-09-28 | - | - |
+| Methanol, technical grade (PS-2021-0193) | KE | freigegeben mit Auflagen | 2021-09-22 | 2021-10-12 | 2026-10-12 | Gilt nur für Lieferung über den registrierten Importeur |
+| Methyl ethyl ketone, technical grade (PS-2021-0186) | BR | freigegeben mit Auflagen | 2021-06-08 | 2021-06-28 | 2026-06-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Methyl ethyl ketone, technical grade (PS-2021-0186) | EU | freigegeben | 2021-06-08 | 2021-06-24 | - | - |
+| Methyl ethyl ketone, technical grade (PS-2021-0186) | KE | freigegeben mit Auflagen | 2021-06-08 | 2021-06-15 | 2026-06-15 | Gilt nur für Lieferung über den registrierten Importeur |
+| Methyl methacrylate, technical grade (PS-2021-0166) | BR | freigegeben mit Auflagen | 2021-09-09 | 2021-09-20 | 2026-09-18 | Gilt nur für Lieferung über den registrierten Importeur |
+| Methyl methacrylate, technical grade (PS-2021-0166) | EU | freigegeben | 2021-09-09 | 2021-09-22 | - | - |
+| Methyl methacrylate, technical grade (PS-2021-0166) | KE | freigegeben mit Auflagen | 2021-09-09 | 2021-09-21 | 2026-09-21 | Gilt nur für Lieferung über den registrierten Importeur |
+| Neopentyl glycol, technical grade (PS-2021-0169) | BR | freigegeben mit Auflagen | 2021-04-13 | 2021-04-28 | 2026-04-28 | Gilt nur für Lieferung über den registrierten Importeur |
+| Neopentyl glycol, technical grade (PS-2021-0169) | EU | freigegeben | 2021-04-13 | 2021-04-19 | - | - |
+| Neopentyl glycol, technical grade (PS-2021-0169) | KE | freigegeben mit Auflagen | 2021-04-13 | 2021-04-29 | 2026-04-29 | Gilt nur für Lieferung über den registrierten Importeur |
+| Pentaerythritol, technical grade (PS-2021-0170) | BR | freigegeben mit Auflagen | 2021-04-07 | 2021-04-13 | 2026-04-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Pentaerythritol, technical grade (PS-2021-0170) | EU | freigegeben | 2021-04-07 | 2021-04-13 | - | - |
+| Pentaerythritol, technical grade (PS-2021-0170) | KE | freigegeben mit Auflagen | 2021-04-07 | 2021-04-27 | 2026-04-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Phosphoric acid (75 %), technical grade (PS-2021-0195) | BR | freigegeben mit Auflagen | 2022-01-03 | 2022-04-11 | 2027-04-14 | Gilt nur für Lieferung über den registrierten Importeur |
+| Phosphoric acid (75 %), technical grade (PS-2021-0195) | EU | freigegeben | 2022-02-24 | 2022-04-12 | - | - |
+| Phosphoric acid (75 %), technical grade (PS-2021-0195) | KE | in Prüfung | 2025-05-07 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Propylene glycol, technical grade (PS-2023-0192) | BR | freigegeben mit Auflagen | 2023-10-30 | 2024-01-04 | 2029-01-04 | Gilt nur für Lieferung über den registrierten Importeur |
+| Propylene glycol, technical grade (PS-2023-0192) | EU | freigegeben | 2023-10-17 | 2024-01-02 | - | - |
+| Propylene glycol, technical grade (PS-2023-0192) | KE | freigegeben mit Auflagen | 2023-12-01 | 2024-01-02 | 2029-01-02 | Gilt nur für Lieferung über den registrierten Importeur |
+| Sodium carbonate, technical grade (PS-2025-0199) | BR | in Prüfung | 2025-09-01 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Sodium carbonate, technical grade (PS-2025-0199) | EU | in Prüfung | 2025-06-12 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Sodium carbonate, technical grade (PS-2025-0199) | KE | in Prüfung | 2025-07-14 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Sodium hydroxide (50 %), technical grade (PS-2021-0194) | BR | freigegeben mit Auflagen | 2021-03-26 | 2021-04-08 | 2026-04-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Sodium hydroxide (50 %), technical grade (PS-2021-0194) | EU | freigegeben | 2021-03-26 | 2021-04-01 | - | - |
+| Sodium hydroxide (50 %), technical grade (PS-2021-0194) | KE | freigegeben mit Auflagen | 2021-03-26 | 2021-04-05 | 2026-04-03 | Gilt nur für Lieferung über den registrierten Importeur |
+| Sulfuric acid (96 %), technical grade (PS-2021-0190) | BR | in Prüfung | 2025-06-05 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Sulfuric acid (96 %), technical grade (PS-2021-0190) | EU | freigegeben | 2021-04-15 | 2021-04-26 | - | - |
+| Sulfuric acid (96 %), technical grade (PS-2021-0190) | KE | freigegeben mit Auflagen | 2021-04-15 | 2021-04-23 | 2026-04-23 | Gilt nur für Lieferung über den registrierten Importeur |
+| Tetraethyl orthosilicate, technical grade (PS-2021-0165) | BR | gesperrt | 2021-07-29 | - | - | Vertriebssperre im ERP: Qualitätssperre, Freigabe nach Klärung |
+| Tetraethyl orthosilicate, technical grade (PS-2021-0165) | EU | gesperrt | 2021-07-29 | - | - | Vertriebssperre im ERP: Qualitätssperre, Freigabe nach Klärung |
+| Tetraethyl orthosilicate, technical grade (PS-2021-0165) | KE | in Prüfung | 2025-11-07 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Titanium dioxide, technical grade (PS-2021-0198) | BR | freigegeben mit Auflagen | 2021-09-21 | 2021-10-06 | 2026-10-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Titanium dioxide, technical grade (PS-2021-0198) | EU | freigegeben | 2021-09-21 | 2021-10-11 | - | - |
+| Titanium dioxide, technical grade (PS-2021-0198) | KE | freigegeben mit Auflagen | 2021-09-21 | 2021-09-28 | 2026-09-28 | Gilt nur für Lieferung über den registrierten Importeur |
+| Toluene, technical grade (PS-2021-0187) | BR | freigegeben mit Auflagen | 2021-09-28 | 2021-10-12 | 2026-10-12 | Gilt nur für Lieferung über den registrierten Importeur |
+| Toluene, technical grade (PS-2021-0187) | EU | freigegeben | 2021-09-28 | 2021-10-18 | - | - |

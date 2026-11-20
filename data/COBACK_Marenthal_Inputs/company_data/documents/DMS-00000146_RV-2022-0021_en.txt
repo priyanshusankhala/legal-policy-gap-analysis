@@ -1,0 +1,84 @@
+
+
+Framework Agreement RV-2022-0021 – Ferri Edilizia
+S.p.A.
+Rahmenvertrag
+Document no.
+DMS-00000146
+Version
+1.0
+Valid from
+2022-06-13
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2022-0021
+type: Framework Agreement
+status: Active
+start_date: 2022-06-13
+end_date: 2027-06-12
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 99.49
+selling_entity: Marenthal France S.A.S.
+signed_date: 2022-05-23
+compliance_review_ref: GPP0000614
+governing_law: French law
+payment_terms: Z045
+incoterm: FCA
+Terms
+Marenbase 1003 neutralising agent: 636.2 EUR/100 kg
+Marenclean H 637 hand cleaner: 159.74 EUR/100 kg
+Marencoat DB 1333 roof coating: 358.56 EUR/100 kg
+Butyl acetate, technical grade: 1461.45 EUR/1000 kg
+Account
+name: Ferri Edilizia S.p.A.
+type: Customer
+billing_street: Corso Italia 241
+billing_city: Roma
+billing_postcode: 00122
+billing_country: IT
+industry: Construction chemicals and materials
+segment: Direct
+size_class: Small
+status: Active
+
+website: www.ferri-edilizia.it
+created_date: 2009-06-06
+last_modified_date: 2025-09-04
+language: it
+selling_entity: Marenthal France S.A.S.
+compliance_status: Approved
+compliance_checked_on: 2024-05-17
+cms_partner_ref: GP000221
+description: Construction chemicals and materials. Regular call-offs of Marenclean H 637 hand cleaner,
+Marencoat DB 1333 roof coating according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2022-0021
+type: Framework Agreement
+status: Active
+start_date: 2022-06-13
+end_date: 2027-06-12
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 99.49
+selling_entity: Marenthal France S.A.S.
+signed_date: 2022-05-23
+compliance_review_ref: GPP0000614
+governing_law: French law
+payment_terms: Z045
+incoterm: FCA
+Terms
+Marenbase 1003 neutralising agent: 636.2 EUR/100 kg
+Marenclean H 637 hand cleaner: 159.74 EUR/100 kg
+Marencoat DB 1333 roof coating: 358.56 EUR/100 kg
+Butyl acetate, technical grade: 1461.45 EUR/1000 kg

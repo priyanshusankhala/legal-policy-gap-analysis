@@ -1,0 +1,45 @@
+# Register of substance registrations: TSCA - Marenthal Chemicals Inc. (part 2 of 2)
+
+Company: Marenthal Chemicals Inc. (US). As of 2026-11-09.
+
+Status of each substance under TSCA for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sodium percarbonate (CAS 15630-89-4) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Sodium persulfate (CAS 7775-27-1) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sodium silicate (water glass) (CAS 1344-09-8) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium sulfate (CAS 7757-82-6) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium thiosulfate (CAS 7772-98-7) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sodium tripolyphosphate (CAS 7758-29-4) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Stearic acid (CAS 57-11-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Styrene (CAS 100-42-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sulfamic acid (CAS 5329-14-6) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sulfuric acid (96 %) (CAS 7664-93-9) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Talc (CAS 14807-96-6) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Tartaric acid (CAS 87-69-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Tetraethyl orthosilicate (CAS 78-10-4) | US | Registrant | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Tetrahydrofuran (CAS 109-99-9) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Tetrasodium EDTA (CAS 64-02-8) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Titanium dioxide (CAS 13463-67-7) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Toluene (CAS 108-88-3) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Triethanolamine (CAS 102-71-6) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Triethylamine (CAS 121-44-8) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Trisodium citrate (CAS 68-04-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Trisodium phosphate (CAS 7601-54-9) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Urea (CAS 57-13-6) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Vinyl acetate (CAS 108-05-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Water (demineralised) (CAS 7732-18-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Xanthan gum (CAS 11138-66-2) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Xylene (isomer mixture) (CAS 1330-20-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Zinc oxide (CAS 1314-13-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Zinc phosphate (CAS 7779-90-0) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Zinc stearate (CAS 557-05-1) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| d-Limonene (CAS 5989-27-5) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| n-Butanol (CAS 71-36-3) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| n-Butyl acrylate (CAS 141-32-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| n-Heptane (CAS 142-82-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| n-Hexane (CAS 110-54-3) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |

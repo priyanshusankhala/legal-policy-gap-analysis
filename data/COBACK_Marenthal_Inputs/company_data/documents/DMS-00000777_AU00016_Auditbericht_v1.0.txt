@@ -1,0 +1,42 @@
+
+
+Auditbericht: Interne Prüfung
+Compliance-Management – Marenthal Chemie AG
+Auditbericht
+Dokumentnummer
+DMS-00000777
+Version
+1.0
+Gültig ab
+2025-04-23
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-003
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Interne Prüfung Compliance-Management – Marenthal Chemie AG
+art: intern
+scope: Antikorruption, Geschäftspartner, Schulungen
+geplant_von: 2025-03-25
+geplant_bis: 2025-03-27
+durchgefuehrt_von: 2025-04-03
+durchgefuehrt_bis: 2025-04-07
+leitender_auditor: Christian Brunner
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Aufbewahrung der Untersuchungsunterlagen entspricht nicht der
+Zugriffsvorgabe. (geschlossen)
+2 [Hinweis] Positiv: Hinweisgeber-Fristen (Bestätigung, Rückmeldung) werden eingehalten.
+(geschlossen)
+3 [Nebenabweichung] Risikobewertung wurde seit mehr als zwölf Monaten nicht aktualisiert.
+(geschlossen)
+4 [Nebenabweichung] Lokale Ergänzung zur Konzernrichtlinie basiert auf einer älteren Fassung.
+(geschlossen)

@@ -1,0 +1,35 @@
+
+
+Case file HF00017 (confidential)
+Fallakte Meldestelle
+Document no.
+DMS-00000868
+Version
+1.0
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Restricted
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Hinweisfall
+eingang_datum: 2025-05-28
+kanal: Ombudsperson
+kategorie: Diebstahl oder Veruntreuung
+sprache: en
+schweregrad: mittel
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 0
+kurzbeschreibung: Die Meldestelle eines deutschen Chemiekonzerns hat einen Hinweis zu einem
+möglichen Diebstahl oder einer Veruntreuung erhalten. Schweregrad: mittel. Betroffen ist eine
+US-Gesellschaft des Konzerns. Der Hinweisgeber berichtet, dass Rohstoffe bei Inventurdifferenzen im
+Außenlager verschwinden. Der Sachverhalt wird nun auf Plausibilität geprüft, Bestände und
+Buchungsnachweise werden abgeglichen und die weitere Untersuchung wird eingeleitet.
+bestaetigung_am: 2025-06-02
+rueckmeldung_am: 2025-07-11
+abschluss_datum: 2025-09-05
+ergebnis: bestätigt

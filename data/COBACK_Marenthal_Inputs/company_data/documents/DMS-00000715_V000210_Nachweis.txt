@@ -1,0 +1,32 @@
+
+
+Nachweis: Brandschutzbegehung und
+Evakuierungsübung durchführen – Baytown
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000715
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals Inc.
+Standort
+US01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Brandschutzbegehung und Evakuierungsübung durchführen – Baytown
+beschreibung: Brandschutzmängel erfassen, Übung mit Feuerwehr abstimmen.
+quelle: OSHA 29 CFR 1910.38 / NFPA 101
+quelltyp: Verordnung
+land: US
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2025-09-09
+intervall_monate: 12
+status: überfällig
+letzte_pruefung: 2025-03-26

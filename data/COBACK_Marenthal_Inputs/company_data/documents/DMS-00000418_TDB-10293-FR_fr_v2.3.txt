@@ -1,0 +1,37 @@
+
+
+Fiche technique Marensolv 108 diluant (mélange de
+solvants)
+Technisches Datenblatt
+N° du document
+DMS-00000418
+Version
+2.3
+Valable depuis
+2024-07-05
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Informations
+Product: Marensolv 108 thinner (solvent blend)
+Family: Specialty Chemicals
+Applications: Surface treatment, Metalworking fluids
+Description: Verdünnung und Reinigung für Lacke und Harze
+Hazardous: 1
+SDS available: 1
+Density: 0.885
+UN: UN1993
+Class: 3
+HS: 3814009000
+Origin: FR
+Composition
+Toluene: 34.9–42.7 %
+Ethyl acetate: 30.3–37.1 %
+Solvent naphtha (aromatic): 19.4–23.7 %
+Methoxypropyl acetate: 5.4–6.6 %

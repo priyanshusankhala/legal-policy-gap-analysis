@@ -1,0 +1,34 @@
+
+
+Technical Data Sheet Marenglide 953 lubricant
+additive
+Technisches Datenblatt
+Document no.
+DMS-00000865
+Version
+9.0
+Valid from
+2025-06-20
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenglide 953 lubricant additive
+Family: Specialty Chemicals
+Applications: Mould release, Formulation auxiliaries
+Description: Innere und äußere Gleitwirkung bei der Kunststoffverarbeitung
+Hazardous: 0
+SDS available: 1
+Density: 1.314
+HS: 3403990000
+Origin: US
+Composition
+Calcium stearate: 38.3–46.8 %
+Calcium carbonate: 32–39.2 %
+Paraffin wax: 19.7–24.1 %

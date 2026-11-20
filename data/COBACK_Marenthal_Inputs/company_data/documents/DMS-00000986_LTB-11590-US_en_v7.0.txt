@@ -1,0 +1,34 @@
+
+
+Supplier Technical Data Sheet Methanol, technical
+grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00000986
+Version
+7.0
+Valid from
+2025-08-12
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Methanol, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.79
+UN: UN1230
+Class: 3(6.1)
+HS: 2905110000
+Origin: US
+Composition
+Methanol: 99–100 %

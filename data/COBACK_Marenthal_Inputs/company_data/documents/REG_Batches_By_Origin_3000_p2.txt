@@ -1,0 +1,11 @@
+# Register of material batches by country of origin - Marenthal Chemicals Inc. (part 2 of 2)
+
+Company: Marenthal Chemicals Inc. (US). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- |
+| Zinc oxide | RM-000025 | United States (US) | 13 |
+| Zinc phosphate | RM-000032 | United States (US) | 12 |
+| n-Butyl acrylate, technical grade | TG-000035 | Germany (DE) | 8 |

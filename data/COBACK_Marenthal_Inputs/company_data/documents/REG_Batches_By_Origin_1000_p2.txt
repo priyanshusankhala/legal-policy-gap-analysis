@@ -1,0 +1,85 @@
+# Register of material batches by country of origin - Marenthal Chemie AG (part 2 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- |
+| Methyl ethyl ketone, technical grade | 12000042 | Netherlands (NL) | 10 |
+| Methyl methacrylate | 13000057 | France (FR) | 1 |
+| Methyl methacrylate | 13000057 | Germany (DE) | 9 |
+| Methyl methacrylate | 13000057 | United States (US) | 1 |
+| Methyl methacrylate, technical grade | 11000035 | Germany (DE) | 12 |
+| Monoethanolamine | 13000029 | Belgium (BE) | 12 |
+| Monoethanolamine | 13000029 | China (CN) | 1 |
+| Monoethanolamine | 13000029 | Germany (DE) | 1 |
+| Neopentyl glycol | 13000059 | Germany (DE) | 13 |
+| Neopentyl glycol, technical grade | 11000038 | Germany (DE) | 37 |
+| Paraffin wax | 13000035 | China (CN) | 1 |
+| Paraffin wax | 13000035 | Germany (DE) | 13 |
+| Pentaerythritol | 13000060 | Belgium (BE) | 1 |
+| Pentaerythritol | 13000060 | Germany (DE) | 11 |
+| Pentaerythritol, technical grade | 11000039 | Germany (DE) | 39 |
+| Phosphoric acid (75 %), technical grade | 12000051 | United States (US) | 8 |
+| Polydimethylsiloxane | 13000008 | Germany (DE) | 1 |
+| Polydimethylsiloxane | 13000008 | Italy (IT) | 27 |
+| Propylene glycol | 13000006 | Belgium (BE) | 1 |
+| Propylene glycol | 13000006 | Germany (DE) | 2 |
+| Propylene glycol | 13000006 | Spain (ES) | 24 |
+| Propylene glycol, technical grade | 12000048 | Germany (DE) | 10 |
+| Rosin (colophony) | 13000039 | France (FR) | 1 |
+| Rosin (colophony) | 13000039 | United States (US) | 12 |
+| Silicon dioxide (amorphous) | 13000009 | Germany (DE) | 1 |
+| Silicon dioxide (amorphous) | 13000009 | Poland (PL) | 13 |
+| Sodium chloride | 13000032 | China (CN) | 13 |
+| Sodium cumenesulfonate | 13000018 | Germany (DE) | 2 |
+| Sodium cumenesulfonate | 13000018 | Netherlands (NL) | 25 |
+| Sodium dodecylbenzenesulfonate | 13000016 | Italy (IT) | 13 |
+| Sodium hydroxide (50 %) | 13000015 | China (CN) | 1 |
+| Sodium hydroxide (50 %) | 13000015 | Germany (DE) | 12 |
+| Sodium hydroxide (50 %), technical grade | 12000050 | United States (US) | 15 |
+| Sodium hypochlorite solution | 13000034 | Germany (DE) | 13 |
+| Sodium laureth sulfate | 13000030 | Belgium (BE) | 1 |
+| Sodium laureth sulfate | 13000030 | Germany (DE) | 1 |
+| Sodium laureth sulfate | 13000030 | Netherlands (NL) | 12 |
+| Sodium metasilicate | 13000012 | Austria (AT) | 1 |
+| Sodium metasilicate | 13000012 | Germany (DE) | 10 |
+| Sodium metasilicate | 13000012 | Netherlands (NL) | 2 |
+| Styrene, technical grade | 12000031 | France (FR) | 9 |
+| Styrene-acrylate copolymer dispersion | 13000005 | China (CN) | 2 |
+| Styrene-acrylate copolymer dispersion | 13000005 | Germany (DE) | 21 |
+| Styrene-acrylate copolymer dispersion | 13000005 | Netherlands (NL) | 2 |
+| Styrene-acrylate copolymer dispersion | 13000005 | United States (US) | 1 |
+| Sulfamic acid | 13000025 | Belgium (BE) | 2 |
+| Sulfamic acid | 13000025 | Germany (DE) | 12 |
+| Sulfuric acid (96 %), technical grade | 12000046 | Germany (DE) | 10 |
+| Talc | 13000024 | Belgium (BE) | 1 |
+| Talc | 13000024 | Germany (DE) | 12 |
+| Tetrasodium EDTA | 13000014 | Belgium (BE) | 3 |
+| Tetrasodium EDTA | 13000014 | Germany (DE) | 10 |
+| Tetrasodium EDTA | 13000014 | Netherlands (NL) | 1 |
+| Titanium dioxide | 13000036 | Germany (DE) | 13 |
+| Titanium dioxide, technical grade | 12000053 | China (CN) | 5 |
+| Toluene, technical grade | 12000043 | Germany (DE) | 10 |
+| Triethanolamine | 13000007 | Belgium (BE) | 1 |
+| Triethanolamine | 13000007 | China (CN) | 2 |
+| Triethanolamine | 13000007 | Germany (DE) | 3 |
+| Triethanolamine | 13000007 | Netherlands (NL) | 21 |
+| Triethylamine, technical grade | 12000035 | France (FR) | 5 |
+| Vinyl acetate, technical grade | 12000030 | France (FR) | 7 |
+| Water (demineralised) | 13000001 | Belgium (BE) | 2 |
+| Water (demineralised) | 13000001 | France (FR) | 2 |
+| Water (demineralised) | 13000001 | Netherlands (NL) | 23 |
+| Xanthan gum | 13000010 | China (CN) | 1 |
+| Xanthan gum | 13000010 | Germany (DE) | 11 |
+| Xanthan gum | 13000010 | Netherlands (NL) | 2 |
+| Xylene (isomer mixture) | 13000044 | Germany (DE) | 1 |
+| Xylene (isomer mixture), technical grade | 12000044 | Germany (DE) | 10 |
+| Zinc phosphate | 13000041 | Germany (DE) | 13 |
+| d-Limonene | 13000033 | France (FR) | 1 |
+| d-Limonene | 13000033 | Germany (DE) | 11 |
+| d-Limonene | 13000033 | Netherlands (NL) | 1 |
+| n-Butyl acrylate | 13000058 | France (FR) | 1 |
+| n-Butyl acrylate | 13000058 | Germany (DE) | 12 |
+| n-Butyl acrylate, technical grade | 11000036 | Germany (DE) | 21 |

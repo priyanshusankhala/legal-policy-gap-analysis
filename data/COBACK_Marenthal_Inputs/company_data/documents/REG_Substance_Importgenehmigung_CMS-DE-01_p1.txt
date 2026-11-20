@@ -1,0 +1,128 @@
+# Register of import permits - Marenthal Chemie AG (part 1 of 3)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Status of each substance regarding import permits in the target market, with the role of the company, registration number and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one (CAS 2634-33-5) | BR | Händler | abgelaufen | LI-BR-79501645 | - | 2023-05-10 | 2024-05-09 | Importlizenz des Importeurs abgelaufen |
+| 1,2-Benzisothiazolin-3-one (CAS 2634-33-5) | KE | Händler | erteilt | IL-KE-391995 | - | 2025-08-07 | 2027-08-07 | - |
+| 1-Methoxy-2-propanol (CAS 107-98-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 1-Methoxy-2-propanol (CAS 107-98-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Butoxyethanol (CAS 111-76-2) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| 2-Butoxyethanol (CAS 111-76-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Dimethylaminoethanol (CAS 108-01-0) | BR | Händler | erteilt | LI-BR-49438660 | - | 2025-02-19 | 2027-02-19 | - |
+| 2-Dimethylaminoethanol (CAS 108-01-0) | KE | Händler | erteilt | IL-KE-679120 | - | 2025-01-06 | 2027-01-06 | - |
+| 2-Ethylhexanol (CAS 104-76-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Ethylhexanol (CAS 104-76-7) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Ethylhexyl acrylate (CAS 103-11-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Ethylhexyl acrylate (CAS 103-11-7) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Methyl-2H-isothiazol-3-one (CAS 2682-20-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Methyl-2H-isothiazol-3-one (CAS 2682-20-4) | KE | Händler | erteilt | IL-KE-114305 | - | 2025-05-26 | 2027-05-26 | - |
+| 2-Phenoxyethanol (CAS 122-99-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Phenoxyethanol (CAS 122-99-6) | KE | Händler | erteilt | IL-KE-930117 | - | 2025-02-27 | 2027-02-27 | - |
+| 3-Aminopropyltriethoxysilane (CAS 919-30-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 3-Aminopropyltriethoxysilane (CAS 919-30-2) | KE | Händler | abgelaufen | IL-KE-858638 | - | 2023-10-15 | 2024-10-14 | Importlizenz des Importeurs abgelaufen |
+| 3-Glycidyloxypropyltrimethoxysilane (CAS 2530-83-8) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 3-Glycidyloxypropyltrimethoxysilane (CAS 2530-83-8) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Acetic acid (CAS 64-19-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acetic acid (CAS 64-19-7) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acetone (CAS 67-64-1) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acetone (CAS 67-64-1) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Acetonitrile (CAS 75-05-8) | BR | Händler | erteilt | LI-BR-38843422 | - | 2025-06-10 | 2027-06-10 | - |
+| Acetonitrile (CAS 75-05-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acrylic acid (CAS 79-10-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acrylic acid (CAS 79-10-7) | KE | Händler | abgelaufen | IL-KE-350766 | - | 2023-09-13 | 2024-09-12 | Importlizenz des Importeurs abgelaufen |
+| Adipic acid (CAS 124-04-9) | BR | Händler | erteilt | LI-BR-26580848 | - | 2025-01-25 | 2027-01-25 | - |
+| Adipic acid (CAS 124-04-9) | KE | Händler | erteilt | IL-KE-659303 | - | 2025-03-06 | 2027-03-06 | - |
+| Alkyl polyglucoside (C8-10) (CAS 68515-73-1) | BR | Händler | erteilt | LI-BR-69099298 | - | 2025-06-03 | 2027-06-03 | - |
+| Alkyl polyglucoside (C8-10) (CAS 68515-73-1) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Aluminium hydroxide (CAS 21645-51-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Aluminium hydroxide (CAS 21645-51-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Aluminium oxide (CAS 1344-28-1) | BR | Händler | erteilt | LI-BR-80260738 | - | 2025-07-08 | 2027-07-08 | - |
+| Aluminium oxide (CAS 1344-28-1) | KE | Händler | abgelaufen | IL-KE-582051 | - | 2023-06-08 | 2024-06-07 | Importlizenz des Importeurs abgelaufen |
+| Aluminium sulfate (CAS 10043-01-3) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Aluminium sulfate (CAS 10043-01-3) | KE | Händler | erteilt | IL-KE-885321 | - | 2025-03-04 | 2027-03-04 | - |
+| Ammonia solution (25 %) (CAS 1336-21-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ammonia solution (25 %) (CAS 1336-21-6) | KE | Händler | erteilt | IL-KE-768872 | - | 2025-01-26 | 2027-01-26 | - |
+| Ammonium chloride (CAS 12125-02-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ammonium chloride (CAS 12125-02-9) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Barium sulfate (CAS 7727-43-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Barium sulfate (CAS 7727-43-7) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Benzalkonium chloride (CAS 63449-41-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Benzalkonium chloride (CAS 63449-41-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Benzyl alcohol (CAS 100-51-6) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Benzyl alcohol (CAS 100-51-6) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Bisphenol A (CAS 80-05-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Bisphenol A (CAS 80-05-7) | KE | Händler | erteilt | IL-KE-642276 | - | 2025-01-19 | 2027-01-19 | - |
+| Bisphenol-A epoxy resin (CAS 25068-38-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Bisphenol-A epoxy resin (CAS 25068-38-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Butyl acetate (CAS 123-86-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Butyl acetate (CAS 123-86-4) | KE | Händler | erteilt | IL-KE-117265 | - | 2025-04-06 | 2027-04-06 | - |
+| Calcium carbonate (CAS 471-34-1) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium carbonate (CAS 471-34-1) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium chloride (CAS 10043-52-4) | BR | Händler | erteilt | LI-BR-18078014 | - | 2025-01-25 | 2027-01-25 | - |
+| Calcium chloride (CAS 10043-52-4) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium hydroxide (CAS 1305-62-0) | BR | Händler | abgelaufen | LI-BR-22705166 | - | 2023-06-18 | 2024-06-17 | Importlizenz des Importeurs abgelaufen |
+| Calcium hydroxide (CAS 1305-62-0) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Calcium oxide (CAS 1305-78-8) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium oxide (CAS 1305-78-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium stearate (CAS 1592-23-0) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Calcium stearate (CAS 1592-23-0) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Carbon black (CAS 1333-86-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Carbon black (CAS 1333-86-4) | KE | Händler | erteilt | IL-KE-541722 | - | 2025-01-01 | 2027-01-01 | - |
+| Citric acid (CAS 77-92-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Citric acid (CAS 77-92-9) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Cocamidopropyl betaine (CAS 61789-40-0) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Cocamidopropyl betaine (CAS 61789-40-0) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Copper(II) sulfate (CAS 7758-98-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Copper(II) sulfate (CAS 7758-98-7) | KE | Händler | erteilt | IL-KE-660681 | - | 2025-05-20 | 2027-05-20 | - |
+| Cyclohexane (CAS 110-82-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Cyclohexane (CAS 110-82-7) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Cyclohexanone (CAS 108-94-1) | BR | Händler | abgelaufen | LI-BR-33628280 | - | 2023-11-07 | 2024-11-06 | Importlizenz des Importeurs abgelaufen |
+| Cyclohexanone (CAS 108-94-1) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Diacetone alcohol (CAS 123-42-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diacetone alcohol (CAS 123-42-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diethanolamine (CAS 111-42-2) | BR | Händler | erteilt | LI-BR-87374551 | - | 2025-09-18 | 2027-09-18 | - |
+| Diethanolamine (CAS 111-42-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diethylene glycol (CAS 111-46-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diethylene glycol (CAS 111-46-6) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Diethylenetriamine (CAS 111-40-0) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Diethylenetriamine (CAS 111-40-0) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dimethyl carbonate (CAS 616-38-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dimethyl carbonate (CAS 616-38-6) | KE | Händler | erteilt | IL-KE-626492 | - | 2025-09-12 | 2027-09-12 | - |
+| Dimethyl sulfoxide (CAS 67-68-5) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Dimethyl sulfoxide (CAS 67-68-5) | KE | Händler | erteilt | IL-KE-472991 | - | 2025-04-05 | 2027-04-05 | - |
+| Dimethylformamide (CAS 68-12-2) | BR | Händler | erteilt | LI-BR-12125971 | - | 2025-03-11 | 2027-03-11 | - |
+| Dimethylformamide (CAS 68-12-2) | KE | Händler | erteilt | IL-KE-344851 | - | 2025-03-09 | 2027-03-09 | - |
+| Dioctyl terephthalate (CAS 6422-86-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dioctyl terephthalate (CAS 6422-86-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dipropylene glycol (CAS 25265-71-8) | BR | Händler | erteilt | LI-BR-98348416 | - | 2025-08-27 | 2027-08-27 | - |
+| Dipropylene glycol (CAS 25265-71-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Epichlorohydrin (CAS 106-89-8) | BR | Händler | erteilt | LI-BR-19429100 | - | 2025-02-19 | 2027-02-19 | - |
+| Epichlorohydrin (CAS 106-89-8) | KE | Händler | abgelaufen | IL-KE-396900 | - | 2023-11-10 | 2024-11-09 | Importlizenz des Importeurs abgelaufen |
+| Epoxidised soybean oil (CAS 8013-07-8) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Epoxidised soybean oil (CAS 8013-07-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethanol (CAS 64-17-5) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethanol (CAS 64-17-5) | KE | Händler | erteilt | IL-KE-806402 | - | 2025-02-05 | 2027-02-05 | - |
+| Ethyl acetate (CAS 141-78-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethyl acetate (CAS 141-78-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethylene glycol (CAS 107-21-1) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethylene glycol (CAS 107-21-1) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) (CAS 68439-50-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) (CAS 68439-50-9) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Formaldehyde solution (37 %) (CAS 50-00-0) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Formaldehyde solution (37 %) (CAS 50-00-0) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Formic acid (CAS 64-18-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Formic acid (CAS 64-18-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Glycerol (CAS 56-81-5) | BR | Händler | erteilt | LI-BR-66646010 | - | 2025-03-05 | 2027-03-05 | - |
+| Glycerol (CAS 56-81-5) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Glycolic acid (70 %) (CAS 79-14-1) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Glycolic acid (70 %) (CAS 79-14-1) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Hexamethylene diisocyanate (CAS 822-06-0) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Hexamethylene diisocyanate (CAS 822-06-0) | KE | Händler | erteilt | IL-KE-748463 | - | 2025-08-20 | 2027-08-20 | - |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) (CAS 64742-48-9) | BR | Händler | erteilt | LI-BR-53460285 | - | 2025-06-05 | 2027-06-05 | - |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) (CAS 64742-48-9) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Hydrochloric acid (33 %) (CAS 7647-01-0) | BR | Händler | erteilt | LI-BR-99683692 | - | 2025-07-22 | 2027-07-22 | - |
+| Hydrochloric acid (33 %) (CAS 7647-01-0) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |

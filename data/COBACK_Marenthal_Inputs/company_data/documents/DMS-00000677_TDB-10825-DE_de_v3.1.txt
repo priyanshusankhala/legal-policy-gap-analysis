@@ -1,0 +1,38 @@
+
+
+Technisches Datenblatt Marencoat HL 533 Holzlack
+(wasserbasiert)
+Technisches Datenblatt
+Dokumentnummer
+DMS-00000677
+Version
+3.1
+Gültig ab
+2025-03-14
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marencoat HL 533 water-based wood coating
+Family: Coatings
+Applications: Wood coatings
+Description: Schutz und Dekoration von Holz im Innen- und Außenbereich
+Hazardous: 0
+SDS available: 1
+Density: 1.055
+HS: 3209100000
+Origin: DE
+Zusammensetzung
+Water (demineralised): 46.5–56.8 %
+Styrene-acrylate copolymer dispersion: 34.5–42.1 %
+Titanium dioxide: 4.6–5.6 %
+2-Butoxyethanol: 2.6–3.6 %
+Paraffin wax: 1–2 %
+Polydimethylsiloxane: 0.145–0.435 %
+1,2-Benzisothiazolin-3-one: 0.015–0.045 %

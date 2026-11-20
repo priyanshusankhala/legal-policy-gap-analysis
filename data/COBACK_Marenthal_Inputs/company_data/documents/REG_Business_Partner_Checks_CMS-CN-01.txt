@@ -1,0 +1,91 @@
+# Register of business partner checks - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Each business partner with the latest check: risk class, approval status, sanctions list screening, PEP check and adverse media result.
+
+| Partner | Type | Country | Risk class | Approval | Checks | Last check | Result | Sanctions screening | PEP | Adverse media |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 常州达明化工贸易有限公司 | Vertriebspartner | CN | hoch | mit Auflagen | 5 | 2025-05-30 | freigegeben mit Auflagen | Treffer - geprüft | kein Treffer | kein Treffer |
+| 宁波盛华工业服务有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-11-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波恒泰涂料有限公司 | Kunde | CN | hoch | freigegeben | 4 | 2025-04-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京恒润塑料制品有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-12-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海百川精细化工有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| 广州瑞丰涂料有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-01-11 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州博远涂料有限公司 | Kunde | CN | hoch | freigegeben | 4 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州宁远运输有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-07-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州恒润建材有限公司 | Kunde | CN | hoch | mit Auflagen | 3 | 2025-06-16 | freigegeben mit Auflagen | kein Treffer | kein Treffer | Hinweis bewertet |
+| 广州恒泰化工贸易有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-06-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州安泰水处理有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-11-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳恒润运输有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-09-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州宁远化工贸易有限公司 | Lieferant | CN | mittel | mit Auflagen | 2 | 2024-04-23 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| 常州扬帆汽车零部件有限公司 | Kunde | CN | hoch | freigegeben | 4 | 2025-05-08 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| 深圳泰和化工贸易有限公司 | Vertriebspartner | CN | hoch | freigegeben | 5 | 2025-11-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波长荣汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-08-19 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海金海化工贸易有限公司 | Lieferant | CN | hoch | mit Auflagen | 3 | 2025-04-22 | freigegeben mit Auflagen | Treffer - geprüft | kein Treffer | kein Treffer |
+| 宁波嘉禾表面处理有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-02-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海宁远精细化工有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-12-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州安泰化工有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-10-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州金海精细化工有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-06-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京瑞丰工业服务有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-04-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州扬帆食品有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-03-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳泰和设备工程有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-07-23 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| 常州宏达运输有限公司 | Dienstleister | CN | hoch | freigegeben | 4 | 2025-03-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京立诚清洁服务有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-03-05 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州盛华涂料有限公司 | Kunde | CN | hoch | mit Auflagen | 3 | 2025-08-04 | freigegeben mit Auflagen | kein Treffer | Treffer - bewertet | kein Treffer |
+| 宁波博远物业服务有限公司 | Lieferant | CN | mittel | mit Auflagen | 3 | 2025-05-14 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| 深圳达明水处理有限公司 | Kunde | CN | mittel | mit Auflagen | 3 | 2025-09-01 | freigegeben mit Auflagen | kein Treffer | kein Treffer | Hinweis bewertet |
+| 北京盛华建材有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2024-05-29 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京科辉汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-01-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州恒润工业气体有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-06-23 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳嘉禾汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-09-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州金海建材有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-04-09 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| 北京兴盛化工贸易有限公司 | Vertriebspartner | CN | hoch | freigegeben | 5 | 2025-08-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波恒润汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-02-21 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波金海包装制品有限公司 | Lieferant | CN | mittel | freigegeben | 2 | 2024-02-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波达明汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-01-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京嘉禾能源有限公司 | Dienstleister | CN | hoch | freigegeben | 4 | 2025-05-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海博远咨询有限公司 | Dienstleister | CN | hoch | freigegeben | 4 | 2025-02-21 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州远东清洁服务有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-11-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海百川建材有限公司 | Kunde | CN | hoch | mit Auflagen | 5 | 2025-05-30 | freigegeben mit Auflagen | kein Treffer | Treffer - bewertet | kein Treffer |
+| 宁波鑫源管理咨询有限公司 | Dienstleister | CN | hoch | freigegeben | 5 | 2025-05-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京立诚机械设备有限公司 | Kunde | CN | mittel | mit Auflagen | 3 | 2025-12-16 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| 常州兴盛涂料有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-07-17 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波博远汽车零部件有限公司 | Kunde | CN | hoch | freigegeben | 4 | 2025-04-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波远东汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2024-01-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海天成涂料有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-12-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京长荣精细化工有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-04-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州金海涂料有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-03-12 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳瑞丰信息技术有限公司 | Dienstleister | CN | hoch | freigegeben | 4 | 2025-05-08 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京安泰食品有限公司 | Kunde | CN | hoch | freigegeben | 5 | 2025-07-31 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州汇通检测技术有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-04-01 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京泰和塑料制品有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-07-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京安泰包装制品有限公司 | Lieferant | CN | mittel | freigegeben | 2 | 2024-03-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波汇通设备工程有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-09-01 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京宁远涂料有限公司 | Kunde | CN | mittel | freigegeben | 3 | 2025-06-09 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳安泰电子科技有限公司 | Kunde | CN | hoch | mit Auflagen | 5 | 2025-03-17 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| 广州盛华物流有限公司 | Dienstleister | CN | mittel | freigegeben | 3 | 2025-08-06 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波长荣化工有限公司 | Lieferant | CN | mittel | freigegeben | 2 | 2024-03-04 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州恒泰精细化工有限公司 | Lieferant | CN | mittel | freigegeben | 3 | 2025-07-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州科辉涂料有限公司 | Kunde | CN | hoch | freigegeben | 3 | 2025-03-31 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波兴盛保险经纪有限公司 | Lieferant | CN | mittel | freigegeben | 2 | 2025-04-21 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳远东信息技术有限公司 | Dienstleister | CN | mittel | gesperrt | 1 | 2023-06-20 | abgelehnt | kein Treffer | kein Treffer | kein Treffer |
+| 深圳金海汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 2 | 2025-09-22 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州盛华塑料制品有限公司 | Kunde | CN | hoch | freigegeben | 3 | 2025-10-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海恒润水处理有限公司 | Kunde | CN | hoch | freigegeben | 3 | 2025-10-07 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| 上海扬帆化工有限公司 | Lieferant | CN | mittel | freigegeben | 2 | 2025-05-20 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波瑞丰机械设备有限公司 | Kunde | CN | hoch | freigegeben | 2 | 2025-08-13 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州德润涂料有限公司 | Kunde | CN | mittel | freigegeben | 1 | 2024-08-27 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京鑫源包装制品有限公司 | Lieferant | CN | mittel | freigegeben | 1 | 2025-01-24 | freigegeben | Treffer - Fehlalarm | kein Treffer | kein Treffer |
+| 宁波科辉建材有限公司 | Kunde | CN | mittel | freigegeben | 1 | 2025-01-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 深圳汇通建材有限公司 | Kunde | CN | mittel | freigegeben | 1 | 2025-02-03 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海恒泰清洁服务有限公司 | Kunde | CN | hoch | freigegeben | 1 | 2025-02-26 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 上海立诚塑料制品有限公司 | Kunde | CN | mittel | mit Auflagen | 1 | 2025-03-06 | freigegeben mit Auflagen | kein Treffer | kein Treffer | kein Treffer |
+| 宁波丰源化工贸易有限公司 | Lieferant | CN | mittel | freigegeben | 1 | 2025-03-12 | freigegeben | kein Treffer | kein Treffer | Hinweis bewertet |
+| 上海远东检测技术有限公司 | Dienstleister | CN | mittel | gesperrt | 1 | 2025-04-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京达明建材有限公司 | Kunde | CN | hoch | freigegeben | 1 | 2025-08-18 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州丰源涂料有限公司 | Kunde | CN | mittel | freigegeben | 1 | 2025-10-02 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 常州宁远电子科技有限公司 | Kunde | CN | hoch | freigegeben | 1 | 2025-10-24 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 宁波德润工业服务有限公司 | Dienstleister | CN | mittel | freigegeben | 1 | 2025-11-14 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 北京恒润涂料有限公司 | Kunde | CN | mittel | gesperrt | 1 | 2025-10-28 | freigegeben | kein Treffer | kein Treffer | kein Treffer |
+| 广州泰和汽车零部件有限公司 | Kunde | CN | mittel | freigegeben | 1 | 2025-11-10 | freigegeben | kein Treffer | kein Treffer | kein Treffer |

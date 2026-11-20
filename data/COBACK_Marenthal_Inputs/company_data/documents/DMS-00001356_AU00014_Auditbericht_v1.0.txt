@@ -1,0 +1,40 @@
+
+
+Auditbericht: Lieferantenaudit Logistikdienstleister
+(Tankwagen)
+Auditbericht
+Dokumentnummer
+DMS-00001356
+Version
+1.0
+Gültig ab
+2025-11-22
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-002
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Lieferantenaudit Logistikdienstleister (Tankwagen)
+art: Lieferantenaudit
+scope: Gefahrgutbeförderung, Fahrerqualifikation
+geplant_von: 2025-10-21
+geplant_bis: 2025-10-21
+durchgefuehrt_von: 2025-10-21
+durchgefuehrt_bis: 2025-10-21
+leitender_auditor: Externer Auditor
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Fahrzeugprüfungen (Tankwagen) sind nicht für alle Fahrzeuge nachweisbar.
+(geschlossen)
+2 [Hinweis] Positiv: Reinigungsnachweise für Tankwagen sind vollständig. (offen)
+3 [Nebenabweichung] Fahrerschulungen (ADR) sind teilweise abgelaufen. (überfällig)
+4 [Nebenabweichung] Notfallausrüstung im Fahrzeug wird nicht regelmäßig kontrolliert. (in
+Bearbeitung)

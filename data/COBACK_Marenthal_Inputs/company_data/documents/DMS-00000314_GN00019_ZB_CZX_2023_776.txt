@@ -1,0 +1,22 @@
+重大危险源备案 – ZB-CZX-2023/776
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000314
+版本: 1.0
+生效日期: 2023-09-19
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: 重大危险源备案
+nummer: ZB-CZX-2023/776
+behoerde: 常州市生态环境局
+erteilt_am: 2023-09-19
+gueltig_bis: 2028-09-19
+status: gültig
+auflagen: Sicherheitsbericht und Alarmpläne aktuell halten; Übungen nachweisen.

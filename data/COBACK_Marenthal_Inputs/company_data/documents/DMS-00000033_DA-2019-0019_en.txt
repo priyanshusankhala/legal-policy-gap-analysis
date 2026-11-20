@@ -1,0 +1,52 @@
+
+
+Distribution Agreement DA-2019-0019 – Magalhães
+Comércio de produtos químicos Ltda.
+Vertriebsvertrag
+Document no.
+DMS-00000033
+Version
+1.0
+Valid from
+2019-09-17
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: DA-2019-0019
+type: Distribution Agreement
+status: Active
+start_date: 2019-09-17
+end_date: 2026-09-16
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal France S.A.S.
+signed_date: 2019-08-18
+governing_law: French law
+payment_terms: Z060
+incoterm: FCA
+Account
+name: Magalhães Comércio de produtos químicos Ltda.
+type: Distributor
+billing_street: Avenida Industrial 10
+billing_city: São Paulo
+billing_postcode: 01266-308
+billing_country: BR
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.magalhaescomercio.com.br
+created_date: 2013-11-14
+last_modified_date: 2025-07-05
+language: pt
+selling_entity: Marenthal France S.A.S.
+description: Distribution partner (Chemical trading), focus on Marenclean U 134 all-purpose cleaner,
+Xylene (isomer mixture), technical grade; own warehouse logistics in Brazil.

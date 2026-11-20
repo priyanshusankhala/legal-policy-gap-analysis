@@ -1,0 +1,32 @@
+# Register of customers by country and sector - Marenthal Chemie AG (part 2 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Company | Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Romania (RO) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Romania (RO) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Romania (RO) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Marenthal Chemie AG | Romania (RO) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Slovakia (SK) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Slovakia (SK) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Slovakia (SK) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Marenthal Chemie AG | Slovakia (SK) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemie AG | Slovenia (SI) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal Chemie AG | Slovenia (SI) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Spain (ES) | Automobilzulieferer | Industrie | 2 |
+| Marenthal Chemie AG | Spain (ES) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Automobilzulieferer | Industrie | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Bauchemie und Baustoffe | Industrie | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Chemiehandel | Distributor | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Farben und Lacke | Industrie | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Gebäudereinigung und Hygiene | Endkunde | 2 |
+| Marenthal Chemie AG | Sweden (SE) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Marenthal Chemie AG | Sweden (SE) | Maschinen- und Anlagenbau | Industrie | 1 |
+| Marenthal Chemie AG | United States (US) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemie AG | United States (US) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal Chemie AG | United States (US) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Marenthal Chemie AG | United States (US) | Maschinen- und Anlagenbau | Industrie | 1 |

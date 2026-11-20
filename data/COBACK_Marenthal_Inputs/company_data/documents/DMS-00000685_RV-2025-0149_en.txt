@@ -1,0 +1,79 @@
+
+
+Framework Agreement RV-2025-0149 – Pacific
+Coatings Inc.
+Rahmenvertrag
+Document no.
+DMS-00000685
+Version
+1.0
+Valid from
+2025-04-25
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2025-0149
+type: Framework Agreement
+status: Active
+start_date: 2025-04-25
+end_date: 2027-04-24
+auto_renew: 1
+notice_period_days: 90
+currency: USD
+committed_volume_t: 546.58
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2025-04-07
+governing_law: State of Texas
+payment_terms: Z060
+incoterm: DDP
+Terms
+Marenthix 409 thickener: 318.52 USD/100 kg
+Marencoat TG 1438 penetrating primer: 191.11 USD/100 kg
+Ethyl acetate, technical grade: 1323.53 USD/1000 kg
+Xylene (isomer mixture), technical grade: 1229.07 USD/1000 kg
+Account
+name: Pacific Coatings Inc.
+type: Customer
+billing_street: 51 Cedar Street
+billing_city: Los Angeles
+billing_postcode: 90077
+billing_country: US
+industry: Paints and coatings
+segment: Direct
+size_class: Large
+status: Active
+website: www.pacific-coatings.com
+
+created_date: 1997-12-11
+last_modified_date: 2024-09-18
+language: en
+selling_entity: Marenthal Chemicals Inc.
+description: Paints and coatings. Sources Marenthix 409 thickener, Marencoat TG 1438 penetrating
+primer for ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2025-0149
+type: Framework Agreement
+status: Active
+start_date: 2025-04-25
+end_date: 2027-04-24
+auto_renew: 1
+notice_period_days: 90
+currency: USD
+committed_volume_t: 546.58
+selling_entity: Marenthal Chemicals Inc.
+signed_date: 2025-04-07
+governing_law: State of Texas
+payment_terms: Z060
+incoterm: DDP
+Terms
+Marenthix 409 thickener: 318.52 USD/100 kg
+Marencoat TG 1438 penetrating primer: 191.11 USD/100 kg
+Ethyl acetate, technical grade: 1323.53 USD/1000 kg
+Xylene (isomer mixture), technical grade: 1229.07 USD/1000 kg

@@ -1,0 +1,128 @@
+# Register of sales by destination country and product - Marenthal France S.A.S. (part 3 of 4)
+
+Company: Marenthal France S.A.S. (FR). Source: ERP, summarised.
+
+For each destination country and product: number of sales order lines, quantity and net value. Shows to which countries the company delivers which products.
+
+| Destination country | Product | Material no. | Order lines | Quantity | Net value |
+| --- | --- | --- | --- | --- | --- |
+| Italy (IT) | Marendisp 332 dispersing agent | MC-000004 | 29 | 43,875 KG | 173,789 EUR |
+| Italy (IT) | Marenflex 906 plasticizer | MC-000010 | 20 | 31,225 KG | 148,901 EUR |
+| Italy (IT) | Marenglide 953 lubricant additive | MC-000011 | 9 | 8,900 KG | 42,240 EUR |
+| Italy (IT) | Marenpaste 202 pigment preparation | PF-000003 | 6 | 31,075 KG | 135,503 EUR |
+| Italy (IT) | Marenpaste 237 pigment preparation | MC-000014 | 6 | 8,575 KG | 36,561 EUR |
+| Italy (IT) | Marenphos 125 phosphating solution | PF-000004 | 12 | 12,750 KG | 50,391 EUR |
+| Italy (IT) | Marensolv 108 thinner (solvent blend) | PF-000002 | 4 | 16,200 KG | 41,112 EUR |
+| Italy (IT) | Marensolv 302 degreasing spirit (solvent blend) | MC-000013 | 14 | 53,625 KG | 134,722 EUR |
+| Italy (IT) | Marenwet 206 wetting agent | MC-000001 | 36 | 181,800 KG | 565,156 EUR |
+| Italy (IT) | Marenwet 237 wetting agent | MC-000002 | 7 | 41,600 KG | 146,538 EUR |
+| Italy (IT) | Methanol, technical grade | MC-000063 | 8 | 45,225 KG | 21,035 EUR |
+| Italy (IT) | Methyl ethyl ketone, technical grade | MC-000056 | 28 | 152,800 KG | 284,044 EUR |
+| Italy (IT) | Methyl methacrylate, technical grade | MC-000048 | 1 | 400 KG | 890 EUR |
+| Italy (IT) | Pentaerythritol, technical grade | MC-000051 | 12 | 49,100 KG | 81,587 EUR |
+| Italy (IT) | Propylene glycol, technical grade | MC-000062 | 20 | 90,350 KG | 178,232 EUR |
+| Italy (IT) | Sodium hydroxide (50 %), technical grade | MC-000064 | 8 | 245,600 KG | 129,943 EUR |
+| Italy (IT) | Titanium dioxide, technical grade | MC-000067 | 35 | 232,575 KG | 824,772 EUR |
+| Italy (IT) | Toluene, technical grade | MC-000057 | 8 | 129,300 KG | 127,568 EUR |
+| Italy (IT) | Xylene (isomer mixture), technical grade | MC-000058 | 1 | 5,500 KG | 6,278 EUR |
+| Kenya (KE) | Acetic acid, technical grade | MC-000061 | 8 | 376,000 KG | 277,668 EUR |
+| Kenya (KE) | Butyl acetate, technical grade | MC-000055 | 17 | 174,200 KG | 260,230 EUR |
+| Kenya (KE) | Calcium carbonate, technical grade | MC-000068 | 6 | 1,189,000 KG | 143,108 EUR |
+| Kenya (KE) | Ethanol, technical grade | MC-000053 | 14 | 205,500 KG | 235,235 EUR |
+| Kenya (KE) | Ethyl acetate, technical grade | MC-000054 | 48 | 1,041,100 KG | 1,217,658 EUR |
+| Kenya (KE) | Hydrochloric acid (33 %), technical grade | MC-000059 | 5 | 858,000 KG | 115,452 EUR |
+| Kenya (KE) | Marenclean A 207 alkaline industrial cleaner | MC-000017 | 3 | 39,000 KG | 57,199 EUR |
+| Kenya (KE) | Marenclean B 1006 chlorine-based cleaner | MC-000028 | 28 | 621,700 KG | 813,153 USD |
+| Kenya (KE) | Marenclean E 504 degreaser | MC-000021 | 4 | 7,100 KG | 11,420 EUR |
+| Kenya (KE) | Marenclean H 637 hand cleaner | MC-000024 | 16 | 180,400 KG | 336,469 USD |
+| Kenya (KE) | Marenclean M 1200 machine cleaner (powder) | PF-000007 | 6 | 10,675 KG | 19,909 USD |
+| Kenya (KE) | Marenclean U 134 all-purpose cleaner | MC-000016 | 15 | 81,600 KG | 103,876 EUR |
+| Kenya (KE) | Marenclean Z 904 citrus cleaner | MC-000027 | 17 | 93,975 KG | 242,995 EUR |
+| Kenya (KE) | Marenclean Z 904 citrus cleaner | MC-000027 | 23 | 212,400 KG | 655,372 USD |
+| Kenya (KE) | Marencoat AF 309 acrylic facade paint | MC-000032 | 18 | 162,350 KG | 714,982 USD |
+| Kenya (KE) | Marencoat AF 333 acrylic facade paint | MC-000033 | 16 | 50,450 KG | 236,040 EUR |
+| Kenya (KE) | Marencoat AF 333 acrylic facade paint | MC-000033 | 22 | 136,900 KG | 700,339 USD |
+| Kenya (KE) | Marencoat DB 1303 roof coating | MC-000044 | 4 | 3,950 KG | 16,661 EUR |
+| Kenya (KE) | Marencoat DB 1333 roof coating | MC-000045 | 11 | 34,100 KG | 128,731 EUR |
+| Kenya (KE) | Marencoat DB 1333 roof coating | MC-000045 | 14 | 51,250 KG | 209,452 USD |
+| Kenya (KE) | Marencoat HL 533 water-based wood coating | MC-000036 | 5 | 43,300 KG | 209,923 EUR |
+| Kenya (KE) | Marencoat TG 1400 penetrating primer | MC-000046 | 18 | 127,950 KG | 292,793 USD |
+| Kenya (KE) | Marendisp 305 dispersing agent | MC-000003 | 16 | 52,475 KG | 238,217 USD |
+| Kenya (KE) | Marendisp 332 dispersing agent | MC-000004 | 6 | 5,175 KG | 23,663 USD |
+| Kenya (KE) | Marenemul 731 emulsifier | MC-000008 | 3 | 1,450 KG | 5,224 USD |
+| Kenya (KE) | Marenflex 906 plasticizer | MC-000010 | 5 | 4,725 KG | 24,213 EUR |
+| Kenya (KE) | Marenwet 237 wetting agent | MC-000002 | 6 | 24,000 KG | 88,662 EUR |
+| Kenya (KE) | Methanol, technical grade | MC-000063 | 14 | 655,800 KG | 305,026 EUR |
+| Kenya (KE) | Methyl ethyl ketone, technical grade | MC-000056 | 12 | 111,700 KG | 196,267 EUR |
+| Kenya (KE) | Pentaerythritol, technical grade | MC-000051 | 9 | 190,000 KG | 346,514 EUR |
+| Kenya (KE) | Propylene glycol, technical grade | MC-000062 | 27 | 309,100 KG | 594,080 EUR |
+| Kenya (KE) | Sodium hydroxide (50 %), technical grade | MC-000064 | 8 | 59,700 KG | 31,451 EUR |
+| Kenya (KE) | Sodium hydroxide (50 %), technical grade | MC-000064 | 34 | 1,914,400 KG | 1,069,882 USD |
+| Kenya (KE) | Sulfuric acid (96 %), technical grade | MC-000060 | 6 | 684,000 KG | 78,140 EUR |
+| Kenya (KE) | Sulfuric acid (96 %), technical grade | MC-000060 | 25 | 3,796,000 KG | 484,521 USD |
+| Kenya (KE) | Toluene, technical grade | MC-000057 | 11 | 93,800 KG | 91,504 EUR |
+| Kenya (KE) | n-Butyl acrylate, technical grade | MC-000049 | 4 | 3,100 KG | 6,643 EUR |
+| Luxembourg (LU) | Glycerol, technical grade | MC-000066 | 7 | 15,950 KG | 17,841 EUR |
+| Luxembourg (LU) | Marenclean O 1100 active oxygen cleaner (powder) | MC-000029 | 10 | 54,500 KG | 107,736 EUR |
+| Luxembourg (LU) | Marenclean U 101 all-purpose cleaner | MC-000015 | 4 | 19,000 KG | 26,998 EUR |
+| Luxembourg (LU) | Marencoat AL 603 alkyd enamel | MC-000037 | 3 | 1,400 KG | 8,192 EUR |
+| Luxembourg (LU) | Marencoat DB 1303 roof coating | MC-000044 | 8 | 17,625 KG | 73,385 EUR |
+| Luxembourg (LU) | Marendisp 305 dispersing agent | MC-000003 | 1 | 1,100 KG | 4,611 EUR |
+| Luxembourg (LU) | Marendisp 332 dispersing agent | MC-000004 | 3 | 2,950 KG | 11,964 EUR |
+| Luxembourg (LU) | Marenwet 206 wetting agent | MC-000001 | 10 | 31,400 KG | 106,044 EUR |
+| Luxembourg (LU) | Phosphoric acid (75 %), technical grade | MC-000065 | 4 | 19,100 KG | 20,729 EUR |
+| Luxembourg (LU) | Sodium hydroxide (50 %), technical grade | MC-000064 | 8 | 162,400 KG | 84,518 EUR |
+| Luxembourg (LU) | Titanium dioxide, technical grade | MC-000067 | 5 | 3,400 KG | 13,071 EUR |
+| Netherlands (NL) | Acrylic acid, technical grade | PF-000011 | 2 | 2,050 KG | 4,521 EUR |
+| Netherlands (NL) | Butyl acetate, technical grade | MC-000055 | 7 | 20,200 KG | 30,143 EUR |
+| Netherlands (NL) | Marenclean A 238 alkaline industrial cleaner | MC-000018 | 1 | 1,900 KG | 3,002 EUR |
+| Netherlands (NL) | Marenclean C 1305 CIP cleaner | MC-000030 | 2 | 2,000 KG | 3,053 EUR |
+| Netherlands (NL) | Marenclean E 504 degreaser | MC-000021 | 2 | 3,500 KG | 5,630 EUR |
+| Netherlands (NL) | Marenclean U 101 all-purpose cleaner | MC-000015 | 7 | 26,050 KG | 37,154 EUR |
+| Netherlands (NL) | Marencoat DB 1333 roof coating | MC-000045 | 1 | 375 KG | 1,432 EUR |
+| Netherlands (NL) | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | 2 | 1,375 KG | 11,266 EUR |
+| Netherlands (NL) | Marencoat HL 509 water-based wood coating | MC-000035 | 1 | 3,700 KG | 17,360 EUR |
+| Netherlands (NL) | Sodium hydroxide (50 %), technical grade | MC-000064 | 2 | 13,300 KG | 7,178 EUR |
+| Netherlands (NL) | Toluene, technical grade | MC-000057 | 1 | 425 KG | 415 EUR |
+| Portugal (PT) | 2-Ethylhexyl acrylate, technical grade | PF-000008 | 4 | 23,600 KG | 53,416 EUR |
+| Portugal (PT) | Acrylic acid, technical grade | PF-000011 | 2 | 1,550 KG | 3,418 EUR |
+| Portugal (PT) | Diethylenetriamine, technical grade | PF-000015 | 15 | 140,600 KG | 316,440 EUR |
+| Portugal (PT) | Ethyl acetate, technical grade | MC-000054 | 39 | 516,625 KG | 569,183 EUR |
+| Portugal (PT) | Glycerol, technical grade | MC-000066 | 17 | 443,900 KG | 430,788 EUR |
+| Portugal (PT) | Hydrochloric acid (33 %), technical grade | MC-000059 | 9 | 1,033,500 KG | 146,530 EUR |
+| Portugal (PT) | Marenclean A 238 alkaline industrial cleaner | MC-000018 | 20 | 631,600 KG | 852,685 EUR |
+| Portugal (PT) | Marenclean B 1006 chlorine-based cleaner | MC-000028 | 6 | 22,800 KG | 23,831 EUR |
+| Portugal (PT) | Marenclean U 101 all-purpose cleaner | MC-000015 | 9 | 190,200 KG | 278,560 EUR |
+| Portugal (PT) | Marenclean U 134 all-purpose cleaner | MC-000016 | 10 | 188,400 KG | 265,776 EUR |
+| Portugal (PT) | Marencoat AL 634 alkyd enamel | MC-000038 | 5 | 29,300 KG | 200,805 EUR |
+| Portugal (PT) | Marencoat HL 509 water-based wood coating | MC-000035 | 18 | 28,200 KG | 125,925 EUR |
+| Portugal (PT) | Marencoat TG 1400 penetrating primer | MC-000046 | 19 | 241,900 KG | 434,067 EUR |
+| Portugal (PT) | Marenemul 731 emulsifier | MC-000008 | 2 | 2,000 KG | 6,583 EUR |
+| Portugal (PT) | Marenflex 906 plasticizer | MC-000010 | 5 | 29,550 KG | 151,429 EUR |
+| Portugal (PT) | Marenpaste 237 pigment preparation | MC-000014 | 9 | 69,800 KG | 257,115 EUR |
+| Portugal (PT) | Marensolv 302 degreasing spirit (solvent blend) | MC-000013 | 13 | 156,475 KG | 344,313 EUR |
+| Portugal (PT) | Methanol, technical grade | MC-000063 | 9 | 377,700 KG | 145,290 EUR |
+| Portugal (PT) | Methyl methacrylate, technical grade | MC-000048 | 4 | 2,050 KG | 4,560 EUR |
+| Portugal (PT) | Neopentyl glycol, technical grade | MC-000050 | 16 | 89,800 KG | 163,389 EUR |
+| Portugal (PT) | Pentaerythritol, technical grade | MC-000051 | 19 | 121,000 KG | 199,920 EUR |
+| Portugal (PT) | Sulfuric acid (96 %), technical grade | MC-000060 | 5 | 235,000 KG | 26,846 EUR |
+| Portugal (PT) | Toluene, technical grade | MC-000057 | 8 | 74,600 KG | 70,151 EUR |
+| Romania (RO) | Calcium carbonate, technical grade | MC-000068 | 8 | 399,000 KG | 242,756 RON |
+| Romania (RO) | Marencoat AI 436 interior emulsion paint | MC-000034 | 7 | 11,325 KG | 261,748 RON |
+| Romania (RO) | Marencoat EP 806 2K epoxy primer (component A) | MC-000041 | 5 | 2,800 KG | 115,443 RON |
+| Romania (RO) | Marendisp 305 dispersing agent | MC-000003 | 6 | 7,275 KG | 153,734 RON |
+| Romania (RO) | Propylene glycol, technical grade | MC-000062 | 7 | 10,900 KG | 108,263 RON |
+| Spain (ES) | Acetic acid, technical grade | MC-000061 | 12 | 211,200 KG | 155,967 EUR |
+| Spain (ES) | Acrylic acid, technical grade | PF-000011 | 18 | 69,700 KG | 144,360 EUR |
+| Spain (ES) | Butyl acetate, technical grade | MC-000055 | 1 | 6,000 KG | 8,922 EUR |
+| Spain (ES) | Calcium carbonate, technical grade | MC-000068 | 1 | 68,000 KG | 8,184 EUR |
+| Spain (ES) | Diethylenetriamine, technical grade | PF-000015 | 12 | 33,800 KG | 89,672 EUR |
+| Spain (ES) | Ethanol, technical grade | MC-000053 | 14 | 202,100 KG | 228,305 EUR |
+| Spain (ES) | Ethyl acetate, technical grade | MC-000054 | 2 | 36,100 KG | 44,371 EUR |
+| Spain (ES) | Glycerol, technical grade | MC-000066 | 8 | 31,600 KG | 35,599 EUR |
+| Spain (ES) | Hydrochloric acid (33 %), technical grade | MC-000059 | 9 | 424,000 KG | 53,823 EUR |
+| Spain (ES) | Isophorone diisocyanate, technical grade | PF-000013 | 8 | 12,125 KG | 65,375 EUR |
+| Spain (ES) | Isopropanol, technical grade | MC-000052 | 15 | 119,000 KG | 155,046 EUR |
+| Spain (ES) | Maleic anhydride, technical grade | PF-000012 | 15 | 71,450 KG | 138,416 EUR |
+| Spain (ES) | Marenclean A 207 alkaline industrial cleaner | MC-000017 | 29 | 220,875 KG | 294,947 EUR |
+| Spain (ES) | Marenclean A 238 alkaline industrial cleaner | MC-000018 | 4 | 22,300 KG | 35,234 EUR |

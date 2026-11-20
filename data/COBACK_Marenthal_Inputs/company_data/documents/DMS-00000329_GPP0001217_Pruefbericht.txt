@@ -1,0 +1,42 @@
+
+
+Prüfbericht Wiederholungsprüfung (GPP0001217)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000329
+Version
+1.0
+Gültig ab
+2023-10-27
+Gesellschaft
+Marenthal France S.A.S.
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Wiederholungsprüfung
+pruefdatum: 2023-10-24
+anlass: Turnusmäßige Wiederholung
+risikoklasse: mittel
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: kein Treffer
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Nachweis der Handelsregistereintragung nachreichen
+gueltig_bis: 2025-10-13
+begruendung: Keine Treffer in den Sanktionslisten. Risikoklasse mittel. Freigabe unter Auflagen.
+Geschäftspartner
+name: Smit Environnement NV
+partner_typ: Kunde
+land: BE
+strasse: Maasboulevard 30
+plz: 2183
+ort: Antwerpen
+aktiv: 1
+risikoklasse_aktuell: mittel
+letzte_pruefung: 2025-10-13
+freigabestatus: freigegeben

@@ -1,0 +1,44 @@
+
+
+EHS : supplément France (ICPE, Seveso)
+Lokale Ergänzung zur Richtlinie
+N° du document
+DMS-00000512
+Version
+1.0
+Valable depuis
+2024-12-11
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « EHS » pour Marenthal France S.A.S.. Elle
+s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires commerciaux.
+Obligations et responsabilités
+Alarm- und Gefahrenabwehrplan bzw. Sicherheitsbericht aktualisieren – Saint-Fons – Sicherheitsbericht,
+Notfallpläne und interne Alarmpläne überprüfen und üben.
+Lagermengen gegen Betriebsbereichsgrenzen überwachen – Saint-Fons – Mengenschwellen der
+Störfallverordnung monatlich mit Lagerbestand vergleichen.
+Richtlinienergänzung
+land: FR
+titel: EHS: Ergänzung Frankreich (ICPE, Seveso)
+inhalt_kurz: Ergänzt die Konzernrichtlinie „Richtlinie Umwelt-, Arbeits- und Gesundheitsschutz (EHS)“
+(Fassung 2.0) um die Anforderungen für Frankreich: ICPE, Seveso; regelt lokale Zuständigkeiten und
+Meldewege.
+basiert_auf_version: 2.0
+gueltig_ab: 2024-12-11
+status: gültig
+freigabe_datum: 2024-12-11
+Richtlinie
+nummer: KR-010
+titel: Richtlinie Umwelt-, Arbeits- und Gesundheitsschutz (EHS)
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-10
+master_sprache: de
+vertraulichkeit: intern

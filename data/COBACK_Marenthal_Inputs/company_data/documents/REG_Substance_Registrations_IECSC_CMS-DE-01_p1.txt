@@ -1,0 +1,128 @@
+# Register of substance registrations: IECSC - Marenthal Chemie AG (part 1 of 2)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Status of each substance under IECSC for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one (CAS 2634-33-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 1-Methoxy-2-propanol (CAS 107-98-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Butoxyethanol (CAS 111-76-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Dimethylaminoethanol (CAS 108-01-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Ethylhexanol (CAS 104-76-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Ethylhexyl acrylate (CAS 103-11-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Methyl-2H-isothiazol-3-one (CAS 2682-20-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 2-Phenoxyethanol (CAS 122-99-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 3-Aminopropyltriethoxysilane (CAS 919-30-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| 3-Glycidyloxypropyltrimethoxysilane (CAS 2530-83-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acetic acid (CAS 64-19-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acetone (CAS 67-64-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acetonitrile (CAS 75-05-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Acrylic acid (CAS 79-10-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Adipic acid (CAS 124-04-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Alkyl polyglucoside (C8-10) (CAS 68515-73-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Aluminium hydroxide (CAS 21645-51-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Aluminium oxide (CAS 1344-28-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Aluminium sulfate (CAS 10043-01-3) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ammonia solution (25 %) (CAS 1336-21-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ammonium chloride (CAS 12125-02-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Barium sulfate (CAS 7727-43-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Benzalkonium chloride (CAS 63449-41-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Benzyl alcohol (CAS 100-51-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Bisphenol A (CAS 80-05-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Bisphenol-A epoxy resin (CAS 25068-38-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Butyl acetate (CAS 123-86-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium carbonate (CAS 471-34-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium chloride (CAS 10043-52-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium hydroxide (CAS 1305-62-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium oxide (CAS 1305-78-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Calcium stearate (CAS 1592-23-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Carbon black (CAS 1333-86-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Citric acid (CAS 77-92-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Cocamidopropyl betaine (CAS 61789-40-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Copper(II) sulfate (CAS 7758-98-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Cyclohexane (CAS 110-82-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Cyclohexanone (CAS 108-94-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diacetone alcohol (CAS 123-42-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diethanolamine (CAS 111-42-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diethylene glycol (CAS 111-46-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Diethylenetriamine (CAS 111-40-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dimethyl carbonate (CAS 616-38-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dimethyl sulfoxide (CAS 67-68-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dimethylformamide (CAS 68-12-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dioctyl terephthalate (CAS 6422-86-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Dipropylene glycol (CAS 25265-71-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Epichlorohydrin (CAS 106-89-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Epoxidised soybean oil (CAS 8013-07-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethanol (CAS 64-17-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethyl acetate (CAS 141-78-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Ethylene glycol (CAS 107-21-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) (CAS 68439-50-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Formaldehyde solution (37 %) (CAS 50-00-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Formic acid (CAS 64-18-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Glycerol (CAS 56-81-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Glycolic acid (70 %) (CAS 79-14-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Hexamethylene diisocyanate (CAS 822-06-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) (CAS 64742-48-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Hydrochloric acid (33 %) (CAS 7647-01-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Hydrogen peroxide (35 %) (CAS 7722-84-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Hydroxyethyl cellulose (CAS 9004-62-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Iron(III) oxide (CAS 1309-37-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Isobutanol (CAS 78-83-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Isophorone diisocyanate (CAS 4098-71-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Isophoronediamine (CAS 2855-13-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Isopropanol (CAS 67-63-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Isopropyl acetate (CAS 108-21-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Kaolin (CAS 1332-58-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Lactic acid (80 %) (CAS 50-21-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Lauric acid (CAS 143-07-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Linseed oil (CAS 8001-26-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Magnesium oxide (CAS 1309-48-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Magnesium sulfate (CAS 7487-88-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Maleic anhydride (CAS 108-31-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methanesulfonic acid (CAS 75-75-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methanol (CAS 67-56-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methoxypropyl acetate (CAS 108-65-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methyl acetate (CAS 79-20-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methyl ethyl ketone (CAS 78-93-3) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methyl isobutyl ketone (CAS 108-10-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methyl methacrylate (CAS 80-62-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Methylene diphenyl diisocyanate (CAS 101-68-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Monoethanolamine (CAS 141-43-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| N-Methyl-2-pyrrolidone (CAS 872-50-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Neopentyl glycol (CAS 126-30-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Nitric acid (60 %) (CAS 7697-37-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Oleic acid (CAS 112-80-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Oxalic acid (CAS 144-62-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Paraffin wax (CAS 8002-74-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Pentaerythritol (CAS 115-77-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Peracetic acid (15 %) (CAS 79-21-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Phenol (CAS 108-95-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Phosphoric acid (75 %) (CAS 7664-38-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Phthalic anhydride (CAS 85-44-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Polydimethylsiloxane (CAS 63148-62-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Polyethylene glycol (CAS 25322-68-3) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Polyvinyl alcohol (CAS 9002-89-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Potassium carbonate (CAS 584-08-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Potassium hydroxide (CAS 1310-58-3) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Potassium permanganate (CAS 7722-64-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Propylene carbonate (CAS 108-32-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Propylene glycol (CAS 57-55-6) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Rosin (colophony) (CAS 8050-09-7) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Silicon dioxide (amorphous) (CAS 7631-86-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium acetate (CAS 127-09-3) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium bicarbonate (CAS 144-55-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium bisulfite (CAS 7631-90-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium carbonate (CAS 497-19-8) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium carboxymethylcellulose (CAS 9004-32-4) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium chloride (CAS 7647-14-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium cumenesulfonate (CAS 15763-76-5) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium dodecyl sulfate (CAS 151-21-3) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium dodecylbenzenesulfonate (CAS 25155-30-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium gluconate (CAS 527-07-1) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium hydroxide (50 %) (CAS 1310-73-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium hypochlorite solution (CAS 7681-52-9) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium laureth sulfate (CAS 68585-34-2) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium metasilicate (CAS 6834-92-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium nitrite (CAS 7632-00-0) | CN | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |

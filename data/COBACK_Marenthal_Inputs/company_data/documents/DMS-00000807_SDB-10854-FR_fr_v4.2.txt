@@ -1,0 +1,77 @@
+
+
+Fiche de données de sécurité Marencoat AL 634 laque
+alkyde
+Sicherheitsdatenblatt
+N° du document
+DMS-00000807
+Version
+4.2
+Valable depuis
+2025-05-13
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+1. Identification de la substance/du mélange et de la société
+Fiche de données de sécurité Marencoat AL 634 laque alkyde
+Marencoat AL 634 laque alkyde
+SDS: SDB-10854-FR
+2. Identification des dangers
+H: H226 H304 H317 H336 H411
+3. Composition / informations sur les composants
+Hydrocarbon
+solvent
+(hydrotreated
+heavy naphtha)
+64742-48-9 265-150-3 38.1–46.5 % H226 H304 H336
+H411
+Linseed oil 8001-26-1 232-278-6 24.3–29.7 %
+Titanium dioxide 13463-67-7 236-675-5 18.8–23 %
+Talc 14807-96-6 238-877-9 5–6.1 %
+Rosin (colophony) 8050-09-7 232-475-7 3.8–4.8 % H317
+4. Premiers secours
+Après contact avec la peau, laver à l’eau et au savon. Après contact avec les yeux, rincer plusieurs
+minutes à l’eau. Consulter un médecin en cas de symptômes.
+5. Mesures de lutte contre l’incendie
+Moyens d’extinction : mousse, poudre, dioxyde de carbone, eau pulvérisée. Porter un appareil
+respiratoire autonome.
+6. Mesures à prendre en cas de dispersion accidentelle
+Porter un équipement de protection, éliminer les sources d’ignition, absorber avec un matériau inerte.
+Ne pas rejeter à l’égout.
+7. Manipulation et stockage
+Conserver le récipient bien fermé dans un endroit ventilé, à l’écart des sources d’ignition et des
+produits incompatibles.
+8. Contrôle de l’exposition / protection individuelle
+Utiliser des gants, des lunettes de protection et, si nécessaire, une protection respiratoire. Assurer une
+ventilation suffisante.
+9. Propriétés physiques et chimiques
+
+Density: 1.061
+Base unit: KG
+Shelf life (months): 12
+10. Stabilité et réactivité
+Stable dans les conditions normales d’utilisation et de stockage. Éviter les oxydants forts, les acides et
+les bases.
+11. Informations toxicologiques
+Informations basées sur les composants de la section 3 et la classification du mélange.
+12. Informations écologiques
+Ne pas laisser pénétrer dans les eaux ou le sol.
+13. Considérations relatives à l’élimination
+Éliminer conformément à la réglementation locale (ICPE) par une entreprise agréée.
+14. Informations relatives au transport
+UN: UN1263
+ADR/IMDG class: 3
+Packing group: III
+HS: 32089019
+15. Informations réglementaires
+Classification et étiquetage selon le règlement (CE) n° 1272/2008 (CLP) et REACH (CE) n° 1907/2006.
+Hydrocarbon solvent (hydrotreated heavy naphtha): REACH – nicht erforderlich
+Linseed oil: REACH – ausgenommen
+Rosin (colophony): REACH – nicht erforderlich
+Talc: REACH – nicht erforderlich
+Titanium dioxide: REACH – nicht erforderlich
+16. Autres informations
+4.2 · 2025-05-13

@@ -1,0 +1,48 @@
+
+
+Non-Disclosure Agreement NDA-2019-0008 – Rift Valley
+Metal Finishing Ltd
+Geheimhaltungsvereinbarung
+Document no.
+DMS-00000023
+Version
+1.0
+Valid from
+2019-05-10
+Company
+Marenthal Chemie AG
+Status
+Archived
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: NDA-2019-0008
+type: NDA
+status: Expired
+start_date: 2019-05-10
+end_date: 2024-05-09
+auto_renew: 0
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-04-14
+governing_law: German law
+Account
+name: Rift Valley Metal Finishing Ltd
+type: Customer
+billing_street: 87 Cedar Street
+billing_city: Nairobi
+billing_postcode: 00100
+billing_country: KE
+industry: Metal and surface technology
+segment: Direct
+size_class: Medium
+status: Active
+website: www.riftvalley-metal.co.ke
+created_date: 2017-02-28
+last_modified_date: 2024-05-21
+language: en
+selling_entity: Marenthal Chemie AG
+description: Metal and surface technology; customer since 2017. Main products: Marenwet 206 wetting
+agent, Marenclean U 134 all-purpose cleaner.

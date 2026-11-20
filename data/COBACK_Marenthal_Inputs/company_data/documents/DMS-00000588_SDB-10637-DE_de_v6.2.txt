@@ -1,0 +1,80 @@
+
+
+Sicherheitsdatenblatt Marenclean B 1006 Chlorreiniger
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00000588
+Version
+6.2
+Gültig ab
+2025-02-06
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marenclean B 1006 Chlorreiniger
+Marenclean B 1006 Chlorreiniger
+SDS: SDB-10637-DE
+2. Mögliche Gefahren
+H: H290 H314 H315 H318 H400 H412
+3. Zusammensetzung / Angaben zu Bestandteilen
+Wasser (demineralisiert) 7732-18-5 231-791-2 71.7–87.7 %
+Natriumhypochlorit-Lösun
+g
+7681-52-9 231-668-3 14.9–18.3 % H290 H314
+H400
+Natriumlaurylethersulfat 68585-34-2 500-234-8 1.5–2.5 % H315 H318
+H412
+Natronlauge (50 %) 1310-73-2 215-185-5 1.2–2.2 % H290 H314
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 1.037
+Base unit: KG
+Shelf life (months): 24
+
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN1791
+ADR/IMDG class: 8
+Packing group: II
+HS: 28289090
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Sodium hydroxide (50 %): IECSC – nicht erforderlich
+Sodium hydroxide (50 %): REACH – nicht erforderlich
+Sodium hydroxide (50 %): TSCA – nicht erforderlich
+Sodium hypochlorite solution: IECSC – nicht erforderlich
+Sodium hypochlorite solution: REACH – nicht erforderlich
+Sodium hypochlorite solution: TSCA – nicht erforderlich
+Sodium laureth sulfate: IECSC – nicht erforderlich
+Sodium laureth sulfate: REACH – nicht erforderlich
+16. Sonstige Angaben
+6.2 · 2025-02-06

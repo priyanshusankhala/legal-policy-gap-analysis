@@ -1,0 +1,37 @@
+
+
+Technical Data Sheet Marenclean D 703 disinfectant
+cleaner
+Technisches Datenblatt
+Document no.
+DMS-00001139
+Version
+6.2
+Valid from
+2025-09-12
+Company
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean D 703 disinfectant cleaner
+Family: Industrial Cleaners
+Applications: Disinfectants, Facility hygiene
+Description: Reinigung und Desinfektion harter Oberflächen
+Hazardous: 1
+SDS available: 1
+Density: 0.96
+UN: UN1993
+Class: 3
+HS: 3808949000
+Origin: CN
+Composition
+Water (demineralised): 72–88 %
+Isopropanol: 13.7–16.7 %
+Benzalkonium chloride: 2.1–3.1 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 1.7–2.7 %

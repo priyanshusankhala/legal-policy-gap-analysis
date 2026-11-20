@@ -1,0 +1,84 @@
+
+
+Framework Agreement RV-2023-0040 – Baltic Industrial
+Systems SIA
+Rahmenvertrag
+Document no.
+DMS-00000194
+Version
+1.0
+Valid from
+2023-01-04
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2023-0040
+type: Framework Agreement
+status: Active
+start_date: 2023-01-04
+end_date: 2028-01-03
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 191.32
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-11-29
+compliance_review_ref: GPP0000757
+governing_law: German law
+payment_terms: Z060
+incoterm: CPT
+Terms
+Marenclean C 1305 CIP cleaner: 131.81 EUR/100 kg
+Marencoat AL 634 alkyd enamel: 611.61 EUR/100 kg
+Marencoat TG 1438 penetrating primer: 158.39 EUR/100 kg
+Sodium hydroxide (50 %), technical grade: 460.59 EUR/1000 kg
+Account
+name: Baltic Industrial Systems SIA
+type: Customer
+billing_street: Ostas iela 97
+billing_city: Rīga
+billing_postcode: LV-1083
+billing_country: LV
+industry: Mechanical and plant engineering
+segment: Direct
+size_class: Medium
+status: Active
+
+website: www.balticindustrial.lv
+created_date: 2011-05-22
+last_modified_date: 2025-05-09
+language: en
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-03-19
+cms_partner_ref: GP000274
+description: Mechanical and plant engineering. Sources Sodium hydroxide (50 %), technical grade,
+Marencoat TG 1438 penetrating primer for ongoing production.
+Rahmenvertragsnummer
+contract_number: RV-2023-0040
+type: Framework Agreement
+status: Active
+start_date: 2023-01-04
+end_date: 2028-01-03
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 191.32
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-11-29
+compliance_review_ref: GPP0000757
+governing_law: German law
+payment_terms: Z060
+incoterm: CPT
+Terms
+Marenclean C 1305 CIP cleaner: 131.81 EUR/100 kg
+Marencoat AL 634 alkyd enamel: 611.61 EUR/100 kg
+Marencoat TG 1438 penetrating primer: 158.39 EUR/100 kg
+Sodium hydroxide (50 %), technical grade: 460.59 EUR/1000 kg

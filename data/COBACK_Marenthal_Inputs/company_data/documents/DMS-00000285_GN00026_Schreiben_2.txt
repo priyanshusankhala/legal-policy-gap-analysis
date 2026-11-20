@@ -1,0 +1,30 @@
+
+
+Réponse aux prescriptions – Autorisation d'exploiter
+(stockage) (BS-VIE-2022/300)
+Behördenkorrespondenz
+N° du document
+DMS-00000285
+Version
+1.0
+Valable depuis
+2023-07-07
+Société
+Marenthal France S.A.S.
+Site
+FR01-003
+Statut
+Approved
+Confidentialité
+Confidential
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Genehmigung
+art: Autorisation d'exploiter (stockage)
+nummer: BS-VIE-2022/300
+behoerde: SDIS 38 (Service départemental d'incendie et de secours)
+erteilt_am: 2022-06-15
+gueltig_bis: 2027-06-11
+status: gültig
+auflagen: Lagerklassen und Mengen gemäß Bescheid; jährliche Brandschau.

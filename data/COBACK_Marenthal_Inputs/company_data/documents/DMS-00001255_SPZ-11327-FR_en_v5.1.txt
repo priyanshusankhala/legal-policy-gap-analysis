@@ -1,0 +1,34 @@
+
+
+Product Specification Sheet Isophorone diisocyanate,
+technical grade
+Spezifikationsblatt
+Document no.
+DMS-00001255
+Version
+5.1
+Valid from
+2025-11-07
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Isophorone diisocyanate, technical grade
+Family: Intermediates
+Applications: Polymer intermediates
+Description: Zwischenprodukt für Synthese und Formulierung (Härter)
+Hazardous: 1
+SDS available: 1
+Density: 1.06
+UN: UN2290
+Class: 6.1
+HS: 2929100000
+Origin: FR
+Composition
+Isophorone diisocyanate: 99–100 %

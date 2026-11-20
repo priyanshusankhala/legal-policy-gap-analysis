@@ -1,0 +1,57 @@
+COBACK | Marenthal input package
+
+START
+Your 48-hour window starts now: complete the task and submit your solution within 48 hours of the timestamp of the message in which Benjamin sends you this assignment and its input package. Read your personal task PDF, then unzip this input package once and use the ready-to-read company_data folder.
+
+1. COMPANY DATA
+company_data contains the files from marenthal-dump-2026-11-18.zip, ready to read. File contents are unchanged; filenames use consistent UTF-8 encoding and match the document index. The original archive is also included unchanged.
+The assessment entity is Marenthal Chemie AG (Germany), ID 1764010d-db68-42e2-8aa2-db89242548ad. The three foreign subsidiaries provide group context. Separate legal assessments of those subsidiaries are outside the exercise.
+Documents may use the local entity code CMS-DE-01 for this same German company.
+Use 18 November 2026 as the data snapshot date. Individual sources retain their own dates.
+
+Files inside company_data:
+- company_profile.json: grouped company statements, activities, locations, products and financial/employee context. Cite the precise JSON path and quoted text.
+- legal_entities.csv: four legal entities and parent links. Cite the entity ID and field name. The employee and revenue columns are blank; the company profile contains additional statements.
+- twin_questions.csv: 295 questions, of which four contain answers. Most are open. Read status and answerSource together with the answer; the populated answers are marked auto. A question is not an answer and an empty field does not mean no.
+- documents_index.csv: catalogue of 1,426 documents. Use its stable id and file fields to resolve document evidence.
+- documents/*.txt: extracted source text. The catalogue's name/mime may describe the original PDF or Markdown file; the supplied evidence is the corresponding TXT file.
+- marenthal.sql: database export, available as additional context. Importing it is not required; the exercise can use the CSV, JSON and TXT files directly.
+
+EVIDENCE
+Keep the statement, source, entity, date and status together. For documents, provide document_id, file, an exact quote and line numbers or another reproducible text location. For CSVs use the row ID and field; for JSON use a precise path. A source can report a fact without independently proving it. For example, a profile's confidence value or the word 'belegt' is source metadata, not a probability that a legal conclusion is correct.
+Keep group-wide figures separate from entity figures. The profile describes active employees; the NIS2 analysis defines annual work units. Preserve these different meanings when deciding what the evidence establishes.
+Version metadata can occur at both policy and document-version level. Check the specific document's Status / Richtlinienversion and dates; a policy's current-version field can appear inside an older, superseded document.
+Keep language versions separate. If two versions differ, show the differing passages and the source used; do not silently combine them into a stronger claim. For an unresolved question, record the sources reviewed and the fact still missing. No supporting quotation needs to be invented for an absence of evidence.
+
+2. LEGAL ANALYSIS
+The JSON and TXT pairs contain the same excerpts from COBACK's existing NIS2_Gesamtanalyse.xlsx, worksheet Gesamtanalyse, dated 12 October 2026. Original wording, IDs, source rows and source-link cells are preserved. The excerpts are legal analysis, with statutory references and links; they are not full copies of the statutes. Use these supplied texts as the legal input. New legal research is not part of the exercise. Ask Benjamin if a criterion or interpretation needs clarification.
+
+NIS2_relevance_criteria:
+- Start with 02-R01 (entity and paid activity), 02-R02 (actual activity) and 05-A2-3.1.1 (chemical substances and mixtures).
+- Apply the size condition in 02-R03 with the supporting 03-K definitions where needed.
+- Use 02-R11 to 02-R13 and 17-AUS references when internal activities, linked companies or IT independence affect the assessment.
+For the relevance prototype, organise the result into three core checks: entity/paid activity (02-R01), chemical-sector activity (02-R02 and 05-A2-3.1.1), and size (02-R03). The internal-activity and group rules qualify those checks; they are not extra mandatory conditions to combine with a flat AND. Explain whether each supporting rule is relevant, irrelevant or unresolved. Preserve alternatives and exceptions in the supplied analysis.
+The scope is this chemical-sector route for the German company. A full analysis of other sectors, special roles or important-versus-essential classification is not required.
+The overall conclusion may be needs clarification. Report the supported facts and specific missing facts instead of inventing quantities, ownership percentages or financial data. A documented partial assessment is a complete deliverable for this exercise.
+
+NIS2_selected_duties:
+- 04-P02-1: risk analysis and information-security concept.
+- 04-P02-2: incident handling.
+- 04-P02-3: business continuity, backups, recovery and crisis management.
+- 04-P02-6: assessment of the effectiveness of security measures.
+- 04-P01 and 17-AUS-17: context on appropriate measures, implementation and evidence.
+For the policy-mapping and gap-analysis tasks, assume these four duties have already been selected as applicable. This exercise assumption lets you start at the compliance stage; it is not a legal finding about Marenthal. Assess only these four duties. Use the general BSIG requirements in the excerpt; a separate assessment of the digital-provider implementing regulation is outside scope.
+
+3. STARTING POINTS
+document_starters.csv lists 15 source files. Its file paths are relative to company_data. You may limit the document search to these files plus company_profile.json, legal_entities.csv and twin_questions.csv. Further searching in the full corpus is optional. Describe the sources checked, so an unresolved result is clearly about the material reviewed. The list is not an answer key and does not imply that every duty has a supporting passage.
+For policy mapping, record text that supports all or part of a duty. Where no suitable passage is present in the reviewed files, show no supporting passage found and the content that needs clarification or an update. A language/version comparison need not show a change in legal coverage.
+For gap analysis, a supported gap list may be empty. Missing evidence is a valid state even after document review. A policy requirement or register assertion does not automatically establish execution or effectiveness of the full duty.
+relevance_questions.json contains eight factual questions for the relevance-quality exercise. It contains no answer labels. Create a small source-checked reference using supported, partial or unresolved answers. Cite positive evidence and, for missing facts, list the sources checked. Freeze this reference before comparing the baseline and proposed improvement. Record both unnecessary abstentions on answerable questions and correct abstentions on unresolved ones. A neutral or worse result is acceptable if reported and explained; no gain is guaranteed on this small sample.
+
+4. WORKING FORMAT
+Choose your implementation language and libraries. Source materials are mainly German; your submission and explanation may be in English. A local prototype is sufficient. No COBACK login or paid API is required. Preserve the original input files; if you create a test variant, label it separately.
+
+CONTACT
+Benjamin Ernst
+WhatsApp: +49 1520 4188325
+Email: benjamin@coback.ai

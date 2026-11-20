@@ -1,0 +1,13 @@
+# Register of recipe and process changes - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). As of 2026-11-09.
+
+Change requests for products, substances and processes, with the assessment and the decision.
+
+| Change | Type | Product | Substance | Requested | Status | Assessment | Decided | Effective from |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lieferantenwechsel für Kaolin (Marencoat EB 905 Epoxid-Bodenbeschichtung 2K (Komponente A)) | Lieferantenwechsel | Marencoat EB 905 2K epoxy floor coating (component A) (PS-2025-0155) | Kaolin (CAS 1332-58-7) | 2025-12-24 | in Bewertung | - | - | - |
+| Rezepturanpassung Marencoat EB 905 Epoxid-Bodenbeschichtung 2K (Komponente A) | Rezepturaenderung | Marencoat EB 905 2K epoxy floor coating (component A) (PS-2025-0155) | Barium sulfate (CAS 7727-43-7) | 2025-12-24 | in Bewertung | - | - | - |
+| Rezepturanpassung Marenpaste 237 Pigmentpräparation | Rezepturaenderung | Marenpaste 237 pigment preparation (PS-2021-0120) | Propylene glycol (CAS 57-55-6) | 2023-08-02 | umgesetzt | Neue Rezeptur bewertet: Einstufung und Kennzeichnung unverändert, alle Bestandteile in den Zielmärkten registriert bzw. gelistet; SDB wird angepasst. | 2023-10-03 | 2023-11-13 |
+| Verpackungsumstellung Natronlauge (50 %), techn. | Verpackungsaenderung | Sodium hydroxide (50 %), technical grade (PS-2021-0194) | - | 2023-10-18 | umgesetzt | Verpackungsumstellung bewertet: Vorgaben nach ADR/IMDG und UN-Zulassung der Verpackung eingehalten; Gefahrgutangaben werden aktualisiert. | 2023-12-11 | 2024-01-08 |
+| Verpackungsumstellung Phosphorsäure (75 %), techn. | Verpackungsaenderung | Phosphoric acid (75 %), technical grade (PS-2021-0195) | - | 2024-03-08 | umgesetzt | Verpackungsumstellung bewertet: Vorgaben nach ADR/IMDG und UN-Zulassung der Verpackung eingehalten; Gefahrgutangaben werden aktualisiert. | 2024-04-25 | 2024-05-21 |

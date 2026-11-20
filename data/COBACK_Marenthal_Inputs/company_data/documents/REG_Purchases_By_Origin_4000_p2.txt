@@ -1,0 +1,14 @@
+# Register of raw material and goods purchases by country of origin - Marenthal Chemicals (Shanghai) Co., Ltd. (part 2 of 2)
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: purchase orders of the ERP, summarised per material and country of origin.
+
+Shows for every purchased material where it originates, how many order lines and how much was bought. Use it to see which materials the company imports and from which countries.
+
+| Company | Material | Material no. | Country of origin | Purchase order lines | Total quantity | HS code | First order | Last order |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 特殊废物处置 | - | - | 30 | 139 ST | - | 2025-02-10 | 2025-12-16 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 离心泵备件 | - | - | 92 | 374 ST | - | 2025-01-14 | 2025-12-22 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 第三方仓储服务 | - | - | 22 | 48 ST | - | 2025-01-27 | 2025-12-15 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 职业安全检查 | - | - | 20 | 26 ST | - | 2025-02-10 | 2026-01-02 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 质量管理咨询 | - | - | 18 | 32 ST | - | 2025-02-07 | 2025-10-27 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | 阀门及管件 | - | - | 108 | 692 ST | - | 2025-01-21 | 2025-12-29 |

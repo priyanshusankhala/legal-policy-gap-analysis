@@ -1,0 +1,15 @@
+# Register of recipe and process changes - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). As of 2026-11-09.
+
+Change requests for products, substances and processes, with the assessment and the decision.
+
+| Change | Type | Product | Substance | Requested | Status | Assessment | Decided | Effective from |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Anpassung der Kennzeichnung Marencoat AF 333 Fassadenfarbe (Acryl) | Kennzeichnungsaenderung | Marencoat AF 333 acrylic facade paint (PS-2021-0144) | - | 2025-06-24 | umgesetzt | Anpassung der Kennzeichnung bewertet: Etikett und SDB Abschnitt 2 abgestimmt, Sprachen der Zielmärkte geprüft. | 2025-08-18 | 2025-11-04 |
+| Anpassung der Kennzeichnung Marencoat AL 634 Alkydharzlack | Kennzeichnungsaenderung | Marencoat AL 634 alkyd enamel (PS-2021-0150) | - | 2024-11-15 | abgelehnt | Bewertung negativ: Der Entwurf entspricht nicht der aktuellen CLP-Einstufung; Überarbeitung erforderlich. | 2025-01-22 | - |
+| Anpassung der Kennzeichnung Marensolv 302 Entfettungsbenzin (Lösemittelgemisch) | Kennzeichnungsaenderung | Marensolv 302 degreasing spirit (solvent blend) (PS-2021-0118) | - | 2023-07-20 | umgesetzt | Anpassung der Kennzeichnung bewertet: Etikett und SDB Abschnitt 2 abgestimmt, Sprachen der Zielmärkte geprüft. | 2023-08-14 | 2023-11-07 |
+| Anpassung der Kennzeichnung Marenwet 237 Netzmittel | Kennzeichnungsaenderung | Marenwet 237 wetting agent (PS-2021-0102) | - | 2024-02-28 | umgesetzt | Anpassung der Kennzeichnung bewertet: Etikett und SDB Abschnitt 2 abgestimmt, Sprachen der Zielmärkte geprüft. | 2024-05-01 | 2024-07-30 |
+| Lieferantenwechsel bei Titandioxid, techn. | Lieferantenwechsel | Titanium dioxide, technical grade (PS-2021-0198) | - | 2024-03-29 | umgesetzt | Lieferantenwechsel bewertet: Stoffidentität und Spezifikation gleichwertig, Registrierungsstatus des neuen Lieferanten nachgewiesen; Eingangsprüfung wird angepasst. | 2024-04-16 | 2024-06-12 |
+| Verpackungsumstellung Marenwet 237 Netzmittel | Verpackungsaenderung | Marenwet 237 wetting agent (PS-2021-0102) | - | 2025-12-04 | abgelehnt | Bewertung negativ: Für den Stoff liegt keine UN-Zulassung der vorgesehenen Verpackung vor. | 2025-12-18 | - |
+| Verpackungsumstellung Titandioxid, techn. | Verpackungsaenderung | Titanium dioxide, technical grade (PS-2021-0198) | - | 2023-09-13 | umgesetzt | Verpackungsumstellung bewertet: Vorgaben nach ADR/IMDG und UN-Zulassung der Verpackung eingehalten; Gefahrgutangaben werden aktualisiert. | 2023-10-24 | 2024-01-10 |

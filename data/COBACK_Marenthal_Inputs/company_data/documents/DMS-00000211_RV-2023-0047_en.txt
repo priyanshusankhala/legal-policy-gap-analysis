@@ -1,0 +1,82 @@
+
+
+Supply Agreement RV-2023-0047 – Odra Maszyny Sp. z
+o.o.
+Liefervertrag
+Document no.
+DMS-00000211
+Version
+1.0
+Valid from
+2023-03-09
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2023-0047
+type: Supply Agreement
+status: Active
+start_date: 2023-03-09
+end_date: 2028-03-08
+auto_renew: 1
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 431.61
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-02-16
+compliance_review_ref: GPP0001068
+governing_law: German law
+payment_terms: Z014
+incoterm: DAP
+Terms
+Marenpaste 237 pigment preparation: 372.29 EUR/100 kg
+Marencoat AF 333 acrylic facade paint: 411.19 EUR/100 kg
+Hydrochloric acid (33 %), technical grade: 124.6 EUR/1000 kg
+Account
+name: Odra Maszyny Sp. z o.o.
+type: Customer
+billing_street: ul. Chemików 12
+billing_city: Wrocław
+billing_postcode: 50-377
+billing_country: PL
+industry: Mechanical and plant engineering
+segment: Direct
+size_class: Large
+status: Active
+website: www.odra-maszyny.pl
+
+created_date: 2016-07-29
+last_modified_date: 2024-12-03
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-04-19
+cms_partner_ref: GP000390
+description: Mechanical and plant engineering. Regular call-offs of Marencoat AF 333 acrylic facade
+paint, Marenpaste 237 pigment preparation according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2023-0047
+type: Supply Agreement
+status: Active
+start_date: 2023-03-09
+end_date: 2028-03-08
+auto_renew: 1
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 431.61
+selling_entity: Marenthal Chemie AG
+signed_date: 2023-02-16
+compliance_review_ref: GPP0001068
+governing_law: German law
+payment_terms: Z014
+incoterm: DAP
+Terms
+Marenpaste 237 pigment preparation: 372.29 EUR/100 kg
+Marencoat AF 333 acrylic facade paint: 411.19 EUR/100 kg
+Hydrochloric acid (33 %), technical grade: 124.6 EUR/1000 kg

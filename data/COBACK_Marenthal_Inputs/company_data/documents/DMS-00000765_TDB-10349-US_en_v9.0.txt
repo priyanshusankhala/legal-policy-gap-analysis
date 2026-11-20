@@ -1,0 +1,37 @@
+
+
+Technical Data Sheet Marenpaste 237 pigment
+preparation
+Technisches Datenblatt
+Document no.
+DMS-00000765
+Version
+9.0
+Valid from
+2025-04-25
+Company
+Marenthal Chemicals Inc.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenpaste 237 pigment preparation
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Surfactant systems
+Description: Einfärbung wässriger Beschichtungen
+Hazardous: 1
+SDS available: 1
+Density: 1.165
+HS: 3212900000
+Origin: US
+Composition
+Water (demineralised): 49.7–60.8 %
+Carbon black: 27.8–34 %
+Styrene-acrylate copolymer dispersion: 5.9–7.2 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 3.4–4.4 %
+Propylene glycol: 2.9–3.9 %
+1,2-Benzisothiazolin-3-one: 0.02–0.06 %

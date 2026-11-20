@@ -1,0 +1,82 @@
+
+
+Framework Agreement RV-2024-0098 – Farkas
+Coatings Zrt.
+Rahmenvertrag
+Document no.
+DMS-00000369
+Version
+1.0
+Valid from
+2024-05-06
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2024-0098
+type: Framework Agreement
+status: Active
+start_date: 2024-05-06
+end_date: 2026-05-05
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 275.76
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-03-27
+compliance_review_ref: GPP0001279
+governing_law: German law
+payment_terms: Z045
+incoterm: FCA
+Terms
+Ethanol, technical grade: 1054.69 EUR/1000 kg
+Methanol, technical grade: 419.67 EUR/1000 kg
+Sodium hydroxide (50 %), technical grade: 465.68 EUR/1000 kg
+Account
+name: Farkas Coatings Zrt.
+type: Customer
+billing_street: Kossuth Lajos utca 230
+billing_city: Szeged
+billing_postcode: 6740
+billing_country: HU
+industry: Paints and coatings
+segment: Direct
+size_class: Medium
+status: Active
+website: www.farkascoatings.com
+
+created_date: 2019-10-04
+last_modified_date: 2024-09-26
+language: en
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-03-31
+cms_partner_ref: GP000467
+description: Paints and coatings. Regular call-offs of Sodium hydroxide (50 %), technical grade,
+Methanol, technical grade according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2024-0098
+type: Framework Agreement
+status: Active
+start_date: 2024-05-06
+end_date: 2026-05-05
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 275.76
+selling_entity: Marenthal Chemie AG
+signed_date: 2024-03-27
+compliance_review_ref: GPP0001279
+governing_law: German law
+payment_terms: Z045
+incoterm: FCA
+Terms
+Ethanol, technical grade: 1054.69 EUR/1000 kg
+Methanol, technical grade: 419.67 EUR/1000 kg
+Sodium hydroxide (50 %), technical grade: 465.68 EUR/1000 kg

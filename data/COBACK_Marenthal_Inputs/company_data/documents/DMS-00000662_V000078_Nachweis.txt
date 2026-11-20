@@ -1,0 +1,31 @@
+
+
+Nachweis: Grenzüberschreitende Datenübermittlungen
+absichern
+Nachweis Rechtspflicht
+Dokumentnummer
+DMS-00000662
+Version
+1.0
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Verpflichtung
+titel: Grenzüberschreitende Datenübermittlungen absichern
+beschreibung: Standardvertragsklauseln bzw. behördliche Sicherheitsbewertung für
+Datenübermittlungen zwischen EU, USA und China nachweisen.
+quelle: DSGVO Kap. V
+quelltyp: Gesetz
+land: DE
+anwendbarkeit: anwendbar
+frist_art: wiederkehrend
+naechste_frist: 2026-02-27
+intervall_monate: 12
+status: erfüllt
+letzte_pruefung: 2025-03-04

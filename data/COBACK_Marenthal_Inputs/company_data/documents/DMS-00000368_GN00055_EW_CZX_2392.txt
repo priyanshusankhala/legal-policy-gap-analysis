@@ -1,0 +1,21 @@
+地磅检定证书 – EW-CZX-2392
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00000368
+版本: 1.0
+生效日期: 2024-03-08
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: Eichung Fahrzeugwaage
+nummer: EW-CZX-2392
+behoerde: 市场监督管理局 (计量所)
+erteilt_am: 2024-03-08
+gueltig_bis: 2026-03-10
+status: in Verlängerung

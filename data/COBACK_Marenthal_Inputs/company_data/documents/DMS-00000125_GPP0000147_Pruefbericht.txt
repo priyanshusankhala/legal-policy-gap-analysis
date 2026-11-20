@@ -1,0 +1,43 @@
+
+
+Prüfbericht Erstprüfung (GPP0000147)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000125
+Version
+1.0
+Gültig ab
+2022-02-02
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Erstprüfung
+pruefdatum: 2022-02-01
+anlass: Erstprüfung des Bestands bei Einführung des Systems
+risikoklasse: hoch
+sanktionslisten_abgleich: Treffer - geprüft
+pep_pruefung: kein Treffer
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Jahresprüfung statt Dreijahresprüfung; Eigentümerstruktur offenlegen
+gueltig_bis: 2023-01-27
+begruendung: Treffer bei der Sanktionsprüfung bewertet; Beteiligungsverhältnisse offengelegt,
+Geschäftsbeziehung nur mit Auflagen zulässig. Risikoklasse hoch. Freigabe unter Auflagen.
+Geschäftspartner
+name: Hoffmann Oberflächentechnik GmbH & Co. KG
+partner_typ: Kunde
+land: DE
+strasse: Lindenallee 93
+plz: 22358
+ort: Hamburg
+aktiv: 1
+risikoklasse_aktuell: mittel
+letzte_pruefung: 2025-01-16
+freigabestatus: freigegeben

@@ -1,0 +1,43 @@
+
+
+Code de conduite : supplément pour la France (loi
+Sapin II)
+Lokale Ergänzung zur Richtlinie
+N° du document
+DMS-00000270
+Version
+1.0
+Valable depuis
+2023-06-29
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « Compliance » pour Marenthal France S.A.S..
+Elle s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires
+commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinienergänzung
+land: FR
+titel: Verhaltenskodex: Ergänzung für Frankreich (Loi Sapin II)
+inhalt_kurz: Ergänzt die Konzernrichtlinie „Verhaltenskodex“ (Fassung 1.1) um die Anforderungen für
+Frankreich: Loi Sapin II; regelt lokale Zuständigkeiten und Meldewege.
+basiert_auf_version: 1.1
+gueltig_ab: 2023-06-29
+status: veraltet
+freigabe_datum: 2023-06-29
+Richtlinie
+nummer: KR-001
+titel: Verhaltenskodex
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-01
+master_sprache: de
+vertraulichkeit: öffentlich

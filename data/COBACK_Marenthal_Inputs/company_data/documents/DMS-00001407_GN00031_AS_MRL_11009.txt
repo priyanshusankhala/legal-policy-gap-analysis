@@ -1,0 +1,30 @@
+
+
+Zertifikat Arbeitsschutzmanagement ISO 45001:2018 –
+AS-MRL-11009
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00001407
+Version
+1.0
+Gültig ab
+2025-12-22
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Zertifikat Arbeitsschutzmanagement ISO 45001:2018
+nummer: AS-MRL-11009
+behoerde: TÜV Rheinland
+erteilt_am: 2025-12-22
+gueltig_bis: 2028-12-28
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

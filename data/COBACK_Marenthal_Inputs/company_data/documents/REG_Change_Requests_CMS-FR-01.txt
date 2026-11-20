@@ -1,0 +1,13 @@
+# Register of recipe and process changes - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Change requests for products, substances and processes, with the assessment and the decision.
+
+| Change | Type | Product | Substance | Requested | Status | Assessment | Decided | Effective from |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Anpassung der Kennzeichnung Isophorondiisocyanat, techn. | Kennzeichnungsaenderung | Isophorone diisocyanate, technical grade (PS-2021-0178) | - | 2023-06-23 | umgesetzt | Anpassung der Kennzeichnung bewertet: Etikett und SDB Abschnitt 2 abgestimmt, Sprachen der Zielmärkte geprüft. | 2023-07-21 | 2023-09-06 |
+| Prozessanpassung bei der Herstellung von Vinylacetat, techn. | Prozessaenderung | Vinyl acetate, technical grade (PS-2021-0174) | - | 2024-09-24 | umgesetzt | Prozessänderung bewertet: keine Auswirkung auf Zusammensetzung und Einstufung, Genehmigungslage der Anlage bleibt unberührt. | 2024-11-01 | 2024-12-11 |
+| Rezepturanpassung Marenclean M 1200 Maschinenreiniger (Pulver) | Rezepturaenderung | Marenclean M 1200 machine cleaner (powder) (PS-2021-0139) | Sodium carbonate (CAS 497-19-8) | 2025-02-06 | umgesetzt | Neue Rezeptur bewertet: Einstufung und Kennzeichnung unverändert, alle Bestandteile in den Zielmärkten registriert bzw. gelistet; SDB wird angepasst. | 2025-04-14 | 2025-06-26 |
+| Verpackungsumstellung 2-Ethylhexylacrylat, techn. | Verpackungsaenderung | 2-Ethylhexyl acrylate, technical grade (PS-2021-0173) | - | 2024-11-26 | umgesetzt | Verpackungsumstellung bewertet: Vorgaben nach ADR/IMDG und UN-Zulassung der Verpackung eingehalten; Gefahrgutangaben werden aktualisiert. | 2025-01-27 | 2025-02-25 |
+| Verpackungsumstellung Diethylentriamin, techn. | Verpackungsaenderung | Diethylenetriamine, technical grade (PS-2021-0180) | - | 2023-08-29 | umgesetzt | Verpackungsumstellung bewertet: Vorgaben nach ADR/IMDG und UN-Zulassung der Verpackung eingehalten; Gefahrgutangaben werden aktualisiert. | 2023-10-09 | 2023-12-05 |

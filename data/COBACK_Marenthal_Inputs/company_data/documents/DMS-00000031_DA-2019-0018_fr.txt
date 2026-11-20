@@ -1,0 +1,56 @@
+
+
+Contrat de distribution DA-2019-0018 – Rhône
+Distribution chimique SARL
+Vertriebsvertrag
+N° du document
+DMS-00000031
+Version
+1.0
+Valable depuis
+2019-08-21
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Confidential
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Vertrag
+contract_number: DA-2019-0018
+type: Distribution Agreement
+status: Active
+start_date: 2019-08-21
+end_date: 2026-08-20
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal France S.A.S.
+signed_date: 2019-07-24
+governing_law: French law
+payment_terms: Z060
+incoterm: DAP
+Account
+name: Rhône Distribution chimique SARL
+type: Distributor
+billing_street: 180 chemin des Carrières
+billing_city: Lyon
+billing_postcode: 69005
+billing_country: FR
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.rhone-distribution.com
+created_date: 2006-02-27
+last_modified_date: 2025-04-23
+language: fr
+selling_entity: Marenthal France S.A.S.
+compliance_status: Approved with conditions
+compliance_checked_on: 2025-11-26
+cms_partner_ref: GP000156
+
+description: Partenaire de distribution (Négoce de produits chimiques), focus sur Marenwet 237 agent
+mouillant, Éthanol, qualité technique ; logistique d'entrepôt propre en France.

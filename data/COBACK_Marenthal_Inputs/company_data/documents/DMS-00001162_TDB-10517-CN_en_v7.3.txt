@@ -1,0 +1,35 @@
+
+
+Technical Data Sheet Marenclean E 504 degreaser
+Technisches Datenblatt
+Document no.
+DMS-00001162
+Version
+7.3
+Valid from
+2025-09-19
+Company
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenclean E 504 degreaser
+Family: Industrial Cleaners
+Applications: Cleaning of parts, Hard surface cleaning
+Description: Entfettung von Maschinen, Küchen und Werkstätten
+Hazardous: 1
+SDS available: 1
+Density: 0.973
+HS: 3402909000
+Origin: CN
+Composition
+Water (demineralised): 71.5–87.3 %
+Isopropanol: 7.1–8.7 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 5.2–6.4 %
+2-Butoxyethanol: 4.9–5.9 %
+Monoethanolamine: 1–2 %

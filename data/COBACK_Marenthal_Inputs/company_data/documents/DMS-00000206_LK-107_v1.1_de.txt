@@ -1,0 +1,42 @@
+
+
+Betriebsvereinbarung IT-Nutzung
+Lokale Richtlinie
+Dokumentnummer
+DMS-00000206
+Version
+1.1
+Gültig ab
+2023-01-17
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Zweck und Geltungsbereich
+Diese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Informationssicherheit“
+fest. Sie gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für
+Geschäftspartner. Verstöße können arbeits- und strafrechtliche Folgen haben.
+Pflichten und Zuständigkeiten
+Persönliche Schutzausrüstung: Bestand und Zustand prüfen – Marl – Schutzkleidung, Atemschutz und
+Augenschutz auf Vollständigkeit und Zustand kontrollieren.
+Persönliche Schutzausrüstung: Bestand und Zustand prüfen – Bitterfeld-Wolfen – Schutzkleidung,
+Atemschutz und Augenschutz auf Vollständigkeit und Zustand kontrollieren.
+Richtlinie
+nummer: LK-107
+titel: Betriebsvereinbarung IT-Nutzung
+thema: Informationssicherheit
+geltung: Lokal
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2027-06-11
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.1
+sprache: de
+status: Gültig
+gueltig_ab: 2023-01-17
+freigabe_datum: 2023-01-17
+aenderungsgrund: Anpassung an die aktuelle Bedrohungslage

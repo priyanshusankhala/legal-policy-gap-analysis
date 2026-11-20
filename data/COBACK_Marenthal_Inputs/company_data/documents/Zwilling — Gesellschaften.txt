@@ -1,0 +1,68 @@
+# Gesellschaften und Rechtstraeger
+
+4 Rechtstraeger. Die Spalte Gruppenzugehoerigkeit ist auszuwerten: Eintraege mit "dritter" gehoeren nicht zur Gruppe, Eintraege mit "offen" sind weder belegt noch widerlegt. Die Spalte Muttergesellschaft gibt wieder, was oeffentlich belegt ist; "nicht gefunden" ist kein Nein.
+
+Jede Angabe traegt in eckigen Klammern ihre Herkunft: Quellenkennung, Belegstatus, Vertrauensniveau und Stichtag. `belegt` heisst, die Angabe steht so in der Quelle. `indirekt_belegt` heisst, sie ist aus einer belegten Tatsache abgeleitet und nennt nie einen Zahlenwert. `belegt_ohne_registerauszug` heisst, die Gesellschaft ist durch eine Unternehmensquelle belegt, aber es liegt kein amtlicher Registerauszug vor. `nicht_oeffentlich` heisst, die Angabe existiert, wird aber nicht veroeffentlicht. `nicht_gefunden` heisst, sie war trotz gezielter Suche nicht auffindbar. Die letzten beiden sind kein Nein: sie fuehren zu einer offenen internen Frage und niemals zu einer geschaetzten Angabe.
+
+## CMS-CN-01 — Marenthal Chemicals (Shanghai) Co., Ltd. [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Rechtsform:** Co., Ltd. (WFOE)
+- **Land:** CN
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Sitz:** Shanghai
+- **Adresse:** 工业大道2号, 201203 Shanghai
+- **Registerbeleg vorhanden:** ja
+- **UID:** 91310115L3JL157GX3
+- **Zweck:** Herstellung und Vertrieb von Spezial- und Beschichtungschemikalien sowie Reinigern
+- **Muttergesellschaft:** Marenthal Chemie AG
+- **Wirtschaftsakteursrolle Eigenprodukte:** Hersteller (Sitz außerhalb der EU)
+- **Belegstatus der Rolle:** belegt
+- **Belegstelle:** Stammdaten Compliance-System, ERP-Buchungskreis 4000
+
+## CMS-DE-01 — Marenthal Chemie AG [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Rechtsform:** Aktiengesellschaft
+- **Land:** DE
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Sitz:** Frankfurt am Main
+- **Adresse:** Gewerbepark 77, 60388 Frankfurt am Main
+- **Registernummer:** HRB 42508, AG Frankfurt/M.
+- **Registerbeleg vorhanden:** ja
+- **UID:** DE786899208
+- **Zweck:** Herstellung und Vertrieb von Spezial- und Beschichtungschemikalien sowie Reinigern
+- **Beteiligungen:** Marenthal Chemicals (Shanghai) Co., Ltd. (CN); Marenthal France S.A.S. (FR); Marenthal Chemicals Inc. (US)
+- **Wirtschaftsakteursrolle Eigenprodukte:** Hersteller
+- **Belegstatus der Rolle:** belegt
+- **Belegstelle:** Stammdaten Compliance-System, ERP-Buchungskreis 1000
+
+## CMS-FR-01 — Marenthal France S.A.S. [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Rechtsform:** Société par actions simplifiée
+- **Land:** FR
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Sitz:** Lyon
+- **Adresse:** 5 chemin des Carrières, 69003 Lyon
+- **Registernummer:** RCS Lyon 881 364 137
+- **Registerbeleg vorhanden:** ja
+- **UID:** FR75881364137
+- **Zweck:** Herstellung und Vertrieb von Spezial- und Beschichtungschemikalien sowie Reinigern
+- **Muttergesellschaft:** Marenthal Chemie AG
+- **Wirtschaftsakteursrolle Eigenprodukte:** Hersteller
+- **Belegstatus der Rolle:** belegt
+- **Belegstelle:** Stammdaten Compliance-System, ERP-Buchungskreis 2000
+
+## CMS-US-01 — Marenthal Chemicals Inc. [Q001 · belegt · hoch · Stichtag 2026-11-09]
+
+- **Rechtsform:** Corporation (Delaware)
+- **Land:** US
+- **Gruppenzugehoerigkeit:** Gruppe
+- **Sitz:** Houston, TX
+- **Adresse:** 45 Harbor Road, 77002 Houston
+- **Registernummer:** Delaware File No. 6193440
+- **Registerbeleg vorhanden:** ja
+- **UID:** 56-3286439
+- **Zweck:** Herstellung und Vertrieb von Spezial- und Beschichtungschemikalien sowie Reinigern
+- **Muttergesellschaft:** Marenthal Chemie AG
+- **Wirtschaftsakteursrolle Eigenprodukte:** Hersteller (Sitz außerhalb der EU)
+- **Belegstatus der Rolle:** belegt
+- **Belegstelle:** Stammdaten Compliance-System, ERP-Buchungskreis 3000

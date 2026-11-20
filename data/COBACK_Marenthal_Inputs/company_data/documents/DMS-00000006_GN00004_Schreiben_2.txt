@@ -1,0 +1,30 @@
+
+
+Response to Permit Conditions – TCEQ Air Permit (No.
+142857)
+Behördenkorrespondenz
+Document no.
+DMS-00000006
+Version
+1.0
+Valid from
+2010-04-21
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: TCEQ Air Permit
+nummer: No. 142857
+behoerde: Texas Commission on Environmental Quality
+erteilt_am: 2008-09-01
+status: gültig
+auflagen: Auflagen zu Emissionen, Messungen und Betriebstagebuch gemäß Bescheid; jährliche
+Berichte an die Behörde.

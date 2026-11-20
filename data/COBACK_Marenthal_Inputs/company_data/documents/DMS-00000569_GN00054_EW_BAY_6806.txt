@@ -1,0 +1,28 @@
+
+
+Calibration of Vehicle Scale – EW-BAY-6806
+Genehmigung oder Zertifikat
+Document no.
+DMS-00000569
+Version
+1.0
+Valid from
+2025-01-17
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: Eichung Fahrzeugwaage
+nummer: EW-BAY-6806
+behoerde: State Weights and Measures Division
+erteilt_am: 2025-01-17
+gueltig_bis: 2027-01-20
+status: gültig

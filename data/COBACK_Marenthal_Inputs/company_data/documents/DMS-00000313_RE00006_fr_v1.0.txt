@@ -1,0 +1,44 @@
+
+
+Lutte contre la corruption : supplément France (Sapin
+II, cartographie des risques)
+Lokale Ergänzung zur Richtlinie
+N° du document
+DMS-00000313
+Version
+1.0
+Valable depuis
+2023-10-16
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « Compliance » pour Marenthal France S.A.S..
+Elle s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires
+commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinienergänzung
+land: FR
+titel: Antikorruption: Ergänzung Frankreich (Sapin II, Cartographie des risques)
+inhalt_kurz: Ergänzt die Konzernrichtlinie „Richtlinie Antikorruption und Zuwendungen“ (Fassung 1.1)
+um die Anforderungen für Frankreich: Sapin II, Cartographie des risques; regelt lokale Zuständigkeiten
+und Meldewege.
+basiert_auf_version: 1.1
+gueltig_ab: 2023-10-16
+status: veraltet
+freigabe_datum: 2023-10-16
+Richtlinie
+nummer: KR-002
+titel: Richtlinie Antikorruption und Zuwendungen
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-24
+master_sprache: de
+vertraulichkeit: intern

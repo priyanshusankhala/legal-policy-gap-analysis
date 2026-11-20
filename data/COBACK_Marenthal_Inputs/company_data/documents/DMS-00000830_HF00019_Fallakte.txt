@@ -1,0 +1,35 @@
+
+
+Dossier HF00019 (confidentiel)
+Fallakte Meldestelle
+N° du document
+DMS-00000830
+Version
+1.0
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Restricted
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Hinweisfall
+eingang_datum: 2025-05-07
+kanal: Ombudsperson
+kategorie: Buchhaltung und Betrug
+sprache: fr
+schweregrad: mittel
+status: abgeschlossen
+zugriff: Meldestelle
+anonym: 0
+kurzbeschreibung: Die Meldestelle hat einen Hinweis zu möglichem Betrug im Bereich Buchhaltung
+erhalten. Gemeldet wurden auffällig hohe Spesenabrechnungen, bei denen die zugehörigen Belege
+unvollständig sind. Der Schweregrad wird als mittel eingestuft. Betroffen ist die Gesellschaft FR. Der
+Fall wird geprüft, insbesondere die Plausibilität der Abrechnungen und die Vollständigkeit der
+Nachweise. Weitere Maßnahmen werden nach Abschluss der ersten Prüfung festgelegt.
+bestaetigung_am: 2025-05-12
+rueckmeldung_am: 2025-06-17
+abschluss_datum: 2025-07-29
+ergebnis: nicht bestätigt

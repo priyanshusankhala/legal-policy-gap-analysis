@@ -1,0 +1,112 @@
+# Register of material batches by country of origin - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+For every material, the country of origin recorded on its batches and how many batches there are per country. Batches show the real origin of goods received or produced.
+
+| Material | Material no. | Country of origin (batch) | Batches |
+| --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one | 4030000004 | China (CN) | 13 |
+| 2-Butoxyethanol | 4030000010 | China (CN) | 14 |
+| 2-Ethylhexyl acrylate, technical grade | 4020000040 | France (FR) | 5 |
+| Acetic acid, technical grade | 4020000056 | Netherlands (NL) | 10 |
+| Acrylic acid, technical grade | 4020000043 | France (FR) | 6 |
+| Ammonia solution (25 %) | 4030000013 | China (CN) | 13 |
+| Ammonia solution (25 %) | 4030000013 | South Korea (KR) | 1 |
+| Barium sulfate | 4030000026 | China (CN) | 12 |
+| Barium sulfate | 4030000026 | Germany (DE) | 1 |
+| Benzalkonium chloride | 4030000012 | China (CN) | 12 |
+| Benzalkonium chloride | 4030000012 | Japan (JP) | 1 |
+| Bisphenol-A epoxy resin | 4030000024 | China (CN) | 13 |
+| Bisphenol-A epoxy resin | 4030000024 | Germany (DE) | 1 |
+| Butyl acetate, technical grade | 4020000050 | Germany (DE) | 4 |
+| Calcium carbonate | 4030000015 | China (CN) | 13 |
+| Calcium carbonate, technical grade | 4020000063 | China (CN) | 11 |
+| Diethylenetriamine, technical grade | 4020000046 | France (FR) | 5 |
+| Dipropylene glycol | 4030000003 | China (CN) | 13 |
+| Ethanol, technical grade | 4020000048 | Belgium (BE) | 8 |
+| Ethyl acetate, technical grade | 4020000049 | Netherlands (NL) | 9 |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) | 4030000009 | China (CN) | 14 |
+| Glycerol, technical grade | 4020000060 | China (CN) | 10 |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) | 4030000005 | China (CN) | 14 |
+| Hydrochloric acid (33 %), technical grade | 4020000054 | Germany (DE) | 13 |
+| Hydroxyethyl cellulose | 4030000021 | China (CN) | 13 |
+| Hydroxyethyl cellulose | 4030000021 | South Korea (KR) | 1 |
+| Isophorone diisocyanate, technical grade | 4020000045 | France (FR) | 2 |
+| Isopropanol | 4030000008 | China (CN) | 14 |
+| Isopropanol, technical grade | 4020000047 | Belgium (BE) | 10 |
+| Linseed oil | 4030000022 | China (CN) | 13 |
+| Maleic anhydride, technical grade | 4020000044 | France (FR) | 5 |
+| Marenbase 1003 neutralising agent | 4020000009 | Germany (DE) | 4 |
+| Marenclean A 238 alkaline industrial cleaner | 4020000016 | Germany (DE) | 6 |
+| Marenclean B 1006 chlorine-based cleaner | 4020000022 | Germany (DE) | 5 |
+| Marenclean C 1305 CIP cleaner | 4020000025 | United States (US) | 4 |
+| Marenclean D 703 disinfectant cleaner | 4010000004 | China (CN) | 225 |
+| Marenclean E 504 degreaser | 4010000003 | China (CN) | 129 |
+| Marenclean E 537 degreaser | 4020000019 | Germany (DE) | 6 |
+| Marenclean G 800 glass cleaner | 4010000005 | China (CN) | 816 |
+| Marenclean H 637 hand cleaner | 4020000020 | Germany (DE) | 5 |
+| Marenclean M 1200 machine cleaner (powder) | 4020000024 | France (FR) | 5 |
+| Marenclean O 1100 active oxygen cleaner (powder) | 4020000023 | United States (US) | 4 |
+| Marenclean P 404 phosphoric acid cleaner | 4020000018 | France (FR) | 5 |
+| Marenclean R 1402 rust remover | 4020000026 | United States (US) | 6 |
+| Marenclean S 301 descaler | 4020000017 | Germany (DE) | 5 |
+| Marenclean U 101 all-purpose cleaner | 4020000015 | United States (US) | 4 |
+| Marenclear 406 dechlorinating agent | 4020000014 | France (FR) | 2 |
+| Marencoat AF 309 acrylic facade paint | 4020000027 | United States (US) | 5 |
+| Marencoat AF 333 acrylic facade paint | 4010000006 | China (CN) | 169 |
+| Marencoat AI 436 interior emulsion paint | 4010000008 | China (CN) | 39 |
+| Marencoat AL 603 alkyd enamel | 4020000030 | Germany (DE) | 4 |
+| Marencoat AL 634 alkyd enamel | 4010000009 | China (CN) | 201 |
+| Marencoat DB 1333 roof coating | 4020000035 | United States (US) | 6 |
+| Marencoat EP 806 2K epoxy primer (component A) | 4010000010 | China (CN) | 50 |
+| Marencoat HL 509 water-based wood coating | 4020000028 | United States (US) | 5 |
+| Marencoat HL 533 water-based wood coating | 4020000029 | Germany (DE) | 5 |
+| Marencoat PH 1102 epoxy hardener (component B) | 4020000033 | Germany (DE) | 6 |
+| Marencoat RS 703 anticorrosive primer | 4020000031 | Germany (DE) | 4 |
+| Marencoat RS 730 anticorrosive primer | 4020000032 | United States (US) | 4 |
+| Marencoat TG 1400 penetrating primer | 4020000036 | United States (US) | 6 |
+| Marencoat TG 1438 penetrating primer | 4020000037 | Germany (DE) | 5 |
+| Marendisp 305 dispersing agent | 4020000002 | United States (US) | 2 |
+| Marendisp 332 dispersing agent | 4020000003 | Germany (DE) | 5 |
+| Marenemul 731 emulsifier | 4020000005 | Germany (DE) | 5 |
+| Marenflex 906 plasticizer | 4020000007 | Germany (DE) | 6 |
+| Marenfoam 133 defoamer | 4020000004 | Germany (DE) | 6 |
+| Marenglide 953 lubricant additive | 4020000008 | United States (US) | 6 |
+| Marenpaste 202 pigment preparation | 4020000011 | France (FR) | 4 |
+| Marenpaste 237 pigment preparation | 4020000012 | United States (US) | 4 |
+| Marenphos 125 phosphating solution | 4020000013 | France (FR) | 6 |
+| Marenprotect 806 preservative | 4020000006 | Germany (DE) | 3 |
+| Marensolv 108 thinner (solvent blend) | 4020000010 | France (FR) | 5 |
+| Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | China (CN) | 253 |
+| Marenwet 206 wetting agent | 4020000001 | Germany (DE) | 5 |
+| Marenwet 237 wetting agent | 4010000001 | China (CN) | 172 |
+| Methanol, technical grade | 4020000057 | United States (US) | 5 |
+| Methyl ethyl ketone, technical grade | 4020000051 | Netherlands (NL) | 10 |
+| Monoethanolamine | 4030000011 | China (CN) | 13 |
+| Phosphoric acid (75 %), technical grade | 4020000059 | United States (US) | 7 |
+| Polydimethylsiloxane | 4030000020 | China (CN) | 12 |
+| Polydimethylsiloxane | 4030000020 | South Korea (KR) | 1 |
+| Propylene glycol | 4030000019 | China (CN) | 14 |
+| Rosin (colophony) | 4030000023 | China (CN) | 13 |
+| Sodium dodecylbenzenesulfonate | 4030000002 | China (CN) | 13 |
+| Sodium hydroxide (50 %), technical grade | 4020000058 | United States (US) | 4 |
+| Styrene, technical grade | 4020000042 | France (FR) | 5 |
+| Styrene-acrylate copolymer dispersion | 4030000014 | China (CN) | 13 |
+| Styrene-acrylate copolymer dispersion | 4030000014 | Germany (DE) | 1 |
+| Sulfuric acid (96 %), technical grade | 4020000055 | Germany (DE) | 6 |
+| Talc | 4030000017 | China (CN) | 13 |
+| Talc | 4030000017 | Germany (DE) | 1 |
+| Titanium dioxide | 4030000016 | China (CN) | 14 |
+| Titanium dioxide, technical grade | 4020000061 | Germany (DE) | 10 |
+| Toluene, technical grade | 4020000052 | Germany (DE) | 3 |
+| Vinyl acetate, technical grade | 4020000041 | France (FR) | 5 |
+| Water (demineralised) | 4030000001 | China (CN) | 13 |
+| Xylene (isomer mixture) | 4030000025 | China (CN) | 13 |
+| Xylene (isomer mixture), technical grade | 4020000053 | Germany (DE) | 4 |
+| Zinc oxide | 4030000018 | China (CN) | 13 |
+| Zinc phosphate | 4030000028 | China (CN) | 13 |
+| d-Limonene | 4030000007 | China (CN) | 14 |
+| n-Butanol | 4030000027 | China (CN) | 14 |
+| n-Butyl acrylate, technical grade | 4020000038 | Germany (DE) | 2 |
+| n-Heptane | 4030000006 | China (CN) | 13 |

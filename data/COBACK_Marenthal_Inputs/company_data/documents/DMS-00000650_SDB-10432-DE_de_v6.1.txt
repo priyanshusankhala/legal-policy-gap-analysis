@@ -1,0 +1,83 @@
+
+
+Sicherheitsdatenblatt Marenclean A 207 Alkalischer
+Industriereiniger
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00000650
+Version
+6.1
+Gültig ab
+2025-03-06
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marenclean A 207 Alkalischer Industriereiniger
+Marenclean A 207 Alkalischer Industriereiniger
+SDS: SDB-10432-DE
+2. Mögliche Gefahren
+H: H290 H302 H314 H318 H332 H335 H373 H412
+3. Zusammensetzung / Angaben zu Bestandteilen
+Wasser
+(demineralisiert)
+7732-18-5 231-791-2 74.7–91.3 %
+Natronlauge (50 %) 1310-73-2 215-185-5 8.1–9.9 % H290 H314
+Natriummetasilicat 6834-92-0 229-912-9 2.7–3.7 % H290 H314 H335
+Fettalkoholethoxylat
+(C12-14, 6 EO)
+68439-50-9 2.3–3.3 % H302 H318 H412
+Tetranatrium-EDTA 64-02-8 200-573-9 1.5–2.5 % H302 H318 H332
+H373
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+
+Density: 1.053
+Base unit: KG
+Shelf life (months): 24
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN3266
+ADR/IMDG class: 8
+Packing group: III
+HS: 34029090
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+Fatty alcohol ethoxylate (C12-14, 6 EO): TSCA – nicht erforderlich
+Sodium hydroxide (50 %): IECSC – nicht erforderlich
+Sodium hydroxide (50 %): REACH – nicht erforderlich
+Sodium hydroxide (50 %): TSCA – nicht erforderlich
+Sodium metasilicate: IECSC – nicht erforderlich
+Sodium metasilicate: REACH – nicht erforderlich
+16. Sonstige Angaben
+6.1 · 2025-03-06

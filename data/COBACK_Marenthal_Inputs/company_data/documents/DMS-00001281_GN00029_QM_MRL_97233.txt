@@ -1,0 +1,30 @@
+
+
+Zertifikat Qualitätsmanagement ISO 9001:2015 –
+QM-MRL-97233
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00001281
+Version
+1.0
+Gültig ab
+2025-10-23
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Zertifikat Qualitätsmanagement ISO 9001:2015
+nummer: QM-MRL-97233
+behoerde: TÜV Rheinland
+erteilt_am: 2025-10-23
+gueltig_bis: 2028-10-27
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

@@ -1,0 +1,53 @@
+# Register of product approvals per market - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Shows for each product in which market it is approved to be placed, the status, the validity and any condition.
+
+| Product | Market | Status | Requested | Approved | Valid until | Condition |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2-Ethylhexyl acrylate, technical grade (PS-2021-0173) | BR | freigegeben mit Auflagen | 2021-05-28 | 2021-06-04 | 2026-06-04 | Gilt nur für Lieferung über den registrierten Importeur |
+| 2-Ethylhexyl acrylate, technical grade (PS-2021-0173) | EU | freigegeben | 2021-05-28 | 2021-06-14 | - | - |
+| 2-Ethylhexyl acrylate, technical grade (PS-2021-0173) | KE | freigegeben mit Auflagen | 2021-05-28 | 2021-06-11 | 2026-06-11 | Gilt nur für Lieferung über den registrierten Importeur |
+| Acrylic acid, technical grade (PS-2021-0176) | BR | freigegeben mit Auflagen | 2021-05-11 | 2021-05-25 | 2026-05-25 | Gilt nur für Lieferung über den registrierten Importeur |
+| Acrylic acid, technical grade (PS-2021-0176) | EU | freigegeben | 2021-05-11 | 2021-05-24 | - | - |
+| Acrylic acid, technical grade (PS-2021-0176) | KE | in Prüfung | 2025-08-11 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Diethylenetriamine, technical grade (PS-2021-0180) | BR | in Prüfung | 2025-10-28 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Diethylenetriamine, technical grade (PS-2021-0180) | EU | freigegeben | 2021-05-26 | 2021-05-31 | - | - |
+| Diethylenetriamine, technical grade (PS-2021-0180) | KE | freigegeben mit Auflagen | 2021-05-26 | 2021-06-11 | 2026-06-11 | Gilt nur für Lieferung über den registrierten Importeur |
+| Isophorone diisocyanate, technical grade (PS-2021-0178) | BR | freigegeben mit Auflagen | 2021-08-04 | 2021-08-17 | 2026-08-17 | Gilt nur für Lieferung über den registrierten Importeur |
+| Isophorone diisocyanate, technical grade (PS-2021-0178) | EU | freigegeben | 2021-08-04 | 2021-08-10 | - | - |
+| Isophorone diisocyanate, technical grade (PS-2021-0178) | KE | freigegeben mit Auflagen | 2021-08-04 | 2021-08-11 | 2026-08-11 | Gilt nur für Lieferung über den registrierten Importeur |
+| Maleic anhydride, technical grade (PS-2021-0177) | BR | freigegeben mit Auflagen | 2021-09-17 | 2021-09-20 | 2026-09-18 | Gilt nur für Lieferung über den registrierten Importeur |
+| Maleic anhydride, technical grade (PS-2021-0177) | EU | freigegeben | 2021-09-17 | 2021-09-24 | - | - |
+| Maleic anhydride, technical grade (PS-2021-0177) | KE | freigegeben mit Auflagen | 2021-09-17 | 2021-10-04 | 2026-10-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean M 1200 machine cleaner (powder) (PS-2021-0139) | BR | in Prüfung | 2025-07-01 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenclean M 1200 machine cleaner (powder) (PS-2021-0139) | EU | freigegeben | 2021-09-01 | 2021-09-21 | - | - |
+| Marenclean M 1200 machine cleaner (powder) (PS-2021-0139) | KE | freigegeben mit Auflagen | 2021-09-01 | 2021-09-16 | 2026-09-16 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean P 404 phosphoric acid cleaner (PS-2021-0129) | BR | freigegeben mit Auflagen | 2021-08-17 | 2021-08-26 | 2026-08-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean P 404 phosphoric acid cleaner (PS-2021-0129) | EU | freigegeben | 2021-08-17 | 2021-08-31 | - | - |
+| Marenclean P 404 phosphoric acid cleaner (PS-2021-0129) | KE | in Prüfung | 2025-09-05 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenclear 406 dechlorinating agent (PS-2021-0122) | BR | freigegeben mit Auflagen | 2021-08-20 | 2021-09-06 | 2026-09-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclear 406 dechlorinating agent (PS-2021-0122) | EU | freigegeben | 2021-08-20 | 2021-08-26 | - | - |
+| Marenclear 406 dechlorinating agent (PS-2021-0122) | KE | freigegeben mit Auflagen | 2021-08-20 | 2021-08-31 | 2026-08-31 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenfoam 106 defoamer (PS-2025-0105) | BR | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marenfoam 106 defoamer (PS-2025-0105) | EU | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marenfoam 106 defoamer (PS-2025-0105) | KE | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Marenpaste 202 pigment preparation (PS-2021-0119) | BR | freigegeben mit Auflagen | 2021-09-01 | 2021-09-10 | 2026-09-10 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenpaste 202 pigment preparation (PS-2021-0119) | EU | freigegeben | 2021-09-01 | 2021-09-10 | - | - |
+| Marenpaste 202 pigment preparation (PS-2021-0119) | KE | in Prüfung | 2025-06-27 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenphos 125 phosphating solution (PS-2021-0121) | BR | freigegeben mit Auflagen | 2021-04-23 | 2021-05-10 | 2026-05-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenphos 125 phosphating solution (PS-2021-0121) | EU | freigegeben | 2021-04-23 | 2021-04-29 | - | - |
+| Marenphos 125 phosphating solution (PS-2021-0121) | KE | in Prüfung | 2025-11-06 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marensolv 108 thinner (solvent blend) (PS-2021-0117) | BR | in Prüfung | 2025-05-14 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marensolv 108 thinner (solvent blend) (PS-2021-0117) | EU | freigegeben | 2021-08-20 | 2021-08-23 | - | - |
+| Marensolv 108 thinner (solvent blend) (PS-2021-0117) | KE | in Prüfung | 2025-07-04 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Styrene, technical grade (PS-2021-0175) | BR | freigegeben mit Auflagen | 2021-08-03 | 2021-08-13 | 2026-08-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Styrene, technical grade (PS-2021-0175) | EU | freigegeben | 2021-08-03 | 2021-08-17 | - | - |
+| Styrene, technical grade (PS-2021-0175) | KE | freigegeben mit Auflagen | 2021-08-03 | 2021-08-17 | 2026-08-17 | Gilt nur für Lieferung über den registrierten Importeur |
+| Triethylamine, technical grade (PS-2025-0179) | BR | in Prüfung | 2025-10-13 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Triethylamine, technical grade (PS-2025-0179) | EU | freigegeben | 2025-08-08 | 2025-11-24 | - | - |
+| Triethylamine, technical grade (PS-2025-0179) | KE | freigegeben mit Auflagen | 2025-09-15 | 2025-12-02 | 2030-12-02 | Gilt nur für Lieferung über den registrierten Importeur |
+| Vinyl acetate, technical grade (PS-2021-0174) | BR | freigegeben mit Auflagen | 2021-09-23 | 2021-09-27 | 2026-09-30 | Gilt nur für Lieferung über den registrierten Importeur |
+| Vinyl acetate, technical grade (PS-2021-0174) | EU | freigegeben | 2021-09-23 | 2021-10-13 | - | - |
+| Vinyl acetate, technical grade (PS-2021-0174) | KE | in Prüfung | 2025-09-05 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |

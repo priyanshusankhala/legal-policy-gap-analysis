@@ -1,0 +1,38 @@
+# Register of product composition (substances per product) - Marenthal Chemicals (Shanghai) Co., Ltd. (part 3 of 3)
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+For every product or raw material: its substances with CAS number, typical share, function, hazard statements, SVHC flag and REACH status, plus UN number, hazard class and customs code of the product.
+
+| Product | Material no. | UN no. | Hazard class | HS code | Substance | CAS | Typical share | Function | H statements | SVHC | REACH status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenprotect 806 preservative | 4020000006 | - | - | 3808949000 | 2-Phenoxyethanol | 122-99-6 | 40.4 % | Konservierungsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marenprotect 806 preservative | 4020000006 | - | - | 3808949000 | Propylene glycol | 57-55-6 | 55 % | Lösemittel | - | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | 4020000010 | UN1993 | 3 | 3814009000 | Ethyl acetate | 141-78-6 | 33.7 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | 4020000010 | UN1993 | 3 | 3814009000 | Methoxypropyl acetate | 108-65-6 | 6 % | Lösemittel | H226 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | 4020000010 | UN1993 | 3 | 3814009000 | Solvent naphtha (aromatic) | 64742-95-6 | 21.5 % | Lösemittel | H226 H304 H335 H336 H411 | 0 | Lieferant |
+| Marensolv 108 thinner (solvent blend) | 4020000010 | UN1993 | 3 | 3814009000 | Toluene | 108-88-3 | 38.8 % | Lösemittel | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | UN1993 | 3 | 3814009000 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 74.8 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | UN1993 | 3 | 3814009000 | d-Limonene | 5989-27-5 | 5.5 % | Lösemittel | H226 H304 H315 H317 H410 | 0 | registriert |
+| Marensolv 302 degreasing spirit (solvent blend) | 4010000002 | UN1993 | 3 | 3814009000 | n-Heptane | 142-82-5 | 19.7 % | Lösemittel | H225 H304 H315 H336 H410 | 0 | registriert |
+| Marenwet 206 wetting agent | 4020000001 | - | - | 3402139000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.32 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenwet 206 wetting agent | 4020000001 | - | - | 3402139000 | Dipropylene glycol | 25265-71-8 | 6.7 % | Lösevermittler | - | 0 | Lieferant |
+| Marenwet 206 wetting agent | 4020000001 | - | - | 3402139000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 32.5 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenwet 206 wetting agent | 4020000001 | - | - | 3402139000 | Water (demineralised) | 7732-18-5 | 60.48 % | Trägermedium | - | 0 | ausgenommen |
+| Marenwet 237 wetting agent | 4010000001 | - | - | 3402139000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.31 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenwet 237 wetting agent | 4010000001 | - | - | 3402139000 | Dipropylene glycol | 25265-71-8 | 4.1 % | Lösevermittler | - | 0 | Lieferant |
+| Marenwet 237 wetting agent | 4010000001 | - | - | 3402139000 | Sodium dodecylbenzenesulfonate | 25155-30-0 | 33.3 % | Tensid | H302 H315 H318 H412 | 0 | Lieferant |
+| Marenwet 237 wetting agent | 4010000001 | - | - | 3402139000 | Water (demineralised) | 7732-18-5 | 62.29 % | Trägermedium | - | 0 | ausgenommen |
+| Methanol, technical grade | 4020000057 | UN1230 | 3(6.1) | 2905110000 | Methanol | 67-56-1 | 100 % | Hauptbestandteil | H225 H301 H311 H331 H370 | 0 | registriert |
+| Methyl ethyl ketone, technical grade | 4020000051 | UN1193 | 3 | 2914120000 | Methyl ethyl ketone | 78-93-3 | 100 % | Hauptbestandteil | H225 H319 H336 | 0 | Lieferant |
+| Pentaerythritol, technical grade | 4020000039 | - | - | 2905420000 | Pentaerythritol | 115-77-5 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Phosphoric acid (75 %), technical grade | 4020000059 | UN1805 | 8 | 2809200000 | Phosphoric acid (75 %) | 7664-38-2 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Sodium carbonate, technical grade | 4020000062 | - | - | 2836200000 | Sodium carbonate | 497-19-8 | 100 % | Hauptbestandteil | H319 | 0 | Lieferant |
+| Sodium hydroxide (50 %), technical grade | 4020000058 | UN1824 | 8 | 2815120000 | Sodium hydroxide (50 %) | 1310-73-2 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Styrene, technical grade | 4020000042 | UN2055 | 3 | 2902500000 | Styrene | 100-42-5 | 100 % | Hauptbestandteil | H226 H315 H319 H332 H361d H372 | 0 | Lieferant |
+| Sulfuric acid (96 %), technical grade | 4020000055 | UN1830 | 8 | 2807001000 | Sulfuric acid (96 %) | 7664-93-9 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Titanium dioxide, technical grade | 4020000061 | - | - | 3206110000 | Titanium dioxide | 13463-67-7 | 100 % | Hauptbestandteil | - | 0 | registriert |
+| Toluene, technical grade | 4020000052 | UN1294 | 3 | 2902300000 | Toluene | 108-88-3 | 100 % | Hauptbestandteil | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Vinyl acetate, technical grade | 4020000041 | UN1301 | 3 | 2915320000 | Vinyl acetate | 108-05-4 | 100 % | Hauptbestandteil | H225 H332 H335 H351 | 0 | Lieferant |
+| Xylene (isomer mixture), technical grade | 4020000053 | UN1307 | 3 | 2902440000 | Xylene (isomer mixture) | 1330-20-7 | 100 % | Hauptbestandteil | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| n-Butyl acrylate, technical grade | 4020000038 | UN2348 | 3 | 2916120000 | n-Butyl acrylate | 141-32-2 | 100 % | Hauptbestandteil | H226 H315 H317 H335 H411 | 0 | Lieferant |

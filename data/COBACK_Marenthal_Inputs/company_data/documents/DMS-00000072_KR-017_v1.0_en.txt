@@ -1,0 +1,53 @@
+
+
+Emergency and Crisis Management
+Konzernrichtlinie
+Document no.
+DMS-00000072
+Version
+1.0
+Valid from
+2021-09-10
+Company
+Marenthal Chemie AG
+Status
+Superseded
+Confidentiality
+Internal
+Purpose and scope
+This policy sets binding rules on “EHS” for Marenthal Chemie AG. It applies to all employees, managers
+and, where contractually agreed, to business partners. Violations may have consequences under
+employment and criminal law.
+Obligations and responsibilities
+Rezeptur- und Prozessänderungen regulatorisch bewerten – Änderungen an Zusammensetzung oder
+Lieferant vor Umsetzung auf Stoffrecht, Einstufung und SDB prüfen.
+Alarmierung der Behörden und Notfallkontakte rund um die Uhr prüfen – Erreichbarkeit und
+Alarmketten halbjährlich testen.
+Schichtleiter zum Notfallmanagement schulen – Marl – Schichtleiter in Alarmierung und ersten
+Maßnahmen unterweisen.
+Schichtleiter zum Notfallmanagement schulen – Bitterfeld-Wolfen – Schichtleiter in Alarmierung und
+ersten Maßnahmen unterweisen.
+Evakuierungsübung durchführen – Bitterfeld-Wolfen – Jährliche Übung mit Dokumentation der
+Räumungszeit.
+Evakuierungsübung durchführen – Duisburg – Jährliche Übung mit Dokumentation der Räumungszeit.
+Evakuierungsübung durchführen – Frankfurt am Main – Jährliche Übung mit Dokumentation der
+Räumungszeit.
+Evakuierungsübung durchführen – Marl – Jährliche Übung mit Dokumentation der Räumungszeit.
+Richtlinie
+nummer: KR-017
+titel: Notfall- und Krisenmanagement
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-16
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.0
+sprache: en
+status: Ersetzt
+gueltig_ab: 2021-09-10
+gueltig_bis: 2023-06-01
+freigabe_datum: 2021-09-07
+aenderungsgrund: Erstfassung

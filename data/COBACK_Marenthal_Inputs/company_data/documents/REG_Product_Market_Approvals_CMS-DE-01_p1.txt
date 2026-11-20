@@ -1,0 +1,128 @@
+# Register of product approvals per market - Marenthal Chemie AG (part 1 of 3)
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Shows for each product in which market it is approved to be placed, the status, the validity and any condition.
+
+| Product | Market | Status | Requested | Approved | Valid until | Condition |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3-Aminopropyltriethoxysilane, technical grade (PS-2023-0163) | BR | gesperrt | 2023-08-07 | - | - | Vertriebssperre im ERP: Marktzulassung des Stoffs ausgesetzt |
+| 3-Aminopropyltriethoxysilane, technical grade (PS-2023-0163) | EU | gesperrt | 2023-08-07 | - | - | Vertriebssperre im ERP: Qualitätssperre, Freigabe nach Klärung |
+| 3-Aminopropyltriethoxysilane, technical grade (PS-2023-0163) | KE | in Prüfung | 2025-06-16 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| 3-Glycidyloxypropyltrimethoxysilane, technical grade (PS-2021-0164) | BR | gesperrt | 2021-04-30 | - | - | Vertriebssperre im ERP: Marktzulassung des Stoffs ausgesetzt |
+| 3-Glycidyloxypropyltrimethoxysilane, technical grade (PS-2021-0164) | EU | gesperrt | 2021-04-30 | - | - | Vertriebssperre im ERP: Qualitätssperre, Freigabe nach Klärung |
+| 3-Glycidyloxypropyltrimethoxysilane, technical grade (PS-2021-0164) | KE | in Prüfung | 2025-10-02 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Acetic acid, technical grade (PS-2021-0191) | BR | freigegeben mit Auflagen | 2021-04-28 | 2021-05-05 | 2026-05-05 | Gilt nur für Lieferung über den registrierten Importeur |
+| Acetic acid, technical grade (PS-2021-0191) | EU | freigegeben | 2021-04-28 | 2021-05-12 | - | - |
+| Acetic acid, technical grade (PS-2021-0191) | KE | freigegeben mit Auflagen | 2021-04-28 | 2021-05-13 | 2026-05-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Acetone, technical grade (PS-2025-0181) | BR | in Prüfung | 2025-08-21 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Acetone, technical grade (PS-2025-0181) | EU | freigegeben | 2025-08-14 | 2025-12-01 | - | - |
+| Acetone, technical grade (PS-2025-0181) | KE | in Prüfung | 2025-06-09 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Bisphenol-A epoxy resin, technical grade (PS-2025-0168) | BR | in Prüfung | 2025-12-08 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Bisphenol-A epoxy resin, technical grade (PS-2025-0168) | EU | in Prüfung | 2025-07-16 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Bisphenol-A epoxy resin, technical grade (PS-2025-0168) | KE | in Prüfung | 2025-10-09 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Butyl acetate, technical grade (PS-2021-0185) | BR | freigegeben mit Auflagen | 2021-05-04 | 2021-05-11 | 2026-05-11 | Gilt nur für Lieferung über den registrierten Importeur |
+| Butyl acetate, technical grade (PS-2021-0185) | EU | freigegeben | 2021-05-04 | 2021-05-21 | - | - |
+| Butyl acetate, technical grade (PS-2021-0185) | KE | freigegeben mit Auflagen | 2021-05-04 | 2021-05-17 | 2026-05-19 | Gilt nur für Lieferung über den registrierten Importeur |
+| Calcium carbonate, technical grade (PS-2021-0200) | BR | freigegeben mit Auflagen | 2021-07-13 | 2021-07-22 | 2026-07-22 | Gilt nur für Lieferung über den registrierten Importeur |
+| Calcium carbonate, technical grade (PS-2021-0200) | EU | freigegeben | 2021-07-13 | 2021-08-03 | - | - |
+| Calcium carbonate, technical grade (PS-2021-0200) | KE | freigegeben mit Auflagen | 2021-07-13 | 2021-07-20 | 2026-07-20 | Gilt nur für Lieferung über den registrierten Importeur |
+| Ethanol, technical grade (PS-2021-0183) | BR | freigegeben mit Auflagen | 2021-04-22 | 2021-05-03 | 2026-05-01 | Gilt nur für Lieferung über den registrierten Importeur |
+| Ethanol, technical grade (PS-2021-0183) | EU | freigegeben | 2021-04-22 | 2021-05-05 | - | - |
+| Ethanol, technical grade (PS-2021-0183) | KE | freigegeben mit Auflagen | 2021-04-22 | 2021-04-27 | 2026-04-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Ethyl acetate, technical grade (PS-2021-0184) | BR | freigegeben mit Auflagen | 2021-08-04 | 2021-08-13 | 2026-08-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Ethyl acetate, technical grade (PS-2021-0184) | EU | freigegeben | 2021-08-04 | 2021-08-17 | - | - |
+| Ethyl acetate, technical grade (PS-2021-0184) | KE | freigegeben mit Auflagen | 2021-08-04 | 2021-08-17 | 2026-08-17 | Gilt nur für Lieferung über den registrierten Importeur |
+| Glycerol, technical grade (PS-2021-0197) | BR | freigegeben mit Auflagen | 2021-04-02 | 2021-04-15 | 2026-04-15 | Gilt nur für Lieferung über den registrierten Importeur |
+| Glycerol, technical grade (PS-2021-0197) | EU | freigegeben | 2021-04-02 | 2021-04-09 | - | - |
+| Glycerol, technical grade (PS-2021-0197) | KE | in Prüfung | 2025-05-14 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Hexamethylene diisocyanate, technical grade (PS-2021-0171) | BR | gesperrt | 2021-04-02 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Hexamethylene diisocyanate, technical grade (PS-2021-0171) | EU | gesperrt | 2021-04-01 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Hexamethylene diisocyanate, technical grade (PS-2021-0171) | KE | gesperrt | 2021-04-02 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Hydrochloric acid (33 %), technical grade (PS-2021-0189) | BR | freigegeben mit Auflagen | 2021-06-17 | 2021-06-29 | 2026-06-29 | Gilt nur für Lieferung über den registrierten Importeur |
+| Hydrochloric acid (33 %), technical grade (PS-2021-0189) | EU | freigegeben | 2021-06-17 | 2021-06-24 | - | - |
+| Hydrochloric acid (33 %), technical grade (PS-2021-0189) | KE | freigegeben mit Auflagen | 2021-06-17 | 2021-07-05 | 2026-07-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Isophoronediamine, technical grade (PS-2025-0172) | BR | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Isophoronediamine, technical grade (PS-2025-0172) | EU | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Isophoronediamine, technical grade (PS-2025-0172) | KE | gesperrt | 2025-12-02 | - | - | Produkt in Entwicklung; Vertrieb nicht freigegeben |
+| Isopropanol, technical grade (PS-2021-0182) | BR | freigegeben mit Auflagen | 2021-08-04 | 2021-08-12 | 2026-08-12 | Gilt nur für Lieferung über den registrierten Importeur |
+| Isopropanol, technical grade (PS-2021-0182) | EU | freigegeben | 2021-08-04 | 2021-08-13 | - | - |
+| Isopropanol, technical grade (PS-2021-0182) | KE | freigegeben mit Auflagen | 2021-08-04 | 2021-08-18 | 2026-08-18 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenbase 1003 neutralising agent (PS-2021-0115) | BR | freigegeben mit Auflagen | 2021-05-12 | 2021-05-20 | 2026-05-20 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenbase 1003 neutralising agent (PS-2021-0115) | EU | freigegeben | 2021-05-12 | 2021-05-31 | - | - |
+| Marenbase 1003 neutralising agent (PS-2021-0115) | KE | in Prüfung | 2025-08-15 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenchel 603 chelating agent solution (PS-2021-0109) | BR | gesperrt | 2021-04-23 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenchel 603 chelating agent solution (PS-2021-0109) | EU | gesperrt | 2021-04-23 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenchel 603 chelating agent solution (PS-2021-0109) | KE | gesperrt | 2021-04-23 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenclean A 207 alkaline industrial cleaner (PS-2021-0125) | BR | freigegeben mit Auflagen | 2021-06-11 | 2021-06-28 | 2026-06-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean A 207 alkaline industrial cleaner (PS-2021-0125) | EU | freigegeben | 2021-06-11 | 2021-06-16 | - | - |
+| Marenclean A 207 alkaline industrial cleaner (PS-2021-0125) | KE | freigegeben mit Auflagen | 2021-06-11 | 2021-06-28 | 2026-06-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean A 238 alkaline industrial cleaner (PS-2022-0126) | BR | freigegeben mit Auflagen | 2022-07-25 | 2022-09-02 | 2027-09-02 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean A 238 alkaline industrial cleaner (PS-2022-0126) | EU | freigegeben | 2022-06-03 | 2022-09-05 | - | - |
+| Marenclean A 238 alkaline industrial cleaner (PS-2022-0126) | KE | freigegeben mit Auflagen | 2022-08-17 | 2022-09-09 | 2027-09-09 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean B 1006 chlorine-based cleaner (PS-2021-0137) | BR | freigegeben mit Auflagen | 2021-07-09 | 2021-07-22 | 2026-07-22 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean B 1006 chlorine-based cleaner (PS-2021-0137) | EU | freigegeben | 2021-07-09 | 2021-07-15 | - | - |
+| Marenclean B 1006 chlorine-based cleaner (PS-2021-0137) | KE | freigegeben mit Auflagen | 2021-07-09 | 2021-07-26 | 2026-07-24 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean C 1305 CIP cleaner (PS-2021-0140) | BR | freigegeben mit Auflagen | 2022-06-21 | 2022-08-12 | 2027-08-12 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean C 1305 CIP cleaner (PS-2021-0140) | EU | freigegeben | 2022-06-13 | 2022-08-16 | - | - |
+| Marenclean C 1305 CIP cleaner (PS-2021-0140) | KE | freigegeben mit Auflagen | 2022-06-27 | 2022-08-16 | 2027-08-16 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean D 703 disinfectant cleaner (PS-2021-0134) | BR | freigegeben mit Auflagen | 2021-04-01 | 2021-04-19 | 2026-04-21 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean D 703 disinfectant cleaner (PS-2021-0134) | EU | freigegeben | 2021-04-01 | 2021-04-14 | - | - |
+| Marenclean D 703 disinfectant cleaner (PS-2021-0134) | KE | freigegeben mit Auflagen | 2021-04-01 | 2021-04-06 | 2026-04-06 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean E 504 degreaser (PS-2021-0130) | BR | freigegeben mit Auflagen | 2021-03-23 | 2021-04-12 | 2026-04-15 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean E 504 degreaser (PS-2021-0130) | EU | freigegeben | 2021-03-23 | 2021-04-07 | - | - |
+| Marenclean E 504 degreaser (PS-2021-0130) | KE | freigegeben mit Auflagen | 2021-03-23 | 2021-03-26 | 2026-03-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean E 537 degreaser (PS-2021-0131) | BR | freigegeben mit Auflagen | 2021-08-20 | 2021-08-31 | 2026-08-31 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean E 537 degreaser (PS-2021-0131) | EU | freigegeben | 2021-08-20 | 2021-09-08 | - | - |
+| Marenclean E 537 degreaser (PS-2021-0131) | KE | freigegeben mit Auflagen | 2021-08-20 | 2021-09-08 | 2026-09-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean F 1503 floor care product (PS-2021-0142) | BR | gesperrt | 2021-10-04 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenclean F 1503 floor care product (PS-2021-0142) | EU | gesperrt | 2021-10-04 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenclean F 1503 floor care product (PS-2021-0142) | KE | gesperrt | 2021-10-04 | - | - | Produkt eingestellt; Vertrieb im Markt beendet |
+| Marenclean G 800 glass cleaner (PS-2021-0135) | BR | freigegeben mit Auflagen | 2021-08-13 | 2021-08-24 | 2026-08-24 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean G 800 glass cleaner (PS-2021-0135) | EU | freigegeben | 2021-08-13 | 2021-08-19 | - | - |
+| Marenclean G 800 glass cleaner (PS-2021-0135) | KE | freigegeben mit Auflagen | 2021-08-13 | 2021-08-27 | 2026-08-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean H 602 hand cleaner (PS-2025-0132) | BR | freigegeben mit Auflagen | 2025-10-08 | 2025-12-01 | 2030-12-02 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean H 602 hand cleaner (PS-2025-0132) | EU | freigegeben | 2025-09-23 | 2025-12-04 | - | - |
+| Marenclean H 602 hand cleaner (PS-2025-0132) | KE | in Prüfung | 2025-08-14 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenclean H 637 hand cleaner (PS-2021-0133) | BR | freigegeben mit Auflagen | 2021-05-06 | 2021-05-17 | 2026-05-19 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean H 637 hand cleaner (PS-2021-0133) | EU | freigegeben | 2021-05-06 | 2021-05-17 | - | - |
+| Marenclean H 637 hand cleaner (PS-2021-0133) | KE | freigegeben mit Auflagen | 2021-05-06 | 2021-05-21 | 2026-05-21 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean O 1100 active oxygen cleaner (powder) (PS-2021-0138) | BR | freigegeben mit Auflagen | 2021-06-09 | 2021-06-15 | 2026-06-15 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean O 1100 active oxygen cleaner (powder) (PS-2021-0138) | EU | freigegeben | 2021-06-09 | 2021-06-24 | - | - |
+| Marenclean O 1100 active oxygen cleaner (powder) (PS-2021-0138) | KE | freigegeben mit Auflagen | 2021-06-09 | 2021-06-17 | 2026-06-17 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean R 1402 rust remover (PS-2021-0141) | BR | freigegeben mit Auflagen | 2021-08-12 | 2021-08-17 | 2026-08-17 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean R 1402 rust remover (PS-2021-0141) | EU | freigegeben | 2021-08-12 | 2021-08-30 | - | - |
+| Marenclean R 1402 rust remover (PS-2021-0141) | KE | freigegeben mit Auflagen | 2021-08-12 | 2021-08-31 | 2026-08-31 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean S 301 descaler (PS-2021-0127) | BR | freigegeben mit Auflagen | 2021-08-04 | 2021-08-11 | 2026-08-11 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean S 301 descaler (PS-2021-0127) | EU | freigegeben | 2021-08-04 | 2021-08-16 | - | - |
+| Marenclean S 301 descaler (PS-2021-0127) | KE | freigegeben mit Auflagen | 2021-08-04 | 2021-08-11 | 2026-08-11 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean S 331 descaler (PS-2025-0128) | BR | in Prüfung | 2025-11-14 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marenclean S 331 descaler (PS-2025-0128) | EU | freigegeben | 2025-08-22 | 2025-11-03 | - | - |
+| Marenclean S 331 descaler (PS-2025-0128) | KE | freigegeben mit Auflagen | 2025-09-25 | 2025-11-26 | 2030-11-26 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean U 101 all-purpose cleaner (PS-2021-0123) | BR | freigegeben mit Auflagen | 2021-07-27 | 2021-08-04 | 2026-08-04 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean U 101 all-purpose cleaner (PS-2021-0123) | EU | freigegeben | 2021-07-27 | 2021-08-09 | - | - |
+| Marenclean U 101 all-purpose cleaner (PS-2021-0123) | KE | freigegeben mit Auflagen | 2021-07-27 | 2021-08-02 | 2026-08-05 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean U 134 all-purpose cleaner (PS-2021-0124) | BR | freigegeben mit Auflagen | 2021-09-28 | 2021-10-08 | 2026-10-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean U 134 all-purpose cleaner (PS-2021-0124) | EU | freigegeben | 2021-09-28 | 2021-10-14 | - | - |
+| Marenclean U 134 all-purpose cleaner (PS-2021-0124) | KE | freigegeben mit Auflagen | 2021-09-28 | 2021-10-11 | 2026-10-12 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean Z 904 citrus cleaner (PS-2021-0136) | BR | freigegeben mit Auflagen | 2021-09-09 | 2021-09-24 | 2026-09-24 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marenclean Z 904 citrus cleaner (PS-2021-0136) | EU | freigegeben | 2021-09-09 | 2021-09-27 | - | - |
+| Marenclean Z 904 citrus cleaner (PS-2021-0136) | KE | freigegeben mit Auflagen | 2021-09-09 | 2021-09-20 | 2026-09-18 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AF 309 acrylic facade paint (PS-2021-0143) | BR | freigegeben mit Auflagen | 2021-10-05 | 2021-12-10 | 2026-12-10 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AF 309 acrylic facade paint (PS-2021-0143) | EU | freigegeben | 2021-08-27 | 2021-11-22 | - | - |
+| Marencoat AF 309 acrylic facade paint (PS-2021-0143) | KE | freigegeben mit Auflagen | 2021-10-12 | 2021-11-23 | 2026-11-23 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AF 333 acrylic facade paint (PS-2021-0144) | BR | freigegeben mit Auflagen | 2021-05-20 | 2021-06-08 | 2026-06-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AF 333 acrylic facade paint (PS-2021-0144) | EU | freigegeben | 2021-05-20 | 2021-06-09 | - | - |
+| Marencoat AF 333 acrylic facade paint (PS-2021-0144) | KE | freigegeben mit Auflagen | 2021-05-20 | 2021-06-08 | 2026-06-08 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AI 436 interior emulsion paint (PS-2023-0146) | BR | freigegeben mit Auflagen | 2024-10-01 | 2024-11-25 | 2029-11-27 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AI 436 interior emulsion paint (PS-2023-0146) | EU | freigegeben | 2024-10-17 | 2024-11-28 | - | - |
+| Marencoat AI 436 interior emulsion paint (PS-2023-0146) | KE | freigegeben mit Auflagen | 2024-10-14 | 2024-11-28 | 2029-11-28 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AL 603 alkyd enamel (PS-2021-0149) | BR | freigegeben mit Auflagen | 2021-09-03 | 2021-09-14 | 2026-09-14 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AL 603 alkyd enamel (PS-2021-0149) | EU | freigegeben | 2021-09-03 | 2021-09-17 | - | - |
+| Marencoat AL 603 alkyd enamel (PS-2021-0149) | KE | in Prüfung | 2025-11-26 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat AL 634 alkyd enamel (PS-2021-0150) | BR | freigegeben mit Auflagen | 2021-08-05 | 2021-08-13 | 2026-08-13 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat AL 634 alkyd enamel (PS-2021-0150) | EU | freigegeben | 2021-08-05 | 2021-08-20 | - | - |
+| Marencoat AL 634 alkyd enamel (PS-2021-0150) | KE | in Prüfung | 2025-10-03 | - | - | Marktfreigabe nach Abschluss der Stoffanmeldung |
+| Marencoat DB 1303 roof coating (PS-2021-0159) | BR | freigegeben mit Auflagen | 2021-09-17 | 2021-09-28 | 2026-09-28 | Gilt nur für Lieferung über den registrierten Importeur |
+| Marencoat DB 1303 roof coating (PS-2021-0159) | EU | freigegeben | 2021-09-17 | 2021-09-24 | - | - |
+| Marencoat DB 1303 roof coating (PS-2021-0159) | KE | freigegeben mit Auflagen | 2021-09-17 | 2021-09-23 | 2026-09-23 | Gilt nur für Lieferung über den registrierten Importeur |

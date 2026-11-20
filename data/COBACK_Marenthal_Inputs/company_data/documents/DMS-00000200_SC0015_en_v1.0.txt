@@ -1,0 +1,40 @@
+
+
+Advanced Data Protection for HR and IT – Training
+Material
+Schulungsunterlage
+Document no.
+DMS-00000200
+Version
+1.0
+Valid from
+2022-11-28
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Schulung
+titel: Datenschutz-Vertiefung für Personal und IT
+thema: Datenschutz
+pflicht: 1
+zielgruppe: Personal, IT
+sprachen: de,en,fr,zh
+dauer_min: 90
+intervall_monate: 12
+format: Webinar
+status: aktiv
+Richtlinie
+nummer: KR-008
+titel: Datenschutzrichtlinie
+thema: Datenschutz
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-12-31
+master_sprache: de
+vertraulichkeit: intern

@@ -1,0 +1,74 @@
+安全技术说明书 Marencoat HL 533 水性木器漆
+Sicherheitsdatenblatt
+
+文件编号: DMS-00001037
+版本: 3.3
+生效日期: 2025-08-21
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Public
+
+1. 化学品及企业标识
+安全技术说明书 Marencoat HL 533 水性木器漆
+Marencoat HL 533 水性木器漆
+SDS: SDB-10825-CN
+
+2. 危险性概述
+H: H302 H312 H315 H317 H318 H319 H332 H400
+
+3. 成分/组成信息
+Water (demineralised) | 7732-18-5 | 231-791-2 | 46.5–56.8 % | 
+Styrene-acrylate copolymer dispersion | 25767-47-9 |  | 34.5–42.1 % | 
+Titanium dioxide | 13463-67-7 | 236-675-5 | 4.6–5.6 % | 
+2-Butoxyethanol | 111-76-2 | 203-905-0 | 2.6–3.6 % | H302 H312 H315 H319 H332
+Paraffin wax | 8002-74-2 | 232-315-6 | 1–2 % | 
+Polydimethylsiloxane | 63148-62-9 |  | 0.145–0.435 % | 
+1,2-Benzisothiazolin-3-one | 2634-33-5 | 220-120-9 | 0.015–0.045 % | H302 H315 H317 H318 H400
+
+4. 急救措施
+皮肤接触：用肥皂和清水冲洗。眼睛接触：用大量清水冲洗数分钟。如有不适请就医。
+
+5. 消防措施
+灭火剂：泡沫、干粉、二氧化碳、水雾。消防人员须佩戴正压自给式呼吸器。
+
+6. 泄漏应急处理
+佩戴个人防护装备，消除一切火源，用惰性材料吸收并妥善处置。防止进入下水道。
+
+7. 操作处置与储存
+容器保持密闭，储存于通风良好处，远离火源和不相容物质。
+
+8. 接触控制/个体防护
+佩戴防护手套、护目镜，必要时佩戴呼吸防护用品。保证良好的局部通风。
+
+9. 理化特性
+Density: 1.055
+Base unit: KG
+Shelf life (months): 18
+
+10. 稳定性和反应性
+在正常使用和储存条件下稳定。避免接触强氧化剂、酸和碱。
+
+11. 毒理学信息
+本信息基于第3部分所列成分及混合物分类。
+
+12. 生态学信息
+防止进入水体和土壤。
+
+13. 废弃处置
+按当地法规委托有资质的单位处置，空容器须清空后交回。
+
+14. 运输信息
+HS: 3209100000
+
+15. 法规信息
+依据《危险化学品安全管理条例》、GB/T 16483 和 GB 13690 进行分类和标签。
+1,2-Benzisothiazolin-3-one: IECSC – Inventar aktiv
+2-Butoxyethanol: IECSC – Inventar aktiv
+Paraffin wax: IECSC – Inventar aktiv
+Polydimethylsiloxane: IECSC – Inventar aktiv
+Styrene-acrylate copolymer dispersion: IECSC – Inventar aktiv
+Titanium dioxide: IECSC – Inventar aktiv
+Water (demineralised): IECSC – Inventar aktiv
+
+16. 其他信息
+3.3 · 2025-08-21

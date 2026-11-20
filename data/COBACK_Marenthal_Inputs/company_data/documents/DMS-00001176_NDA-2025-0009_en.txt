@@ -1,0 +1,51 @@
+
+
+Non-Disclosure Agreement NDA-2025-0009 – Liepiņš
+Automotive Components SIA
+Geheimhaltungsvereinbarung
+Document no.
+DMS-00001176
+Version
+1.0
+Valid from
+2025-11-03
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: NDA-2025-0009
+type: NDA
+status: Active
+start_date: 2025-11-03
+end_date: 2030-11-02
+auto_renew: 0
+selling_entity: Marenthal Chemie AG
+signed_date: 2025-10-26
+governing_law: German law
+Account
+name: Liepiņš Automotive Components SIA
+type: Customer
+billing_street: Rūpniecības iela 54
+billing_city: Rīga
+billing_postcode: LV-1087
+billing_country: LV
+industry: Automotive supplier
+segment: Direct
+size_class: Medium
+status: Active
+website: www.liepins-automotive.lv
+created_date: 2025-06-18
+last_modified_date: 2025-07-26
+language: en
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-07-08
+cms_partner_ref: GP000660
+description: Automotive supplier; customer since 2025. Main products: Isopropanol, technical grade,
+Marencoat AI 436 interior emulsion paint.

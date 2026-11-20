@@ -1,0 +1,103 @@
+# Register of product composition (substances per product) - Marenthal Chemie AG (part 3 of 3)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+For every product or raw material: its substances with CAS number, typical share, function, hazard statements, SVHC flag and REACH status, plus UN number, hazard class and customs code of the product.
+
+| Company | Product | Material no. | UN no. | Hazard class | HS code | Substance | CAS | Typical share | Function | H statements | SVHC | REACH status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marenthal Chemie AG | Marencoat TG 1438 penetrating primer | 11000031 | - | - | 32091000 | Propylene glycol | 57-55-6 | 0.89 % | Filmbildehilfsmittel | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marencoat TG 1438 penetrating primer | 11000031 | - | - | 32091000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 8.1 % | Bindemittel | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marencoat TG 1438 penetrating primer | 11000031 | - | - | 32091000 | Water (demineralised) | 7732-18-5 | 90.66 % | Lösemittel | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marencure 410 epoxy hardener | 11000012 | UN2735 | 8 | 38249996 | Benzyl alcohol | 100-51-6 | 23.7 % | Lösemittel | H302 H319 H332 | 0 | Lieferant |
+| Marenthal Chemie AG | Marencure 410 epoxy hardener | 11000012 | UN2735 | 8 | 38249996 | Isophoronediamine | 2855-13-2 | 47.6 % | Härter | H302 H312 H314 H317 H412 | 0 | in Vorbereitung |
+| Marenthal Chemie AG | Marencure 410 epoxy hardener | 11000012 | UN2735 | 8 | 38249996 | Talc | 14807-96-6 | 21.7 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marencure 410 epoxy hardener | 11000012 | UN2735 | 8 | 38249996 | Triethanolamine | 102-71-6 | 7 % | Beschleuniger | - | 0 | registriert |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | - | - | 39069090 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.08 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | - | - | 39069090 | Propylene glycol | 57-55-6 | 3.1 % | Frostschutz | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | - | - | 39069090 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 31.7 % | Polymer | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | - | - | 39069090 | Triethanolamine | 102-71-6 | 2.5 % | Neutralisationsmittel | - | 0 | registriert |
+| Marenthal Chemie AG | Marendisp 305 dispersing agent | 12000002 | - | - | 39069090 | Water (demineralised) | 7732-18-5 | 62.62 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marendisp 332 dispersing agent | 11000002 | - | - | 39069090 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.09 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marendisp 332 dispersing agent | 11000002 | - | - | 39069090 | Propylene glycol | 57-55-6 | 4 % | Frostschutz | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marendisp 332 dispersing agent | 11000002 | - | - | 39069090 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 34.5 % | Polymer | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marendisp 332 dispersing agent | 11000002 | - | - | 39069090 | Triethanolamine | 102-71-6 | 2.3 % | Neutralisationsmittel | - | 0 | registriert |
+| Marenthal Chemie AG | Marendisp 332 dispersing agent | 11000002 | - | - | 39069090 | Water (demineralised) | 7732-18-5 | 59.11 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenemul 702 emulsifier | 11000007 | - | - | 34021190 | Cocamidopropyl betaine | 61789-40-0 | 5.2 % | Co-Tensid | H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenemul 702 emulsifier | 11000007 | - | - | 34021190 | Sodium cumenesulfonate | 15763-76-5 | 3.4 % | Lösevermittler | H319 | 0 | registriert |
+| Marenthal Chemie AG | Marenemul 702 emulsifier | 11000007 | - | - | 34021190 | Sodium dodecylbenzenesulfonate | 25155-30-0 | 16.2 % | Tensid | H302 H315 H318 H412 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenemul 702 emulsifier | 11000007 | - | - | 34021190 | Water (demineralised) | 7732-18-5 | 75.2 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenemul 731 emulsifier | 11000008 | - | - | 34021190 | Cocamidopropyl betaine | 61789-40-0 | 7.3 % | Co-Tensid | H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenemul 731 emulsifier | 11000008 | - | - | 34021190 | Sodium cumenesulfonate | 15763-76-5 | 5.7 % | Lösevermittler | H319 | 0 | registriert |
+| Marenthal Chemie AG | Marenemul 731 emulsifier | 11000008 | - | - | 34021190 | Sodium dodecylbenzenesulfonate | 25155-30-0 | 22.1 % | Tensid | H302 H315 H318 H412 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenemul 731 emulsifier | 11000008 | - | - | 34021190 | Water (demineralised) | 7732-18-5 | 64.9 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenflex 906 plasticizer | 11000010 | - | - | 38122000 | Dioctyl terephthalate | 6422-86-2 | 86.6 % | Weichmacher | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenflex 906 plasticizer | 11000010 | - | - | 38122000 | Epoxidised soybean oil | 8013-07-8 | 13.4 % | Stabilisator | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenfoam 133 defoamer | 11000003 | - | - | 39100000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.04 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenfoam 133 defoamer | 11000003 | - | - | 39100000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 3.6 % | Emulgator | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenfoam 133 defoamer | 11000003 | - | - | 39100000 | Polydimethylsiloxane | 63148-62-9 | 9.3 % | Wirkstoff | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenfoam 133 defoamer | 11000003 | - | - | 39100000 | Silicon dioxide (amorphous) | 7631-86-9 | 2 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenfoam 133 defoamer | 11000003 | - | - | 39100000 | Water (demineralised) | 7732-18-5 | 85.06 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenglide 953 lubricant additive | 12000003 | - | - | 34039900 | Calcium carbonate | 471-34-1 | 35.6 % | Füllstoff | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenglide 953 lubricant additive | 12000003 | - | - | 34039900 | Calcium stearate | 1592-23-0 | 42.5 % | Gleitmittel | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenglide 953 lubricant additive | 12000003 | - | - | 34039900 | Paraffin wax | 8002-74-2 | 21.9 % | Wachs | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | - | - | 32129000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.03 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | - | - | 32129000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 2.5 % | Netzmittel | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | - | - | 32129000 | Iron(III) oxide | 1309-37-1 | 29.7 % | Pigment | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | - | - | 32129000 | Propylene glycol | 57-55-6 | 3.6 % | Lösemittel | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | - | - | 32129000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 9.8 % | Bindemittel | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenpaste 202 pigment preparation | 12000006 | - | - | 32129000 | Water (demineralised) | 7732-18-5 | 54.37 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | - | - | 32129000 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.04 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | - | - | 32129000 | Carbon black | 1333-86-4 | 30.9 % | Pigment | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | - | - | 32129000 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 3.9 % | Netzmittel | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | - | - | 32129000 | Propylene glycol | 57-55-6 | 3.4 % | Lösemittel | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | - | - | 32129000 | Styrene-acrylate copolymer dispersion | 25767-47-9 | 6.5 % | Bindemittel | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenpaste 237 pigment preparation | 12000007 | - | - | 32129000 | Water (demineralised) | 7732-18-5 | 55.26 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenphos 125 phosphating solution | 12000008 | UN3264 | 8 | 38249996 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 1.1 % | Netzmittel | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenphos 125 phosphating solution | 12000008 | UN3264 | 8 | 38249996 | Phosphoric acid (75 %) | 7664-38-2 | 28.8 % | Phosphatierung | H290 H314 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenphos 125 phosphating solution | 12000008 | UN3264 | 8 | 38249996 | Water (demineralised) | 7732-18-5 | 65 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenphos 125 phosphating solution | 12000008 | UN3264 | 8 | 38249996 | Zinc oxide | 1314-13-2 | 5.1 % | Zinkquelle | H410 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenprotect 806 preservative | 11000009 | - | - | 38089490 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 4.6 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenprotect 806 preservative | 11000009 | - | - | 38089490 | 2-Phenoxyethanol | 122-99-6 | 40.4 % | Konservierungsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenprotect 806 preservative | 11000009 | - | - | 38089490 | Propylene glycol | 57-55-6 | 55 % | Lösemittel | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marensolv 108 thinner (solvent blend) | 12000004 | UN1993 | 3 | 38140090 | Ethyl acetate | 141-78-6 | 33.7 % | Lösemittel | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemie AG | Marensolv 108 thinner (solvent blend) | 12000004 | UN1993 | 3 | 38140090 | Methoxypropyl acetate | 108-65-6 | 6 % | Lösemittel | H226 | 0 | Lieferant |
+| Marenthal Chemie AG | Marensolv 108 thinner (solvent blend) | 12000004 | UN1993 | 3 | 38140090 | Solvent naphtha (aromatic) | 64742-95-6 | 21.5 % | Lösemittel | H226 H304 H335 H336 H411 | 0 | Lieferant |
+| Marenthal Chemie AG | Marensolv 108 thinner (solvent blend) | 12000004 | UN1993 | 3 | 38140090 | Toluene | 108-88-3 | 38.8 % | Lösemittel | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Marenthal Chemie AG | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | UN1993 | 3 | 38140090 | Hydrocarbon solvent (hydrotreated heavy naphtha) | 64742-48-9 | 74.8 % | Lösemittel | H226 H304 H336 H411 | 0 | registriert |
+| Marenthal Chemie AG | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | UN1993 | 3 | 38140090 | d-Limonene | 5989-27-5 | 5.5 % | Lösemittel | H226 H304 H315 H317 H410 | 0 | registriert |
+| Marenthal Chemie AG | Marensolv 302 degreasing spirit (solvent blend) | 12000005 | UN1993 | 3 | 38140090 | n-Heptane | 142-82-5 | 19.7 % | Lösemittel | H225 H304 H315 H336 H410 | 0 | registriert |
+| Marenthal Chemie AG | Marenstop 500 corrosion inhibitor | 11000005 | - | - | 38249996 | 2-Phenoxyethanol | 122-99-6 | 0.35 % | Konservierungsmittel | H302 H318 H335 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenstop 500 corrosion inhibitor | 11000005 | - | - | 38249996 | Sodium gluconate | 527-07-1 | 3.1 % | Komplexbildner | - | 0 | registriert |
+| Marenthal Chemie AG | Marenstop 500 corrosion inhibitor | 11000005 | - | - | 38249996 | Sodium metasilicate | 6834-92-0 | 0.55 % | Alkalireserve | H290 H314 H335 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenstop 500 corrosion inhibitor | 11000005 | - | - | 38249996 | Triethanolamine | 102-71-6 | 16.4 % | Korrosionsschutz | - | 0 | registriert |
+| Marenthal Chemie AG | Marenstop 500 corrosion inhibitor | 11000005 | - | - | 38249996 | Water (demineralised) | 7732-18-5 | 79.6 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenthix 409 thickener | 11000004 | - | - | 39123900 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.25 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenthix 409 thickener | 11000004 | - | - | 39123900 | Propylene glycol | 57-55-6 | 6.5 % | Lösevermittler | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenthix 409 thickener | 11000004 | - | - | 39123900 | Water (demineralised) | 7732-18-5 | 88.75 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenthix 409 thickener | 11000004 | - | - | 39123900 | Xanthan gum | 11138-66-2 | 4.5 % | Rheologieadditiv | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenwet 206 wetting agent | 11000001 | - | - | 34021390 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.32 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenwet 206 wetting agent | 11000001 | - | - | 34021390 | Dipropylene glycol | 25265-71-8 | 6.7 % | Lösevermittler | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenwet 206 wetting agent | 11000001 | - | - | 34021390 | Fatty alcohol ethoxylate (C12-14, 6 EO) | 68439-50-9 | 32.5 % | Tensid | H302 H318 H412 | 0 | registriert |
+| Marenthal Chemie AG | Marenwet 206 wetting agent | 11000001 | - | - | 34021390 | Water (demineralised) | 7732-18-5 | 60.48 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Marenwet 237 wetting agent | 12000001 | - | - | 34021390 | 1,2-Benzisothiazolin-3-one | 2634-33-5 | 0.31 % | Konservierungsmittel | H302 H315 H317 H318 H400 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenwet 237 wetting agent | 12000001 | - | - | 34021390 | Dipropylene glycol | 25265-71-8 | 4.1 % | Lösevermittler | - | 0 | Lieferant |
+| Marenthal Chemie AG | Marenwet 237 wetting agent | 12000001 | - | - | 34021390 | Sodium dodecylbenzenesulfonate | 25155-30-0 | 33.3 % | Tensid | H302 H315 H318 H412 | 0 | Lieferant |
+| Marenthal Chemie AG | Marenwet 237 wetting agent | 12000001 | - | - | 34021390 | Water (demineralised) | 7732-18-5 | 62.29 % | Trägermedium | - | 0 | ausgenommen |
+| Marenthal Chemie AG | Methanol, technical grade | 12000049 | UN1230 | 3(6.1) | 29051100 | Methanol | 67-56-1 | 100 % | Hauptbestandteil | H225 H301 H311 H331 H370 | 0 | registriert |
+| Marenthal Chemie AG | Methyl ethyl ketone, technical grade | 12000042 | UN1193 | 3 | 29141200 | Methyl ethyl ketone | 78-93-3 | 100 % | Hauptbestandteil | H225 H319 H336 | 0 | Lieferant |
+| Marenthal Chemie AG | Methyl methacrylate, technical grade | 11000035 | UN1247 | 3 | 29161400 | Methyl methacrylate | 80-62-6 | 100 % | Hauptbestandteil | H225 H315 H317 H335 | 0 | Lieferant |
+| Marenthal Chemie AG | Neopentyl glycol, technical grade | 11000038 | - | - | 29053980 | Neopentyl glycol | 126-30-7 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemie AG | Pentaerythritol, technical grade | 11000039 | - | - | 29054200 | Pentaerythritol | 115-77-5 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemie AG | Phosphoric acid (75 %), technical grade | 12000051 | UN1805 | 8 | 28092000 | Phosphoric acid (75 %) | 7664-38-2 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Marenthal Chemie AG | Propylene glycol, technical grade | 12000048 | - | - | 29053200 | Propylene glycol | 57-55-6 | 100 % | Hauptbestandteil | - | 0 | Lieferant |
+| Marenthal Chemie AG | Sodium hydroxide (50 %), technical grade | 12000050 | UN1824 | 8 | 28151200 | Sodium hydroxide (50 %) | 1310-73-2 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Marenthal Chemie AG | Styrene, technical grade | 12000031 | UN2055 | 3 | 29025000 | Styrene | 100-42-5 | 100 % | Hauptbestandteil | H226 H315 H319 H332 H361d H372 | 0 | Lieferant |
+| Marenthal Chemie AG | Sulfuric acid (96 %), technical grade | 12000046 | UN1830 | 8 | 28070010 | Sulfuric acid (96 %) | 7664-93-9 | 100 % | Hauptbestandteil | H290 H314 | 0 | Lieferant |
+| Marenthal Chemie AG | Tetraethyl orthosilicate, technical grade | 11000034 | UN1292 | 3 | 29209085 | Tetraethyl orthosilicate | 78-10-4 | 100 % | Hauptbestandteil | H226 H319 H332 H335 | 0 | Zwischenprodukt |
+| Marenthal Chemie AG | Titanium dioxide, technical grade | 12000053 | - | - | 32061100 | Titanium dioxide | 13463-67-7 | 100 % | Hauptbestandteil | - | 0 | registriert |
+| Marenthal Chemie AG | Toluene, technical grade | 12000043 | UN1294 | 3 | 29023000 | Toluene | 108-88-3 | 100 % | Hauptbestandteil | H225 H304 H315 H336 H361d H373 | 0 | Lieferant |
+| Marenthal Chemie AG | Triethylamine, technical grade | 12000035 | UN1296 | 3(8) | 29211200 | Triethylamine | 121-44-8 | 100 % | Hauptbestandteil | H225 H302 H311 H314 H331 H335 | 0 | registriert |
+| Marenthal Chemie AG | Vinyl acetate, technical grade | 12000030 | UN1301 | 3 | 29153200 | Vinyl acetate | 108-05-4 | 100 % | Hauptbestandteil | H225 H332 H335 H351 | 0 | Lieferant |
+| Marenthal Chemie AG | Xylene (isomer mixture), technical grade | 12000044 | UN1307 | 3 | 29024400 | Xylene (isomer mixture) | 1330-20-7 | 100 % | Hauptbestandteil | H226 H304 H312 H315 H319 H332 H335 H373 | 0 | Lieferant |
+| Marenthal Chemie AG | n-Butyl acrylate, technical grade | 11000036 | UN2348 | 3 | 29161200 | n-Butyl acrylate | 141-32-2 | 100 % | Hauptbestandteil | H226 H315 H317 H335 H411 | 0 | Lieferant |

@@ -1,0 +1,21 @@
+# Register of declared conflicts of interest - Marenthal Chemie AG
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Declared conflicts of interest with the assessment and the decision. Persons are not named.
+
+| Declared | Kind | Description | Partner | Assessment | Decision | Status | Decided on |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-03 | Beteiligung | Gesellschafteranteil an einem Dienstleister, der für die Gesellschaft tätig ist. | Becker Transporte SE | kein Konflikt | - | gemeldet | - |
+| 2025-11-21 | Mandat | Ehrenamtliches Mandat im Vorstand eines Branchenverbands. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | entschieden | 2025-12-03 |
+| 2025-06-25 | Beteiligung | Minderheitsbeteiligung an einem Lieferanten der Gesellschaft. | de Vries Petrochemicals B.V. | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu de Vries Petrochemicals B.V, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2025-06-27 |
+| 2025-01-20 | Sonstiges | Nebenberufliche Lehrtätigkeit an einer Hochschule. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2025-02-12 |
+| 2024-08-26 | Geschäftsbeziehung zu Partner | Persönliche Freundschaft zu einem Geschäftsführer eines Lieferanten. | de Jong Specialty Chemicals B.V. | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2024-09-12 |
+| 2024-05-17 | Familiäre Beziehung | Ehepartner ist bei einem Kunden im Einkauf tätig. | Schwaben Gebäudereinigung AG | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Schwaben Gebäudereinigung AG, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2024-06-19 |
+| 2024-05-03 | Familiäre Beziehung | Ehepartner ist bei einem Kunden im Einkauf tätig. | Stahl Umwelttechnik GmbH & Co. KG | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2024-05-27 |
+| 2024-03-04 | Geschäftsbeziehung zu Partner | Private Geschäftsbeziehung zu einem Vertriebspartner (gemeinsame Investition). | Hanse Chemiehandel AG | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Hanse Chemiehandel AG, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2024-03-22 |
+| 2023-12-19 | Nebentätigkeit | Beratertätigkeit für ein Unternehmen außerhalb der Branche, keine Überschneidung mit Lieferanten oder Kunden. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2024-01-23 |
+| 2023-10-03 | Familiäre Beziehung | Ehepartner ist bei einem Kunden im Einkauf tätig. | Gulf Coast Foods Inc. | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2023-10-06 |
+| 2023-09-29 | Familiäre Beziehung | Ehepartner ist bei einem Kunden im Einkauf tätig. | Lange Leiterplatten GmbH | kein Konflikt | Keine Einwände; Tätigkeit zulässig. | abgeschlossen | 2023-10-12 |
+| 2023-06-22 | Geschäftsbeziehung zu Partner | Persönliche Freundschaft zu einem Geschäftsführer eines Lieferanten. | Brabantse Specialty Chemicals B.V. | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Brabantse Specialty Chemicals B.V, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2023-07-06 |
+| 2023-03-22 | Beteiligung | Minderheitsbeteiligung an einem Lieferanten der Gesellschaft. | Bauer Verpackungen GmbH | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Bauer Verpackungen GmbH, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2023-04-18 |

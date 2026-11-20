@@ -1,0 +1,29 @@
+
+
+Abfallerzeugernummer – AE-MRL-2024/446
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00000473
+Version
+1.0
+Gültig ab
+2024-09-13
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Abfallerzeugernummer
+nummer: AE-MRL-2024/446
+behoerde: Bezirksregierung Münster
+erteilt_am: 2024-09-13
+gueltig_bis: 2027-09-13
+status: gültig
+auflagen: Jahresmeldung der Abfallmengen; Nachweise für Entsorger.

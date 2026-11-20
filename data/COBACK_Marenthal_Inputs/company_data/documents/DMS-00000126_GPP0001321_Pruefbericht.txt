@@ -1,0 +1,43 @@
+
+
+Prüfbericht Erstprüfung (GPP0001321)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000126
+Version
+1.0
+Gültig ab
+2022-02-04
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Erstprüfung
+pruefdatum: 2022-02-01
+anlass: Erstprüfung des Bestands bei Einführung des Systems
+risikoklasse: niedrig
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: kein Treffer
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Antikorruptionsklausel im Vertrag ergänzen
+gueltig_bis: 2025-01-16
+begruendung: Sanktions- und Embargolisten ohne Treffer abgeglichen. Risikoklasse niedrig. Freigabe
+unter Auflagen.
+Geschäftspartner
+name: Sommer & Schumacher Gebäudereinigung GmbH
+partner_typ: Kunde
+land: AT
+strasse: Hauptstraße 20
+plz: 5049
+ort: Salzburg
+aktiv: 1
+risikoklasse_aktuell: niedrig
+letzte_pruefung: 2025-01-16
+freigabestatus: mit Auflagen

@@ -1,0 +1,37 @@
+
+
+Fiche technique Marenphos 125 solution de
+phosphatation
+Technisches Datenblatt
+N° du document
+DMS-00001035
+Version
+5.1
+Valable depuis
+2025-08-28
+Société
+Marenthal France S.A.S.
+Statut
+Approved
+Confidentialité
+Public
+Informations
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Informations
+Product: Marenphos 125 phosphating solution
+Family: Specialty Chemicals
+Applications: Surface treatment, Electroplating
+Description: Phosphatierung von Stahl- und Zinkoberflächen
+Hazardous: 1
+SDS available: 1
+Density: 1.173
+UN: UN3264
+Class: 8
+HS: 3824999600
+Origin: FR
+Composition
+Water (demineralised): 58.5–71.5 %
+Phosphoric acid (75 %): 25.9–31.7 %
+Zinc oxide: 4.6–5.6 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 0.6–1.6 %

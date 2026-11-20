@@ -1,0 +1,41 @@
+
+
+Anti-Corruption and Gifts Policy
+Konzernrichtlinie
+Document no.
+DMS-00000074
+Version
+1.0
+Valid from
+2021-09-28
+Company
+Marenthal Chemie AG
+Status
+Superseded
+Confidentiality
+Internal
+Purpose and scope
+This policy sets binding rules on “Compliance” for Marenthal Chemie AG. It applies to all employees,
+managers and, where contractually agreed, to business partners. Violations may have consequences
+under employment and criminal law.
+Obligations and responsibilities
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Richtlinie
+nummer: KR-002
+titel: Richtlinie Antikorruption und Zuwendungen
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-24
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 1.0
+sprache: en
+status: Ersetzt
+gueltig_ab: 2021-09-28
+gueltig_bis: 2023-04-24
+freigabe_datum: 2021-09-24
+aenderungsgrund: Erstfassung

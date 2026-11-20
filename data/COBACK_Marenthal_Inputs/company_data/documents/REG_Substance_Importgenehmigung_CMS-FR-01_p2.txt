@@ -1,0 +1,73 @@
+# Register of import permits - Marenthal France S.A.S. (part 2 of 2)
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Status of each substance regarding import permits in the target market, with the role of the company, registration number and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Potassium permanganate (CAS 7722-64-7) | KE | Händler | abgelaufen | IL-KE-916715 | - | 2023-02-19 | 2024-02-19 | Importlizenz des Importeurs abgelaufen |
+| Propylene carbonate (CAS 108-32-7) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Propylene carbonate (CAS 108-32-7) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Propylene glycol (CAS 57-55-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Propylene glycol (CAS 57-55-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Rosin (colophony) (CAS 8050-09-7) | KE | Händler | abgelaufen | IL-KE-518389 | - | 2023-10-07 | 2024-10-06 | Importlizenz des Importeurs abgelaufen |
+| Silicon dioxide (amorphous) (CAS 7631-86-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium acetate (CAS 127-09-3) | BR | Händler | erteilt | LI-BR-55268869 | - | 2025-02-13 | 2027-02-13 | - |
+| Sodium acetate (CAS 127-09-3) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium bicarbonate (CAS 144-55-8) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Sodium bicarbonate (CAS 144-55-8) | KE | Händler | abgelaufen | IL-KE-510578 | - | 2023-10-09 | 2024-10-08 | Importlizenz des Importeurs abgelaufen |
+| Sodium bisulfite (CAS 7631-90-5) | BR | Händler | abgelaufen | LI-BR-83351981 | - | 2023-10-20 | 2024-10-19 | Importlizenz des Importeurs abgelaufen |
+| Sodium bisulfite (CAS 7631-90-5) | KE | Händler | erteilt | IL-KE-930795 | - | 2025-06-22 | 2027-06-22 | - |
+| Sodium carboxymethylcellulose (CAS 9004-32-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium chloride (CAS 7647-14-5) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium cumenesulfonate (CAS 15763-76-5) | BR | Händler | erteilt | LI-BR-44004775 | - | 2025-07-25 | 2027-07-25 | - |
+| Sodium cumenesulfonate (CAS 15763-76-5) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Sodium dodecyl sulfate (CAS 151-21-3) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium dodecyl sulfate (CAS 151-21-3) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium dodecylbenzenesulfonate (CAS 25155-30-0) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium dodecylbenzenesulfonate (CAS 25155-30-0) | KE | Händler | abgelaufen | IL-KE-285213 | - | 2023-11-20 | 2024-11-19 | Importlizenz des Importeurs abgelaufen |
+| Sodium gluconate (CAS 527-07-1) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium hydroxide (50 %) (CAS 1310-73-2) | BR | Händler | erteilt | LI-BR-42118998 | - | 2025-02-22 | 2027-02-22 | - |
+| Sodium hydroxide (50 %) (CAS 1310-73-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium hypochlorite solution (CAS 7681-52-9) | BR | Händler | erteilt | LI-BR-80621331 | - | 2025-08-02 | 2027-08-02 | - |
+| Sodium laureth sulfate (CAS 68585-34-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium metasilicate (CAS 6834-92-0) | KE | Händler | erteilt | IL-KE-250213 | - | 2025-09-21 | 2027-09-21 | - |
+| Sodium nitrite (CAS 7632-00-0) | KE | Händler | erteilt | IL-KE-248334 | - | 2025-07-16 | 2027-07-16 | - |
+| Sodium percarbonate (CAS 15630-89-4) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Sodium percarbonate (CAS 15630-89-4) | KE | Händler | erteilt | IL-KE-798975 | - | 2025-05-22 | 2027-05-22 | - |
+| Sodium silicate (water glass) (CAS 1344-09-8) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium sulfate (CAS 7757-82-6) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Sodium sulfate (CAS 7757-82-6) | KE | Händler | erteilt | IL-KE-963453 | - | 2025-04-20 | 2027-04-20 | - |
+| Solvent naphtha (aromatic) (CAS 64742-95-6) | KE | Händler | erteilt | IL-KE-822528 | - | 2025-04-23 | 2027-04-23 | - |
+| Styrene (CAS 100-42-5) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Styrene (CAS 100-42-5) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | BR | Händler | erteilt | LI-BR-48401996 | - | 2025-01-28 | 2027-01-28 | - |
+| Styrene-acrylate copolymer dispersion (CAS 25767-47-9) | KE | Händler | erteilt | IL-KE-288198 | - | 2025-04-28 | 2027-04-28 | - |
+| Sulfamic acid (CAS 5329-14-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Talc (CAS 14807-96-6) | KE | Händler | abgelaufen | IL-KE-953412 | - | 2023-12-07 | 2024-12-06 | Importlizenz des Importeurs abgelaufen |
+| Tartaric acid (CAS 87-69-4) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Tetraethyl orthosilicate (CAS 78-10-4) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Tetraethyl orthosilicate (CAS 78-10-4) | KE | Händler | abgelaufen | IL-KE-885912 | - | 2023-10-19 | 2024-10-18 | Importlizenz des Importeurs abgelaufen |
+| Tetrahydrofuran (CAS 109-99-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Titanium dioxide (CAS 13463-67-7) | KE | Händler | abgelaufen | IL-KE-428920 | - | 2023-02-28 | 2024-02-28 | Importlizenz des Importeurs abgelaufen |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Toluene-2,4-diisocyanate (CAS 584-84-9) | KE | Händler | erteilt | IL-KE-303404 | - | 2025-08-25 | 2027-08-25 | - |
+| Triethylamine (CAS 121-44-8) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Trisodium citrate (CAS 68-04-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Trisodium phosphate (CAS 7601-54-9) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Trisodium phosphate (CAS 7601-54-9) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Urea (CAS 57-13-6) | BR | Händler | erteilt | LI-BR-78914050 | - | 2025-03-02 | 2027-03-02 | - |
+| Urea (CAS 57-13-6) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Vinyl acetate (CAS 108-05-4) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Xanthan gum (CAS 11138-66-2) | BR | Händler | erteilt | LI-BR-71593131 | - | 2025-07-26 | 2027-07-26 | - |
+| Xanthan gum (CAS 11138-66-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Xylene (isomer mixture) (CAS 1330-20-7) | KE | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Zinc oxide (CAS 1314-13-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| Zinc phosphate (CAS 7779-90-0) | BR | Händler | Anmeldung läuft | - | - | - | - | Anmeldung beim Importeur |
+| Zinc stearate (CAS 557-05-1) | BR | Händler | erteilt | LI-BR-36796199 | - | 2025-04-17 | 2027-04-17 | - |
+| Zinc stearate (CAS 557-05-1) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| d-Limonene (CAS 5989-27-5) | BR | Händler | erteilt | LI-BR-21289138 | - | 2025-04-16 | 2027-04-16 | - |
+| n-Butanol (CAS 71-36-3) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Butyl acrylate (CAS 141-32-2) | BR | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |
+| n-Butyl acrylate (CAS 141-32-2) | KE | Händler | nicht erforderlich | - | - | - | - | Importeur vor Ort zuständig |

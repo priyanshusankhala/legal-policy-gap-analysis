@@ -1,0 +1,74 @@
+框架协议 RV-2023-0049 – 常州扬帆汽车零部件有限公司
+Rahmenvertrag
+
+文件编号: DMS-00000224
+版本: 1.0
+生效日期: 2023-04-10
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+状态: Approved
+保密级别: Confidential
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Vertrag
+contract_number: RV-2023-0049
+type: Framework Agreement
+status: Active
+start_date: 2023-04-10
+end_date: 2028-04-09
+auto_renew: 1
+notice_period_days: 90
+currency: CNY
+committed_volume_t: 112.38
+selling_entity: Marenthal Chemicals (Shanghai)
+signed_date: 2023-03-29
+governing_law: PRC law
+payment_terms: Z030
+incoterm: FCA
+
+条款
+Marendisp 332 dispersing agent: 2969.55 CNY/100 kg
+Marenclean B 1006 chlorine-based cleaner: 834.25 CNY/100 kg
+Marencoat AL 603 alkyd enamel: 4284.79 CNY/100 kg
+Marencoat RS 703 anticorrosive primer: 3695.51 CNY/100 kg
+
+Account
+name: 常州扬帆汽车零部件有限公司
+type: Customer
+billing_street: 中山路31号
+billing_city: Changzhou
+billing_postcode: 213020
+billing_country: CN
+industry: Automotive supplier
+segment: Direct
+size_class: Small
+status: Active
+website: www.yangfan-auto.cn
+created_date: 2004-11-24
+last_modified_date: 2024-08-30
+language: zh-CN
+selling_entity: Marenthal Chemicals (Shanghai)
+description: 汽车零部件供应；2004年起的老客户，主要产品：Marendisp 332 分散剂、Marenclean B 1006 含氯清洁剂。
+
+Rahmenvertragsnummer
+contract_number: RV-2023-0049
+type: Framework Agreement
+status: Active
+start_date: 2023-04-10
+end_date: 2028-04-09
+auto_renew: 1
+notice_period_days: 90
+currency: CNY
+committed_volume_t: 112.38
+selling_entity: Marenthal Chemicals (Shanghai)
+signed_date: 2023-03-29
+governing_law: PRC law
+payment_terms: Z030
+incoterm: FCA
+
+条款
+Marendisp 332 dispersing agent: 2969.55 CNY/100 kg
+Marenclean B 1006 chlorine-based cleaner: 834.25 CNY/100 kg
+Marencoat AL 603 alkyd enamel: 4284.79 CNY/100 kg
+Marencoat RS 703 anticorrosive primer: 3695.51 CNY/100 kg

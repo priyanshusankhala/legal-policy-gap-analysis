@@ -1,0 +1,32 @@
+# Register of customers by country and sector - Marenthal Chemie AG (part 2 of 2)
+
+Company: Marenthal Chemie AG (DE). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- |
+| Romania (RO) | Chemiehandel | Distributor | 1 |
+| Romania (RO) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Romania (RO) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Romania (RO) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Slovakia (SK) | Automobilzulieferer | Industrie | 1 |
+| Slovakia (SK) | Farben und Lacke | Industrie | 1 |
+| Slovakia (SK) | Gebäudereinigung und Hygiene | Endkunde | 1 |
+| Slovakia (SK) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Slovenia (SI) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Slovenia (SI) | Farben und Lacke | Industrie | 1 |
+| Spain (ES) | Automobilzulieferer | Industrie | 2 |
+| Spain (ES) | Farben und Lacke | Industrie | 1 |
+| Sweden (SE) | Automobilzulieferer | Industrie | 1 |
+| Sweden (SE) | Bauchemie und Baustoffe | Industrie | 1 |
+| Sweden (SE) | Chemiehandel | Distributor | 1 |
+| Sweden (SE) | Elektro- und Elektronikindustrie | Industrie | 1 |
+| Sweden (SE) | Farben und Lacke | Industrie | 1 |
+| Sweden (SE) | Gebäudereinigung und Hygiene | Endkunde | 2 |
+| Sweden (SE) | Lebensmittel- und Getränkeindustrie | Industrie | 1 |
+| Sweden (SE) | Maschinen- und Anlagenbau | Industrie | 1 |
+| United States (US) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| United States (US) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| United States (US) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| United States (US) | Maschinen- und Anlagenbau | Industrie | 1 |

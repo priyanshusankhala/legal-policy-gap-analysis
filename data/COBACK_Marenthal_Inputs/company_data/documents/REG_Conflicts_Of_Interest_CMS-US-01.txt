@@ -1,0 +1,15 @@
+# Register of declared conflicts of interest - Marenthal Chemicals Inc.
+
+Company: Marenthal Chemicals Inc. (US). As of 2026-11-09.
+
+Declared conflicts of interest with the assessment and the decision. Persons are not named.
+
+| Declared | Kind | Description | Partner | Assessment | Decision | Status | Decided on |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-23 | Sonstiges | Nebenberufliche Lehrtätigkeit an einer Hochschule. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2025-07-14 |
+| 2025-05-20 | Geschäftsbeziehung zu Partner | Persönliche Freundschaft zu einem Geschäftsführer eines Lieferanten. | Rodriguez Chemicals Corp. | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2025-06-05 |
+| 2025-04-28 | Nebentätigkeit | Beratertätigkeit für ein Unternehmen außerhalb der Branche, keine Überschneidung mit Lieferanten oder Kunden. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2025-05-20 |
+| 2024-11-14 | Mandat | Ehrenamtliches Mandat im Vorstand eines Branchenverbands. | - | kein Konflikt | Kein Bezug zu dienstlichen Entscheidungen; Meldung zur Kenntnis genommen. | abgeschlossen | 2024-11-27 |
+| 2024-04-02 | Nebentätigkeit | Selbständige Tätigkeit als Gutachter für Prüfinstitute neben dem Beruf. | - | potenzieller Konflikt | Zulässig mit Auflagen: Genehmigung durch den Vorgesetzten, Nachweis der zeitlichen Trennung, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2024-05-02 |
+| 2023-10-31 | Familiäre Beziehung | Ehepartner ist bei einem Kunden im Einkauf tätig. | Pacific Coatings Inc. | potenzieller Konflikt | Zulässig mit Auflagen: Enthaltung bei Entscheidungen zu Pacific Coatings Inc, jährliche Aktualisierung der Erklärung. | abgeschlossen | 2023-11-08 |
+| 2023-10-11 | Beteiligung | Minderheitsbeteiligung an einem Lieferanten der Gesellschaft. | Franklin Insurance Brokers Inc. | Konflikt | Beteiligung bzw. Beziehung ist zu beenden; bis dahin Ausschluss von allen Entscheidungen zu Franklin Insurance Brokers Inc. | abgeschlossen | 2023-11-03 |

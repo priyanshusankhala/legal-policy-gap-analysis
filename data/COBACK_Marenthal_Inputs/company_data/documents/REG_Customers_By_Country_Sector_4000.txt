@@ -1,0 +1,22 @@
+# Register of customers by country and sector - Marenthal Chemicals (Shanghai) Co., Ltd.
+
+Company: Marenthal Chemicals (Shanghai) Co., Ltd. (CN). Source: ERP, summarised.
+
+Number of customers per country, industry sector and customer group. Individual customers are not listed.
+
+| Company | Country | Industry sector | Customer group | Customers |
+| --- | --- | --- | --- | --- |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Automobilzulieferer | Industrie | 10 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Bauchemie und Baustoffe | Industrie | 7 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Chemiehandel | Distributor | 8 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Elektro- und Elektronikindustrie | Industrie | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Farben und Lacke | Industrie | 12 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Gebäudereinigung und Hygiene | Endkunde | 3 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Kunststoffverarbeitung | Industrie | 4 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Lebensmittel- und Getränkeindustrie | Industrie | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Maschinen- und Anlagenbau | Industrie | 2 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Metall- und Oberflächentechnik | Industrie | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | China (CN) | Wasseraufbereitung und Umwelttechnik | Industrie | 3 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | France (FR) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | Germany (DE) | Chemie (Konzerngesellschaft) | Konzern | 1 |
+| Marenthal Chemicals (Shanghai) Co., Ltd. | United States (US) | Chemie (Konzerngesellschaft) | Konzern | 1 |

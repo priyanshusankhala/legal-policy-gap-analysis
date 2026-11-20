@@ -1,0 +1,38 @@
+
+
+Technisches Datenblatt Marenclean A 238 Alkalischer
+Industriereiniger
+Technisches Datenblatt
+Dokumentnummer
+DMS-00001083
+Version
+2.0
+Gültig ab
+2025-08-25
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenclean A 238 alkaline industrial cleaner
+Family: Industrial Cleaners
+Applications: Hard surface cleaning, Equipment cleaning, Cleaning of parts
+Description: Entfernung von Fetten, Ölen und Schmutz in der Industrie
+Hazardous: 1
+SDS available: 1
+Density: 1.075
+UN: UN3266
+Class: 8
+HS: 3402909000
+Origin: DE
+Zusammensetzung
+Water (demineralised): 70.5–86.1 %
+Sodium hydroxide (50 %): 8.7–10.7 %
+Sodium metasilicate: 5.4–6.6 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 4.2–5.2 %
+Tetrasodium EDTA: 0.8–1.8 %

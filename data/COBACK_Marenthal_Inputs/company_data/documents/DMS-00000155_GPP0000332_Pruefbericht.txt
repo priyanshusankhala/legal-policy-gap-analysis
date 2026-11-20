@@ -1,0 +1,43 @@
+
+
+Prüfbericht Erstprüfung (GPP0000332)
+Geschäftspartner-Prüfbericht
+Dokumentnummer
+DMS-00000155
+Version
+1.0
+Gültig ab
+2022-06-01
+Gesellschaft
+Marenthal Chemicals (Shanghai) Co., Ltd.
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Partnerprüfung
+pruef_typ: Erstprüfung
+pruefdatum: 2022-05-24
+anlass: Erstprüfung des Bestands bei Einführung des Systems
+risikoklasse: hoch
+sanktionslisten_abgleich: kein Treffer
+pep_pruefung: Treffer - bewertet
+adverse_media: kein Treffer
+ergebnis: freigegeben mit Auflagen
+auflagen: Jahresprüfung statt Dreijahresprüfung; Eigentümerstruktur offenlegen
+gueltig_bis: 2023-05-19
+begruendung: Sanktionslistenabgleich ohne Auffälligkeit. PEP-Bezug in der Geschäftsführung bewertet;
+erhöhte Sorgfaltspflichten angewendet. Risikoklasse hoch. Freigabe unter Auflagen.
+Geschäftspartner
+name: 
+partner_typ: Kunde
+land: CN
+strasse: 31
+plz: 213020
+ort: Changzhou
+aktiv: 1
+risikoklasse_aktuell: hoch
+letzte_pruefung: 2025-05-08
+freigabestatus: freigegeben

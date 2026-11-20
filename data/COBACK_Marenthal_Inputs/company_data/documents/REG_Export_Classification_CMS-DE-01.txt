@@ -1,0 +1,105 @@
+# Register of export classification and dual-use assessment - Marenthal Chemie AG
+
+Company: Marenthal Chemie AG (DE). As of 2026-11-09.
+
+Export list number, ECCN, dual-use status, customs tariff code and embargo notes for each product.
+
+| Product | Export list no. | ECCN | Dual use | HS code | Embargo note | Assessed | Next review | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2-Ethylhexyl acrylate, technical grade (PS-2021-0173) | N | EAR99 | 0 | 29161200 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-09-11 | 2027-09-01 | klassifiziert |
+| 3-Aminopropyltriethoxysilane, technical grade (PS-2023-0163) | N | EAR99 | 0 | 29310095 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-07-17 | 2027-07-07 | klassifiziert |
+| 3-Glycidyloxypropyltrimethoxysilane, technical grade (PS-2021-0164) | N | EAR99 | 0 | 29310095 | - | 2025-04-16 | 2027-04-06 | klassifiziert |
+| Acetic acid, technical grade (PS-2021-0191) | N | EAR99 | 0 | 29152100 | - | 2025-05-09 | 2027-04-29 | klassifiziert |
+| Acetone, technical grade (PS-2025-0181) | N | EAR99 | 0 | 29141100 | - | 2025-06-16 | 2027-06-09 | klassifiziert |
+| Acrylic acid, technical grade (PS-2021-0176) | N | EAR99 | 0 | 29161100 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-05-16 | 2027-05-06 | klassifiziert |
+| Bisphenol-A epoxy resin, technical grade (PS-2025-0168) | N | EAR99 | 0 | 39073000 | - | 2025-07-24 | 2027-07-14 | klassifiziert |
+| Butyl acetate, technical grade (PS-2021-0185) | N | EAR99 | 0 | 29153300 | - | 2025-05-09 | 2027-04-29 | klassifiziert |
+| Calcium carbonate, technical grade (PS-2021-0200) | N | EAR99 | 0 | 28365000 | - | 2025-07-10 | 2027-06-30 | klassifiziert |
+| Diethylenetriamine, technical grade (PS-2021-0180) | N | EAR99 | 0 | 29212900 | - | 2025-04-24 | 2027-04-14 | klassifiziert |
+| Ethanol, technical grade (PS-2021-0183) | N | EAR99 | 0 | 22072000 | - | 2025-03-17 | 2027-03-05 | klassifiziert |
+| Ethyl acetate, technical grade (PS-2021-0184) | N | EAR99 | 0 | 29153100 | - | 2025-07-15 | 2027-07-05 | klassifiziert |
+| Glycerol, technical grade (PS-2021-0197) | N | EAR99 | 0 | 29054500 | - | 2025-02-21 | 2027-02-11 | klassifiziert |
+| Hexamethylene diisocyanate, technical grade (PS-2021-0171) | N | EAR99 | 0 | 29291000 | - | 2025-09-23 | 2027-09-13 | klassifiziert |
+| Hydrochloric acid (33 %), technical grade (PS-2021-0189) | N | EAR99 | 0 | 28061000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-07-18 | 2027-07-08 | klassifiziert |
+| Hydrogen peroxide (35 %), technical grade (PS-2021-0196) | N | EAR99 | 0 | 28470000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-08-18 | 2027-08-10 | klassifiziert |
+| Isophorone diisocyanate, technical grade (PS-2021-0178) | N | EAR99 | 0 | 29291000 | - | 2025-10-01 | 2027-09-21 | klassifiziert |
+| Isopropanol, technical grade (PS-2021-0182) | N | EAR99 | 0 | 29051200 | - | 2023-08-04 | 2025-07-24 | veraltet |
+| Maleic anhydride, technical grade (PS-2021-0177) | N | EAR99 | 0 | 29171400 | - | 2025-08-08 | 2027-07-29 | klassifiziert |
+| Marenbase 1003 neutralising agent (PS-2021-0115) | 1C350 | 1C350 | 1 | 38249996 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-06-02 | 2027-05-24 | klassifiziert |
+| Marenchel 603 chelating agent solution (PS-2021-0109) | N | EAR99 | 0 | 38249996 | - | 2025-11-03 | 2027-10-27 | klassifiziert |
+| Marenclean A 207 alkaline industrial cleaner (PS-2021-0125) | N | EAR99 | 0 | 34029090 | - | 2025-05-14 | 2027-05-04 | klassifiziert |
+| Marenclean A 238 alkaline industrial cleaner (PS-2022-0126) | N | EAR99 | 0 | 34029090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2024-09-27 | 2026-09-17 | klassifiziert |
+| Marenclean B 1006 chlorine-based cleaner (PS-2021-0137) | N | EAR99 | 0 | 28289090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-06-23 | 2027-06-15 | klassifiziert |
+| Marenclean C 1305 CIP cleaner (PS-2021-0140) | N | EAR99 | 0 | 34029090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2024-02-15 | 2026-02-04 | klassifiziert |
+| Marenclean D 703 disinfectant cleaner (PS-2021-0134) | N | EAR99 | 0 | 38089490 | - | 2025-03-13 | 2027-03-03 | klassifiziert |
+| Marenclean E 504 degreaser (PS-2021-0130) | N | EAR99 | 0 | 34029090 | - | 2025-02-25 | 2027-02-15 | klassifiziert |
+| Marenclean E 537 degreaser (PS-2021-0131) | N | EAR99 | 0 | 34029090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-09-01 | 2027-08-20 | klassifiziert |
+| Marenclean F 1503 floor care product (PS-2021-0142) | N | EAR99 | 0 | 34022090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2024-05-21 | 2026-05-11 | klassifiziert |
+| Marenclean G 800 glass cleaner (PS-2021-0135) | N | EAR99 | 0 | 34022090 | - | 2025-08-26 | 2027-08-16 | klassifiziert |
+| Marenclean H 602 hand cleaner (PS-2025-0132) | N | EAR99 | 0 | 34022090 | - | 2025-04-24 | 2027-04-14 | klassifiziert |
+| Marenclean H 637 hand cleaner (PS-2021-0133) | N | EAR99 | 0 | 34022090 | - | 2025-04-18 | 2027-04-08 | klassifiziert |
+| Marenclean M 1200 machine cleaner (powder) (PS-2021-0139) | N | EAR99 | 0 | 34029090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-08-08 | 2027-07-29 | klassifiziert |
+| Marenclean O 1100 active oxygen cleaner (powder) (PS-2021-0138) | N | EAR99 | 0 | 28369990 | - | 2025-05-14 | 2027-05-04 | klassifiziert |
+| Marenclean P 404 phosphoric acid cleaner (PS-2021-0129) | N | EAR99 | 0 | 34029090 | - | 2025-07-30 | 2027-07-20 | klassifiziert |
+| Marenclean R 1402 rust remover (PS-2021-0141) | N | EAR99 | 0 | 34029090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-07-24 | 2027-07-14 | klassifiziert |
+| Marenclean S 301 descaler (PS-2021-0127) | N | EAR99 | 0 | 34029090 | - | 2025-07-04 | 2027-06-24 | klassifiziert |
+| Marenclean S 331 descaler (PS-2025-0128) | N | EAR99 | 0 | 34029090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-04-04 | 2027-03-25 | klassifiziert |
+| Marenclean U 101 all-purpose cleaner (PS-2021-0123) | N | EAR99 | 0 | 34022090 | - | 2025-06-26 | 2027-06-16 | klassifiziert |
+| Marenclean U 134 all-purpose cleaner (PS-2021-0124) | N | EAR99 | 0 | 34022090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-09-05 | 2027-08-26 | klassifiziert |
+| Marenclean Z 904 citrus cleaner (PS-2021-0136) | N | EAR99 | 0 | 34022090 | - | 2025-08-26 | 2027-08-16 | klassifiziert |
+| Marenclear 406 dechlorinating agent (PS-2021-0122) | N | EAR99 | 0 | 38249996 | - | 2025-09-05 | 2027-08-26 | klassifiziert |
+| Marencoat AF 309 acrylic facade paint (PS-2021-0143) | N | EAR99 | 0 | 32091000 | - | 2025-05-14 | 2027-05-04 | klassifiziert |
+| Marencoat AF 333 acrylic facade paint (PS-2021-0144) | N | EAR99 | 0 | 32091000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-04-30 | 2027-04-20 | klassifiziert |
+| Marencoat AI 401 interior emulsion paint (PS-2021-0145) | N | EAR99 | 0 | 32091000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-05-16 | 2027-05-06 | klassifiziert |
+| Marencoat AI 436 interior emulsion paint (PS-2023-0146) | N | EAR99 | 0 | 32091000 | - | 2025-04-14 | 2027-04-02 | klassifiziert |
+| Marencoat AL 603 alkyd enamel (PS-2021-0149) | N | EAR99 | 0 | 32089019 | - | 2025-09-01 | 2027-08-20 | klassifiziert |
+| Marencoat AL 634 alkyd enamel (PS-2021-0150) | N | EAR99 | 0 | 32089019 | - | 2025-06-23 | 2027-06-15 | klassifiziert |
+| Marencoat DB 1303 roof coating (PS-2021-0159) | N | EAR99 | 0 | 32091000 | - | 2025-08-14 | 2027-08-04 | klassifiziert |
+| Marencoat DB 1333 roof coating (PS-2021-0160) | N | EAR99 | 0 | 32091000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-08-27 | 2027-08-17 | klassifiziert |
+| Marencoat EK 1001 2K clear epoxy coating (component A) (PS-2025-0156) | N | EAR99 | 0 | 32089091 | - | 2025-05-06 | 2027-04-26 | klassifiziert |
+| Marencoat EP 806 2K epoxy primer (component A) (PS-2021-0153) | N | EAR99 | 0 | 32089091 | - | 2025-12-02 | 2027-11-22 | klassifiziert |
+| Marencoat EP 839 2K epoxy primer (component A) (PS-2025-0154) | N | EAR99 | 0 | 32089091 | - | 2025-12-04 | 2027-11-24 | klassifiziert |
+| Marencoat HL 509 water-based wood coating (PS-2021-0147) | N | EAR99 | 0 | 32091000 | - | 2025-07-15 | 2027-07-05 | klassifiziert |
+| Marencoat HL 533 water-based wood coating (PS-2021-0148) | N | EAR99 | 0 | 32091000 | - | 2025-09-23 | 2027-09-13 | klassifiziert |
+| Marencoat PH 1102 epoxy hardener (component B) (PS-2021-0157) | 1C350 | 1C350 | 1 | 38249996 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-05-19 | 2027-05-12 | klassifiziert |
+| Marencoat RS 703 anticorrosive primer (PS-2021-0151) | N | EAR99 | 0 | 32089091 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-07-02 | 2027-06-22 | klassifiziert |
+| Marencoat RS 730 anticorrosive primer (PS-2021-0152) | N | EAR99 | 0 | 32089091 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-09-22 | 2027-09-13 | klassifiziert |
+| Marencoat TG 1400 penetrating primer (PS-2021-0161) | N | EAR99 | 0 | 32091000 | - | 2025-07-17 | 2027-07-07 | klassifiziert |
+| Marencoat TG 1438 penetrating primer (PS-2023-0162) | N | EAR99 | 0 | 32091000 | - | 2025-04-10 | 2027-03-31 | klassifiziert |
+| Marencure 410 epoxy hardener (PS-2025-0116) | 1C350 | 1C350 | 1 | 38249996 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-10-21 | 2027-10-11 | klassifiziert |
+| Marendisp 305 dispersing agent (PS-2021-0103) | 1C350 | 1C350 | 1 | 39069090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-11-18 | 2027-11-08 | klassifiziert |
+| Marendisp 332 dispersing agent (PS-2021-0104) | 1C350 | 1C350 | 1 | 39069090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-07-25 | 2027-07-15 | klassifiziert |
+| Marenemul 702 emulsifier (PS-2024-0110) | N | EAR99 | 0 | 34021190 | - | 2024-12-05 | 2026-11-25 | klassifiziert |
+| Marenemul 731 emulsifier (PS-2021-0111) | N | EAR99 | 0 | 34021190 | - | 2025-06-13 | 2027-06-03 | klassifiziert |
+| Marenflex 906 plasticizer (PS-2021-0113) | N | EAR99 | 0 | 38122000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-07-25 | 2027-07-15 | klassifiziert |
+| Marenfoam 106 defoamer (PS-2025-0105) | N | EAR99 | 0 | 39100000 | - | 2025-12-10 | 2027-11-30 | klassifiziert |
+| Marenfoam 133 defoamer (PS-2021-0106) | N | EAR99 | 0 | 39100000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-03-26 | 2027-03-16 | klassifiziert |
+| Marenglide 953 lubricant additive (PS-2021-0114) | N | EAR99 | 0 | 34039900 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-03-11 | 2027-03-01 | klassifiziert |
+| Marenpaste 202 pigment preparation (PS-2021-0119) | N | EAR99 | 0 | 32129000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2024-03-18 | 2026-03-06 | klassifiziert |
+| Marenpaste 237 pigment preparation (PS-2021-0120) | N | EAR99 | 0 | 32129000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-02-24 | 2027-02-17 | klassifiziert |
+| Marenphos 125 phosphating solution (PS-2021-0121) | N | EAR99 | 0 | 38249996 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-04-14 | 2027-04-02 | klassifiziert |
+| Marenprotect 806 preservative (PS-2021-0112) | N | EAR99 | 0 | 38089490 | - | 2025-03-13 | 2027-03-03 | klassifiziert |
+| Marensolv 108 thinner (solvent blend) (PS-2021-0117) | N | EAR99 | 0 | 38140090 | - | 2025-07-07 | 2027-06-25 | klassifiziert |
+| Marensolv 302 degreasing spirit (solvent blend) (PS-2021-0118) | N | EAR99 | 0 | 38140090 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-12-26 | 2027-12-16 | klassifiziert |
+| Marenstop 500 corrosion inhibitor (PS-2025-0108) | 1C350 | 1C350 | 1 | 38249996 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-09-05 | 2027-08-26 | klassifiziert |
+| Marenthix 409 thickener (PS-2021-0107) | N | EAR99 | 0 | 39123900 | - | 2025-04-22 | 2027-04-12 | klassifiziert |
+| Marenwet 206 wetting agent (PS-2021-0101) | N | EAR99 | 0 | 34021390 | - | 2025-05-20 | 2027-05-10 | klassifiziert |
+| Marenwet 237 wetting agent (PS-2021-0102) | N | EAR99 | 0 | 34021390 | - | 2025-05-13 | 2027-05-03 | klassifiziert |
+| Methanol, technical grade (PS-2021-0193) | N | EAR99 | 0 | 29051100 | - | 2025-09-19 | 2027-09-09 | klassifiziert |
+| Methyl ethyl ketone, technical grade (PS-2021-0186) | N | EAR99 | 0 | 29141200 | - | 2025-07-09 | 2027-06-29 | klassifiziert |
+| Methyl methacrylate, technical grade (PS-2021-0166) | N | EAR99 | 0 | 29161400 | - | 2025-09-26 | 2027-09-16 | klassifiziert |
+| Neopentyl glycol, technical grade (PS-2021-0169) | N | EAR99 | 0 | 29053980 | - | 2025-04-16 | 2027-04-06 | klassifiziert |
+| Pentaerythritol, technical grade (PS-2021-0170) | N | EAR99 | 0 | 29054200 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-02-27 | 2027-02-17 | klassifiziert |
+| Phosphoric acid (75 %), technical grade (PS-2021-0195) | N | EAR99 | 0 | 28092000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-08-05 | 2027-07-26 | klassifiziert |
+| Propylene glycol, technical grade (PS-2023-0192) | N | EAR99 | 0 | 29053200 | - | 2025-09-25 | 2027-09-15 | klassifiziert |
+| Sodium carbonate, technical grade (PS-2025-0199) | N | EAR99 | 0 | 28362000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-05-07 | 2027-04-27 | klassifiziert |
+| Sodium hydroxide (50 %), technical grade (PS-2021-0194) | N | EAR99 | 0 | 28151200 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-04-15 | 2027-04-05 | klassifiziert |
+| Styrene, technical grade (PS-2021-0175) | N | EAR99 | 0 | 29025000 | - | 2023-09-14 | 2025-09-03 | veraltet |
+| Sulfuric acid (96 %), technical grade (PS-2021-0190) | N | EAR99 | 0 | 28070010 | - | 2025-04-03 | 2027-03-24 | klassifiziert |
+| Tetraethyl orthosilicate, technical grade (PS-2021-0165) | N | EAR99 | 0 | 29209085 | - | 2025-07-14 | 2027-07-07 | klassifiziert |
+| Titanium dioxide, technical grade (PS-2021-0198) | N | EAR99 | 0 | 32061100 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-08-20 | 2027-08-10 | klassifiziert |
+| Toluene, technical grade (PS-2021-0187) | N | EAR99 | 0 | 29023000 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-10-27 | 2027-10-15 | klassifiziert |
+| Triethylamine, technical grade (PS-2025-0179) | N | EAR99 | 0 | 29211200 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-08-19 | 2027-08-09 | klassifiziert |
+| Vinyl acetate, technical grade (PS-2021-0174) | N | EAR99 | 0 | 29153200 | - | 2025-08-14 | 2027-08-04 | klassifiziert |
+| Xylene (isomer mixture), technical grade (PS-2021-0188) | N | EAR99 | 0 | 29024400 | - | 2025-05-19 | 2027-05-12 | klassifiziert |
+| n-Butyl acrylate, technical grade (PS-2021-0167) | N | EAR99 | 0 | 29161200 | Endverbleibsprüfung bei Lieferung in Drittländer; Sanktionslistenabgleich des Empfängers erforderlich | 2025-05-12 | 2027-04-30 | klassifiziert |

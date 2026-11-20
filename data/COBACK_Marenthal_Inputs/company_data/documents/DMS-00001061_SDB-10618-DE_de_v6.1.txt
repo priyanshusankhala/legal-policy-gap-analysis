@@ -1,0 +1,81 @@
+
+
+Sicherheitsdatenblatt Marenclean Z 904 Zitrusreiniger
+Sicherheitsdatenblatt
+Dokumentnummer
+DMS-00001061
+Version
+6.1
+Gültig ab
+2025-08-26
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+1. Bezeichnung des Stoffs bzw. Gemischs und des Unternehmens
+Sicherheitsdatenblatt Marenclean Z 904 Zitrusreiniger
+Marenclean Z 904 Zitrusreiniger
+SDS: SDB-10618-DE
+2. Mögliche Gefahren
+H: H226 H302 H304 H315 H317 H318 H319 H410 H412
+3. Zusammensetzung / Angaben zu Bestandteilen
+Wasser
+(demineralisiert)
+7732-18-5 231-791-2 58.7–71.7 %
+d-Limonen 5989-27-5 227-813-5 17–20.8 % H226 H304 H315
+H317 H410
+Fettalkoholethoxylat
+(C12-14, 6 EO)
+68439-50-9 11.3–13.8 % H302 H318 H412
+Natriumcumolsulfonat 15763-76-5 239-854-6 2.9–3.9 % H319
+4. Erste-Hilfe-Maßnahmen
+Bei Hautkontakt mit Wasser und Seife abwaschen. Bei Augenkontakt mehrere Minuten mit Wasser
+spülen. Bei Beschwerden Arzt aufsuchen.
+5. Maßnahmen zur Brandbekämpfung
+Geeignete Löschmittel: Schaum, Pulver, Kohlendioxid, Wassersprühstrahl. Umgebungsluftunabhängiges
+Atemschutzgerät tragen.
+6. Maßnahmen bei unbeabsichtigter Freisetzung
+Persönliche Schutzausrüstung tragen, Zündquellen entfernen, mit bindendem Material aufnehmen und
+ordnungsgemäß entsorgen. Nicht in die Kanalisation gelangen lassen.
+7. Handhabung und Lagerung
+Behälter dicht verschlossen an einem gut belüfteten Ort lagern, von Zündquellen und unverträglichen
+Stoffen fernhalten.
+8. Begrenzung und Überwachung der Exposition
+Schutzhandschuhe, Schutzbrille und bei Bedarf Atemschutz verwenden. Für ausreichende Absaugung
+sorgen.
+9. Physikalische und chemische Eigenschaften
+Density: 0.97
+Base unit: KG
+
+Shelf life (months): 24
+10. Stabilität und Reaktivität
+Bei bestimmungsgemäßer Verwendung und Lagerung stabil. Starke Oxidationsmittel, Säuren und
+Basen vermeiden.
+11. Toxikologische Angaben
+Angaben beruhen auf den Bestandteilen gemäß Abschnitt 3 und der Einstufung des Gemischs.
+12. Umweltbezogene Angaben
+Nicht in Gewässer oder Boden gelangen lassen. Wassergefährdende Eigenschaften gemäß Einstufung
+beachten.
+13. Hinweise zur Entsorgung
+Entsorgung gemäß den örtlichen Vorschriften über einen zugelassenen Entsorgungsfachbetrieb. Leere
+Behälter restentleert abgeben.
+14. Angaben zum Transport
+UN: UN1993
+ADR/IMDG class: 3
+Packing group: III
+HS: 34022090
+15. Rechtsvorschriften
+Kennzeichnung und Einstufung nach Verordnung (EG) Nr. 1272/2008 (CLP) und Verordnung (EG) Nr.
+1907/2006 (REACH). Störfall-Verordnung und Gefahrstoffverordnung beachten.
+Fatty alcohol ethoxylate (C12-14, 6 EO): IECSC – nicht erforderlich
+Fatty alcohol ethoxylate (C12-14, 6 EO): REACH – registriert (01-2119500063-95-0077)
+Fatty alcohol ethoxylate (C12-14, 6 EO): TSCA – nicht erforderlich
+Sodium cumenesulfonate: IECSC – nicht erforderlich
+Sodium cumenesulfonate: REACH – registriert (01-2119930816-73-0064)
+Sodium cumenesulfonate: TSCA – nicht erforderlich
+Water (demineralised): REACH – ausgenommen
+d-Limonene: IECSC – nicht erforderlich
+16. Sonstige Angaben
+6.1 · 2025-08-26

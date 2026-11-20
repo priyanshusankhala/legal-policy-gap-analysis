@@ -1,0 +1,34 @@
+
+
+Product Specification Sheet 2-Ethylhexyl acrylate,
+technical grade
+Spezifikationsblatt
+Document no.
+DMS-00000739
+Version
+3.2
+Valid from
+2025-04-11
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: 2-Ethylhexyl acrylate, technical grade
+Family: Intermediates
+Applications: Polymer intermediates, Compounding
+Description: Zwischenprodukt für Synthese und Formulierung (Monomer)
+Hazardous: 1
+SDS available: 1
+Density: 0.89
+UN: UN3082
+Class: 9
+HS: 2916120000
+Origin: FR
+Composition
+2-Ethylhexyl acrylate: 99–100 %

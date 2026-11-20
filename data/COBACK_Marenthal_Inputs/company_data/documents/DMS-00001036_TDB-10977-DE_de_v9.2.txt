@@ -1,0 +1,38 @@
+
+
+Technisches Datenblatt Marencoat PH 1102
+Epoxidhärter (Komponente B)
+Technisches Datenblatt
+Dokumentnummer
+DMS-00001036
+Version
+9.2
+Gültig ab
+2025-08-29
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marencoat PH 1102 epoxy hardener (component B)
+Family: Coatings
+Applications: Floor systems, Industrial coatings
+Description: Härterkomponente für 2K-Epoxidsysteme
+Hazardous: 1
+SDS available: 1
+Density: 1.421
+UN: UN2735
+Class: 8
+HS: 3824999600
+Origin: DE
+Zusammensetzung
+Kaolin: 36.5–44.6 %
+Diethylenetriamine: 26.1–31.9 %
+Benzyl alcohol: 14.4–17.6 %
+Talc: 7–8.6 %
+Triethanolamine: 6–7.4 %

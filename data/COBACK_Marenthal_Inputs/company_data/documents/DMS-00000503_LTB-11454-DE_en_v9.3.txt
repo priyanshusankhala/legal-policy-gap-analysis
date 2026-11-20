@@ -1,0 +1,34 @@
+
+
+Supplier Technical Data Sheet Butyl acetate, technical
+grade
+Lieferanten-Datenblatt
+Document no.
+DMS-00000503
+Version
+9.3
+Valid from
+2024-11-05
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Butyl acetate, technical grade
+Family: Trade Goods
+Applications: Cleaning of parts, Industrial coatings, Formulation auxiliaries
+Description: Handelsware: Lösemittel
+Hazardous: 1
+SDS available: 1
+Density: 0.88
+UN: UN1123
+Class: 3
+HS: 2915330000
+Origin: DE
+Composition
+Butyl acetate: 99–100 %

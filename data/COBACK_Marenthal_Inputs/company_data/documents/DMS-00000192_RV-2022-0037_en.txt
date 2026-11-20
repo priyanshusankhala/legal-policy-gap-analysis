@@ -1,0 +1,82 @@
+
+
+Framework Agreement RV-2022-0037 – Wilk Maszyny
+Sp. z o.o.
+Rahmenvertrag
+Document no.
+DMS-00000192
+Version
+1.0
+Valid from
+2022-12-28
+Company
+Marenthal Chemie AG
+Status
+Archived
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2022-0037
+type: Framework Agreement
+status: Expired
+start_date: 2022-12-28
+end_date: 2025-12-27
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 57.57
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-11-26
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marenclean E 537 degreaser: 151.89 EUR/100 kg
+Marencoat AL 634 alkyd enamel: 604.96 EUR/100 kg
+Marencoat RS 703 anticorrosive primer: 445.51 EUR/100 kg
+Marencoat DB 1333 roof coating: 337.1 EUR/100 kg
+Account
+name: Wilk Maszyny Sp. z o.o.
+type: Customer
+billing_street: ul. Długa 57
+billing_city: Warszawa
+billing_postcode: 00-774
+billing_country: PL
+industry: Mechanical and plant engineering
+segment: Direct
+size_class: Medium
+status: Active
+website: www.wilk-maszyny.pl
+
+created_date: 2022-11-09
+last_modified_date: 2025-07-14
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2024-12-05
+cms_partner_ref: GP000547
+description: Mechanical and plant engineering. Regular call-offs of Marencoat AL 634 alkyd enamel,
+Marencoat DB 1333 roof coating according to its production plan.
+Rahmenvertragsnummer
+contract_number: RV-2022-0037
+type: Framework Agreement
+status: Expired
+start_date: 2022-12-28
+end_date: 2025-12-27
+auto_renew: 0
+notice_period_days: 90
+currency: EUR
+committed_volume_t: 57.57
+selling_entity: Marenthal Chemie AG
+signed_date: 2022-11-26
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marenclean E 537 degreaser: 151.89 EUR/100 kg
+Marencoat AL 634 alkyd enamel: 604.96 EUR/100 kg
+Marencoat RS 703 anticorrosive primer: 445.51 EUR/100 kg
+Marencoat DB 1333 roof coating: 337.1 EUR/100 kg

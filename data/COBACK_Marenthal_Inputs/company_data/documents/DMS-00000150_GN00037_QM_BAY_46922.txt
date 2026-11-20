@@ -1,0 +1,30 @@
+
+
+Quality Management Certificate ISO 9001:2015 –
+QM-BAY-46922
+Genehmigung oder Zertifikat
+Document no.
+DMS-00000150
+Version
+1.0
+Valid from
+2022-05-11
+Company
+Marenthal Chemicals Inc.
+Site
+US01-001
+Status
+Archived
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Genehmigung
+art: Zertifikat Qualitätsmanagement ISO 9001:2015
+nummer: QM-BAY-46922
+behoerde: DNV
+erteilt_am: 2022-05-11
+gueltig_bis: 2025-05-14
+status: abgelaufen
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

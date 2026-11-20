@@ -1,0 +1,30 @@
+
+
+Zertifikat Umweltmanagement ISO 14001:2015 –
+UM-BTF-15011
+Genehmigung oder Zertifikat
+Dokumentnummer
+DMS-00001225
+Version
+1.0
+Gültig ab
+2025-09-24
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Zertifikat Umweltmanagement ISO 14001:2015
+nummer: UM-BTF-15011
+behoerde: DEKRA Certification
+erteilt_am: 2025-09-24
+gueltig_bis: 2028-10-17
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

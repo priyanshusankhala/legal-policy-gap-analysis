@@ -1,0 +1,19 @@
+# Register of compliance roles and responsibilities - Marenthal France S.A.S.
+
+Company: Marenthal France S.A.S. (FR). As of 2026-11-09.
+
+Compliance roles in the company, the area covered, the site if any, validity period and whether a deputy is appointed. Role holders are not named.
+
+| Role | Area | Site | Valid from | Valid until | Deputy appointed |
+| --- | --- | --- | --- | --- | --- |
+| Datenschutzbeauftragter | Datenschutz | - | 2021-05-27 | - | yes |
+| Exportkontrollbeauftragter | Außenwirtschaft und Exportkontrolle | - | 2021-12-31 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | Entrepôt de Vienne | 2021-12-10 | - | yes |
+| Gefahrgutbeauftragter | Gefahrguttransport | Usine de Saint-Fons | 2022-01-20 | - | yes |
+| Informationssicherheitsbeauftragter | Informationssicherheit | - | 2021-06-08 | - | yes |
+| Local Compliance Officer | Compliance-Management der Gesellschaft | - | 2021-07-02 | - | yes |
+| Meldestelle Hinweisgeber | Interne Meldestelle | - | 2021-08-17 | - | yes |
+| Qualitätsbeauftragter | Qualitätsmanagement | Usine de Saint-Fons | 2021-07-22 | - | yes |
+| Sicherheitsfachkraft | Arbeitssicherheit | Entrepôt de Vienne | 2021-07-30 | - | yes |
+| Sicherheitsfachkraft | Arbeitssicherheit | Usine de Saint-Fons | 2022-02-01 | - | yes |
+| Umweltschutzbeauftragter | Immissionsschutz, Abfall | Usine de Saint-Fons | 2021-07-06 | - | yes |

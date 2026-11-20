@@ -1,0 +1,22 @@
+质量管理体系证书 ISO 9001:2015 – QM-CZX-29248
+Genehmigung oder Zertifikat
+
+文件编号: DMS-00001368
+版本: 1.0
+生效日期: 2025-11-19
+公司: Marenthal Chemicals (Shanghai) Co., Ltd.
+地点: CN01-001
+状态: Approved
+保密级别: Internal
+
+详细信息
+本文件由Marenthal集团文件管理系统管理，以现行有效版本为准。
+
+Genehmigung
+art: Zertifikat Qualitätsmanagement ISO 9001:2015
+nummer: QM-CZX-29248
+behoerde: SGS
+erteilt_am: 2025-11-19
+gueltig_bis: 2028-11-20
+status: gültig
+auflagen: Jährliche Überwachungsaudits; Geltungsbereich: Herstellung und Abfüllung.

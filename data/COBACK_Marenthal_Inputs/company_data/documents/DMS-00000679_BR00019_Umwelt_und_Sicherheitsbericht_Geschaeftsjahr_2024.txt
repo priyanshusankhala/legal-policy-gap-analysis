@@ -1,0 +1,27 @@
+
+
+Umwelt- und Sicherheitsbericht Geschäftsjahr 2024
+Bericht an Geschäftsleitung
+Dokumentnummer
+DMS-00000679
+Version
+1.0
+Gültig ab
+2025-03-14
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Bericht
+art: Umwelt- und Sicherheitsbericht
+zeitraum_von: 2024-01-01
+zeitraum_bis: 2024-12-31
+adressat: Geschäftsführung
+berichtsdatum: 2025-03-14
+status: Zur Kenntnis genommen
+kennzahlen: {"vorfaelle":12,"arbeitsunfaelle":2,"umweltvorfaelle":2,"vorfaelle_meldepflichtig":3}

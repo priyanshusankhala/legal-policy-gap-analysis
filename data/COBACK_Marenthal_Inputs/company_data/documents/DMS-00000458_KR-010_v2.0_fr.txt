@@ -1,0 +1,39 @@
+
+
+Politique Environnement, Santé et Sécurité (EHS)
+Konzernrichtlinie
+N° du document
+DMS-00000458
+Version
+2.0
+Valable depuis
+2024-10-03
+Société
+Marenthal Chemie AG
+Statut
+Approved
+Confidentialité
+Internal
+Objet et champ d’application
+La présente politique fixe des règles contraignantes sur « EHS » pour Marenthal Chemie AG. Elle
+s’applique à tous les collaborateurs, aux managers et, selon les contrats, aux partenaires commerciaux.
+Obligations et responsabilités
+Ce document est géré dans le système de gestion documentaire du groupe Marenthal et fait foi dans sa
+version en vigueur.
+Richtlinie
+nummer: KR-010
+titel: Richtlinie Umwelt-, Arbeits- und Gesundheitsschutz (EHS)
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-10
+master_sprache: de
+vertraulichkeit: intern
+Richtlinienversion
+version: 2.0
+sprache: fr
+status: Gültig
+gueltig_ab: 2024-10-03
+freigabe_datum: 2024-10-01
+aenderungsgrund: Ergebnis des internen Audits eingearbeitet

@@ -1,0 +1,82 @@
+
+
+Safety Data Sheet Marenclean M 1200 machine cleaner
+(powder)
+Sicherheitsdatenblatt
+Document no.
+DMS-00000772
+Version
+5.1
+Valid from
+2025-04-23
+Company
+Marenthal France S.A.S.
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marenclean M 1200 machine cleaner (powder)
+Product: Marenclean M 1200 nettoyant pour machines (poudre)
+SDS: SDB-10667-FR
+2. Hazards identification
+H: H290 H302 H314 H315 H318 H319 H335 H412
+3. Composition / information on ingredients
+Sodium sulfate 7757-82-6 231-820-9 38.8–47.4 %
+Sodium
+metasilicate
+6834-92-0 229-912-9 23.7–28.9 % H290 H314 H335
+Sodium
+carbonate
+497-19-8 207-838-8 18.4–22.4 % H319
+Sodium
+tripolyphosphate
+7758-29-4 231-838-7 8.1–9.9 % H319
+Sodium dodecyl
+sulfate
+151-21-3 205-788-1 0.7–1.7 % H302 H315 H318
+H335 H412
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+
+9. Physical and chemical properties
+Density: 2.559
+Base unit: KG
+Shelf life (months): 24
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN3262
+ADR/IMDG class: 8
+Packing group: II
+HS: 34029090
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Sodium carbonate: REACH – nicht erforderlich
+Sodium dodecyl sulfate: REACH – nicht erforderlich
+Sodium metasilicate: REACH – nicht erforderlich
+Sodium sulfate: REACH – nicht erforderlich
+Sodium tripolyphosphate: REACH – nicht erforderlich
+16. Other information
+5.1 · 2025-04-23

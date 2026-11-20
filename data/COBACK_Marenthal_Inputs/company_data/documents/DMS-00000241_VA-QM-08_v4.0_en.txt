@@ -1,0 +1,29 @@
+
+
+VA-QM-08 Calibration of Measuring Equipment
+Verfahrensanweisung Qualität
+Document no.
+DMS-00000241
+Version
+4.0
+Valid from
+2023-03-31
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Internal
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Richtlinie
+nummer: KR-013
+titel: Qualitätspolitik
+thema: Qualität
+geltung: Konzern
+aktuelle_version: 1.1
+status: gültig
+naechste_ueberpruefung: 2027-06-15
+master_sprache: de
+vertraulichkeit: öffentlich

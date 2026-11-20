@@ -1,0 +1,35 @@
+
+
+Auditbericht: Kundenaudit Bauchemie – Werk Marl
+Auditbericht
+Dokumentnummer
+DMS-00001051
+Version
+1.0
+Gültig ab
+2025-08-13
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Audit
+titel: Kundenaudit Bauchemie – Werk Marl
+art: Kundenaudit
+scope: Produktion und Chargenrückverfolgung
+geplant_von: 2025-07-15
+geplant_bis: 2025-07-15
+durchgefuehrt_von: 2025-07-15
+durchgefuehrt_bis: 2025-07-15
+leitender_auditor: Auditteam des Kunden
+status: abgeschlossen
+gesamtbewertung: geringe Abweichungen
+Feststellungen
+1 [Nebenabweichung] Anforderung zur Retained-Sample-Lagerung wurde noch nicht umgesetzt.
+(geschlossen)

@@ -1,0 +1,36 @@
+
+
+Technisches Datenblatt Marenclean F 1503
+Bodenpflege
+Technisches Datenblatt
+Dokumentnummer
+DMS-00000151
+Version
+6.0
+Gültig ab
+2022-06-02
+Gesellschaft
+Marenthal Chemie AG
+Status
+Archived
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marenclean F 1503 floor care product
+Family: Industrial Cleaners
+Applications: Facility hygiene, Hard surface cleaning
+Description: Pflege und Schutz elastischer Bodenbeläge
+Hazardous: 1
+SDS available: 1
+Density: 1.003
+HS: 34022090
+Origin: DE
+Zusammensetzung
+Water (demineralised): 79.3–97 %
+Styrene-acrylate copolymer dispersion: 8.4–10.2 %
+Paraffin wax: 0.8–1.8 %
+Fatty alcohol ethoxylate (C12-14, 6 EO): 0.7–1.7 %
+1,2-Benzisothiazolin-3-one: 0.02–0.06 %

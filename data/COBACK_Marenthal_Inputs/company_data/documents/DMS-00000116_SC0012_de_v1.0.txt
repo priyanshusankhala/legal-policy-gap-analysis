@@ -1,0 +1,40 @@
+
+
+Umwelt- und Gewässerschutz im Betrieb –
+Schulungsunterlage
+Schulungsunterlage
+Dokumentnummer
+DMS-00000116
+Version
+1.0
+Gültig ab
+2022-01-21
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Schulung
+titel: Umwelt- und Gewässerschutz im Betrieb
+thema: EHS
+pflicht: 1
+zielgruppe: EHS, Produktionsleiter und Schichtleiter
+sprachen: de,en,fr,zh
+dauer_min: 120
+intervall_monate: 12
+format: Präsenz
+status: aktiv
+Richtlinie
+nummer: KR-010
+titel: Richtlinie Umwelt-, Arbeits- und Gesundheitsschutz (EHS)
+thema: EHS
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-03-10
+master_sprache: de
+vertraulichkeit: intern

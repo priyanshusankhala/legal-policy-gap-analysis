@@ -1,0 +1,29 @@
+
+
+Umsetzungsnachweis: Kontrolle nacharbeiten:
+Barcode-Abgleich Charge und Etikett an der Abfüllung
+Umsetzungsnachweis Maßnahme
+Dokumentnummer
+DMS-00000747
+Version
+1.0
+Gesellschaft
+Marenthal Chemicals Inc.
+Standort
+US01-001
+Status
+Approved
+Vertraulichkeit
+Internal
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Maßnahme
+titel: Kontrolle nacharbeiten: Barcode-Abgleich Charge und Etikett an der Abfüllung
+beschreibung: Kontrollziel nicht erreicht; Maßnahme zur Behebung eingeleitet.
+quelle_typ: Kontrolle
+prioritaet: niedrig
+status: erledigt
+frist: 2025-05-09
+abgeschlossen_am: 2025-04-11
+bemerkung: Wirksamkeit bei der nächsten Kontrolle zu prüfen.

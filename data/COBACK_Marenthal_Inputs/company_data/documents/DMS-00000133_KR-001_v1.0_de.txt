@@ -1,0 +1,41 @@
+
+
+Verhaltenskodex
+Konzernrichtlinie
+Dokumentnummer
+DMS-00000133
+Version
+1.0
+Gültig ab
+2022-03-15
+Gesellschaft
+Marenthal Chemie AG
+Status
+Superseded
+Vertraulichkeit
+Public
+Zweck und Geltungsbereich
+Diese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Compliance“ fest. Sie
+gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für Geschäftspartner.
+Verstöße können arbeits- und strafrechtliche Folgen haben.
+Pflichten und Zuständigkeiten
+Verhaltenskodex einführen und Kenntnisnahme bestätigen lassen – Alle Beschäftigten bestätigen den
+Verhaltenskodex bei Eintritt und im festgelegten Turnus.
+Richtlinie
+nummer: KR-001
+titel: Verhaltenskodex
+thema: Compliance
+geltung: Konzern
+aktuelle_version: 2.0
+status: gültig
+naechste_ueberpruefung: 2026-09-01
+master_sprache: de
+vertraulichkeit: öffentlich
+Richtlinienversion
+version: 1.0
+sprache: de
+status: Ersetzt
+gueltig_ab: 2022-03-15
+gueltig_bis: 2023-03-29
+freigabe_datum: 2022-03-11
+aenderungsgrund: Erstfassung

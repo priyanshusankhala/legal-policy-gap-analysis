@@ -1,0 +1,128 @@
+# Register of substance registrations: TSCA - Marenthal Chemicals Inc. (part 1 of 2)
+
+Company: Marenthal Chemicals Inc. (US). As of 2026-11-09.
+
+Status of each substance under TSCA for this company, with registration number, tonnage band and validity.
+
+| Substance | Market | Role | Status | Registration no. | Tonnage band | Valid from | Valid until | Remark |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1,2-Benzisothiazolin-3-one (CAS 2634-33-5) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| 1-Methoxy-2-propanol (CAS 107-98-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| 2-Butoxyethanol (CAS 111-76-2) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| 2-Dimethylaminoethanol (CAS 108-01-0) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| 2-Ethylhexanol (CAS 104-76-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| 2-Ethylhexyl acrylate (CAS 103-11-7) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| 2-Methyl-2H-isothiazol-3-one (CAS 2682-20-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| 2-Phenoxyethanol (CAS 122-99-6) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| 3-Aminopropyltriethoxysilane (CAS 919-30-2) | US | Importeur | Inventar inaktiv | - | <25.000 lb/a | - | - | Notice of Activity (NOA) gestellt |
+| 3-Glycidyloxypropyltrimethoxysilane (CAS 2530-83-8) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Acetic acid (CAS 64-19-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Acetone (CAS 67-64-1) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Acetonitrile (CAS 75-05-8) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Acrylic acid (CAS 79-10-7) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Adipic acid (CAS 124-04-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Alkyl polyglucoside (C8-10) (CAS 68515-73-1) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Aluminium hydroxide (CAS 21645-51-2) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Aluminium oxide (CAS 1344-28-1) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Aluminium sulfate (CAS 10043-01-3) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Ammonia solution (25 %) (CAS 1336-21-6) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Ammonium chloride (CAS 12125-02-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Barium sulfate (CAS 7727-43-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Benzalkonium chloride (CAS 63449-41-2) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Benzyl alcohol (CAS 100-51-6) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Bisphenol A (CAS 80-05-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Bisphenol-A epoxy resin (CAS 25068-38-6) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Butyl acetate (CAS 123-86-4) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Calcium carbonate (CAS 471-34-1) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Calcium chloride (CAS 10043-52-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Calcium hydroxide (CAS 1305-62-0) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Calcium oxide (CAS 1305-78-8) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Calcium stearate (CAS 1592-23-0) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Carbon black (CAS 1333-86-4) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Citric acid (CAS 77-92-9) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Cocamidopropyl betaine (CAS 61789-40-0) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Copper(II) sulfate (CAS 7758-98-7) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Cyclohexane (CAS 110-82-7) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Cyclohexanone (CAS 108-94-1) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Diacetone alcohol (CAS 123-42-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Diethanolamine (CAS 111-42-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Diethylene glycol (CAS 111-46-6) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Diethylenetriamine (CAS 111-40-0) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Dimethyl carbonate (CAS 616-38-6) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Dimethyl sulfoxide (CAS 67-68-5) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Dimethylformamide (CAS 68-12-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Dioctyl terephthalate (CAS 6422-86-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Dipropylene glycol (CAS 25265-71-8) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Epichlorohydrin (CAS 106-89-8) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Epoxidised soybean oil (CAS 8013-07-8) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Ethanol (CAS 64-17-5) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Ethyl acetate (CAS 141-78-6) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Ethylene glycol (CAS 107-21-1) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Fatty alcohol ethoxylate (C12-14, 6 EO) (CAS 68439-50-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Formaldehyde solution (37 %) (CAS 50-00-0) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Formic acid (CAS 64-18-6) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Glycerol (CAS 56-81-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Glycolic acid (70 %) (CAS 79-14-1) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Hexamethylene diisocyanate (CAS 822-06-0) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Hydrocarbon solvent (hydrotreated heavy naphtha) (CAS 64742-48-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Hydrochloric acid (33 %) (CAS 7647-01-0) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Hydrogen peroxide (35 %) (CAS 7722-84-1) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Hydroxyethyl cellulose (CAS 9004-62-0) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Iron(III) oxide (CAS 1309-37-1) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Isobutanol (CAS 78-83-1) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Isophorone diisocyanate (CAS 4098-71-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Isophoronediamine (CAS 2855-13-2) | US | Importeur | Inventar inaktiv | - | <25.000 lb/a | - | - | Notice of Activity (NOA) gestellt |
+| Isopropanol (CAS 67-63-0) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Isopropyl acetate (CAS 108-21-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Kaolin (CAS 1332-58-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Lactic acid (80 %) (CAS 50-21-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Lauric acid (CAS 143-07-7) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Linseed oil (CAS 8001-26-1) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Magnesium oxide (CAS 1309-48-4) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Magnesium sulfate (CAS 7487-88-9) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Maleic anhydride (CAS 108-31-6) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Methanesulfonic acid (CAS 75-75-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Methanol (CAS 67-56-1) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Methoxypropyl acetate (CAS 108-65-6) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Methyl acetate (CAS 79-20-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Methyl ethyl ketone (CAS 78-93-3) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Methyl isobutyl ketone (CAS 108-10-1) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Methyl methacrylate (CAS 80-62-6) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Methylene diphenyl diisocyanate (CAS 101-68-8) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Monoethanolamine (CAS 141-43-5) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| N-Methyl-2-pyrrolidone (CAS 872-50-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Neopentyl glycol (CAS 126-30-7) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Nitric acid (60 %) (CAS 7697-37-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Oleic acid (CAS 112-80-1) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Oxalic acid (CAS 144-62-7) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Paraffin wax (CAS 8002-74-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Pentaerythritol (CAS 115-77-5) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Peracetic acid (15 %) (CAS 79-21-0) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Phenol (CAS 108-95-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Phosphoric acid (75 %) (CAS 7664-38-2) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Phthalic anhydride (CAS 85-44-9) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Polydimethylsiloxane (CAS 63148-62-9) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Polyethylene glycol (CAS 25322-68-3) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Polyvinyl alcohol (CAS 9002-89-5) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Potassium carbonate (CAS 584-08-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Potassium hydroxide (CAS 1310-58-3) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Potassium permanganate (CAS 7722-64-7) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Propylene carbonate (CAS 108-32-7) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Propylene glycol (CAS 57-55-6) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Rosin (colophony) (CAS 8050-09-7) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Silicon dioxide (amorphous) (CAS 7631-86-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium acetate (CAS 127-09-3) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium bicarbonate (CAS 144-55-8) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium bisulfite (CAS 7631-90-5) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Sodium carbonate (CAS 497-19-8) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sodium carboxymethylcellulose (CAS 9004-32-4) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sodium chloride (CAS 7647-14-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium cumenesulfonate (CAS 15763-76-5) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium dodecyl sulfate (CAS 151-21-3) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sodium dodecylbenzenesulfonate (CAS 25155-30-0) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium gluconate (CAS 527-07-1) | US | Importeur | Inventar aktiv | - | >25.000 lb/a | - | - | CDR-pflichtig |
+| Sodium hydroxide (50 %) (CAS 1310-73-2) | US | Registrant | Inventar aktiv | - | <25.000 lb/a | - | - | - |
+| Sodium hypochlorite solution (CAS 7681-52-9) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium laureth sulfate (CAS 68585-34-2) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium metasilicate (CAS 6834-92-0) | US | Nachgeschalteter Anwender | nicht erforderlich | - | - | - | - | Meldung durch den Lieferanten |
+| Sodium nitrite (CAS 7632-00-0) | US | Importeur | Inventar aktiv | - | <25.000 lb/a | - | - | - |

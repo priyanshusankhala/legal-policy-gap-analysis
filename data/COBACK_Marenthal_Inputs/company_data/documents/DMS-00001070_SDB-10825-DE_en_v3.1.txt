@@ -1,0 +1,83 @@
+
+
+Safety Data Sheet Marencoat HL 533 water-based
+wood coating
+Sicherheitsdatenblatt
+Document no.
+DMS-00001070
+Version
+3.1
+Valid from
+2025-08-20
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marencoat HL 533 water-based wood coating
+Product: Marencoat HL 533 Holzlack (wasserbasiert)
+SDS: SDB-10825-DE
+2. Hazards identification
+H: H302 H312 H315 H317 H318 H319 H332 H400
+3. Composition / information on ingredients
+Water (demineralised) 7732-18-5 231-791-2 46.5–56.8 %
+Styrene-acrylate
+copolymer dispersion
+25767-47-9 34.5–42.1 %
+Titanium dioxide 13463-67-7 236-675-5 4.6–5.6 %
+2-Butoxyethanol 111-76-2 203-905-0 2.6–3.6 % H302 H312
+H315 H319
+H332
+Paraffin wax 8002-74-2 232-315-6 1–2 %
+Polydimethylsiloxane 63148-62-9 0.145–0.435 %
+1,2-Benzisothiazolin-3-on
+e
+2634-33-5 220-120-9 0.015–0.045 % H302 H315
+H317 H318
+H400
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+
+8. Exposure controls / personal protection
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.055
+Base unit: KG
+Shelf life (months): 18
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+HS: 32091000
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+1,2-Benzisothiazolin-3-one: IECSC – nicht erforderlich
+1,2-Benzisothiazolin-3-one: REACH – nicht erforderlich
+1,2-Benzisothiazolin-3-one: TSCA – nicht erforderlich
+2-Butoxyethanol: IECSC – nicht erforderlich
+2-Butoxyethanol: REACH – nicht erforderlich
+2-Butoxyethanol: TSCA – nicht erforderlich
+Paraffin wax: IECSC – nicht erforderlich
+Paraffin wax: REACH – nicht erforderlich
+16. Other information
+3.1 · 2025-08-20

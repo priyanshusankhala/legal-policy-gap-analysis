@@ -1,0 +1,33 @@
+
+
+Technical Data Sheet Marenprotect 806 preservative
+Technisches Datenblatt
+Document no.
+DMS-00000561
+Version
+3.3
+Valid from
+2025-01-20
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Details
+Product: Marenprotect 806 preservative
+Family: Specialty Chemicals
+Applications: Formulation auxiliaries, Adjuvants
+Description: Topfkonservierung wässriger Produkte
+Hazardous: 1
+SDS available: 1
+Density: 1.065
+HS: 3808949000
+Origin: DE
+Composition
+Propylene glycol: 49.5–60.5 %
+2-Phenoxyethanol: 36.4–44.4 %
+1,2-Benzisothiazolin-3-one: 4.1–5.1 %

@@ -1,0 +1,31 @@
+
+
+Anzeige einer wesentlichen Änderung –
+Brandschutzgenehmigung Gefahrstofflager
+(BS-DUI-2015/755)
+Behördenkorrespondenz
+Dokumentnummer
+DMS-00001230
+Version
+1.0
+Gültig ab
+2025-10-10
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-002
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Brandschutzgenehmigung Gefahrstofflager
+nummer: BS-DUI-2015/755
+behoerde: Feuerwehr Duisburg, Amt für Brandschutz
+erteilt_am: 2025-06-09
+gueltig_bis: 2030-06-17
+status: gültig
+auflagen: Lagerklassen und Mengen gemäß Bescheid; jährliche Brandschau.

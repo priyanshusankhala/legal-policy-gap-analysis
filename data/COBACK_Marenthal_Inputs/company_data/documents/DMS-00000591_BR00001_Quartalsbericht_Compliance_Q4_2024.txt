@@ -1,0 +1,29 @@
+
+
+Quartalsbericht Compliance Q4 2024
+Bericht an Geschäftsleitung
+Dokumentnummer
+DMS-00000591
+Version
+1.0
+Gültig ab
+2025-01-31
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Bericht
+art: Quartalsbericht Compliance
+zeitraum_von: 2024-10-01
+zeitraum_bis: 2024-12-31
+adressat: Geschäftsführung
+berichtsdatum: 2025-01-31
+status: Zur Kenntnis genommen
+kennzahlen: {"verpflichtungen_gesamt":294,"verpflichtungen_offen":44,"verpflichtungen_ueberfaellig":
+18,"vorfaelle":11,"hinweisfaelle":6,"audits":6,"massnahmen_offen":39,"massnahmen_ueberfaellig":16,"
+schulungsquote_prozent":90.2}

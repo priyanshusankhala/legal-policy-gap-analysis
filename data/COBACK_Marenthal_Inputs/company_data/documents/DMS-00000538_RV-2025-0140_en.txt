@@ -1,0 +1,92 @@
+
+
+Supply Agreement RV-2025-0140 – Bałtyk Handel
+chemiczny Sp. z o.o.
+Liefervertrag
+Document no.
+DMS-00000538
+Version
+1.0
+Valid from
+2025-03-03
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: RV-2025-0140
+type: Supply Agreement
+status: Active
+start_date: 2025-03-03
+end_date: 2027-03-02
+auto_renew: 1
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 545.75
+selling_entity: Marenthal Chemie AG
+signed_date: 2025-01-24
+compliance_review_ref: GPP0000653
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marenglide 953 lubricant additive: 427.59 EUR/100 kg
+Marenpaste 237 pigment preparation: 381.65 EUR/100 kg
+Marencoat EP 806 2K epoxy primer (component A): 738.2 EUR/100 kg
+Neopentyl glycol, technical grade: 1809.44 EUR/1000 kg
+Pentaerythritol, technical grade: 1643.11 EUR/1000 kg
+Diethylenetriamine, technical grade: 2390.22 EUR/1000 kg
+Ethyl acetate, technical grade: 1107.35 EUR/1000 kg
+Phosphoric acid (75 %), technical grade: 977.78 EUR/1000 kg
+Account
+name: Bałtyk Handel chemiczny Sp. z o.o.
+type: Distributor
+billing_street: ul. Długa 7
+billing_city: Gdańsk
+billing_postcode: 80-598
+billing_country: PL
+
+industry: Chemical trading
+segment: Distribution
+size_class: Large
+status: Active
+website: www.baltykhandel.pl
+created_date: 2009-09-23
+last_modified_date: 2024-10-02
+language: pl
+selling_entity: Marenthal Chemie AG
+compliance_status: Approved
+compliance_checked_on: 2025-12-23
+cms_partner_ref: GP000235
+description: Chemical trading in Poland; distributes Marenthal products (Marencoat EP 806 2K epoxy
+primer (component A), Marenglide 953 lubricant additive) to industry and trade.
+Rahmenvertragsnummer
+contract_number: RV-2025-0140
+type: Supply Agreement
+status: Active
+start_date: 2025-03-03
+end_date: 2027-03-02
+auto_renew: 1
+notice_period_days: 60
+currency: EUR
+committed_volume_t: 545.75
+selling_entity: Marenthal Chemie AG
+signed_date: 2025-01-24
+compliance_review_ref: GPP0000653
+governing_law: German law
+payment_terms: Z030
+incoterm: DAP
+Terms
+Marenglide 953 lubricant additive: 427.59 EUR/100 kg
+Marenpaste 237 pigment preparation: 381.65 EUR/100 kg
+Marencoat EP 806 2K epoxy primer (component A): 738.2 EUR/100 kg
+Neopentyl glycol, technical grade: 1809.44 EUR/1000 kg
+Pentaerythritol, technical grade: 1643.11 EUR/1000 kg
+Diethylenetriamine, technical grade: 2390.22 EUR/1000 kg
+Ethyl acetate, technical grade: 1107.35 EUR/1000 kg
+Phosphoric acid (75 %), technical grade: 977.78 EUR/1000 kg

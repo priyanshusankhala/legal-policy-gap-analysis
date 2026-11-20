@@ -1,0 +1,31 @@
+
+
+Anzeige einer wesentlichen Änderung – Anzeige des
+Betriebsbereichs (Störfall-Verordnung)
+(SB-MRL-2024/448)
+Behördenkorrespondenz
+Dokumentnummer
+DMS-00000575
+Version
+1.0
+Gültig ab
+2025-01-22
+Gesellschaft
+Marenthal Chemie AG
+Standort
+DE01-004
+Status
+Approved
+Vertraulichkeit
+Confidential
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Genehmigung
+art: Anzeige des Betriebsbereichs (Störfall-Verordnung)
+nummer: SB-MRL-2024/448
+behoerde: Bezirksregierung Münster
+erteilt_am: 2024-08-20
+gueltig_bis: 2029-08-20
+status: gültig
+auflagen: Sicherheitsbericht und Alarmpläne aktuell halten; Übungen nachweisen.

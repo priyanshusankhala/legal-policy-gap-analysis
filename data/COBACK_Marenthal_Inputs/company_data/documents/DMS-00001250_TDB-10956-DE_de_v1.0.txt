@@ -1,0 +1,38 @@
+
+
+Technisches Datenblatt Marencoat EK 1001
+Epoxid-Klarlack 2K (Komponente A)
+Technisches Datenblatt
+Dokumentnummer
+DMS-00001250
+Version
+1.0
+Gültig ab
+2025-11-05
+Gesellschaft
+Marenthal Chemie AG
+Status
+Approved
+Vertraulichkeit
+Public
+Angaben
+Dieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der
+jeweils gültigen Fassung verbindlich.
+Angaben
+Product: Marencoat EK 1001 2K clear epoxy coating (component A)
+Family: Coatings
+Applications: Floor systems, Industrial coatings
+Description: Klarlack für Beton und Metall, Komponente A
+Hazardous: 1
+SDS available: 1
+Density: 1.051
+UN: UN1263
+Class: 3
+HS: 32089091
+Origin: DE
+Zusammensetzung
+Bisphenol-A epoxy resin: 59.4–72.6 %
+Xylene (isomer mixture): 12.9–15.8 %
+Butyl acetate: 12.5–15.3 %
+Methoxypropyl acetate: 5–6.1 %
+Polydimethylsiloxane: 0.11–0.33 %

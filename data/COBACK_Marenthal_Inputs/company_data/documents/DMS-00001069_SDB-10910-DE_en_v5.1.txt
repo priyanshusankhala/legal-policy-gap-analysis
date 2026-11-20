@@ -1,0 +1,86 @@
+
+
+Safety Data Sheet Marencoat EP 806 2K epoxy primer
+(component A)
+Sicherheitsdatenblatt
+Document no.
+DMS-00001069
+Version
+5.1
+Valid from
+2025-08-29
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Public
+1. Identification of the substance/mixture and of the company
+Safety Data Sheet Marencoat EP 806 2K epoxy primer (component A)
+Product: Marencoat EP 806 Epoxidgrundierung 2K (Komponente A)
+SDS: SDB-10910-DE
+2. Hazards identification
+H: H226 H302 H304 H312 H315 H317 H318 H319 H332 H335 H336 H373 H410 H411
+3. Composition / information on ingredients
+Bisphenol-A
+epoxy resin
+25068-38-6 500-033-5 42.8–52.4 % H315 H317 H319
+H411
+Xylene (isomer
+mixture)
+1330-20-7 215-535-7 10.3–12.5 % H226 H304 H312
+H315 H319 H332
+H335 H373
+Talc 14807-96-6 238-877-9 9.7–11.9 %
+Barium sulfate 7727-43-7 231-784-4 8.4–10.2 %
+n-Butanol 71-36-3 200-751-6 6.6–8 % H226 H302 H315
+H318 H335 H336
+Titanium dioxide 13463-67-7 236-675-5 6.3–7.7 %
+Zinc phosphate 7779-90-0 231-944-3 5.9–7.3 % H410
+4. First-aid measures
+After skin contact wash with soap and water. After eye contact rinse with water for several minutes.
+Seek medical advice if symptoms persist.
+5. Firefighting measures
+Suitable extinguishing media: foam, dry powder, carbon dioxide, water spray. Wear self-contained
+breathing apparatus.
+6. Accidental release measures
+Wear personal protective equipment, remove ignition sources, absorb with inert material and dispose of
+properly. Do not let product enter drains.
+7. Handling and storage
+Keep container tightly closed in a well-ventilated place, away from ignition sources and incompatible
+materials.
+8. Exposure controls / personal protection
+
+Use protective gloves, safety goggles and, if needed, respiratory protection. Provide adequate local
+exhaust ventilation.
+9. Physical and chemical properties
+Density: 1.378
+Base unit: KG
+Shelf life (months): 18
+10. Stability and reactivity
+Stable under normal conditions of use and storage. Avoid strong oxidisers, acids and bases.
+11. Toxicological information
+Information is based on the components listed in section 3 and the classification of the mixture.
+12. Ecological information
+Do not allow to enter waterways or soil. Observe aquatic hazard classification.
+13. Disposal considerations
+Dispose of in accordance with local regulations through a licensed waste contractor. Hand in empty
+containers fully drained.
+14. Transport information
+UN: UN1263
+ADR/IMDG class: 3
+Packing group: III
+HS: 32089091
+15. Regulatory information
+Classification and labelling under Regulation (EC) No 1272/2008 (CLP), REACH (EC) 1907/2006, US TSCA
+and OSHA HazCom 2012 where applicable.
+Barium sulfate: IECSC – nicht erforderlich
+Barium sulfate: REACH – nicht erforderlich
+Barium sulfate: TSCA – nicht erforderlich
+Bisphenol-A epoxy resin: IECSC – nicht erforderlich
+Bisphenol-A epoxy resin: REACH – nicht erforderlich
+Bisphenol-A epoxy resin: TSCA – nicht erforderlich
+Talc: IECSC – nicht erforderlich
+Talc: REACH – nicht erforderlich
+16. Other information
+5.1 · 2025-08-29

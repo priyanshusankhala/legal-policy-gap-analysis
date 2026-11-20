@@ -1,0 +1,50 @@
+
+
+Quality Agreement QA-2019-0023 – Čermáková
+Hygiene Solutions s.r.o.
+Qualitätssicherungsvereinbarung
+Document no.
+DMS-00000036
+Version
+1.0
+Valid from
+2019-12-12
+Company
+Marenthal Chemie AG
+Status
+Approved
+Confidentiality
+Confidential
+Details
+This document is maintained in the document management system of the Marenthal Group and is
+binding in its currently valid version.
+Vertrag
+contract_number: QA-2019-0023
+type: Quality Agreement
+status: Active
+start_date: 2019-12-12
+end_date: 2026-12-11
+auto_renew: 1
+notice_period_days: 90
+currency: EUR
+selling_entity: Marenthal Chemie AG
+signed_date: 2019-11-14
+governing_law: German law
+Account
+name: Čermáková Hygiene Solutions s.r.o.
+type: Customer
+billing_street: Mlynská 1
+billing_city: Košice
+billing_postcode: 045 41
+billing_country: SK
+industry: Facility cleaning and hygiene
+segment: Direct
+size_class: Large
+status: Active
+website: www.cermakovahygiene.sk
+created_date: 2017-05-29
+last_modified_date: 2025-04-04
+language: en
+selling_entity: Marenthal Chemie AG
+description: Facility cleaning and hygiene. Sources Marenclean Z 904 citrus cleaner, Marenclean B 1006
+chlorine-based cleaner for ongoing production.
