@@ -1,0 +1,249 @@
+{
+  "assessment_entity": "Marenthal Chemie AG (DE)",
+  "entity_id": "1764010d-db68-42e2-8aa2-db89242548ad",
+  "data_snapshot_date": "2026-11-18",
+  "analysis_date": "2026-11-20",
+  "total_duties_assessed": 4,
+  "results": [
+    {
+      "duty_id": "04-P02-1",
+      "statutory_ref": "§ 30 Abs. 2 Nr. 1 BSIG",
+      "duty_title": "Risikoanalyse und IT-Sicherheitskonzept",
+      "state": "open",
+      "reason": "An approved IT security policy exists (KR-009 v2.0), but the legal obligations register explicitly confirms that the annual IT risk analysis is unfulfilled (status: 'offen') and overdue since 2026-01-01.",
+      "supported_aspects": [
+        "Formal IT security concept exists and was approved on 2024-07-08 (KR-009 v2.0)."
+      ],
+      "shortfall_or_missing_aspects": [
+        "Annual IT security risk analysis covering ERP, SCADA/OT, and office IT is overdue and marked 'offen'.",
+        "IT risks in the risk register have exceeded their scheduled review windows."
+      ],
+      "available_evidence": [
+        {
+          "source_id": "DMS-00000420",
+          "document_title": "Informationssicherheitsrichtlinie (KR-009)",
+          "version": "2.0",
+          "date": "2024-07-09",
+          "status": "Approved",
+          "exact_passage": "Vertraulichkeit\nConfidential\nZweck und Geltungsbereich\nDiese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Informationssicherheit“\nfest. Sie gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für\nGeschäftspartner. Verstöße können arbeits- und strafrechtliche Folgen haben.\nPflichten und Zuständigkeiten\nDieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der\njeweils gültigen Fassung verbindlich.\nRichtlinie\nnummer: KR-009\ntitel: Informationssicherheitsrichtlinie\nthema: Informationssicherheit\ngeltung: Konzern\naktuelle_version: 2.0\nstatus: gültig\nnaechste_ueberpruefung: 2027-06-23\nmaster_sprache: de\nvertraulichkeit: vertraulich\nRichtlinienversion",
+          "location": "documents/DMS-00000420_KR-009_v2.0_de.txt, lines 15-34",
+          "demonstrates": "An approved group-wide IT security policy framework exists."
+        },
+        {
+          "source_id": "REG_Legal_Obligations_CMS-DE-01",
+          "document_title": "Register of legal and internal obligations",
+          "version": "1.0",
+          "date": "2026-11-09",
+          "status": "Active Register",
+          "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
+          "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
+          "demonstrates": "Statutory obligation 'Informationssicherheitsrisikoanalyse jährlich durchführen' is officially recorded with status 'offen'. Next due was 2026-01-01, which is overdue relative to snapshot 2026-11-18."
+        }
+      ],
+      "actionable_request": null
+    },
+    {
+      "duty_id": "04-P02-2",
+      "statutory_ref": "§ 30 Abs. 2 Nr. 2 BSIG",
+      "duty_title": "Vorfallbewältigung",
+      "state": "evidence_missing",
+      "reason": "Emergency policy KR-017 is strictly restricted to EHS matters, and the incident register contains zero IT security incidents or cyber drills. Under Coback rules, silence leaves evidence missing.",
+      "supported_aspects": [
+        "An Information Security Officer role is formally designated and active."
+      ],
+      "shortfall_or_missing_aspects": [
+        "No documented IT-specific incident response plan (IRP) found in reviewed files.",
+        "No practical test protocols or drill records for cyber incident response."
+      ],
+      "available_evidence": [
+        {
+          "source_id": "DMS-00000671",
+          "document_title": "Notfall- und Krisenmanagement (KR-017)",
+          "version": "2.0",
+          "date": "2025-03-25",
+          "status": "Approved",
+          "exact_passage": "Status\nApproved\nVertraulichkeit\nInternal\nZweck und Geltungsbereich\nDiese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „EHS“ fest. Sie gilt für\nalle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für Geschäftspartner. Verstöße\nkönnen arbeits- und strafrechtliche Folgen haben.",
+          "location": "documents/DMS-00000671_KR-017_v2.0_de.txt, lines 13-20",
+          "demonstrates": "Policy KR-017 specifically governs EHS (Environmental Health and Safety), not IT incidents."
+        },
+        {
+          "source_id": "REG_Compliance_Roles_CMS-DE-01",
+          "document_title": "Register of compliance roles and responsibilities",
+          "version": "1.0",
+          "date": "2026-11-09",
+          "status": "Active Register",
+          "exact_passage": "| Informationssicherheitsbeauftragter | Informationssicherheit | - | 2021-05-25 | - | yes |",
+          "location": "documents/REG_Compliance_Roles_CMS-DE-01.txt, line 17",
+          "demonstrates": "An Information Security Officer role is appointed with a designated deputy."
+        }
+      ],
+      "actionable_request": {
+        "duty_id": "04-P02-2",
+        "duty_title": "Vorfallbewältigung",
+        "sources_reviewed": [
+          "documents/DMS-00000671_KR-017_v2.0_de.txt",
+          "documents/REG_Incidents_CMS-DE-01.txt",
+          "documents/REG_Compliance_Roles_CMS-DE-01.txt"
+        ],
+        "missing_fact": "Operational IT incident response runbooks and practical test logs are absent from the reviewed corpus.",
+        "focused_question": "Does Marenthal Chemie AG maintain a dedicated IT Incident Response Plan (IRP) defining detection, escalation, containment, and recovery workflows, and have practical tabletop exercises or test drills been conducted and documented for the German entity?"
+      }
+    },
+    {
+      "duty_id": "04-P02-3",
+      "statutory_ref": "§ 30 Abs. 2 Nr. 3 BSIG",
+      "duty_title": "Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+      "state": "evidence_missing",
+      "reason": "While record DMS-00001406 asserts that an IT recovery exercise was conducted ('erfüllt') and quarterly backup restores run regularly, the actual operational test report with measured restore times and recovery targets (RTO/RPO) is absent from the data. Under 17-AUS-17, a register assertion without underlying operational metrics cannot establish full compliance.",
+      "supported_aspects": [
+        "Formal obligation and proof document exists (DMS-00001406).",
+        "Quarterly offline backup restore controls are active (4 effective runs out of 5)."
+      ],
+      "shortfall_or_missing_aspects": [
+        "Underlying test log with measured recovery times (RTO) and restore targets is missing.",
+        "The 2025-10-13 DR exercise execution is rated only 'teilweise wirksam' in the internal controls register."
+      ],
+      "available_evidence": [
+        {
+          "source_id": "DMS-00001406",
+          "document_title": "Nachweis: Notfall- und Wiederanlaufübung der IT durchführen",
+          "version": "1.0",
+          "date": "2025-12-23",
+          "status": "Approved",
+          "exact_passage": "Internal\nAngaben\nDieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der\njeweils gültigen Fassung verbindlich.\nVerpflichtung\ntitel: Notfall- und Wiederanlaufübung der IT durchführen\nbeschreibung: Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse\ndokumentieren.\nquelle: Konzernrichtlinie Informationssicherheit\nquelltyp: Konzernrichtlinie\nland: DE\nanwendbarkeit: anwendbar",
+          "location": "documents/DMS-00001406_V000074_Nachweis.txt, lines 15-26",
+          "demonstrates": "A compliance record asserts that an IT recovery drill was executed with status 'erfüllt'."
+        },
+        {
+          "source_id": "REG_Internal_Controls_CMS-DE-01",
+          "document_title": "Register of internal controls and their execution",
+          "version": "1.0",
+          "date": "2026-11-09",
+          "status": "Active Register",
+          "exact_passage": "| Offline-Datensicherung und Wiederherstellungstest | präventiv | quartalsweise | Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheitsrisikoanalyse jährlich durchführen | - | aktiv | 5 runs: wirksam 4, offen 1 | 2025-10-17 | 2026-01-21 |",
+          "location": "documents/REG_Internal_Controls_CMS-DE-01.txt, line 35",
+          "demonstrates": "Offline backup restores run quarterly, with 4 effective runs and 1 open."
+        }
+      ],
+      "actionable_request": {
+        "duty_id": "04-P02-3",
+        "duty_title": "Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+        "sources_reviewed": [
+          "documents/DMS-00001406_V000074_Nachweis.txt",
+          "documents/REG_Internal_Controls_CMS-DE-01.txt"
+        ],
+        "missing_fact": "Underlying operational restore logs with quantitative recovery metrics (RTO/RPO) are absent.",
+        "focused_question": "Where is the underlying technical restore test protocol for the exercise referenced in DMS-00001406 (dated 2025-12-23), including actual measured Recovery Time Objectives (RTO), Recovery Point Objectives (RPO), and verification logs for ERP and process control systems (ICS/SCADA)?"
+      }
+    },
+    {
+      "duty_id": "04-P02-6",
+      "statutory_ref": "§ 30 Abs. 2 Nr. 6 BSIG",
+      "duty_title": "Wirksamkeitsbewertung",
+      "state": "evidence_missing",
+      "reason": "Individual technical controls (patching, phishing, access checks) are periodically tested and tracked. However, an overarching effectiveness assessment program covering all company operations and OT systems is absent. Per 17-AUS-17, discrete tests and a site-limited ISO certificate (Frankfurt DC only) do not establish full entity-wide effectiveness.",
+      "supported_aspects": [
+        "Specific technical controls undergo monthly/quarterly execution tracking (patching, phishing).",
+        "ISO 27001 certification covers Frankfurt data center systems."
+      ],
+      "shortfall_or_missing_aspects": [
+        "No comprehensive effectiveness testing plan (penetration testing, technical audits) for production plants (Marl, Bitterfeld).",
+        "No independent verification of effectiveness across the full scope of § 30 BSIG measures."
+      ],
+      "available_evidence": [
+        {
+          "source_id": "REG_Internal_Controls_CMS-DE-01",
+          "document_title": "Register of internal controls and their execution",
+          "version": "1.0",
+          "date": "2026-11-09",
+          "status": "Active Register",
+          "exact_passage": "| Patch- und Schwachstellenmanagement für Server | IT-Kontrolle | monatlich | Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheitsrisikoanalyse jährlich durchführen | - | aktiv | 14 runs: wirksam 12, offen 2 | 2025-12-12 | 2026-01-15 |",
+          "location": "documents/REG_Internal_Controls_CMS-DE-01.txt, line 38",
+          "demonstrates": "Individual operational security controls undergo recurring effectiveness testing."
+        },
+        {
+          "source_id": "company_profile.json",
+          "document_title": "Company Profile - Certifications",
+          "version": "2026-11-09",
+          "date": "2026-11-09",
+          "status": "Active Profile",
+          "exact_passage": "Zertifikat Informationssicherheit ISO/IEC 27001:2022 · Geltungsbereich: Geltungsbereich: Rechenzentrum und Entwicklungssysteme Frankfurt. · Stelle: TÜV Rheinland · Nummer: IS-FRA-48211 [Q001 · belegt · hoch · Stichtag 2026-11-09]",
+          "location": "company_profile.json, path: certifications",
+          "demonstrates": "An ISO 27001 certificate exists, but its scope is strictly limited to the Frankfurt Data Center and development systems."
+        }
+      ],
+      "actionable_request": {
+        "duty_id": "04-P02-6",
+        "duty_title": "Wirksamkeitsbewertung",
+        "sources_reviewed": [
+          "documents/REG_Internal_Controls_CMS-DE-01.txt",
+          "company_profile.json"
+        ],
+        "missing_fact": "An overarching technical effectiveness evaluation program (e.g. penetration test reports, independent audits) covering all entity facilities is missing.",
+        "focused_question": "Does Marenthal Chemie AG have an established cybersecurity effectiveness assessment program (such as periodic penetration testing, Red Teaming, or holistic ISMS audit reports) covering all German sites and production OT/ICS environments, including documented test results and remediation plans?"
+      }
+    }
+  ],
+  "supported_gaps": [
+    {
+      "duty_id": "04-P02-1",
+      "duty_title": "Risikoanalyse und IT-Sicherheitskonzept",
+      "shortfall_description": "An approved IT security policy exists (KR-009 v2.0), but the legal obligations register explicitly confirms that the annual IT risk analysis is unfulfilled (status: 'offen') and overdue since 2026-01-01.",
+      "basis_of_finding": "Documented in Register of legal and internal obligations (REG_Legal_Obligations_CMS-DE-01)",
+      "evidence_citation": {
+        "source_id": "REG_Legal_Obligations_CMS-DE-01",
+        "document_title": "Register of legal and internal obligations",
+        "version": "1.0",
+        "date": "2026-11-09",
+        "status": "Active Register",
+        "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
+        "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
+        "demonstrates": "Statutory obligation 'Informationssicherheitsrisikoanalyse jährlich durchführen' is officially recorded with status 'offen'. Next due was 2026-01-01, which is overdue relative to snapshot 2026-11-18."
+      }
+    }
+  ],
+  "evidence_requests": [
+    {
+      "duty_id": "04-P02-2",
+      "duty_title": "Vorfallbewältigung",
+      "sources_reviewed": [
+        "documents/DMS-00000671_KR-017_v2.0_de.txt",
+        "documents/REG_Incidents_CMS-DE-01.txt",
+        "documents/REG_Compliance_Roles_CMS-DE-01.txt"
+      ],
+      "missing_fact": "Operational IT incident response runbooks and practical test logs are absent from the reviewed corpus.",
+      "focused_question": "Does Marenthal Chemie AG maintain a dedicated IT Incident Response Plan (IRP) defining detection, escalation, containment, and recovery workflows, and have practical tabletop exercises or test drills been conducted and documented for the German entity?"
+    },
+    {
+      "duty_id": "04-P02-3",
+      "duty_title": "Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+      "sources_reviewed": [
+        "documents/DMS-00001406_V000074_Nachweis.txt",
+        "documents/REG_Internal_Controls_CMS-DE-01.txt"
+      ],
+      "missing_fact": "Underlying operational restore logs with quantitative recovery metrics (RTO/RPO) are absent.",
+      "focused_question": "Where is the underlying technical restore test protocol for the exercise referenced in DMS-00001406 (dated 2025-12-23), including actual measured Recovery Time Objectives (RTO), Recovery Point Objectives (RPO), and verification logs for ERP and process control systems (ICS/SCADA)?"
+    },
+    {
+      "duty_id": "04-P02-6",
+      "duty_title": "Wirksamkeitsbewertung",
+      "sources_reviewed": [
+        "documents/REG_Internal_Controls_CMS-DE-01.txt",
+        "company_profile.json"
+      ],
+      "missing_fact": "An overarching technical effectiveness evaluation program (e.g. penetration test reports, independent audits) covering all entity facilities is missing.",
+      "focused_question": "Does Marenthal Chemie AG have an established cybersecurity effectiveness assessment program (such as periodic penetration testing, Red Teaming, or holistic ISMS audit reports) covering all German sites and production OT/ICS environments, including documented test results and remediation plans?"
+    }
+  ],
+  "sources_reviewed_summary": [
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/company_profile.json",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000420_KR-009_v2.0_de.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000671_KR-017_v2.0_de.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00001406_V000074_Nachweis.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Compliance_Roles_CMS-DE-01.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Incidents_CMS-DE-01.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Internal_Controls_CMS-DE-01.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Legal_Obligations_CMS-DE-01.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Risk_Register_CMS-DE-01.txt"
+  ]
+}
