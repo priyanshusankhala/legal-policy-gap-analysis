@@ -11,7 +11,6 @@
 | `04-P02-2` | §30 Abs.2 Nr.2 BSIG | Vorfallbewältigung | **`EVIDENCE_MISSING`** | Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung: Conflicting evidence between REG_Incidents_CMS-DE-01 a... |
 | `04-P02-3` | §30 Abs.2 Nr.3 BSIG | Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement | **`EVIDENCE_MISSING`** | Betriebsaufrechterhaltung: Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs,... |
 | `04-P02-6` | §30 Abs.2 Nr.6 BSIG | Wirksamkeitsbewertung | **`EVIDENCE_MISSING`** | Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe: Conflicting evidence between REG_Legal_Obligations_CM... |
-| `04-P01` | §30 Abs.1 BSIG | Risikobezogene Maßnahmen | **`EVIDENCE_MISSING`** | Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna: Retrieved REG_Risk_Register_CMS-DE-01 provides partia... |
 
 ---
 ## 2. Detailed Findings by Duty
@@ -138,9 +137,9 @@ sprache: de
 
 ### Duty `04-P02-6`: Wirksamkeitsbewertung (§30 Abs.2 Nr.6 BSIG)
 - **State:** `evidence_missing`
-- **Reason:** Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe: Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').
+- **Reason:** Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe: Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').
 - **Component `04-P02-6.C1` — Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe:** `conflicting_evidence`
-  - *Rationale:* Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').
+  - *Rationale:* Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').
   - *Citation:* `REG_Legal_Obligations_CMS-DE-01` (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71, v1.0, status: `erfüllt`) — Asserts fulfillment or active control execution.
     ```text
     | Gefahrgutbeförderung: Verladekontrolle und Ladungssicherung – Duisburg | Checklisten bei Verladung, Beschriftung und Beladung kontrollieren. | Gefahrgutrecht | GGVSEB; ADR Kap. 1.4 | Verordnung | Zentrallager Duisburg | DE | anwendbar | - | laufend | - | - | erfüllt | 2025-04-04 |
@@ -151,20 +150,6 @@ sprache: de
     ```
 - **Version & Scope Limitations:**
   - `DMS-00000205` (`historical_only`): Document DMS-00000205 (v1.1) was superseded by DMS-00000420 (v2.0) prior to assessment date 2026-11-18.
-
-### Duty `04-P01`: Risikobezogene Maßnahmen (§30 Abs.1 BSIG)
-- **State:** `evidence_missing`
-- **Reason:** Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna: Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.
-- **Component `04-P01.C1` — Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna:** `insufficient_evidence`
-  - *Rationale:* Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.
-  - *Citation:* `REG_Risk_Register_CMS-DE-01` (documents/REG_Risk_Register_CMS-DE-01.txt, line 23, v1.0, status: `offen`) — Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.
-    ```text
-    | Falsche Einstufung von Gemischen | Produktsicherheit | - | Summationsregeln werden falsch angewendet, H-Sätze fehlen. | 1 | 2 | 2 | offen | 2025-11-18 | 2026-11-13 |
-    ```
-  - *Citation:* `REG_Risk_Register_CMS-DE-01` (documents/REG_Risk_Register_CMS-DE-01.txt, line 39, v1.0, status: `offen`) — Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.
-    ```text
-    | Verunreinigung durch Rückstände nach Produktwechsel – Bitterfeld-Wolfen | Qualität | Werk Bitterfeld | Anlagenreinigung unvollständig; Kontamination der Folgecharge. | 2 | 3 | 6 | offen | 2025-07-22 | 2026-07-17 |
-    ```
 
 ---
 ## 3. Supported Gaps (Confirmed Shortfalls)
@@ -186,14 +171,9 @@ sprache: de
 - **Sources Reviewed:** documents/DMS-00001406_V000074_Nachweis.txt, documents/REG_Legal_Obligations_CMS-DE-01.txt, documents/DMS-00000260_KR-017_v1.1_de.txt, documents/DMS-00000671_KR-017_v2.0_de.txt, documents/REG_Internal_Controls_CMS-DE-01.txt
 
 ### `04-P02-6` — Wirksamkeitsbewertung
-- **Missing Proof / Contradiction:** Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').)
+- **Missing Proof / Contradiction:** Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').)
 - **Focused Question:** *"For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.6 BSIG (Wirksamkeitsbewertung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (reconciling REG_Legal_Obligations_CMS-DE-01)."*
 - **Sources Reviewed:** documents/REG_Legal_Obligations_CMS-DE-01.txt, documents/Zwilling — Produkte.txt, documents/DMS-00000205_KR-009_v1.1_de.txt, documents/Zwilling — Faktenkatalog.txt
-
-### `04-P01` — Risikobezogene Maßnahmen
-- **Missing Proof / Contradiction:** Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)
-- **Focused Question:** *"For Marenthal Chemie AG (DE) under §30 Abs.1 BSIG (Risikobezogene Maßnahmen), please provide verifiable operational records, test logs, or scope-complete documentation covering: Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (reconciling REG_Risk_Register_CMS-DE-01)."*
-- **Sources Reviewed:** documents/REG_Risk_Register_CMS-DE-01.txt
 
 ---
 ## 5. Reviewed Sources Summary

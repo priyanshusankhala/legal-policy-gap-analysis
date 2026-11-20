@@ -284,11 +284,15 @@ class EpistemicEvaluator:
                 fulfilled_hits.append(h)
 
         if fulfilled_hits and partial_or_expired_hits:
+            f_unit = fulfilled_hits[0].unit
+            p_unit = partial_or_expired_hits[0].unit
+            f_label = f"{f_unit.source_id} ({f_unit.location})" if f_unit.source_id == p_unit.source_id else f_unit.source_id
+            p_label = f"{p_unit.source_id} ({p_unit.location})" if f_unit.source_id == p_unit.source_id else p_unit.source_id
             cits = [
                 self._to_citation(fulfilled_hits[0], "Asserts fulfillment or active control execution."),
                 self._to_citation(
                     partial_or_expired_hits[0],
-                    f"Reports qualified status ('{partial_or_expired_hits[0].unit.status}') or expired review deadline.",
+                    f"Reports qualified status ('{p_unit.status}') or expired review deadline.",
                 ),
             ]
             return DutyComponent(
@@ -297,13 +301,13 @@ class EpistemicEvaluator:
                 clause_text=clause.text,
                 status=ComponentStatus.CONFLICTING,
                 rationale=(
-                    f"Conflicting evidence between {fulfilled_hits[0].unit.source_id} and "
-                    f"{partial_or_expired_hits[0].unit.source_id} (status: '{partial_or_expired_hits[0].unit.status}')."
+                    f"Conflicting evidence between {f_label} and "
+                    f"{p_label} (status: '{p_unit.status}')."
                 ),
                 citations=cits,
                 limitations=["Contradictory status or overdue review date requires reconciliation."],
             )
-
+        
         # 3. Check Silence / Out-of-Scope Only / Blank Twin Answer
         if not in_scope:
             restricted_cits = [

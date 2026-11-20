@@ -5,7 +5,7 @@
   "as_of_date": "2026-11-18",
   "analysis_date": "2026-11-20",
   "evaluation_mode": "Hybrid Multilingual Neural-Lexical + Symbolic Epistemic Engine",
-  "total_duties_assessed": 5,
+  "total_duties_assessed": 4,
   "results": [
     {
       "duty_id": "04-P02-1",
@@ -302,14 +302,14 @@
       "statutory_ref": "§30 Abs.2 Nr.6 BSIG",
       "duty_title": "Wirksamkeitsbewertung",
       "state": "evidence_missing",
-      "reason": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe: Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').",
+      "reason": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe: Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').",
       "components": [
         {
           "component_id": "04-P02-6.C1",
           "name": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe",
           "clause_text": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewertung",
           "status": "conflicting_evidence",
-          "rationale": "Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').",
+          "rationale": "Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').",
           "citations": [
             {
               "source_id": "REG_Legal_Obligations_CMS-DE-01",
@@ -358,63 +358,8 @@
           "documents/DMS-00000205_KR-009_v1.1_de.txt",
           "documents/Zwilling — Faktenkatalog.txt"
         ],
-        "missing_fact": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').)",
+        "missing_fact": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').)",
         "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.6 BSIG (Wirksamkeitsbewertung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (reconciling REG_Legal_Obligations_CMS-DE-01)."
-      }
-    },
-    {
-      "duty_id": "04-P01",
-      "statutory_ref": "§30 Abs.1 BSIG",
-      "duty_title": "Risikobezogene Maßnahmen",
-      "state": "evidence_missing",
-      "reason": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna: Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
-      "components": [
-        {
-          "component_id": "04-P01.C1",
-          "name": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna",
-          "clause_text": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßnahmen",
-          "status": "insufficient_evidence",
-          "rationale": "Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
-          "citations": [
-            {
-              "source_id": "REG_Risk_Register_CMS-DE-01",
-              "document_title": "REG_Risk_Register_CMS-DE-01.txt",
-              "file_path": "documents/REG_Risk_Register_CMS-DE-01.txt",
-              "version": "1.0",
-              "date": "2025-11-18",
-              "status": "offen",
-              "exact_passage": "| Falsche Einstufung von Gemischen | Produktsicherheit | - | Summationsregeln werden falsch angewendet, H-Sätze fehlen. | 1 | 2 | 2 | offen | 2025-11-18 | 2026-11-13 |",
-              "location": "documents/REG_Risk_Register_CMS-DE-01.txt, line 23",
-              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
-              "retrieval_score": 0.4303
-            },
-            {
-              "source_id": "REG_Risk_Register_CMS-DE-01",
-              "document_title": "REG_Risk_Register_CMS-DE-01.txt",
-              "file_path": "documents/REG_Risk_Register_CMS-DE-01.txt",
-              "version": "1.0",
-              "date": "2025-07-22",
-              "status": "offen",
-              "exact_passage": "| Verunreinigung durch Rückstände nach Produktwechsel – Bitterfeld-Wolfen | Qualität | Werk Bitterfeld | Anlagenreinigung unvollständig; Kontamination der Folgecharge. | 2 | 3 | 6 | offen | 2025-07-22 | 2026-07-17 |",
-              "location": "documents/REG_Risk_Register_CMS-DE-01.txt, line 39",
-              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
-              "retrieval_score": 0.419
-            }
-          ],
-          "limitations": [
-            "Documentary policy or register assertion alone does not establish operational effectiveness."
-          ]
-        }
-      ],
-      "exclusion_log": [],
-      "actionable_request": {
-        "duty_id": "04-P01",
-        "duty_title": "Risikobezogene Maßnahmen",
-        "sources_reviewed": [
-          "documents/REG_Risk_Register_CMS-DE-01.txt"
-        ],
-        "missing_fact": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)",
-        "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.1 BSIG (Risikobezogene Maßnahmen), please provide verifiable operational records, test logs, or scope-complete documentation covering: Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (reconciling REG_Risk_Register_CMS-DE-01)."
       }
     }
   ],
@@ -498,17 +443,8 @@
         "documents/DMS-00000205_KR-009_v1.1_de.txt",
         "documents/Zwilling — Faktenkatalog.txt"
       ],
-      "missing_fact": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').)",
+      "missing_fact": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71) and REG_Legal_Obligations_CMS-DE-01 (documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95) (status: 'erfüllt').)",
       "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.6 BSIG (Wirksamkeitsbewertung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (reconciling REG_Legal_Obligations_CMS-DE-01)."
-    },
-    {
-      "duty_id": "04-P01",
-      "duty_title": "Risikobezogene Maßnahmen",
-      "sources_reviewed": [
-        "documents/REG_Risk_Register_CMS-DE-01.txt"
-      ],
-      "missing_fact": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)",
-      "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.1 BSIG (Risikobezogene Maßnahmen), please provide verifiable operational records, test logs, or scope-complete documentation covering: Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (reconciling REG_Risk_Register_CMS-DE-01)."
     }
   ],
   "sources_reviewed_summary": [

@@ -139,21 +139,36 @@ class DutyParser:
         if any(k in blob for k in ("dsgvo", "datenschutz", "gdpr")):
             return "datenschutz"
         return "informationssicherheit"
-
     def _partition_primary_and_context(
         self, items: List[Dict[str, Any]]
     ) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
         """Separate primary operative duties from umbrella provisions and interpretation rules."""
+        def _item_header(it: Dict[str, Any]) -> str:
+            return " ".join(
+                str(it.get(k) or "")
+                for k in (
+                    "duty_id",
+                    "source_id",
+                    "id",
+                    "duty_title",
+                    "source_label_de",
+                    "label_de",
+                    "title_de",
+                    "title",
+                    "statutory_ref",
+                )
+            )
+
         has_specific_nr = any(
-            re.search(r"\bNr\.\s*\d+\b", json_blob)
+            re.search(r"\bNr\.\s*\d+\b", _item_header(item))
             for item in items
-            for json_blob in [" ".join(str(v) for v in item.values())]
         )
 
         primary: List[Dict[str, Any]] = []
         context: List[Dict[str, Any]] = []
 
         for item in items:
+            header = _item_header(item)
             blob = " ".join(str(v) for v in item.values())
             item_id = str(item.get("duty_id") or item.get("source_id") or item.get("id") or "")
             item_type = str(item.get("type") or item.get("kind") or item.get("role") or "").lower()
@@ -166,8 +181,8 @@ class DutyParser:
             )
             is_umbrella = (
                 has_specific_nr
-                and bool(re.search(r"Abs\.\s*1\b", blob))
-                and not bool(re.search(r"\bNr\.\s*\d+\b", blob))
+                and bool(re.search(r"Abs\.\s*1\b", header))
+                and not bool(re.search(r"\bNr\.\s*\d+\b", header))
             )
 
             if is_interpretation or is_umbrella:
@@ -178,7 +193,6 @@ class DutyParser:
         if not primary:
             return items, []
         return primary, context
-
     def _parse_json_duties(self, raw: Any) -> List[ParsedDuty]:
         items = self._extract_duty_dicts(raw)
         if not items:
