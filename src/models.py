@@ -1,13 +1,13 @@
 """
 Domain models for Regulatory Compliance Analysis.
 Strictly separates:
-- Statutory components (Teilpflichten)
-- Component-level statuses (Supported, Shortfall, Insufficient, Conflicting)
-- Document exclusion & limitation logs
+- Decomposed statutory requirement clauses (Teilpflichten)
+- Component-level statuses (supported, confirmed_shortfall, insufficient_evidence, conflicting_evidence)
+- Document exclusion & scope limitation logs
 - Aggregated duty state (met | open | evidence_missing)
 """
 from enum import Enum
-from typing import List, Optional
+from typing import Any, Dict, List, Optional
 from pydantic import BaseModel, Field
 
 
@@ -34,18 +34,20 @@ class EvidenceCitation(BaseModel):
     exact_passage: str
     location: str
     demonstrates: str
+    retrieval_score: Optional[float] = None
 
 
 class ExclusionLogItem(BaseModel):
     source_id: str
     file_path: str
-    disposition: str  # historical_only | limited_support | relevant
+    disposition: str  # historical_only | limited_support | out_of_scope
     reason: str
 
 
 class DutyComponent(BaseModel):
     component_id: str
     name: str
+    clause_text: str = ""
     status: ComponentStatus
     rationale: str
     citations: List[EvidenceCitation] = Field(default_factory=list)
@@ -74,10 +76,12 @@ class DutyComplianceResult(BaseModel):
 class ComplianceAssessmentReport(BaseModel):
     assessment_entity: str
     entity_id: str
+    entity_code: str
     as_of_date: str
     analysis_date: str
+    evaluation_mode: str
     total_duties_assessed: int
     results: List[DutyComplianceResult]
-    supported_gaps: List[dict]
+    supported_gaps: List[Dict[str, Any]]
     evidence_requests: List[EvidenceRequest]
     sources_reviewed_summary: List[str]

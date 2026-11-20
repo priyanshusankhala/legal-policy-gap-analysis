@@ -1,128 +1,286 @@
 {
   "assessment_entity": "Marenthal Chemie AG (DE)",
   "entity_id": "1764010d-db68-42e2-8aa2-db89242548ad",
-  "data_snapshot_date": "2026-11-18",
+  "entity_code": "CMS-DE-01",
+  "as_of_date": "2026-11-18",
   "analysis_date": "2026-11-20",
-  "total_duties_assessed": 4,
+  "evaluation_mode": "Hybrid Multilingual Neural-Lexical + Symbolic Epistemic Engine",
+  "total_duties_assessed": 5,
   "results": [
     {
       "duty_id": "04-P02-1",
-      "statutory_ref": "§ 30 Abs. 2 Nr. 1 BSIG",
+      "statutory_ref": "§30 Abs.2 Nr.1 BSIG",
       "duty_title": "Risikoanalyse und IT-Sicherheitskonzept",
       "state": "open",
-      "reason": "An approved IT security policy exists (KR-009 v2.0), but the legal obligations register explicitly confirms that the annual IT risk analysis is unfulfilled (status: 'offen') and overdue since 2026-01-01.",
-      "supported_aspects": [
-        "Formal IT security concept exists and was approved on 2024-07-08 (KR-009 v2.0)."
-      ],
-      "shortfall_or_missing_aspects": [
-        "Annual IT security risk analysis covering ERP, SCADA/OT, and office IT is overdue and marked 'offen'.",
-        "IT risks in the risk register have exceeded their scheduled review windows."
-      ],
-      "available_evidence": [
+      "reason": "confirmed shortfall identified: Register REG_Legal_Obligations_CMS-DE-01 explicitly records '| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |' with status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).; Register REG_Legal_Obligations_CMS-DE-01 explicitly records '| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |' with status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+      "components": [
         {
-          "source_id": "DMS-00000420",
-          "document_title": "Informationssicherheitsrichtlinie (KR-009)",
-          "version": "2.0",
-          "date": "2024-07-09",
-          "status": "Approved",
-          "exact_passage": "Vertraulichkeit\nConfidential\nZweck und Geltungsbereich\nDiese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „Informationssicherheit“\nfest. Sie gilt für alle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für\nGeschäftspartner. Verstöße können arbeits- und strafrechtliche Folgen haben.\nPflichten und Zuständigkeiten\nDieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der\njeweils gültigen Fassung verbindlich.\nRichtlinie\nnummer: KR-009\ntitel: Informationssicherheitsrichtlinie\nthema: Informationssicherheit\ngeltung: Konzern\naktuelle_version: 2.0\nstatus: gültig\nnaechste_ueberpruefung: 2027-06-23\nmaster_sprache: de\nvertraulichkeit: vertraulich\nRichtlinienversion",
-          "location": "documents/DMS-00000420_KR-009_v2.0_de.txt, lines 15-34",
-          "demonstrates": "An approved group-wide IT security policy framework exists."
+          "component_id": "04-P02-1.C1",
+          "name": "Risikoanalyse",
+          "clause_text": "Risikoanalyse: 04-P02-1 · §30 Abs.2 Nr.1 BSIG · Risikoanalyse und IT-Sicherheitskonzept",
+          "status": "confirmed_shortfall",
+          "rationale": "Register REG_Legal_Obligations_CMS-DE-01 explicitly records '| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |' with status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+          "citations": [
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-01-06",
+              "status": "offen",
+              "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
+              "demonstrates": "Confirmed shortfall: status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+              "retrieval_score": 0.44
+            }
+          ],
+          "limitations": [
+            "Active obligations register entry confirms an unfulfilled requirement."
+          ]
         },
         {
-          "source_id": "REG_Legal_Obligations_CMS-DE-01",
-          "document_title": "Register of legal and internal obligations",
-          "version": "1.0",
-          "date": "2026-11-09",
-          "status": "Active Register",
-          "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
-          "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
-          "demonstrates": "Statutory obligation 'Informationssicherheitsrisikoanalyse jährlich durchführen' is officially recorded with status 'offen'. Next due was 2026-01-01, which is overdue relative to snapshot 2026-11-18."
+          "component_id": "04-P02-1.C2",
+          "name": "IT-Sicherheitskonzept",
+          "clause_text": "IT-Sicherheitskonzept: 04-P02-1 · §30 Abs.2 Nr.1 BSIG · Risikoanalyse und IT-Sicherheitskonzept",
+          "status": "confirmed_shortfall",
+          "rationale": "Register REG_Legal_Obligations_CMS-DE-01 explicitly records '| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |' with status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+          "citations": [
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-01-06",
+              "status": "offen",
+              "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
+              "demonstrates": "Confirmed shortfall: status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+              "retrieval_score": 0.4378
+            }
+          ],
+          "limitations": [
+            "Active obligations register entry confirms an unfulfilled requirement."
+          ]
         }
       ],
+      "exclusion_log": [],
       "actionable_request": null
     },
     {
       "duty_id": "04-P02-2",
-      "statutory_ref": "§ 30 Abs. 2 Nr. 2 BSIG",
+      "statutory_ref": "§30 Abs.2 Nr.2 BSIG",
       "duty_title": "Vorfallbewältigung",
       "state": "evidence_missing",
-      "reason": "Emergency policy KR-017 is strictly restricted to EHS matters, and the incident register contains zero IT security incidents or cyber drills. Under Coback rules, silence leaves evidence missing.",
-      "supported_aspects": [
-        "An Information Security Officer role is formally designated and active."
-      ],
-      "shortfall_or_missing_aspects": [
-        "No documented IT-specific incident response plan (IRP) found in reviewed files.",
-        "No practical test protocols or drill records for cyber incident response."
-      ],
-      "available_evidence": [
+      "reason": "Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung: Conflicting evidence between REG_Incidents_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').",
+      "components": [
         {
-          "source_id": "DMS-00000671",
-          "document_title": "Notfall- und Krisenmanagement (KR-017)",
-          "version": "2.0",
-          "date": "2025-03-25",
-          "status": "Approved",
-          "exact_passage": "Status\nApproved\nVertraulichkeit\nInternal\nZweck und Geltungsbereich\nDiese Richtlinie legt für Marenthal Chemie AG verbindliche Regeln zum Thema „EHS“ fest. Sie gilt für\nalle Beschäftigten, Führungskräfte und, soweit vertraglich vereinbart, für Geschäftspartner. Verstöße\nkönnen arbeits- und strafrechtliche Folgen haben.",
-          "location": "documents/DMS-00000671_KR-017_v2.0_de.txt, lines 13-20",
-          "demonstrates": "Policy KR-017 specifically governs EHS (Environmental Health and Safety), not IT incidents."
-        },
-        {
-          "source_id": "REG_Compliance_Roles_CMS-DE-01",
-          "document_title": "Register of compliance roles and responsibilities",
-          "version": "1.0",
-          "date": "2026-11-09",
-          "status": "Active Register",
-          "exact_passage": "| Informationssicherheitsbeauftragter | Informationssicherheit | - | 2021-05-25 | - | yes |",
-          "location": "documents/REG_Compliance_Roles_CMS-DE-01.txt, line 17",
-          "demonstrates": "An Information Security Officer role is appointed with a designated deputy."
+          "component_id": "04-P02-2.C1",
+          "name": "Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung",
+          "clause_text": "Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung",
+          "status": "conflicting_evidence",
+          "rationale": "Conflicting evidence between REG_Incidents_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').",
+          "citations": [
+            {
+              "source_id": "REG_Incidents_CMS-DE-01",
+              "document_title": "REG_Incidents_CMS-DE-01.txt",
+              "file_path": "documents/REG_Incidents_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-04-14",
+              "status": "abgeschlossen",
+              "exact_passage": "| 2025-04-14 | Beinaheunfall | gering | Werk Bitterfeld | Am Standort Bitterfeld-Wolfen streifte ein Gabelstapler ein Fass mit Diethylentriamin, technisch. Das Fass blieb dicht, es trat kein Stoff aus. Es handelte sich um einen Beinaheunfall mit geringem Schweregrad. Als Sofortmaßnahme wurde der betroffene Bereich gesperrt. Anschließend wurden die Fahrwege für den Staplerverkehr angepasst, um eine Wiederholung zu vermeiden. Die zuständigen Vorgesetzten und die Arbeitssicherheit wurden über den Vorfall informiert. Eine Meldung an die Behörden war nicht erforderlich. | abgeschlossen | 0 | - | - |",
+              "location": "documents/REG_Incidents_CMS-DE-01.txt, line 19",
+              "demonstrates": "Asserts fulfillment or active control execution.",
+              "retrieval_score": 0.3799
+            },
+            {
+              "source_id": "REG_Internal_Controls_CMS-DE-01",
+              "document_title": "REG_Internal_Controls_CMS-DE-01.txt",
+              "file_path": "documents/REG_Internal_Controls_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-04-25",
+              "status": "aktiv",
+              "exact_passage": "| Prüfung Ex-Schutz-Ausrüstung | detektiv | jährlich | Explosionsfähige Atmosphäre bei Lösemittelhandhabung – Bitterfeld-Wolfen | Explosionsschutzdokument aktualisieren – Bitterfeld-Wolfen | Werk Bitterfeld | aktiv | 1 runs: wirksam 1 | 2025-04-25 | 2026-04-24 |",
+              "location": "documents/REG_Internal_Controls_CMS-DE-01.txt, line 41",
+              "demonstrates": "Reports qualified status ('aktiv') or expired review deadline.",
+              "retrieval_score": 0.3976
+            }
+          ],
+          "limitations": [
+            "Contradictory status or overdue review date requires reconciliation."
+          ]
         }
       ],
+      "exclusion_log": [],
       "actionable_request": {
         "duty_id": "04-P02-2",
         "duty_title": "Vorfallbewältigung",
         "sources_reviewed": [
-          "documents/DMS-00000671_KR-017_v2.0_de.txt",
-          "documents/REG_Incidents_CMS-DE-01.txt",
-          "documents/REG_Compliance_Roles_CMS-DE-01.txt"
+          "documents/REG_Internal_Controls_CMS-DE-01.txt",
+          "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+          "documents/REG_Incidents_CMS-DE-01.txt"
         ],
-        "missing_fact": "Operational IT incident response runbooks and practical test logs are absent from the reviewed corpus.",
-        "focused_question": "Does Marenthal Chemie AG maintain a dedicated IT Incident Response Plan (IRP) defining detection, escalation, containment, and recovery workflows, and have practical tabletop exercises or test drills been conducted and documented for the German entity?"
+        "missing_fact": "Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung (Conflicting evidence between REG_Incidents_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').)",
+        "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.2 BSIG (Vorfallbewältigung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung (reconciling REG_Incidents_CMS-DE-01, REG_Internal_Controls_CMS-DE-01)."
       }
     },
     {
       "duty_id": "04-P02-3",
-      "statutory_ref": "§ 30 Abs. 2 Nr. 3 BSIG",
+      "statutory_ref": "§30 Abs.2 Nr.3 BSIG",
       "duty_title": "Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
       "state": "evidence_missing",
-      "reason": "While record DMS-00001406 asserts that an IT recovery exercise was conducted ('erfüllt') and quarterly backup restores run regularly, the actual operational test report with measured restore times and recovery targets (RTO/RPO) is absent from the data. Under 17-AUS-17, a register assertion without underlying operational metrics cannot establish full compliance.",
-      "supported_aspects": [
-        "Formal obligation and proof document exists (DMS-00001406).",
-        "Quarterly offline backup restore controls are active (4 effective runs out of 5)."
-      ],
-      "shortfall_or_missing_aspects": [
-        "Underlying test log with measured recovery times (RTO) and restore targets is missing.",
-        "The 2025-10-13 DR exercise execution is rated only 'teilweise wirksam' in the internal controls register."
-      ],
-      "available_evidence": [
+      "reason": "Betriebsaufrechterhaltung: Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.; Backups: Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').",
+      "components": [
         {
-          "source_id": "DMS-00001406",
-          "document_title": "Nachweis: Notfall- und Wiederanlaufübung der IT durchführen",
-          "version": "1.0",
-          "date": "2025-12-23",
-          "status": "Approved",
-          "exact_passage": "Internal\nAngaben\nDieses Dokument wird im Dokumentenmanagement der Marenthal-Gruppe geführt und ist in der\njeweils gültigen Fassung verbindlich.\nVerpflichtung\ntitel: Notfall- und Wiederanlaufübung der IT durchführen\nbeschreibung: Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse\ndokumentieren.\nquelle: Konzernrichtlinie Informationssicherheit\nquelltyp: Konzernrichtlinie\nland: DE\nanwendbarkeit: anwendbar",
-          "location": "documents/DMS-00001406_V000074_Nachweis.txt, lines 15-26",
-          "demonstrates": "A compliance record asserts that an IT recovery drill was executed with status 'erfüllt'."
+          "component_id": "04-P02-3.C1",
+          "name": "Betriebsaufrechterhaltung",
+          "clause_text": "Betriebsaufrechterhaltung: 04-P02-3 · §30 Abs.2 Nr.3 BSIG · Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+          "status": "insufficient_evidence",
+          "rationale": "Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
+          "citations": [
+            {
+              "source_id": "DMS-00001406",
+              "document_title": "Notfall- und Wiederanlaufübung der IT durchführen",
+              "file_path": "documents/DMS-00001406_V000074_Nachweis.txt",
+              "version": "74.0",
+              "date": null,
+              "status": "Active",
+              "exact_passage": "Verpflichtung\ntitel: Notfall- und Wiederanlaufübung der IT durchführen\nbeschreibung: Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse\ndokumentieren.\nquelle: Konzernrichtlinie Informationssicherheit\nquelltyp: Konzernrichtlinie\nland: DE\nanwendbarkeit: anwendbar\nfrist_art: wiederkehrend\nnaechste_frist: 2026-12-18\nintervall_monate: 12\nstatus: erfüllt",
+              "location": "documents/DMS-00001406_V000074_Nachweis.txt, lines 19-30",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.4339
+            },
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-12-23",
+              "status": "erfüllt",
+              "exact_passage": "| Notfall- und Wiederanlaufübung der IT durchführen | Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse dokumentieren. | Informationssicherheit | Konzernrichtlinie Informationssicherheit | Konzernrichtlinie | - | DE | anwendbar | - | wiederkehrend | 2026-12-18 | 12 | erfüllt | 2025-12-23 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 99",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.4163
+            }
+          ],
+          "limitations": [
+            "Documentary policy or register assertion alone does not establish operational effectiveness."
+          ]
         },
         {
-          "source_id": "REG_Internal_Controls_CMS-DE-01",
-          "document_title": "Register of internal controls and their execution",
-          "version": "1.0",
-          "date": "2026-11-09",
-          "status": "Active Register",
-          "exact_passage": "| Offline-Datensicherung und Wiederherstellungstest | präventiv | quartalsweise | Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheitsrisikoanalyse jährlich durchführen | - | aktiv | 5 runs: wirksam 4, offen 1 | 2025-10-17 | 2026-01-21 |",
-          "location": "documents/REG_Internal_Controls_CMS-DE-01.txt, line 35",
-          "demonstrates": "Offline backup restores run quarterly, with 4 effective runs and 1 open."
+          "component_id": "04-P02-3.C2",
+          "name": "Backups",
+          "clause_text": "Backups: 04-P02-3 · §30 Abs.2 Nr.3 BSIG · Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+          "status": "conflicting_evidence",
+          "rationale": "Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').",
+          "citations": [
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-12-23",
+              "status": "erfüllt",
+              "exact_passage": "| Notfall- und Wiederanlaufübung der IT durchführen | Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse dokumentieren. | Informationssicherheit | Konzernrichtlinie Informationssicherheit | Konzernrichtlinie | - | DE | anwendbar | - | wiederkehrend | 2026-12-18 | 12 | erfüllt | 2025-12-23 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 99",
+              "demonstrates": "Asserts fulfillment or active control execution.",
+              "retrieval_score": 0.3715
+            },
+            {
+              "source_id": "REG_Internal_Controls_CMS-DE-01",
+              "document_title": "REG_Internal_Controls_CMS-DE-01.txt",
+              "file_path": "documents/REG_Internal_Controls_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-10-17",
+              "status": "aktiv",
+              "exact_passage": "| Offline-Datensicherung und Wiederherstellungstest | präventiv | quartalsweise | Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheitsrisikoanalyse jährlich durchführen | - | aktiv | 5 runs: wirksam 4, offen 1 | 2025-10-17 | 2026-01-21 |",
+              "location": "documents/REG_Internal_Controls_CMS-DE-01.txt, line 35",
+              "demonstrates": "Reports qualified status ('aktiv') or expired review deadline.",
+              "retrieval_score": 0.3219
+            }
+          ],
+          "limitations": [
+            "Contradictory status or overdue review date requires reconciliation."
+          ]
+        },
+        {
+          "component_id": "04-P02-3.C3",
+          "name": "Wiederherstellung",
+          "clause_text": "Wiederherstellung: 04-P02-3 · §30 Abs.2 Nr.3 BSIG · Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+          "status": "insufficient_evidence",
+          "rationale": "Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
+          "citations": [
+            {
+              "source_id": "DMS-00001406",
+              "document_title": "Notfall- und Wiederanlaufübung der IT durchführen",
+              "file_path": "documents/DMS-00001406_V000074_Nachweis.txt",
+              "version": "74.0",
+              "date": null,
+              "status": "Active",
+              "exact_passage": "Verpflichtung\ntitel: Notfall- und Wiederanlaufübung der IT durchführen\nbeschreibung: Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse\ndokumentieren.\nquelle: Konzernrichtlinie Informationssicherheit\nquelltyp: Konzernrichtlinie\nland: DE\nanwendbarkeit: anwendbar\nfrist_art: wiederkehrend\nnaechste_frist: 2026-12-18\nintervall_monate: 12\nstatus: erfüllt",
+              "location": "documents/DMS-00001406_V000074_Nachweis.txt, lines 19-30",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.4202
+            },
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-12-23",
+              "status": "erfüllt",
+              "exact_passage": "| Notfall- und Wiederanlaufübung der IT durchführen | Wiederherstellung kritischer Systeme (ERP, Prozessleitsystem) üben und Ergebnisse dokumentieren. | Informationssicherheit | Konzernrichtlinie Informationssicherheit | Konzernrichtlinie | - | DE | anwendbar | - | wiederkehrend | 2026-12-18 | 12 | erfüllt | 2025-12-23 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 99",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.418
+            }
+          ],
+          "limitations": [
+            "Documentary policy or register assertion alone does not establish operational effectiveness."
+          ]
+        },
+        {
+          "component_id": "04-P02-3.C4",
+          "name": "Krisenmanagement",
+          "clause_text": "Krisenmanagement: 04-P02-3 · §30 Abs.2 Nr.3 BSIG · Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
+          "status": "insufficient_evidence",
+          "rationale": "Retrieved DMS-00000671 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
+          "citations": [
+            {
+              "source_id": "DMS-00000671",
+              "document_title": "DMS-00000671_KR-017_v2.0_de.txt",
+              "file_path": "documents/DMS-00000671_KR-017_v2.0_de.txt",
+              "version": "2.0",
+              "date": null,
+              "status": "Active",
+              "exact_passage": "Notfall- und Krisenmanagement\nKonzernrichtlinie\nDokumentnummer\nDMS-00000671\nVersion\n2.0\nGültig ab\n2025-03-25\nGesellschaft\nMarenthal Chemie AG\nStatus\nApproved",
+              "location": "documents/DMS-00000671_KR-017_v2.0_de.txt, lines 3-14",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.4408
+            },
+            {
+              "source_id": "DMS-00000671",
+              "document_title": "DMS-00000671_KR-017_v2.0_de.txt",
+              "file_path": "documents/DMS-00000671_KR-017_v2.0_de.txt",
+              "version": "2.0",
+              "date": null,
+              "status": "Active",
+              "exact_passage": "nummer: KR-017\ntitel: Notfall- und Krisenmanagement\nthema: EHS\ngeltung: Konzern\naktuelle_version: 2.0\nstatus: gültig\nnaechste_ueberpruefung: 2026-09-16\nmaster_sprache: de\nvertraulichkeit: intern\nRichtlinienversion\nversion: 2.0\nsprache: de",
+              "location": "documents/DMS-00000671_KR-017_v2.0_de.txt, lines 35-46",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.4299
+            }
+          ],
+          "limitations": [
+            "Documentary policy or register assertion alone does not establish operational effectiveness."
+          ]
+        }
+      ],
+      "exclusion_log": [
+        {
+          "source_id": "DMS-00000260",
+          "file_path": "documents/DMS-00000260_KR-017_v1.1_de.txt",
+          "disposition": "historical_only",
+          "reason": "Document DMS-00000260 (v1.1) was superseded by DMS-00000671 (v2.0) prior to assessment date 2026-11-18."
         }
       ],
       "actionable_request": {
@@ -130,76 +288,180 @@
         "duty_title": "Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
         "sources_reviewed": [
           "documents/DMS-00001406_V000074_Nachweis.txt",
+          "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+          "documents/DMS-00000260_KR-017_v1.1_de.txt",
+          "documents/DMS-00000671_KR-017_v2.0_de.txt",
           "documents/REG_Internal_Controls_CMS-DE-01.txt"
         ],
-        "missing_fact": "Underlying operational restore logs with quantitative recovery metrics (RTO/RPO) are absent.",
-        "focused_question": "Where is the underlying technical restore test protocol for the exercise referenced in DMS-00001406 (dated 2025-12-23), including actual measured Recovery Time Objectives (RTO), Recovery Point Objectives (RPO), and verification logs for ERP and process control systems (ICS/SCADA)?"
+        "missing_fact": "Betriebsaufrechterhaltung (Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.); Backups (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').); Wiederherstellung (Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.); Krisenmanagement (Retrieved DMS-00000671 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)",
+        "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.3 BSIG (Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement), please provide verifiable operational records, test logs, or scope-complete documentation covering: Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement (reconciling DMS-00000671, DMS-00001406, REG_Internal_Controls_CMS-DE-01, REG_Legal_Obligations_CMS-DE-01)."
       }
     },
     {
       "duty_id": "04-P02-6",
-      "statutory_ref": "§ 30 Abs. 2 Nr. 6 BSIG",
+      "statutory_ref": "§30 Abs.2 Nr.6 BSIG",
       "duty_title": "Wirksamkeitsbewertung",
       "state": "evidence_missing",
-      "reason": "Individual technical controls (patching, phishing, access checks) are periodically tested and tracked. However, an overarching effectiveness assessment program covering all company operations and OT systems is absent. Per 17-AUS-17, discrete tests and a site-limited ISO certificate (Frankfurt DC only) do not establish full entity-wide effectiveness.",
-      "supported_aspects": [
-        "Specific technical controls undergo monthly/quarterly execution tracking (patching, phishing).",
-        "ISO 27001 certification covers Frankfurt data center systems."
-      ],
-      "shortfall_or_missing_aspects": [
-        "No comprehensive effectiveness testing plan (penetration testing, technical audits) for production plants (Marl, Bitterfeld).",
-        "No independent verification of effectiveness across the full scope of § 30 BSIG measures."
-      ],
-      "available_evidence": [
+      "reason": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe: Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').",
+      "components": [
         {
-          "source_id": "REG_Internal_Controls_CMS-DE-01",
-          "document_title": "Register of internal controls and their execution",
-          "version": "1.0",
-          "date": "2026-11-09",
-          "status": "Active Register",
-          "exact_passage": "| Patch- und Schwachstellenmanagement für Server | IT-Kontrolle | monatlich | Verschlüsselungsangriff auf ERP und Produktionssteuerung | Informationssicherheitsrisikoanalyse jährlich durchführen | - | aktiv | 14 runs: wirksam 12, offen 2 | 2025-12-12 | 2026-01-15 |",
-          "location": "documents/REG_Internal_Controls_CMS-DE-01.txt, line 38",
-          "demonstrates": "Individual operational security controls undergo recurring effectiveness testing."
-        },
+          "component_id": "04-P02-6.C1",
+          "name": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe",
+          "clause_text": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewertung",
+          "status": "conflicting_evidence",
+          "rationale": "Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').",
+          "citations": [
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-04-04",
+              "status": "erfüllt",
+              "exact_passage": "| Gefahrgutbeförderung: Verladekontrolle und Ladungssicherung – Duisburg | Checklisten bei Verladung, Beschriftung und Beladung kontrollieren. | Gefahrgutrecht | GGVSEB; ADR Kap. 1.4 | Verordnung | Zentrallager Duisburg | DE | anwendbar | - | laufend | - | - | erfüllt | 2025-04-04 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 71",
+              "demonstrates": "Asserts fulfillment or active control execution.",
+              "retrieval_score": 0.395
+            },
+            {
+              "source_id": "REG_Legal_Obligations_CMS-DE-01",
+              "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+              "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-09-30",
+              "status": "erfüllt",
+              "exact_passage": "| Lüftungs- und Absauganlagen prüfen – Bitterfeld-Wolfen | Wirksamkeit der Absaugung an Abfüll- und Dosierstellen nachweisen. | Gefahrstoffe am Arbeitsplatz | GefStoffV § 7; TRGS 500 | Verordnung | Werk Bitterfeld | DE | anwendbar | - | wiederkehrend | 2026-09-25 | 12 | erfüllt | 2025-09-30 |",
+              "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 95",
+              "demonstrates": "Reports qualified status ('erfüllt') or expired review deadline.",
+              "retrieval_score": 0.4081
+            }
+          ],
+          "limitations": [
+            "Contradictory status or overdue review date requires reconciliation."
+          ]
+        }
+      ],
+      "exclusion_log": [
         {
-          "source_id": "company_profile.json",
-          "document_title": "Company Profile - Certifications",
-          "version": "2026-11-09",
-          "date": "2026-11-09",
-          "status": "Active Profile",
-          "exact_passage": "Zertifikat Informationssicherheit ISO/IEC 27001:2022 · Geltungsbereich: Geltungsbereich: Rechenzentrum und Entwicklungssysteme Frankfurt. · Stelle: TÜV Rheinland · Nummer: IS-FRA-48211 [Q001 · belegt · hoch · Stichtag 2026-11-09]",
-          "location": "company_profile.json, path: certifications",
-          "demonstrates": "An ISO 27001 certificate exists, but its scope is strictly limited to the Frankfurt Data Center and development systems."
+          "source_id": "DMS-00000205",
+          "file_path": "documents/DMS-00000205_KR-009_v1.1_de.txt",
+          "disposition": "historical_only",
+          "reason": "Document DMS-00000205 (v1.1) was superseded by DMS-00000420 (v2.0) prior to assessment date 2026-11-18."
         }
       ],
       "actionable_request": {
         "duty_id": "04-P02-6",
         "duty_title": "Wirksamkeitsbewertung",
         "sources_reviewed": [
-          "documents/REG_Internal_Controls_CMS-DE-01.txt",
-          "company_profile.json"
+          "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+          "documents/Zwilling — Produkte.txt",
+          "documents/DMS-00000205_KR-009_v1.1_de.txt",
+          "documents/Zwilling — Faktenkatalog.txt"
         ],
-        "missing_fact": "An overarching technical effectiveness evaluation program (e.g. penetration test reports, independent audits) covering all entity facilities is missing.",
-        "focused_question": "Does Marenthal Chemie AG have an established cybersecurity effectiveness assessment program (such as periodic penetration testing, Red Teaming, or holistic ISMS audit reports) covering all German sites and production OT/ICS environments, including documented test results and remediation plans?"
+        "missing_fact": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').)",
+        "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.6 BSIG (Wirksamkeitsbewertung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (reconciling REG_Legal_Obligations_CMS-DE-01)."
+      }
+    },
+    {
+      "duty_id": "04-P01",
+      "statutory_ref": "§30 Abs.1 BSIG",
+      "duty_title": "Risikobezogene Maßnahmen",
+      "state": "evidence_missing",
+      "reason": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna: Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
+      "components": [
+        {
+          "component_id": "04-P01.C1",
+          "name": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna",
+          "clause_text": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßnahmen",
+          "status": "insufficient_evidence",
+          "rationale": "Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.",
+          "citations": [
+            {
+              "source_id": "REG_Risk_Register_CMS-DE-01",
+              "document_title": "REG_Risk_Register_CMS-DE-01.txt",
+              "file_path": "documents/REG_Risk_Register_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-11-18",
+              "status": "offen",
+              "exact_passage": "| Falsche Einstufung von Gemischen | Produktsicherheit | - | Summationsregeln werden falsch angewendet, H-Sätze fehlen. | 1 | 2 | 2 | offen | 2025-11-18 | 2026-11-13 |",
+              "location": "documents/REG_Risk_Register_CMS-DE-01.txt, line 23",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.4303
+            },
+            {
+              "source_id": "REG_Risk_Register_CMS-DE-01",
+              "document_title": "REG_Risk_Register_CMS-DE-01.txt",
+              "file_path": "documents/REG_Risk_Register_CMS-DE-01.txt",
+              "version": "1.0",
+              "date": "2025-07-22",
+              "status": "offen",
+              "exact_passage": "| Verunreinigung durch Rückstände nach Produktwechsel – Bitterfeld-Wolfen | Qualität | Werk Bitterfeld | Anlagenreinigung unvollständig; Kontamination der Folgecharge. | 2 | 3 | 6 | offen | 2025-07-22 | 2026-07-17 |",
+              "location": "documents/REG_Risk_Register_CMS-DE-01.txt, line 39",
+              "demonstrates": "Shows policy/control entry, but lacks underlying operational test logs or quantitative metrics.",
+              "retrieval_score": 0.419
+            }
+          ],
+          "limitations": [
+            "Documentary policy or register assertion alone does not establish operational effectiveness."
+          ]
+        }
+      ],
+      "exclusion_log": [],
+      "actionable_request": {
+        "duty_id": "04-P01",
+        "duty_title": "Risikobezogene Maßnahmen",
+        "sources_reviewed": [
+          "documents/REG_Risk_Register_CMS-DE-01.txt"
+        ],
+        "missing_fact": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)",
+        "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.1 BSIG (Risikobezogene Maßnahmen), please provide verifiable operational records, test logs, or scope-complete documentation covering: Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (reconciling REG_Risk_Register_CMS-DE-01)."
       }
     }
   ],
   "supported_gaps": [
     {
       "duty_id": "04-P02-1",
+      "statutory_ref": "§30 Abs.2 Nr.1 BSIG",
       "duty_title": "Risikoanalyse und IT-Sicherheitskonzept",
-      "shortfall_description": "An approved IT security policy exists (KR-009 v2.0), but the legal obligations register explicitly confirms that the annual IT risk analysis is unfulfilled (status: 'offen') and overdue since 2026-01-01.",
-      "basis_of_finding": "Documented in Register of legal and internal obligations (REG_Legal_Obligations_CMS-DE-01)",
-      "evidence_citation": {
-        "source_id": "REG_Legal_Obligations_CMS-DE-01",
-        "document_title": "Register of legal and internal obligations",
-        "version": "1.0",
-        "date": "2026-11-09",
-        "status": "Active Register",
-        "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
-        "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
-        "demonstrates": "Statutory obligation 'Informationssicherheitsrisikoanalyse jährlich durchführen' is officially recorded with status 'offen'. Next due was 2026-01-01, which is overdue relative to snapshot 2026-11-18."
-      }
+      "component_id": "04-P02-1.C1",
+      "component_name": "Risikoanalyse",
+      "shortfall_description": "Register REG_Legal_Obligations_CMS-DE-01 explicitly records '| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |' with status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+      "citations": [
+        {
+          "source_id": "REG_Legal_Obligations_CMS-DE-01",
+          "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+          "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+          "version": "1.0",
+          "date": "2025-01-06",
+          "status": "offen",
+          "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
+          "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
+          "demonstrates": "Confirmed shortfall: status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+          "retrieval_score": 0.44
+        }
+      ]
+    },
+    {
+      "duty_id": "04-P02-1",
+      "statutory_ref": "§30 Abs.2 Nr.1 BSIG",
+      "duty_title": "Risikoanalyse und IT-Sicherheitskonzept",
+      "component_id": "04-P02-1.C2",
+      "component_name": "IT-Sicherheitskonzept",
+      "shortfall_description": "Register REG_Legal_Obligations_CMS-DE-01 explicitly records '| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |' with status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+      "citations": [
+        {
+          "source_id": "REG_Legal_Obligations_CMS-DE-01",
+          "document_title": "REG_Legal_Obligations_CMS-DE-01.txt",
+          "file_path": "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+          "version": "1.0",
+          "date": "2025-01-06",
+          "status": "offen",
+          "exact_passage": "| Informationssicherheitsrisikoanalyse jährlich durchführen | Risiken für ERP, Produktionssteuerung und Büro-IT bewerten; Maßnahmenplan fortschreiben. | Informationssicherheit | BSI-Gesetz; ISO/IEC 27001 | Gesetz | - | DE | anwendbar | - | wiederkehrend | 2026-01-01 | 12 | offen | 2025-01-06 |",
+          "location": "documents/REG_Legal_Obligations_CMS-DE-01.txt, line 82",
+          "demonstrates": "Confirmed shortfall: status 'offen' and overdue since 2026-01-01 (as of 2026-11-18).",
+          "retrieval_score": 0.4378
+        }
+      ]
     }
   ],
   "evidence_requests": [
@@ -207,43 +469,68 @@
       "duty_id": "04-P02-2",
       "duty_title": "Vorfallbewältigung",
       "sources_reviewed": [
-        "documents/DMS-00000671_KR-017_v2.0_de.txt",
-        "documents/REG_Incidents_CMS-DE-01.txt",
-        "documents/REG_Compliance_Roles_CMS-DE-01.txt"
+        "documents/REG_Internal_Controls_CMS-DE-01.txt",
+        "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+        "documents/REG_Incidents_CMS-DE-01.txt"
       ],
-      "missing_fact": "Operational IT incident response runbooks and practical test logs are absent from the reviewed corpus.",
-      "focused_question": "Does Marenthal Chemie AG maintain a dedicated IT Incident Response Plan (IRP) defining detection, escalation, containment, and recovery workflows, and have practical tabletop exercises or test drills been conducted and documented for the German entity?"
+      "missing_fact": "Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung (Conflicting evidence between REG_Incidents_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').)",
+      "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.2 BSIG (Vorfallbewältigung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Vorfallbewältigung. 04-P02-2 · §30 Abs.2 Nr.2 BSIG · Vorfallbewältigung (reconciling REG_Incidents_CMS-DE-01, REG_Internal_Controls_CMS-DE-01)."
     },
     {
       "duty_id": "04-P02-3",
       "duty_title": "Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement",
       "sources_reviewed": [
         "documents/DMS-00001406_V000074_Nachweis.txt",
+        "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+        "documents/DMS-00000260_KR-017_v1.1_de.txt",
+        "documents/DMS-00000671_KR-017_v2.0_de.txt",
         "documents/REG_Internal_Controls_CMS-DE-01.txt"
       ],
-      "missing_fact": "Underlying operational restore logs with quantitative recovery metrics (RTO/RPO) are absent.",
-      "focused_question": "Where is the underlying technical restore test protocol for the exercise referenced in DMS-00001406 (dated 2025-12-23), including actual measured Recovery Time Objectives (RTO), Recovery Point Objectives (RPO), and verification logs for ERP and process control systems (ICS/SCADA)?"
+      "missing_fact": "Betriebsaufrechterhaltung (Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.); Backups (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Internal_Controls_CMS-DE-01 (status: 'aktiv').); Wiederherstellung (Retrieved DMS-00001406 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.); Krisenmanagement (Retrieved DMS-00000671 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)",
+      "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.3 BSIG (Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement), please provide verifiable operational records, test logs, or scope-complete documentation covering: Betriebsaufrechterhaltung, Backups, Wiederherstellung, Krisenmanagement (reconciling DMS-00000671, DMS-00001406, REG_Internal_Controls_CMS-DE-01, REG_Legal_Obligations_CMS-DE-01)."
     },
     {
       "duty_id": "04-P02-6",
       "duty_title": "Wirksamkeitsbewertung",
       "sources_reviewed": [
-        "documents/REG_Internal_Controls_CMS-DE-01.txt",
-        "company_profile.json"
+        "documents/REG_Legal_Obligations_CMS-DE-01.txt",
+        "documents/Zwilling — Produkte.txt",
+        "documents/DMS-00000205_KR-009_v1.1_de.txt",
+        "documents/Zwilling — Faktenkatalog.txt"
       ],
-      "missing_fact": "An overarching technical effectiveness evaluation program (e.g. penetration test reports, independent audits) covering all entity facilities is missing.",
-      "focused_question": "Does Marenthal Chemie AG have an established cybersecurity effectiveness assessment program (such as periodic penetration testing, Red Teaming, or holistic ISMS audit reports) covering all German sites and production OT/ICS environments, including documented test results and remediation plans?"
+      "missing_fact": "Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (Conflicting evidence between REG_Legal_Obligations_CMS-DE-01 and REG_Legal_Obligations_CMS-DE-01 (status: 'erfüllt').)",
+      "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.2 Nr.6 BSIG (Wirksamkeitsbewertung), please provide verifiable operational records, test logs, or scope-complete documentation covering: Wirksamkeitsbewertung. 04-P02-6 · §30 Abs.2 Nr.6 BSIG · Wirksamkeitsbewe (reconciling REG_Legal_Obligations_CMS-DE-01)."
+    },
+    {
+      "duty_id": "04-P01",
+      "duty_title": "Risikobezogene Maßnahmen",
+      "sources_reviewed": [
+        "documents/REG_Risk_Register_CMS-DE-01.txt"
+      ],
+      "missing_fact": "Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (Retrieved REG_Risk_Register_CMS-DE-01 provides partial documentary/control context, but operational execution logs, effectiveness proof, or measured metrics (e.g., RTO/RPO or test reports) are missing.)",
+      "focused_question": "For Marenthal Chemie AG (DE) under §30 Abs.1 BSIG (Risikobezogene Maßnahmen), please provide verifiable operational records, test logs, or scope-complete documentation covering: Risikobezogene Maßnahmen. 04-P01 · §30 Abs.1 BSIG · Risikobezogene Maßna (reconciling REG_Risk_Register_CMS-DE-01)."
     }
   ],
   "sources_reviewed_summary": [
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/company_profile.json",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000205_KR-009_v1.1_de.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000260_KR-017_v1.1_de.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000300_SDB-10564-DE_de_v8.3.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000420_KR-009_v2.0_de.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000443_KR-009_v2.0_en.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00000671_KR-017_v2.0_de.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/DMS-00001406_V000074_Nachweis.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Compliance_Roles_CMS-DE-01.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Incidents_CMS-DE-01.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Internal_Controls_CMS-DE-01.txt",
     "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Legal_Obligations_CMS-DE-01.txt",
-    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Risk_Register_CMS-DE-01.txt"
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/REG_Risk_Register_CMS-DE-01.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/Zwilling — Faktenkatalog.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/Zwilling — Gesellschaften.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents/Zwilling — Produkte.txt",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/documents_index.csv",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/legal_entities.csv",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/company_data/twin_questions.csv",
+    "/Users/priyanshu/Desktop/coback-gap-analysis/data/COBACK_Marenthal_Inputs/document_starters.csv"
   ]
 }
