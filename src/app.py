@@ -1,339 +1,770 @@
+"""Local evidence-review workspace for a precomputed assessment.
+
+The existing analyzer runs once at application startup. Selecting a duty
+displays its stored result; it does not trigger a new legal assessment.
 """
-Regulatory Compliance Engine (Pilot) - Web Workspace.
-Provides a local UI to inspect duties, sub-components, exclusion logs,
-and open referenced source documents in an interactive viewer.
-"""
+
+import os
+from datetime import date
 from pathlib import Path
-from typing import Any, Dict
+
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import HTMLResponse
+
 from src.analyzer import ComplianceAnalyzer
 from src.loader import DataLoader
 
-app = FastAPI(title="Regulatory Compliance Engine (Pilot)")
 
-loader = DataLoader(Path("."))
-analyzer = ComplianceAnalyzer(loader, as_of_date="2026-11-18")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
-# Cache precomputed assessment for instant, reproducible UI inspection
+DEFAULT_DATA_ROOT = (
+    PROJECT_ROOT
+    / "data"
+    / "COBACK_Marenthal_Inputs"
+    / "company_data"
+)
+
+DATA_ROOT = Path(
+    os.environ.get("COBACK_DATA_DIR", str(DEFAULT_DATA_ROOT))
+).expanduser().resolve()
+
+# Preserves the existing prototype's default. Verify this date against
+# the assignment inputs before submission.
+AS_OF_DATE = os.environ.get("COBACK_AS_OF", "2026-11-18")
+date.fromisoformat(AS_OF_DATE)
+
+if not (DATA_ROOT / "documents").is_dir():
+    raise RuntimeError(
+        "The configured input directory does not contain documents/.\n"
+        f"Configured directory: {DATA_ROOT}\n"
+        "Set COBACK_DATA_DIR to the parent of documents/."
+    )
+
+loader = DataLoader(DATA_ROOT)
+analyzer = ComplianceAnalyzer(loader, as_of_date=AS_OF_DATE)
+
+# Deliberately precomputed: the UI inspects a reproducible report.
 REPORT = analyzer.run_assessment()
+
+RESULTS_BY_ID = {
+    result.duty_id: result
+    for result in REPORT.results
+}
+
+# Only documents referenced by this report are exposed by the API.
+ALLOWED_DOCUMENTS = {
+    citation.file_path
+    for result in REPORT.results
+    for component in result.components
+    for citation in component.citations
+}
+ALLOWED_DOCUMENTS.update(
+    item.file_path
+    for result in REPORT.results
+    for item in result.exclusion_log
+)
+
+app = FastAPI(title="Coback Compliance Evidence Workspace")
+
+
+@app.get("/api/assessment")
+def get_assessment_summary():
+    """Return report metadata without exposing local filesystem paths."""
+    return {
+        "assessment_entity": REPORT.assessment_entity,
+        "as_of_date": REPORT.as_of_date,
+        "total_duties_assessed": REPORT.total_duties_assessed,
+        "execution_mode": "Precomputed assessment; selection does not rerun analysis.",
+    }
 
 
 @app.get("/api/duties")
 def list_duties():
+    """List independently selectable duty results."""
     return [
         {
-            "id": r.duty_id,
-            "ref": r.statutory_ref,
-            "title": r.duty_title,
-            "state": r.state.value,
+            "id": result.duty_id,
+            "ref": result.statutory_ref,
+            "title": result.duty_title,
+            "state": result.state.value,
         }
-        for r in REPORT.results
+        for result in REPORT.results
     ]
 
 
 @app.get("/api/evaluate/{duty_id}")
 def get_duty_evaluation(duty_id: str):
-    res = next((r for r in REPORT.results if r.duty_id == duty_id), None)
-    if not res:
-        raise HTTPException(status_code=404, detail="Duty ID not found")
-    return res.model_dump()
+    """Return only the requested duty."""
+    result = RESULTS_BY_ID.get(duty_id)
+
+    if result is None:
+        raise HTTPException(
+            status_code=404,
+            detail="Unknown duty ID.",
+        )
+
+    return result.model_dump(mode="json")
 
 
 @app.get("/api/document")
-def get_document_content(file_path: str = Query(..., description="File path relative to data")):
+def get_document(file_path: str = Query(...)):
+    """Read an allowlisted source from inside the configured data root."""
+    if file_path not in ALLOWED_DOCUMENTS:
+        raise HTTPException(
+            status_code=404,
+            detail="Document is not referenced by this assessment.",
+        )
+
     try:
-        resolved, lines = loader.load_text_with_lines(file_path)
-        return {
-            "file_name": resolved.name,
-            "full_path": str(resolved),
-            "content": "".join(lines),
-        }
-    except Exception as e:
-        raise HTTPException(status_code=404, detail=f"Document not found: {e}")
+        path, lines = loader.load_text_with_lines(file_path)
+    except FileNotFoundError:
+        raise HTTPException(
+            status_code=404,
+            detail="Referenced document is missing from the input directory.",
+        ) from None
+    except ValueError:
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid document path.",
+        ) from None
+    except (OSError, UnicodeError):
+        raise HTTPException(
+            status_code=500,
+            detail="The referenced document could not be read.",
+        ) from None
+
+    return {
+        "file_name": path.name,
+        "file_path": file_path,
+        "content": "".join(lines),
+    }
 
 
-@app.get("/", response_class=HTMLResponse)
-def index_ui():
-    html = """
+PAGE = r"""
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Regulatory Compliance Analysis Workspace</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Compliance Evidence Workspace</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    button { font: inherit; }
+    button:focus-visible, a:focus-visible {
+      outline: 3px solid #60a5fa;
+      outline-offset: 3px;
+    }
+
+    header {
+      padding: 24px 32px;
+      background: #1e293b;
+      border-bottom: 1px solid #334155;
+    }
+
+    h1 { font-size: 24px; margin: 0 0 8px; }
+    h2 { font-size: 21px; margin: 10px 0; }
+    h3 { font-size: 15px; margin: 0 0 16px; }
+    h4 { margin: 0; font-size: 15px; }
+    p { line-height: 1.6; }
+    .muted { color: #94a3b8; font-size: 13px; }
+    .small { font-size: 12px; }
+    .mono { font-family: ui-monospace, monospace; }
+    .hidden { display: none !important; }
+
+    .layout {
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 28px;
+      display: grid;
+      grid-template-columns: 330px minmax(0, 1fr);
+      gap: 24px;
+      align-items: start;
+    }
+
+    .panel {
+      padding: 22px;
+      border: 1px solid #334155;
+      border-radius: 14px;
+      background: #1e293b;
+    }
+
+    .stack > * + * { margin-top: 20px; }
+
+    .duty {
+      display: block;
+      width: 100%;
+      padding: 16px;
+      margin-top: 12px;
+      text-align: left;
+      color: #e2e8f0;
+      background: #263449;
+      border: 1px solid #475569;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .duty:hover { border-color: #60a5fa; }
+    .duty[aria-pressed="true"] {
+      background: #20385c;
+      border-color: #60a5fa;
+      box-shadow: 0 0 0 1px #60a5fa;
+    }
+
+    .duty-top, .component-top, .modal-top {
+      display: flex;
+      gap: 12px;
+      justify-content: space-between;
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+
+    .duty-title { margin-top: 10px; line-height: 1.5; }
+    .blue { color: #93c5fd; }
+
+    .badge {
+      display: inline-block;
+      padding: 5px 8px;
+      border-radius: 6px;
+      font-size: 10px;
+      font-weight: 750;
+      letter-spacing: .03em;
+    }
+
+    .met, .supported { color: #6ee7b7; background: #064e3b; }
+    .open, .confirmed_shortfall { color: #fda4af; background: #681c33; }
+    .evidence_missing, .insufficient_evidence {
+      color: #fcd34d;
+      background: #5a421d;
+    }
+    .conflicting_evidence { color: #fdba74; background: #713c1c; }
+    .unknown { color: #e2e8f0; background: #475569; }
+
+    .component, .exclusion {
+      margin-top: 14px;
+      padding: 18px;
+      background: #111c30;
+      border: 1px solid #334155;
+      border-radius: 10px;
+    }
+
+    .source {
+      display: block;
+      width: 100%;
+      margin-top: 14px;
+      padding: 14px;
+      background: #080f20;
+      color: #e2e8f0;
+      border: 1px solid #334155;
+      border-radius: 8px;
+      text-align: left;
+      cursor: pointer;
+      overflow-wrap: anywhere;
+    }
+
+    .source:hover { border-color: #60a5fa; }
+
+    .quote {
+      color: #fde68a;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      font: 12px/1.7 ui-monospace, monospace;
+      margin-bottom: 0;
+    }
+
+    .limitation { color: #cbd5e1; font-size: 12px; }
+    .error { color: #fda4af; }
+    .warning { color: #fcd34d; }
+
+    .link {
+      color: #93c5fd;
+      background: transparent;
+      border: 0;
+      padding: 0;
+      text-decoration: underline;
+      cursor: pointer;
+      overflow-wrap: anywhere;
+      text-align: left;
+    }
+
+    dialog {
+      width: min(1100px, 94vw);
+      max-height: 90vh;
+      padding: 0;
+      color: #e2e8f0;
+      background: #1e293b;
+      border: 1px solid #64748b;
+      border-radius: 12px;
+    }
+
+    dialog::backdrop { background: rgb(0 0 0 / 75%); }
+    .modal-header { padding: 20px; border-bottom: 1px solid #475569; }
+    .modal-title { margin: 0 0 8px; overflow-wrap: anywhere; }
+
+    .close {
+      padding: 8px 14px;
+      border-radius: 6px;
+      border: 1px solid #64748b;
+      background: #334155;
+      color: white;
+      cursor: pointer;
+    }
+
+    #document-content {
+      margin: 0;
+      padding: 22px;
+      height: 62vh;
+      overflow: auto;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      font: 12px/1.8 ui-monospace, monospace;
+      background: #080f20;
+    }
+
+    #document-notice { padding: 0 20px; }
+    mark { background: #fde047; color: #111827; }
+
+    @media (max-width: 900px) {
+      .layout { grid-template-columns: 1fr; padding: 16px; }
+      header { padding: 20px; }
+    }
+  </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
-  <header class="bg-slate-800 border-b border-slate-700 px-8 py-4 flex items-center justify-between shadow-lg">
-    <div class="flex items-center space-x-3">
-      <div class="h-9 w-9 bg-blue-600 rounded-lg flex items-center justify-center font-bold text-lg text-white shadow-md">
-        <i class="fa-solid fa-scale-balanced"></i>
-      </div>
-      <div>
-        <h1 class="text-xl font-bold tracking-tight">Compliance AI Engine <span class="text-blue-400 font-normal text-sm">| Pilot Analysis</span></h1>
-        <p class="text-xs text-slate-400">Target: Marenthal Chemie AG (DE) · As-of Snapshot: 2026-11-18</p>
-      </div>
-    </div>
-    <div class="flex items-center space-x-4">
-      <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-blue-500/10 text-blue-400 border border-blue-500/20">
-        <span class="h-2 w-2 rounded-full bg-blue-400 mr-2 animate-pulse"></span> Component Evaluator Active
-      </span>
-    </div>
+<body>
+  <header>
+    <h1>Compliance Evidence Workspace</h1>
+    <div id="assessment-meta" class="muted">Loading assessment metadata…</div>
+    <p class="muted small">
+      Review interface for the existing prototype report.
+      Duty selection displays stored findings; it does not rerun analysis.
+      Findings require source verification before submission.
+    </p>
   </header>
 
-  <main class="flex-1 max-w-7xl w-full mx-auto p-8 grid grid-cols-12 gap-8">
-    <!-- Left Pane: Duty Selector -->
-    <aside class="col-span-4 bg-slate-800/80 rounded-xl border border-slate-700 p-5 flex flex-col shadow-xl">
-      <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-400 mb-4 flex items-center">
-        <i class="fa-solid fa-list-check mr-2 text-blue-400"></i> Select Statutory Duty
-      </h2>
-      <div id="duty-list" class="space-y-3 flex-1 overflow-y-auto">
-        <!-- Injected by JavaScript -->
-      </div>
-      <div class="mt-6 pt-4 border-t border-slate-700/60 text-xs text-slate-400">
-        <p><i class="fa-solid fa-shield-halved mr-1 text-slate-500"></i> Silence or scope mismatch is treated as missing evidence, not an assumption of failure.</p>
-      </div>
+  <main class="layout">
+    <aside class="panel">
+      <h3>Select a duty</h3>
+      <nav id="duty-list" aria-label="Assessment duties"></nav>
+      <p class="muted">
+        A source may be relevant to more than one duty.
+        Shared citations do not mean the duty assessments are identical.
+      </p>
     </aside>
 
-    <!-- Right Pane: Component Matrix & Audit Trail -->
-    <section class="col-span-8 space-y-6">
-      <!-- Overview Card -->
-      <div class="bg-slate-800/90 rounded-xl border border-slate-700 p-6 shadow-xl relative">
-        <div class="flex items-start justify-between">
-          <div>
-            <span id="statutory-ref" class="text-xs font-mono px-2 py-0.5 rounded bg-slate-700 text-slate-300"></span>
-            <h2 id="duty-title" class="text-xl font-bold mt-2 text-white">Loading...</h2>
-          </div>
-          <div id="state-badge-container"></div>
-        </div>
-        <div class="mt-4 p-4 rounded-lg bg-slate-900/70 border border-slate-700/50">
-          <h3 class="text-xs font-semibold uppercase text-slate-400 mb-1">Duty Synthesis:</h3>
-          <p id="duty-reason" class="text-sm text-slate-200 leading-relaxed"></p>
-        </div>
+    <section class="stack" aria-live="polite">
+      <div class="panel">
+        <div id="statutory-ref" class="mono muted"></div>
+        <h2 id="duty-title">Loading…</h2>
+        <div id="state-badge"></div>
+        <p id="duty-reason"></p>
       </div>
 
-      <!-- Component Breakdown Matrix -->
-      <div class="bg-slate-800/90 rounded-xl border border-slate-700 p-6 shadow-xl">
-        <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-400 mb-4 flex items-center">
-          <i class="fa-solid fa-cubes-stacked mr-2 text-blue-400"></i> Statutory Component Matrix (Teilpflichten)
-        </h3>
-        <div id="components-container" class="space-y-4">
-          <!-- Components injected here -->
-        </div>
+      <div class="panel">
+        <h3>Component-level findings</h3>
+        <div id="components"></div>
       </div>
 
-      <!-- Actionable Follow-up / Gap Notice -->
-      <div id="followup-card" class="bg-slate-800/90 rounded-xl border border-slate-700 p-6 shadow-xl hidden">
-        <!-- Injected here -->
-      </div>
+      <div id="followup" class="panel hidden"></div>
 
-      <!-- Exclusion & Limitation Log -->
-      <div class="bg-slate-800/90 rounded-xl border border-slate-700 p-6 shadow-xl">
-        <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-400 mb-3 flex items-center">
-          <i class="fa-solid fa-file-excel mr-2 text-purple-400"></i> Document Exclusion & Scope Limitation Log
-        </h3>
-        <div id="exclusion-container" class="space-y-2 text-xs text-slate-300">
-          <!-- Exclusions injected here -->
-        </div>
+      <div class="panel">
+        <h3>Version and scope limitations</h3>
+        <div id="exclusions"></div>
       </div>
     </section>
   </main>
 
-  <!-- Document Modal Viewer -->
-  <div id="doc-modal" class="fixed inset-0 bg-black/75 backdrop-blur-sm z-50 flex items-center justify-center hidden p-6">
-    <div class="bg-slate-800 rounded-xl border border-slate-600 max-w-4xl w-full max-h-[85vh] flex flex-col shadow-2xl">
-      <div class="px-6 py-4 border-b border-slate-700 flex items-center justify-between">
-        <div class="flex items-center space-x-3">
-          <i class="fa-solid fa-file-lines text-blue-400 text-lg"></i>
-          <div>
-            <h3 id="modal-doc-title" class="font-bold text-white text-base">Document Viewer</h3>
-            <p id="modal-doc-path" class="text-xs font-mono text-slate-400"></p>
-          </div>
+  <dialog id="document-dialog" aria-labelledby="document-title">
+    <div class="modal-header">
+      <div class="modal-top">
+        <div>
+          <h3 id="document-title" class="modal-title">Source document</h3>
+          <div id="document-path" class="muted mono small"></div>
         </div>
-        <button onclick="closeModal()" class="text-slate-400 hover:text-white p-1 rounded-lg">
-          <i class="fa-solid fa-xmark text-lg"></i>
-        </button>
-      </div>
-      <div class="p-6 overflow-y-auto flex-1 font-mono text-xs bg-slate-950 text-slate-300 whitespace-pre-wrap leading-relaxed" id="modal-doc-content">
-        Loading...
-      </div>
-      <div class="px-6 py-3 border-t border-slate-700 bg-slate-850 flex justify-end">
-        <button onclick="closeModal()" class="px-4 py-2 bg-slate-700 hover:bg-slate-600 text-white rounded-lg text-xs font-medium">Close</button>
+        <button id="close-document" class="close" type="button">Close</button>
       </div>
     </div>
-  </div>
+    <p id="document-notice" class="muted"></p>
+    <pre id="document-content"></pre>
+  </dialog>
 
   <script>
-    async function loadDuties() {
-      try {
-        const res = await fetch('/api/duties');
-        const duties = await res.json();
-        const list = document.getElementById('duty-list');
-        list.innerHTML = '';
+    "use strict";
 
-        duties.forEach((d, idx) => {
-          const div = document.createElement('div');
-          div.className = `p-4 rounded-lg cursor-pointer border transition-all ${idx === 0 ? 'bg-blue-600/20 border-blue-500 text-white' : 'bg-slate-700/40 border-slate-600/50 hover:bg-slate-700 text-slate-300'}`;
-          div.onclick = () => selectDuty(d.id, div);
-          div.innerHTML = `
-            <div class="flex items-center justify-between mb-1">
-              <span class="font-mono text-xs font-semibold px-2 py-0.5 rounded bg-slate-800 text-blue-400">${d.id}</span>
-              <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${d.state === 'open' ? 'bg-rose-500/20 text-rose-300' : 'bg-amber-500/20 text-amber-300'}">${d.state}</span>
-            </div>
-            <p class="text-xs font-medium leading-snug">${d.title}</p>
-          `;
-          list.appendChild(div);
-        });
+    const $ = (id) => document.getElementById(id);
+    let dutySequence = 0;
+    let documentSequence = 0;
+
+    const labels = {
+      met: "MET",
+      open: "OPEN — CONFIRMED GAP",
+      evidence_missing: "EVIDENCE MISSING",
+      supported: "SUPPORTED",
+      confirmed_shortfall: "CONFIRMED SHORTFALL",
+      insufficient_evidence: "INSUFFICIENT EVIDENCE",
+      conflicting_evidence: "CONFLICTING EVIDENCE",
+    };
+
+    function element(tag, text = "", className = "") {
+      const result = document.createElement(tag);
+      result.textContent = text;
+      result.className = className;
+      return result;
+    }
+
+    function badge(status) {
+      const known = Object.hasOwn(labels, status);
+      return element(
+        "span",
+        known ? labels[status] : String(status || "UNKNOWN"),
+        `badge ${known ? status : "unknown"}`,
+      );
+    }
+
+    async function fetchJson(url) {
+      const response = await fetch(url, { cache: "no-store" });
+      let payload;
+
+      try {
+        payload = await response.json();
+      } catch {
+        throw new Error(`Invalid server response (${response.status}).`);
+      }
+
+      if (!response.ok) {
+        const detail = typeof payload.detail === "string"
+          ? payload.detail
+          : `Request failed (${response.status}).`;
+        throw new Error(detail);
+      }
+
+      return payload;
+    }
+
+    function clearDuty(message) {
+      $("duty-title").textContent = message;
+      $("statutory-ref").textContent = "";
+      $("state-badge").replaceChildren();
+      $("duty-reason").textContent = "";
+      $("components").replaceChildren();
+      $("exclusions").replaceChildren();
+      $("followup").replaceChildren();
+      $("followup").classList.add("hidden");
+    }
+
+    async function initialize() {
+      try {
+        const [metadata, duties] = await Promise.all([
+          fetchJson("/api/assessment"),
+          fetchJson("/api/duties"),
+        ]);
+
+        $("assessment-meta").textContent =
+          `${metadata.assessment_entity} · As of ${metadata.as_of_date} · `
+          + `${metadata.total_duties_assessed} duties`;
+
+        const list = $("duty-list");
+        list.replaceChildren();
+
+        for (const duty of duties) {
+          const button = element("button", "", "duty");
+          button.type = "button";
+          button.dataset.dutyId = duty.id;
+          button.setAttribute("aria-pressed", "false");
+
+          const top = element("div", "", "duty-top");
+          top.append(
+            element("span", duty.id, "mono blue"),
+            badge(duty.state),
+          );
+
+          button.append(
+            top,
+            element("div", duty.title, "duty-title"),
+          );
+
+          button.addEventListener("click", () => selectDuty(duty.id));
+          list.append(button);
+        }
 
         if (duties.length > 0) {
-          selectDuty(duties[0].id, list.children[0]);
+          await selectDuty(duties[0].id);
+        } else {
+          clearDuty("No assessment results available.");
         }
-      } catch (err) {
-        console.error('Failed to load duties:', err);
+      } catch (error) {
+        clearDuty("Could not load the assessment.");
+        $("duty-reason").append(
+          element("span", error.message, "error"),
+        );
       }
     }
 
-    async function selectDuty(dutyId, element) {
-      document.querySelectorAll('#duty-list > div').forEach(el => {
-        el.className = 'p-4 rounded-lg cursor-pointer border transition-all bg-slate-700/40 border-slate-600/50 hover:bg-slate-700 text-slate-300';
-      });
-      if (element) {
-        element.className = 'p-4 rounded-lg cursor-pointer border transition-all bg-blue-600/20 border-blue-500 text-white shadow-md';
-      }
+    async function selectDuty(dutyId) {
+      const requestId = ++dutySequence;
 
-      const res = await fetch(`/api/evaluate/${dutyId}`);
-      const data = await res.json();
-      renderEvaluation(data);
-    }
-
-    function renderEvaluation(data) {
-      document.getElementById('duty-title').innerText = `${data.duty_id} · ${data.duty_title}`;
-      document.getElementById('statutory-ref').innerText = data.statutory_ref;
-      document.getElementById('duty-reason').innerText = data.reason;
-
-      // Aggregated badge
-      const badge = document.getElementById('state-badge-container');
-      if (data.state === 'open') {
-        badge.innerHTML = '<span class="px-3 py-1.5 rounded-lg text-xs font-bold bg-rose-500/20 text-rose-300 border border-rose-500/40 flex items-center"><i class="fa-solid fa-triangle-exclamation mr-1.5"></i> OPEN (Confirmed Gap)</span>';
-      } else {
-        badge.innerHTML = '<span class="px-3 py-1.5 rounded-lg text-xs font-bold bg-amber-500/20 text-amber-300 border border-amber-500/40 flex items-center"><i class="fa-solid fa-circle-question mr-1.5"></i> EVIDENCE MISSING</span>';
-      }
-
-      // Render Sub-components
-      const compCont = document.getElementById('components-container');
-      compCont.innerHTML = '';
-      data.components.forEach(c => {
-        const cCard = document.createElement('div');
-        cCard.className = 'p-4 rounded-lg bg-slate-900/80 border border-slate-700/80';
-        
-        let statusBadge = '<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-300">SUPPORTED</span>';
-        if (c.status === 'confirmed_shortfall') {
-          statusBadge = '<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-rose-500/20 text-rose-300">CONFIRMED SHORTFALL</span>';
-        } else if (c.status === 'conflicting_evidence') {
-          statusBadge = '<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-orange-500/20 text-orange-300">CONFLICTING / STALE</span>';
-        } else if (c.status === 'insufficient_evidence') {
-          statusBadge = '<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300">INSUFFICIENT EVIDENCE</span>';
-        }
-
-        let citationsHtml = '';
-        if (c.citations && c.citations.length > 0) {
-          citationsHtml = '<div class="mt-3 space-y-2">';
-          c.citations.forEach(cit => {
-            citationsHtml += `
-              <div onclick="openDocumentModal('${cit.file_path}', '${encodeURIComponent(cit.exact_passage)}')" class="p-2.5 rounded bg-slate-950 border border-slate-800 hover:border-blue-500 cursor-pointer transition-all">
-                <div class="flex justify-between items-center text-[11px] text-blue-400 mb-1">
-                  <span class="font-mono flex items-center"><i class="fa-solid fa-arrow-up-right-from-square mr-1 text-[9px]"></i> ${cit.source_id} (${cit.document_title})</span>
-                  <span class="text-slate-400 text-[10px]">${cit.location}</span>
-                </div>
-                <div class="font-mono text-[11px] text-amber-200/90 whitespace-pre-wrap">${cit.exact_passage}</div>
-              </div>
-            `;
-          });
-          citationsHtml += '</div>';
-        }
-
-        let limitationsHtml = '';
-        if (c.limitations && c.limitations.length > 0) {
-          limitationsHtml = `<div class="mt-2 text-[11px] text-slate-400 italic"><i class="fa-solid fa-circle-info mr-1 text-slate-500"></i> ${c.limitations.join(' ')}</div>`;
-        }
-
-        cCard.innerHTML = `
-          <div class="flex justify-between items-center mb-1.5">
-            <h4 class="text-xs font-bold text-slate-200">${c.name}</h4>
-            ${statusBadge}
-          </div>
-          <p class="text-xs text-slate-300">${c.rationale}</p>
-          ${citationsHtml}
-          ${limitationsHtml}
-        `;
-        compCont.appendChild(cCard);
+      document.querySelectorAll("[data-duty-id]").forEach((button) => {
+        button.setAttribute(
+          "aria-pressed",
+          String(button.dataset.dutyId === dutyId),
+        );
       });
 
-      // Follow-up Card
-      const fuCard = document.getElementById('followup-card');
-      if (data.actionable_request) {
-        fuCard.className = 'bg-amber-950/30 rounded-xl border border-amber-500/30 p-6 shadow-xl block';
-        fuCard.innerHTML = `
-          <h3 class="text-sm font-semibold uppercase tracking-wider text-amber-400 mb-2 flex items-center">
-            <i class="fa-solid fa-circle-question mr-2"></i> Actionable Evidence Request (Operational Clarification)
-          </h3>
-          <p class="text-xs font-semibold text-white mb-1">Missing Proof: <span class="font-normal text-slate-300">${data.actionable_request.missing_fact}</span></p>
-          <div class="p-3 bg-amber-500/10 border border-amber-500/20 rounded text-xs text-amber-200 italic mt-2">
-            "${data.actionable_request.focused_question}"
-          </div>
-        `;
-      } else {
-        fuCard.className = 'hidden';
-      }
-
-      // Exclusion log
-      const exCont = document.getElementById('exclusion-container');
-      if (data.exclusion_log && data.exclusion_log.length > 0) {
-        exCont.innerHTML = data.exclusion_log.map(e => `
-          <div class="p-2.5 rounded bg-slate-900/60 border border-slate-700/60 flex items-start space-x-2">
-            <span class="px-2 py-0.5 rounded text-[10px] font-mono font-semibold bg-purple-500/20 text-purple-300 uppercase">${e.disposition}</span>
-            <div class="flex-1">
-              <span class="font-mono text-slate-200 font-bold">${e.file_path}</span>
-              <p class="text-slate-400 mt-0.5">${e.reason}</p>
-            </div>
-          </div>
-        `).join('');
-      } else {
-        exCont.innerHTML = '<p class="text-slate-400 italic">No reviewed documents were excluded or scope-restricted for this duty.</p>';
-      }
-    }
-
-    async function openDocumentModal(filePath, encodedQuote) {
-      const modal = document.getElementById('doc-modal');
-      const content = document.getElementById('modal-doc-content');
-      document.getElementById('modal-doc-title').innerText = filePath.split('/').pop();
-      document.getElementById('modal-doc-path').innerText = filePath;
-      modal.classList.remove('hidden');
+      clearDuty(`Loading ${dutyId}…`);
 
       try {
-        const res = await fetch(`/api/document?file_path=${encodeURIComponent(filePath)}`);
-        const data = await res.json();
-        let raw = data.content;
-        const decoded = decodeURIComponent(encodedQuote);
-        const searchSnippet = decoded.trim().split('\\n')[0];
-        if (searchSnippet && raw.includes(searchSnippet)) {
-          raw = raw.replace(searchSnippet, `>>> [CITED PASSAGE] <<<\n${searchSnippet}\n>>> [END CITATION] <<<`);
+        const data = await fetchJson(
+          `/api/evaluate/${encodeURIComponent(dutyId)}`,
+        );
+
+        // A slower old request must not overwrite the latest selection.
+        if (requestId !== dutySequence) return;
+
+        if (data.duty_id !== dutyId) {
+          throw new Error("The server returned a different duty.");
         }
-        content.innerText = raw;
-      } catch (err) {
-        content.innerText = 'Failed to load document: ' + err;
+
+        renderDuty(data);
+      } catch (error) {
+        if (requestId !== dutySequence) return;
+
+        clearDuty(`Could not load ${dutyId}.`);
+        $("duty-reason").append(
+          element("span", error.message, "error"),
+        );
       }
     }
 
-    function closeModal() {
-      document.getElementById('doc-modal').classList.add('hidden');
+    function sourceButton(citation) {
+      const button = element("button", "", "source");
+      button.type = "button";
+
+      button.append(
+        element(
+          "div",
+          `Open source ↗ ${citation.source_id}`,
+          "blue mono small",
+        ),
+        element(
+          "p",
+          citation.document_title,
+          "small",
+        ),
+        element("div", citation.location, "muted small"),
+        element(
+          "p",
+          `Version: ${citation.version || "unspecified"} · `
+            + `Date: ${citation.date || "unspecified"} · `
+            + `Status: ${citation.status || "unspecified"}`,
+          "muted small",
+        ),
+        element("pre", citation.exact_passage, "quote"),
+        element("p", citation.demonstrates, "small"),
+      );
+
+      button.addEventListener("click", () => {
+        openDocument(citation.file_path, citation.exact_passage);
+      });
+
+      return button;
     }
 
-    // GUARANTEED INVOCATION ON LOAD
-    window.addEventListener('DOMContentLoaded', loadDuties);
+    function renderDuty(data) {
+      $("duty-title").textContent =
+        `${data.duty_id} · ${data.duty_title}`;
+      $("statutory-ref").textContent = data.statutory_ref;
+      $("state-badge").replaceChildren(badge(data.state));
+      $("duty-reason").textContent = data.reason;
+
+      const container = $("components");
+      container.replaceChildren();
+
+      for (const component of data.components || []) {
+        const card = element("article", "", "component");
+        const top = element("div", "", "component-top");
+
+        top.append(
+          element("h4", component.name),
+          badge(component.status),
+        );
+
+        card.append(
+          top,
+          element("p", component.rationale, "small"),
+        );
+
+        for (const citation of component.citations || []) {
+          card.append(sourceButton(citation));
+        }
+
+        if (!(component.citations || []).length) {
+          card.append(
+            element(
+              "p",
+              "No source citation attached to this component.",
+              "muted small",
+            ),
+          );
+        }
+
+        for (const limitation of component.limitations || []) {
+          card.append(
+            element(
+              "p",
+              `Limitation: ${limitation}`,
+              "limitation",
+            ),
+          );
+        }
+
+        container.append(card);
+      }
+
+      const followup = $("followup");
+      followup.replaceChildren();
+      followup.classList.toggle("hidden", !data.actionable_request);
+
+      if (data.actionable_request) {
+        followup.append(
+          element("h3", "Focused evidence request"),
+          element("p", data.actionable_request.missing_fact),
+          element("p", data.actionable_request.focused_question, "warning"),
+          element(
+            "p",
+            `Listed sources: ${
+              (data.actionable_request.sources_reviewed || []).join(", ")
+            }`,
+            "muted small",
+          ),
+        );
+      }
+
+      const exclusions = $("exclusions");
+      exclusions.replaceChildren();
+
+      for (const item of data.exclusion_log || []) {
+        const card = element("div", "", "exclusion");
+        const button = element(
+          "button",
+          `Open source ↗ ${item.source_id}`,
+          "link mono small",
+        );
+        button.type = "button";
+        button.addEventListener("click", () => {
+          openDocument(item.file_path);
+        });
+
+        card.append(
+          button,
+          element("p", item.disposition, "muted small"),
+          element("p", item.reason, "small"),
+        );
+
+        exclusions.append(card);
+      }
+
+      if (!exclusions.childElementCount) {
+        exclusions.append(
+          element(
+            "p",
+            "No version or scope exclusions recorded for this duty.",
+            "muted",
+          ),
+        );
+      }
+    }
+
+    async function openDocument(filePath, exactQuote = "") {
+      const requestId = ++documentSequence;
+      const dialog = $("document-dialog");
+      const content = $("document-content");
+      const notice = $("document-notice");
+
+      $("document-title").textContent = filePath.split("/").pop();
+      $("document-path").textContent = filePath;
+      notice.textContent = "";
+      content.textContent = "Loading source document…";
+
+      if (!dialog.open) dialog.showModal();
+
+      try {
+        const data = await fetchJson(
+          `/api/document?file_path=${encodeURIComponent(filePath)}`,
+        );
+
+        if (requestId !== documentSequence) return;
+
+        const text = data.content;
+        const quote = exactQuote.trim();
+        const position = quote ? text.indexOf(quote) : -1;
+
+        content.replaceChildren();
+        content.scrollTop = 0;
+
+        if (!quote || position < 0) {
+          content.textContent = text;
+          notice.textContent = quote
+            ? "Warning: the exact quotation was not found in this file. "
+              + "Verify the citation."
+            : "Full source document.";
+          notice.className = quote ? "warning" : "muted";
+          return;
+        }
+
+        const mark = element("mark", quote);
+
+        content.append(
+          document.createTextNode(text.slice(0, position)),
+          mark,
+          document.createTextNode(
+            text.slice(position + quote.length),
+          ),
+        );
+
+        const sourceLine = text.slice(0, position).split("\n").length;
+        notice.textContent =
+          `Exact cited passage highlighted, starting at line ${sourceLine}.`;
+        notice.className = "muted";
+
+        requestAnimationFrame(() => {
+          if (requestId === documentSequence && dialog.open) {
+            mark.scrollIntoView({ block: "center" });
+          }
+        });
+      } catch (error) {
+        if (requestId !== documentSequence) return;
+
+        content.textContent = `Could not open document: ${error.message}`;
+        notice.textContent = "Document loading failed.";
+        notice.className = "error";
+      }
+    }
+
+    $("close-document").addEventListener("click", () => {
+      $("document-dialog").close();
+    });
+
+    $("document-dialog").addEventListener("close", () => {
+      documentSequence += 1;
+    });
+
+    initialize();
   </script>
 </body>
 </html>
-    """
-    return HTMLResponse(content=html)
+"""
+
+
+@app.get("/", response_class=HTMLResponse)
+def index_ui():
+    """Serve the self-contained review interface."""
+    return HTMLResponse(
+        content=PAGE,
+        headers={"Cache-Control": "no-store"},
+    )

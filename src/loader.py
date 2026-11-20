@@ -1,93 +1,145 @@
-"""
-Robust, self-healing data loader for Coback Marenthal inputs.
-Recursively locates files across base_dir, subdirectories, or fallback locations.
-"""
+"""Load assessment inputs from an explicitly configured data directory."""
+
 import csv
 import json
 from pathlib import Path
-from typing import Any, Dict, List, Tuple
+from typing import Any
 
 
 class DataLoader:
+    """Read input files without searching outside the configured root."""
+
     def __init__(self, base_dir: Path):
         self.base_dir = Path(base_dir).expanduser().resolve()
 
     def resolve_path(self, rel_path: str) -> Path:
-        """Finds the file by relative path or recursive filename search."""
-        target_name = Path(rel_path).name
+        """Resolve an existing file strictly inside the data root."""
+        relative = Path(rel_path)
 
-        # 1. Direct candidate checks
-        direct_candidates = [
-            self.base_dir / rel_path,
-            self.base_dir / "data" / rel_path,
-            self.base_dir / "company_data" / rel_path,
-            self.base_dir / "data" / "company_data" / rel_path,
+        if relative.is_absolute():
+            raise ValueError("Absolute input paths are not permitted.")
+
+        candidate = (self.base_dir / relative).resolve()
+
+        if not candidate.is_relative_to(self.base_dir):
+            raise ValueError(
+                "Input path escapes the configured data directory."
+            )
+
+        if not candidate.is_file():
+            raise FileNotFoundError(
+                f"Input file not found: {rel_path}\n"
+                f"Configured data directory: {self.base_dir}"
+            )
+
+        return candidate
+
+    def load_json(self, rel_path: str) -> Any:
+        """Load JSON, allowing either an object or an array."""
+        path = self.resolve_path(rel_path)
+
+        with path.open(encoding="utf-8-sig") as handle:
+            return json.load(handle)
+
+    def load_csv(self, rel_path: str) -> list[dict[str, str]]:
+        """Load a comma-separated file, accepting a UTF-8 BOM."""
+        path = self.resolve_path(rel_path)
+
+        with path.open(encoding="utf-8-sig", newline="") as handle:
+            return list(csv.DictReader(handle))
+
+    def load_text_with_lines(
+        self,
+        rel_path: str,
+    ) -> tuple[Path, list[str]]:
+        """Read text while preserving line endings and line positions."""
+        path = self.resolve_path(rel_path)
+
+        with path.open(encoding="utf-8-sig", newline="") as handle:
+            return path, handle.readlines()
+
+    @staticmethod
+    def _table_cells(line: str) -> list[str] | None:
+        """Split a pipe-delimited Markdown row.
+
+        This bounded parser expects leading and trailing pipes. Escaped
+        pipes inside cells are not supported.
+        """
+        stripped = line.strip()
+
+        if not stripped.startswith("|") or not stripped.endswith("|"):
+            return None
+
+        return [
+            cell.strip()
+            for cell in stripped[1:-1].split("|")
         ]
-        for c in direct_candidates:
-            if c.is_file():
-                return c
 
-        # 2. Recursive search inside self.base_dir
-        matches = list(self.base_dir.rglob(target_name))
-        if matches:
-            return matches[0]
-
-        # 3. Fallback search inside ~/Downloads if running from repo root
-        downloads_dir = Path.home() / "Downloads"
-        if downloads_dir.exists():
-            dl_matches = list(downloads_dir.rglob(target_name))
-            if dl_matches:
-                return dl_matches[0]
-
-        raise FileNotFoundError(
-            f"Could not locate '{target_name}' in '{self.base_dir}' or in '~/Downloads'."
+    @staticmethod
+    def _is_separator(cells: list[str]) -> bool:
+        """Identify a Markdown header separator."""
+        return bool(cells) and all(
+            bool(cell)
+            and "-" in cell
+            and set(cell).issubset({"-", ":", " "})
+            for cell in cells
         )
 
-    def load_json(self, rel_path: str) -> Dict[str, Any]:
-        path = self.resolve_path(rel_path)
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+    def parse_markdown_table(
+        self,
+        rel_path: str,
+    ) -> list[dict[str, Any]]:
+        """Parse Markdown table rows with source provenance.
 
-    def load_csv(self, rel_path: str) -> List[Dict[str, str]]:
-        path = self.resolve_path(rel_path)
-        with open(path, "r", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            return list(reader)
+        Supports multiple tables separated by non-table text. Each table
+        must contain a header followed by a Markdown separator.
 
-    def load_text_with_lines(self, rel_path: str) -> Tuple[Path, List[str]]:
-        path = self.resolve_path(rel_path)
-        with open(path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-        return path, lines
+        Returned rows preserve the metadata keys expected by the current
+        analyzer.
+        """
+        path, lines = self.load_text_with_lines(rel_path)
+        parsed_rows: list[dict[str, Any]] = []
+        headers: list[str] | None = None
 
-    def parse_markdown_table(self, rel_path: str) -> List[Dict[str, Any]]:
-        """Parses markdown table files and attaches the exact line number and raw text."""
-        path, raw_lines = self.load_text_with_lines(rel_path)
-        parsed_rows = []
-        headers = []
-        header_found = False
+        for index, raw_line in enumerate(lines):
+            cells = self._table_cells(raw_line)
 
-        for line_idx, raw_line in enumerate(raw_lines, start=1):
-            line = raw_line.strip()
-            if not line.startswith("|") or not line.endswith("|"):
+            if cells is None:
+                headers = None
                 continue
 
-            cells = [c.strip() for c in line.split("|")[1:-1]]
+            next_cells = (
+                self._table_cells(lines[index + 1])
+                if index + 1 < len(lines)
+                else None
+            )
 
-            if not header_found:
+            # A table header is immediately followed by its separator.
+            if (
+                next_cells is not None
+                and self._is_separator(next_cells)
+                and len(cells) == len(next_cells)
+            ):
                 headers = cells
-                header_found = True
                 continue
 
-            # Skip markdown table divider line (| --- | --- |)
-            if all(set(c).issubset({"-", " ", ":"}) for c in cells):
+            if self._is_separator(cells):
                 continue
 
-            if len(cells) == len(headers):
-                row_dict = dict(zip(headers, cells))
-                row_dict["__line_number__"] = line_idx
-                row_dict["__raw_line__"] = line
-                row_dict["__file_path__"] = str(path)
-                parsed_rows.append(row_dict)
+            if headers is None:
+                continue
+
+            if len(cells) != len(headers):
+                raise ValueError(
+                    f"Malformed table row in {rel_path}, "
+                    f"line {index + 1}: expected {len(headers)} cells, "
+                    f"found {len(cells)}."
+                )
+
+            row: dict[str, Any] = dict(zip(headers, cells))
+            row["__line_number__"] = index + 1
+            row["__raw_line__"] = raw_line.strip()
+            row["__file_path__"] = str(path)
+            parsed_rows.append(row)
 
         return parsed_rows

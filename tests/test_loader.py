@@ -22,3 +22,31 @@ def test_parse_markdown_table(tmp_path):
     assert len(rows) == 2
     assert rows[0]["Header1"] == "Value1"
     assert rows[1]["Header2"] == "Value4"
+def test_loader_rejects_path_outside_root(tmp_path):
+    data_root = tmp_path / "data"
+    data_root.mkdir()
+
+    outside = tmp_path / "private.txt"
+    outside.write_text("Not an assessment source.", encoding="utf-8")
+
+    loader = DataLoader(data_root)
+
+    with pytest.raises(ValueError):
+        loader.resolve_path("../private.txt")
+
+    with pytest.raises(ValueError):
+        loader.resolve_path(str(outside))
+
+
+def test_loader_does_not_search_unrelated_subdirectories(tmp_path):
+    unrelated = tmp_path / "unrelated"
+    unrelated.mkdir()
+    (unrelated / "policy.txt").write_text(
+        "Wrong source.",
+        encoding="utf-8",
+    )
+
+    loader = DataLoader(tmp_path)
+
+    with pytest.raises(FileNotFoundError):
+        loader.resolve_path("documents/policy.txt")
