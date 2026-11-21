@@ -6,10 +6,11 @@ from src.models import ComplianceState, ComponentStatus
 
 def test_full_compliance_assessment():
     loader = DataLoader(Path("."))
-    analyzer = ComplianceAnalyzer(loader)
+    analyzer = ComplianceAnalyzer(loader, use_llm=False)
     report = analyzer.run_assessment()
 
     assert report.total_duties_assessed == 4
+    assert "LLM Disabled" in report.evaluation_mode
     results_by_id = {r.duty_id: r for r in report.results}
 
     assert results_by_id["04-P02-1"].state == ComplianceState.OPEN

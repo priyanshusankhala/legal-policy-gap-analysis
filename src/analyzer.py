@@ -1,10 +1,10 @@
 """
 Regulatory Compliance Analysis Orchestrator.
 Connects DutyParser -> CorpusBuilder -> HybridRetriever -> EpistemicEvaluator.
-Contains zero hardcoded duty IDs, file paths, or outcomes.
+Records exact execution modes and diagnostics without silent fallbacks.
 """
 from datetime import date
-from typing import Any, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional
 
 from src.corpus import CorpusBuilder
 from src.duty_parser import DutyParser
@@ -15,7 +15,7 @@ from src.retriever import HybridRetriever
 
 
 class ComplianceAnalyzer:
-    """End-to-end AI compliance gap analyzer for any selected duty set."""
+    """End-to-end AI compliance gap analyzer."""
 
     def __init__(
         self,
@@ -24,10 +24,14 @@ class ComplianceAnalyzer:
         target_entity: str = "Marenthal Chemie AG",
         full_corpus: bool = False,
         use_dense: bool = True,
-        use_llm: bool = False,
+        use_llm: bool = True,
+        llm_client: Optional[Callable[[str], str]] = None,
+        embedder: Optional[Any] = None,
         duty_file: Optional[str] = None,
+        ollama_url: str = "http://localhost:11434",
+        ollama_model: str = "llama3.2",
+        progress_callback: Optional[Callable[[str], None]] = None,
     ):
-        # Support callers passing the project root (e.g. DataLoader(Path(".")))
         default_subpath = data_loader.base_dir / "data" / "COBACK_Marenthal_Inputs" / "company_data"
         if default_subpath.is_dir():
             self.loader = DataLoader(default_subpath)
@@ -39,32 +43,58 @@ class ComplianceAnalyzer:
         self.full_corpus = full_corpus
         self.use_dense = use_dense
         self.use_llm = use_llm
+        self.llm_client = llm_client
+        self.embedder = embedder
         self.duty_file = duty_file
+        self.ollama_url = ollama_url
+        self.ollama_model = ollama_model
+        self.progress_callback = progress_callback
+
+    def _log(self, msg: str) -> None:
+        if self.progress_callback is not None:
+            self.progress_callback(msg)
 
     def run_assessment(self) -> ComplianceAssessmentReport:
-        # 1. Discover & decompose legal duties dynamically
-        duty_parser = DutyParser(self.loader)
+        self._log("[1/4] Parsing legal duties and interpretation rules...")
+        duty_parser = DutyParser(
+            self.loader,
+            llm_client=self.llm_client if self.use_llm else None,
+        )
         duties = duty_parser.load_duties(duty_file=self.duty_file)
 
-        # 2. Resolve entity context & build version-aware corpus
-        corpus_builder = CorpusBuilder(self.loader, target_entity_hint=self.target_entity)
+        self._log("[2/4] Building entity-scoped evidence corpus...")
+        corpus_builder = CorpusBuilder(
+            self.loader,
+            target_entity_hint=self.target_entity,
+            as_of_date=self.as_of_date,
+        )
         entity = corpus_builder.load_entity_context()
         units = corpus_builder.build_corpus(entity=entity, full_corpus=self.full_corpus)
 
-        # 3. Index evidence units with hybrid multilingual embeddings + TF-IDF
-        retriever = HybridRetriever(units=units, use_dense=self.use_dense)
+        self._log(f"[3/4] Indexing {len(units)} evidence units in hybrid retriever...")
+        retriever = HybridRetriever(
+            units=units,
+            use_dense=self.use_dense,
+            embedder=self.embedder,
+        )
 
-        # 4. Evaluate each duty epistemically
         evaluator = EpistemicEvaluator(
             retriever=retriever,
             entity=entity,
             as_of_date=self.as_of_date,
             use_llm=self.use_llm,
+            llm_client=self.llm_client,
+            ollama_url=self.ollama_url,
+            ollama_model=self.ollama_model,
+            progress_callback=self.progress_callback,
         )
 
-        results: List[DutyComplianceResult] = [evaluator.evaluate_duty(d) for d in duties]
+        self._log(f"[4/4] Evaluating {len(duties)} duties ({evaluator.mode_label})...")
+        results: List[DutyComplianceResult] = []
+        for idx, d in enumerate(duties, start=1):
+            self._log(f"Evaluating duty {idx}/{len(duties)}: {d.duty_id} ({d.title})...")
+            results.append(evaluator.evaluate_duty(d))
 
-        # 5. Extract substantiated gaps & actionable follow-up requests
         supported_gaps: List[Dict[str, Any]] = []
         for r in results:
             for c in r.components:
@@ -87,9 +117,17 @@ class ComplianceAnalyzer:
             assessment_entity=entity.entity_name,
             entity_id=entity.entity_id,
             entity_code=entity.entity_code,
+            country=entity.country,
             as_of_date=self.as_of_date,
             analysis_date=date.today().isoformat(),
             evaluation_mode=evaluator.mode_label,
+            retrieval_mode=retriever.retrieval_mode_label,
+            diagnostics={
+                "dense_embeddings_active": retriever.dense_enabled,
+                "llm_evaluation_active": evaluator.use_llm,
+                "total_evidence_units_indexed": len(units),
+                "supporting_context_items": len(duty_parser.supporting_context),
+            },
             total_duties_assessed=len(results),
             results=results,
             supported_gaps=supported_gaps,

@@ -1,5 +1,4 @@
 """Pydantic data models for COBACK regulatory compliance gap analysis."""
-
 from enum import Enum
 from typing import Any, Dict, List, Optional
 from pydantic import BaseModel, Field
@@ -24,11 +23,12 @@ class EvidenceCitation(BaseModel):
     file_path: str
     version: Optional[str] = None
     date: Optional[str] = None
+    effective_date: Optional[str] = None
     status: Optional[str] = None
     exact_passage: str
     location: str
     demonstrates: str
-    retrieval_score: Optional[float] = None
+    retrieval_score: float = 0.0
 
 
 class DutyComponent(BaseModel):
@@ -44,7 +44,7 @@ class DutyComponent(BaseModel):
 class ExclusionLogItem(BaseModel):
     source_id: str
     file_path: str
-    disposition: str
+    disposition: str  # historical_only | not_yet_effective | limited_support
     reason: str
 
 
@@ -65,19 +65,32 @@ class DutyComplianceResult(BaseModel):
     components: List[DutyComponent] = Field(default_factory=list)
     exclusion_log: List[ExclusionLogItem] = Field(default_factory=list)
     actionable_request: Optional[EvidenceRequest] = None
-
+    sources_reviewed: List[str] = Field(default_factory=list)
+    decision_influence: List[str] = Field(default_factory=list)
     @property
     def available_evidence(self) -> List[EvidenceCitation]:
-        return [cit for comp in self.components for cit in comp.citations]
+        """Deduplicated list of all cited evidence across requirement components."""
+        seen: set[str] = set()
+        items: List[EvidenceCitation] = []
+        for comp in self.components:
+            for cit in comp.citations:
+                key = f"{cit.source_id}|{cit.location}|{cit.exact_passage}"
+                if key not in seen:
+                    seen.add(key)
+                    items.append(cit)
+        return items
 
 
 class ComplianceAssessmentReport(BaseModel):
     assessment_entity: str
     entity_id: str
     entity_code: str
+    country: str
     as_of_date: str
     analysis_date: str
     evaluation_mode: str
+    retrieval_mode: str
+    diagnostics: Dict[str, Any] = Field(default_factory=dict)
     total_duties_assessed: int
     results: List[DutyComplianceResult] = Field(default_factory=list)
     supported_gaps: List[Dict[str, Any]] = Field(default_factory=list)
