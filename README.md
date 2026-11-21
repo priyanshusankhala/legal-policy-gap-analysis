@@ -31,6 +31,7 @@ An auditable, neuro-symbolic compliance evaluation service and interactive local
 Pre-generated full-corpus assessment outputs (`outputs/compliance_report.json` and `outputs/compliance_report.md`) are included in this repository so you can inspect the complete results in the Web UI immediately—even without a local LLM running.
 
 ### 1. Clone & Install Dependencies
+
 ```bash
 git clone https://github.com/priyanshusankhala/legal-policy-gap-analysis/
 cd legal-policy-gap-analysis
@@ -38,64 +39,71 @@ python3 -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
+```
 
 ### 2. Launch the Interactive Web UI
 ```bash
-python -m src.web_ui --data-dir data/COBACK_Marenthal_Inputs/company_data
+python -m src.web_ui --data-dir data/COBACK_Marenthal_Inputs/company_data 
+```
 
 Open http://localhost:8765 in your browser (opens automatically on start).
 
 What you can do in the UI:
 
-Select any duty (04-P02-1, 04-P02-2, 04-P02-3, 04-P02-6) from the dropdown or top cards.
+1. Select any duty (04-P02-1, 04-P02-2, 04-P02-3, 04-P02-6) from the dropdown or top cards.
 
-Inspect the verdict: View Duty ID, statutory reference, state (met, open, evidence_missing), synthesized reason, clause-level rationales, available evidence, and missing facts.
+2. Inspect the verdict: View Duty ID, statutory reference, state (met, open, evidence_missing), synthesized reason, clause-level rationales, available evidence, and missing facts.
 
-Open cited source documents: Click any document chip (e.g., DMS-00001406, REG_Legal_Obligations_CMS-DE-01.txt) to open the file in an inline line-numbered viewer scrolled and highlighted to the exact cited lines (or open natively on your OS).
+3. Open cited source documents: Click any document chip (e.g., DMS-00001406, REG_Legal_Obligations_CMS-DE-01.txt) to open the file in an inline line-numbered viewer scrolled and highlighted to the exact cited lines (or open natively on your OS).
 
-Review separate action lists: View the separated Supported Gaps (confirmed shortfalls) and Evidence Questions (focused follow-up requests).
+4. Review separate action lists: View the separated Supported Gaps (confirmed shortfalls) and Evidence Questions (focused follow-up requests).
 
-Inspect audit provenance: View every file searched for the selected duty (ranked by relevance score) and an explicit log of how document versions (v1.1 superseded vs. v2.0 active) and register statuses (offen, erfüllt) shaped the verdict.
+5. Inspect audit provenance: View every file searched for the selected duty (ranked by relevance score) and an explicit log of how document versions (v1.1 superseded vs. v2.0 active) and register statuses (offen, erfüllt) shaped the verdict.
 
 
-Re-Running the Analysis (CLI & Live UI Re-Run)
-Option A: Deterministic Baseline (No Ollama Required — Runs in ~10s)
-Bash
+### Re-Running the Analysis (CLI & Live UI Re-Run)
+
+#### Option A: Deterministic Baseline (No Ollama Required — Runs in ~10s)
+``` Bash 
 python -m src.cli --data-dir data/COBACK_Marenthal_Inputs/company_data --no-llm
+```
 You can also click "Run Fast Baseline" directly inside the Web UI header.
 
-Option B: Full Semantic Audit with Local Ollama (llama3.2)
+#### Option B: Full Semantic Audit with Local Ollama (llama3.2)
 Install and start Ollama and pull llama3.2:
 
-Bash
+``` Bash
 ollama pull llama3.2
+```
 Run the CLI assessment (or click "Re-run with Ollama LLM" inside the Web UI):
 
-Bash
+```Bash
 # Starter corpus (15 starter files + entity registers)
 python -m src.cli --data-dir data/COBACK_Marenthal_Inputs/company_data
 
 # Full corpus (all 1,426 documents indexed for Marenthal Chemie AG)
 python -m src.cli --data-dir data/COBACK_Marenthal_Inputs/company_data --full-corpus
 Running Automated Verification Tests
-Bash
+```
+``` Bash
 pytest -v
 Runs 17 unit, integration, and behavioral edge-case tests verifying:
+```
 
-Overdue vs. future-dated offen register obligations (due_date <= as_of_date vs. due_date > as_of_date),
+1. Overdue vs. future-dated offen register obligations (due_date <= as_of_date vs. due_date > as_of_date),
 
-Negated effectiveness statements (nicht wirksam, not effective) never marked supported,
+2. Negated effectiveness statements (nicht wirksam, not effective) never marked supported,
 
-Execution vs. effectiveness distinction (completed drills with audit findings),
+3. Execution vs. effectiveness distinction (completed drills with audit findings),
 
-Blank twin_questions.csv cells not blocking valid supporting documents,
+4. Blank twin_questions.csv cells not blocking valid supporting documents,
 
-Version supersession (v1.1 excluded when v2.0 is active) and future effective-date filtering,
+5. Version supersession (v1.1 excluded when v2.0 is active) and future effective-date filtering,
 
-Verbatim substring citation verification, out-of-range citation rejection, and Web UI path-traversal protection.
+6. Verbatim substring citation verification, out-of-range citation rejection, and Web UI path-traversal protection.
 
-Project Structure
-Plaintext
+### Project Structure
+
 ├── src/
 │   ├── analyzer.py      # End-to-end orchestration & report assembly
 │   ├── corpus.py        # Entity scoping (CMS-DE-01), version & date resolution, chunking
@@ -109,5 +117,6 @@ Plaintext
 ├── tests/               # 17 automated pytest verification suites
 ├── outputs/             # Generated JSON & Markdown assessment reports
 └── requirements.txt
-AI Tools Disclosure & Output Verification
-AI coding assistance (Gemini) was used during development to structure boilerplate components (Pydantic schemas, hybrid TF-IDF/dense retrieval scaffolding, HTML/CSS layout for the local Web UI, and pytest edge-case fixtures) and to cross-check German/English BSIG § 30 Abs. 2 terminology. All legal evaluation rules, deterministic invariant checks, and final findings were verified both programmatically (pytest -v, 17/17 passing) and manually by inspecting the exact cited lines in REG_Legal_Obligations_CMS-DE-01.txt, REG_Internal_Controls_CMS-DE-01.txt, DMS-00001406_V000074_Nachweis.txt, DMS-00000420_KR-009_v2.0_de.txt, and company_profile.json.
+
+### AI Tools Disclosure & Output Verification
+AI coding assistance (Gemini 4.1 Hydrogen) was used for code development and to cross-check German/English BSIG § 30 Abs. 2 terminology.
