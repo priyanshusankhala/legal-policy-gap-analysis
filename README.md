@@ -103,7 +103,7 @@ Runs 17 unit, integration, and behavioral edge-case tests verifying:
 6. Verbatim substring citation verification, out-of-range citation rejection, and Web UI path-traversal protection.
 
 ### Project Structure
-
+Plaintext 
 ├── src/
 │   ├── analyzer.py      # End-to-end orchestration & report assembly
 │   ├── corpus.py        # Entity scoping (CMS-DE-01), version & date resolution, chunking
