@@ -1,7 +1,6 @@
-# Coback Candidate Challenge: NIS2 Compliance Analysis Service
+# Coback Task Challenge: NIS2 Compliance Analysis Service
 
 **Author:** Priyanshu Sankhala  
-**Role:** AI / Software Engineer Candidate  
 **Challenge Date:** November 2026  
 **Target Entity:** Marenthal Chemie AG (DE) (`1764010d-db68-42e2-8aa2-db89242548ad`)  
 
@@ -21,26 +20,94 @@ It performs an automated, evidence-backed comparison between four primary NIS2 /
 3. **Actionable Follow-up:** Every unresolved duty generates a focused, targeted inquiry for operational clarification.
 
 ---
+# COBACK AI Compliance Gap Analysis — Marenthal Chemie AG (DE)
 
-## 2. Findings Summary
-
-| Duty ID | Statute | Duty Description | Resulting State | Core Justification |
-| :--- | :--- | :--- | :---: | :--- |
-| **`04-P02-1`** | § 30 Abs. 2 Nr. 1 BSIG | Risikoanalyse und IT-Sicherheitskonzept | **`open`** | IT policy exists (`DMS-00000420`, KR-009 v2.0), but obligation register `REG_Legal_Obligations_CMS-DE-01.txt` explicitly documents the annual IT risk analysis as **`offen`** (overdue since 2026-01-01). |
-| **`04-P02-2`** | § 30 Abs. 2 Nr. 2 BSIG | Vorfallbewältigung | **`evidence_missing`** | Policy `DMS-00000671` (KR-017 v2.0) is strictly restricted to **EHS**; incident register `REG_Incidents_CMS-DE-01.txt` contains zero IT incidents. Silence leaves evidence missing. |
-| **`04-P02-3`** | § 30 Abs. 2 Nr. 3 BSIG | Betriebsaufrechterhaltung, Backups, Wiederherstellung | **`evidence_missing`** | Document `DMS-00001406` asserts an IT recovery exercise, but underlying operational test protocols with measured restore times (RTO/RPO) are absent. Internal controls register also notes DR exercise as only "teilweise wirksam". |
-| **`04-P02-6`** | § 30 Abs. 2 Nr. 6 BSIG | Wirksamkeitsbewertung | **`evidence_missing`** | Individual operational controls (patching, phishing) are tested, and ISO 27001 covers the Frankfurt DC. However, an overarching effectiveness assessment program across all entity OT/IT sites is missing. |
+An auditable, neuro-symbolic compliance evaluation service and interactive local Web UI built for **Step 3 (Compliance Analysis)** of the COBACK workflow. It compares the four selected German BSIG / NIS2 duties (`04-P02-1`, `04-P02-2`, `04-P02-3`, `04-P02-6`) against the Marenthal Chemie AG (`CMS-DE-01`) company data dump as of `2026-11-18`.
 
 ---
 
-## 3. Setup & Execution
+## Quick Start: Open the Local Compliance Website
 
-### Prerequisites
-* Python 3.10+
-* Virtual environment active
+Pre-generated full-corpus assessment outputs (`outputs/compliance_report.json` and `outputs/compliance_report.md`) are included in this repository so you can inspect the complete results in the Web UI immediately—even without a local LLM running.
 
-### Installation
+### 1. Clone & Install Dependencies
 ```bash
+git clone https://github.com/priyanshusankhala/legal-policy-gap-analysis/
+cd legal-policy-gap-analysis
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate        # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+
+### 2. Launch the Interactive Web UI
+```bash
+python -m src.web_ui --data-dir data/COBACK_Marenthal_Inputs/company_data
+
+Open http://localhost:8765 in your browser (opens automatically on start).
+
+What you can do in the UI:
+
+Select any duty (04-P02-1, 04-P02-2, 04-P02-3, 04-P02-6) from the dropdown or top cards.
+
+Inspect the verdict: View Duty ID, statutory reference, state (met, open, evidence_missing), synthesized reason, clause-level rationales, available evidence, and missing facts.
+
+Open cited source documents: Click any document chip (e.g., DMS-00001406, REG_Legal_Obligations_CMS-DE-01.txt) to open the file in an inline line-numbered viewer scrolled and highlighted to the exact cited lines (or open natively on your OS).
+
+Review separate action lists: View the separated Supported Gaps (confirmed shortfalls) and Evidence Questions (focused follow-up requests).
+
+Inspect audit provenance: View every file searched for the selected duty (ranked by relevance score) and an explicit log of how document versions (v1.1 superseded vs. v2.0 active) and register statuses (offen, erfüllt) shaped the verdict.
+
+
+Re-Running the Analysis (CLI & Live UI Re-Run)
+Option A: Deterministic Baseline (No Ollama Required — Runs in ~10s)
+Bash
+python -m src.cli --data-dir data/COBACK_Marenthal_Inputs/company_data --no-llm
+You can also click "Run Fast Baseline" directly inside the Web UI header.
+
+Option B: Full Semantic Audit with Local Ollama (llama3.2)
+Install and start Ollama and pull llama3.2:
+
+Bash
+ollama pull llama3.2
+Run the CLI assessment (or click "Re-run with Ollama LLM" inside the Web UI):
+
+Bash
+# Starter corpus (15 starter files + entity registers)
+python -m src.cli --data-dir data/COBACK_Marenthal_Inputs/company_data
+
+# Full corpus (all 1,426 documents indexed for Marenthal Chemie AG)
+python -m src.cli --data-dir data/COBACK_Marenthal_Inputs/company_data --full-corpus
+Running Automated Verification Tests
+Bash
+pytest -v
+Runs 17 unit, integration, and behavioral edge-case tests verifying:
+
+Overdue vs. future-dated offen register obligations (due_date <= as_of_date vs. due_date > as_of_date),
+
+Negated effectiveness statements (nicht wirksam, not effective) never marked supported,
+
+Execution vs. effectiveness distinction (completed drills with audit findings),
+
+Blank twin_questions.csv cells not blocking valid supporting documents,
+
+Version supersession (v1.1 excluded when v2.0 is active) and future effective-date filtering,
+
+Verbatim substring citation verification, out-of-range citation rejection, and Web UI path-traversal protection.
+
+Project Structure
+Plaintext
+├── src/
+│   ├── analyzer.py      # End-to-end orchestration & report assembly
+│   ├── corpus.py        # Entity scoping (CMS-DE-01), version & date resolution, chunking
+│   ├── duty_parser.py   # Lossless duty & legal-interpretation parser + clause decomposition
+│   ├── evaluator.py     # Grounded LLM evaluator + deterministic legal/temporal validator
+│   ├── loader.py        # Safe path resolution & CSV/JSON/Markdown-table ingestion
+│   ├── models.py        # Pydantic schemas for results, citations, gaps & evidence requests
+│   ├── retriever.py     # Hybrid multilingual dense + lexical TF-IDF retriever
+│   ├── web_ui.py        # Local HTTP server & interactive single-page compliance workbench
+│   └── cli.py           # CLI entry point (--ui, --full-corpus, --no-llm, --check-llm)
+├── tests/               # 17 automated pytest verification suites
+├── outputs/             # Generated JSON & Markdown assessment reports
+└── requirements.txt
+AI Tools Disclosure & Output Verification
+AI coding assistance (Gemini) was used during development to structure boilerplate components (Pydantic schemas, hybrid TF-IDF/dense retrieval scaffolding, HTML/CSS layout for the local Web UI, and pytest edge-case fixtures) and to cross-check German/English BSIG § 30 Abs. 2 terminology. All legal evaluation rules, deterministic invariant checks, and final findings were verified both programmatically (pytest -v, 17/17 passing) and manually by inspecting the exact cited lines in REG_Legal_Obligations_CMS-DE-01.txt, REG_Internal_Controls_CMS-DE-01.txt, DMS-00001406_V000074_Nachweis.txt, DMS-00000420_KR-009_v2.0_de.txt, and company_profile.json.
