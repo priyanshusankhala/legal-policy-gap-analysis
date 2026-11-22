@@ -103,7 +103,7 @@ Runs 17 unit, integration, and behavioral edge-case tests verifying:
 6. Verbatim substring citation verification, out-of-range citation rejection, and Web UI path-traversal protection.
 
 ### Project Structure
-Plaintext 
+```text
 ├── src/
 │   ├── analyzer.py      # End-to-end orchestration & report assembly
 │   ├── corpus.py        # Entity scoping (CMS-DE-01), version & date resolution, chunking
@@ -117,6 +117,7 @@ Plaintext
 ├── tests/               # 17 automated pytest verification suites
 ├── outputs/             # Generated JSON & Markdown assessment reports
 └── requirements.txt
+```
 
 ### AI Tools Disclosure & Output Verification
 AI coding assistance (Gemini 4.1 Hydrogen) was used for code development and to cross-check German/English BSIG § 30 Abs. 2 terminology.
