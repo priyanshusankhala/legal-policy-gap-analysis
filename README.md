@@ -104,6 +104,8 @@ Runs 17 unit, integration, and behavioral edge-case tests verifying:
 
 ### Project Structure
 ```text
+├── data/                # Input company data (COBACK_Marenthal_Inputs/company_data)
+├── outputs/             # Pre-generated JSON & Markdown assessment reports
 ├── src/
 │   ├── analyzer.py      # End-to-end orchestration & report assembly
 │   ├── corpus.py        # Entity scoping (CMS-DE-01), version & date resolution, chunking
@@ -114,10 +116,14 @@ Runs 17 unit, integration, and behavioral edge-case tests verifying:
 │   ├── retriever.py     # Hybrid multilingual dense + lexical TF-IDF retriever
 │   ├── web_ui.py        # Local HTTP server & interactive single-page compliance workbench
 │   └── cli.py           # CLI entry point (--ui, --full-corpus, --no-llm, --check-llm)
+├── static/              # Frontend assets for the local Web UI
 ├── tests/               # 17 automated pytest verification suites
-├── outputs/             # Generated JSON & Markdown assessment reports
-└── requirements.txt
+├── p1.py                # Pipeline entry / helper script
+├── pytest.ini           # Pytest configuration
+├── requirements.txt     # Python dependencies
+└── run_ui.py            # Convenience launcher for the local Web UI
 ```
 
+
 ### AI Tools Disclosure & Output Verification
-AI coding assistance (Gemini 4.1 Hydrogen) was used for code development and to cross-check German/English BSIG § 30 Abs. 2 terminology.
+AI coding assistance (Gemini) was used for code development and to cross-check German/English BSIG § 30 Abs. 2 terminology.
