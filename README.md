@@ -1,4 +1,4 @@
-> **Live Interactive Compliance Workbench:** **[https://priyanshusankhala.github.io/coback/](https://priyanshusankhala.github.io/coback/)**  
+> **Live Interactive Compliance Workbench:** **[https://priyanshusankhala.github.io/legal-policy-gap-analysis//](https://priyanshusankhala.github.io/legal-policy-gap-analysis/)**  
 > *Click any duty (`04-P02-1`, `04-P02-2`, `04-P02-3`, `04-P02-6`) to inspect the verdict, open highlighted company evidence files directly in the browser, and review version/register audit traces — no local setup required.*  
 > **Solution Walkthrough PDF:** Available in this repository (`COBACK_Solution_Priyanshu_Sankhala.pdf`)
 
